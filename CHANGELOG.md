@@ -1,6 +1,7 @@
 ---
 title: CHANGELOG
 layout: default
+nav_exclude: true
 ---
 
 # CHANGELOG
@@ -11,10 +12,10 @@ layout: default
 ---
 ### Major
 {: .fs-6 }
-- New index layout
-- First iteration changelog
+- 
+- 
 
 ### Minor
 {: .fs-6 }
-- Cleanup and setting _config.yml version
-- Added new favicon.ico for the browser tab
+- 
+- 
