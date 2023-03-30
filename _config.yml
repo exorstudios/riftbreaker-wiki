@@ -15,9 +15,9 @@
 # in the templates via {{ site.myvariable }}.
 title: Just the Docs
 description: A Jekyll theme for documentation
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://just-the-docs.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-repository: just-the-docs/just-the-docs # for github-metadata
+baseurl: "/riftbreaker-wiki" # the subpath of your site, e.g. /blog
+url: "https://exorstudios.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+repository:  exorstudios/riftbreaker-wiki # for github-metadata
 
 permalink: pretty
 
@@ -99,8 +99,8 @@ heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_links:
-  "Just the Docs on GitHub":
-    - "//github.com/just-the-docs/just-the-docs"
+  "The Riftbreaker":
+    - "//www.riftbreaker.com/"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: false
@@ -110,9 +110,9 @@ aux_links_new_tab: false
 nav_sort: case_sensitive # Capital letters sorted before lowercase
 
 # External navigation links
-nav_external_links:
-  - title: Just the Docs on GitHub
-    url: https://github.com/just-the-docs/just-the-docs
+#nav_external_links:
+#  - title: The Riftbreaker
+#    url: https://www.riftbreaker.com/
 
 # Footer content
 # appears at the bottom of every page's main content
@@ -132,7 +132,7 @@ last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https:/
 # Footer "Edit this page on GitHub" link text
 gh_edit_link: true # show or hide edit this page link
 gh_edit_link_text: "Edit this page on GitHub"
-gh_edit_repository: "https://github.com/just-the-docs/just-the-docs" # the github URL for your repo
+gh_edit_repository: "https://github.com/exorstudios/riftbreaker-wiki" # the github URL for your repo
 gh_edit_branch: "main" # the branch that your docs is served from
 # gh_edit_source: docs # the source that your files originate from
 gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
