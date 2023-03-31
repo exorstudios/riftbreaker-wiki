@@ -114,6 +114,11 @@ nav_external_links:
   - title: Wiki Changelog
     url: https://github.com/exorstudios/riftbreaker-wiki/commits/main
 
+
+# Logo
+logo: "/assets/images/the_riftbreaker_modding_wiki_header_pic.png"
+
+
 # Footer content
 # appears at the bottom of every page's main content
 
