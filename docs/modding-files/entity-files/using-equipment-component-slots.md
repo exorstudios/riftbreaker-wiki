@@ -2,7 +2,6 @@
 layout: default
 title: Using Equipment Component slots 
 nav_order: 1
-has_children: true
 parent: Entity files
 grand_parent: Modding files
 ---

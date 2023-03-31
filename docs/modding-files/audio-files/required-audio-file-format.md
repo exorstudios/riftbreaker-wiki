@@ -2,7 +2,6 @@
 layout: default
 title: Required audio file format 
 nav_order: 1
-has_children: true
 parent: Audio files
 grand_parent: Modding files
 ---
