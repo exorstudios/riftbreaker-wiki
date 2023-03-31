@@ -4,7 +4,6 @@ title: Audio files
 nav_order: 1
 has_children: true
 parent: Modding files
-permalink: /docs/modding-files/audio-files
 ---
 
 # {{ page.title }}

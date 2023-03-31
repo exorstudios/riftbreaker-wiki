@@ -5,7 +5,6 @@ nav_order: 1
 has_children: true
 parent: Audio files
 grand_parent: Modding files
-permalink: /docs/modding-files/audio-files/required-audio-file-format
 ---
 
 # Information
