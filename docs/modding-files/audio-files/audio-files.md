@@ -7,7 +7,7 @@ parent: Modding files
 permalink: /docs/modding-files/audio-files
 ---
 
-# Audio files
+# {{ page.title }}
 
 
 An overview of pages related to modding of {{ page.title }}
