@@ -9,5 +9,5 @@ parent: Lua services
 # {{ page.title }}
 
 
-An overview of pages related the {{ page.title }}
+An overview of pages related to the {{ page.title }}
 {: .fs-6 .fw-300 }
