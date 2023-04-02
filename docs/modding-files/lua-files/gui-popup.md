@@ -35,7 +35,7 @@ the **ShowEventPopup()** and the **OnGuiPopupResultEvent( evt )**.
 ## ShowEventPopup()
 Here we use the actual Gui. Using the lua service `GuiService:OpenPopup`, we can define the responsible entity, the Gui template used and the text.  
 The entity is most of the time `self.entity` as the popup is for this entity itself. The template is a path in the Riftbreaker folders.  
-The text is what appears on the Gui. It can be styled in certain ways, for more information see gui styling.  
+The text is what appears on the Gui. It can be styled, see [gui styling](../gui-styling).  
 Finally, it creates a [RegisterHandler](../events-requests-registerhandler/#registerhandler) for a popup result event.
 
 ## OnGuiPopupResultEvent( evt )
