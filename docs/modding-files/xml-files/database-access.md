@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Database access 
-nav_order: 1
+nav_order: 3
 parent: XML files
 grand_parent: Modding files
 ---
