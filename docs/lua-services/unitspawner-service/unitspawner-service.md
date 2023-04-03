@@ -1,7 +1,7 @@
 ---
 layout: default
 title: UnitSpawner Service
-nav_order: 1
+nav_order: 28
 has_children: true
 parent: Lua services
 ---

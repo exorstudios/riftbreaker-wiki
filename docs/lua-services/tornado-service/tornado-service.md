@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Tornado Service
-nav_order: 1
+nav_order: 26
 has_children: true
 parent: Lua services
 ---

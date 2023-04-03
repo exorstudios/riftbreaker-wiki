@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Weapon Service
-nav_order: 1
+nav_order: 29
 has_children: true
 parent: Lua services
 ---

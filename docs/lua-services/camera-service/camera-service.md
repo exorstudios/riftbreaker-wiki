@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Camera Service
-nav_order: 1
+nav_order: 4
 has_children: true
 parent: Lua services
 ---

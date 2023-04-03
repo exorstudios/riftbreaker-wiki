@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Lamp Service
-nav_order: 1
+nav_order: 17
 has_children: true
 parent: Lua services
 ---

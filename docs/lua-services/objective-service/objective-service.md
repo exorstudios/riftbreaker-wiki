@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Objective Service
-nav_order: 1
+nav_order: 22
 has_children: true
 parent: Lua services
 ---

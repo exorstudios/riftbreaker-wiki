@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Resource Service
-nav_order: 1
+nav_order: 24
 has_children: true
 parent: Lua services
 ---

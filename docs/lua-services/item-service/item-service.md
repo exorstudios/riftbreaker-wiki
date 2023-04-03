@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Item Service
-nav_order: 1
+nav_order: 16
 has_children: true
 parent: Lua services
 ---

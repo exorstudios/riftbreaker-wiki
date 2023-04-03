@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Log Service
-nav_order: 1
+nav_order: 18
 has_children: true
 parent: Lua services
 ---

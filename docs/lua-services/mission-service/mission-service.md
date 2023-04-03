@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Mission Service
-nav_order: 1
+nav_order: 20
 has_children: true
 parent: Lua services
 ---

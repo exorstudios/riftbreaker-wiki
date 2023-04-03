@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Sound Service
-nav_order: 1
+nav_order: 25
 has_children: true
 parent: Lua services
 ---

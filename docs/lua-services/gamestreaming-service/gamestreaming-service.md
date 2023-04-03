@@ -1,7 +1,7 @@
 ---
 layout: default
 title: GameStreaming Service
-nav_order: 1
+nav_order: 13
 has_children: true
 parent: Lua services
 ---

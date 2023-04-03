@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Find Service
-nav_order: 1
+nav_order: 12
 has_children: true
 parent: Lua services
 ---

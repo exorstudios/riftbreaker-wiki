@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Meteor Service
-nav_order: 1
+nav_order: 19
 has_children: true
 parent: Lua services
 ---

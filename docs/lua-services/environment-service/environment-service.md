@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Environment Service
-nav_order: 1
+nav_order: 11
 has_children: true
 parent: Lua services
 ---
