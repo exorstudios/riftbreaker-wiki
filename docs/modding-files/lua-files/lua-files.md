@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Lua files
-nav_order: 1
+nav_order: 5
 has_children: true
 parent: Modding files
 ---

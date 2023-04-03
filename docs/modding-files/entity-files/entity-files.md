@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Entity files
-nav_order: 1
+nav_order: 3
 has_children: true
 parent: Modding files
 ---

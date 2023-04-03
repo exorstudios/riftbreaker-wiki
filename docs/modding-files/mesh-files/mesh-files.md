@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Mesh files
-nav_order: 1
+nav_order: 6
 has_children: true
 parent: Modding files
 ---

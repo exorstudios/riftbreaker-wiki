@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Skeleton + Attachment files
-nav_order: 1
+nav_order: 7
 has_children: true
 parent: Modding files
 ---
