@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Create custom collision models for meshes in Blender
-nav_order: 3
+nav_order: 2
 parent: Mesh files
 grand_parent: Modding files
 ---

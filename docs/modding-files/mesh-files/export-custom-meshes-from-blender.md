@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Export custom meshes from Blender
-nav_order: 2
+nav_order: 3
 parent: Mesh files
 grand_parent: Modding files
 ---
