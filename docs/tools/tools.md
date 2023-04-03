@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Tools
-nav_order: 96
+nav_order: 2
 has_children: true
 permalink: /docs/tools
 ---

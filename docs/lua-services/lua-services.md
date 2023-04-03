@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Lua services
-nav_order: 96
+nav_order: 3
 has_children: true
 permalink: /docs/lua-services
 ---

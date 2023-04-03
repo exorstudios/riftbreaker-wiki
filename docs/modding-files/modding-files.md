@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Modding files
-nav_order: 97
+nav_order: 4
 has_children: true
 permalink: /docs/modding-files
 ---
