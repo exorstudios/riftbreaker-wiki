@@ -11,3 +11,6 @@ parent: Modding files
 
 An overview of pages related to modding of {{ page.title }}
 {: .fs-6 .fw-300 }
+
+Use the EXOR mesh exporter with Blender version 3.1.2 at max! 
+{: .warning}
