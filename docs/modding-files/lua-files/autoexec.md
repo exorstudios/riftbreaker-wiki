@@ -14,7 +14,10 @@ It allows access to all services + reflection + RegisterGlobalEventHandler to cr
 - Lua files which end with " _autoexec.lua" in the Lua folder
 
 # RegisterGlobalEventHandler
-A nice way to unlock something on a global level, is using the RegisterGlobalEventHandler in the Autoexec files.
+Since the _autoexec file is not an LuaEntityObject, we can't access things like the RegisterHandler and StateMachine.  
+To solve this, the _autoexec file can use the RegisterGlobalEventHandler.  
+It listens for **all** events, like an event_sink, and can access that information.  
+Like that, it's a nice way to unlock something on a global level.
 
 ## Example
 A simple example how to unlock a building as soon as the player mech is created (=spawned for the first time). Like this, no research is required.
