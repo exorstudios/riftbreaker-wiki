@@ -4,7 +4,8 @@ layout: default
 nav_exclude: true
 ---
 
-# Normal table # 
+# Normal table #  
+
 | Node layout name  - XML | Node layout name - Lua | Node purpose |
 |:-------------|:--------------|:--------------|
 | LuaBehaviourNode | LuaGraphNode | Executes a task  |
@@ -12,7 +13,8 @@ nav_exclude: true
 
 
 
-# Sideways table  #
+# Sideways table  #  
+
 <table>
     <tr>
         <th></th>
