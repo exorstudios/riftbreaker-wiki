@@ -1,3 +1,8 @@
+---
+title: INTERNAL_STYLING_GUIDE
+layout: default
+nav_exclude: true
+---
 
 # Normal table # 
 | Node layout name  - XML | Node layout name - Lua | Node purpose |
