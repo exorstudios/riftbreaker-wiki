@@ -4,7 +4,8 @@ layout: default
 nav_exclude: true
 ---
 
-# Normal table #  
+# Table #
+## Normal ##  
 
 | Node layout name  - XML | Node layout name - Lua | Node purpose |
 |:-------------|:--------------|:--------------|
@@ -12,8 +13,7 @@ nav_exclude: true
 | NodeSelectorNode | LuaGraphNodeSelector | Logic node  |
 
 
-
-# Sideways table  #  
+## Sideways ##  
 
 <table>
     <tr>
@@ -31,5 +31,9 @@ nav_exclude: true
 </table>
 
 
-# Linking pictures #
+# Pictures #
+## Linking pictures ##
 ![](../../../../assets/images/gui_styling_header_35.png)  
+
+## Limiting picture size ##
+![](../../../../assets/images/gui_styling_header_35.png){: width="600px"}  
