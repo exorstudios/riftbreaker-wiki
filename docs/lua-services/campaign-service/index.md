@@ -19,7 +19,11 @@ parent: Lua services
 
 
 ## AttachGuiTimer
-AttachGuiTimer(_ : string, _ : string, _ : string): string
+
+| Return | Function |
+|:-------------|:--------------|
+| Void | AttachGuiTimer(_ : string, _ : string, _ : string): string |
+
 ### Description
 {: .no_toc }
 TBD
