@@ -8,6 +8,7 @@ grand_parent: Modding files
 
 # Information
 
+Ess = EXOR sound script  
 .ess files are sound script files which use normal sound files, in combination with some parameters, to create a special audio "package".  
 These packages can then be used for certain situations or events to create a realistic sound environment.
 
