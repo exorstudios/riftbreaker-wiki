@@ -68,43 +68,46 @@ Sets a min value.
 Special stats which describe the general value behaviour of an entity.  
 Available stat features:  
 
+{: .highlight }
+base_default or base_minmax is mandatory for everything, other fields are optional
+
 | Stat feature | Purpose |
 |:-------------|:-------------|
-| BASE_DEFAULT | XXXXX |
-| BASE_MINMAX | Damage distribution depends on min_value and max_value |
-| MODABLE | Allows this stat to be modded using weapon mods |
-| HIDDEN | XXXXX |
-| STATISTIC | XXXXX |
-| INITIAL_RANDOMIZABLE | XXXXX |
+| BASE_DEFAULT | Default single value with added optional value range for randomization used in higher tier items |
+| BASE_MINMAX | Random value range, it is randomized everytime a weapon is created |
+| MODABLE | Allows modding with weapon mods in gui |
+| HIDDEN | Hides this value from inventory menu, used for statistics that are always the same or others that EXOR does not want to show but are necessary for gameplay |
+| STATISTIC | Makes this value "important" highlighted in inventory menu or makes it appear in small brackets, up to three values per item can be highlighted as important |
+| INITIAL_RANDOMIZABLE | Used in higher tier items, adds this statistic to a random pool that is initialy boosted when crating an item, one statistic is boosted in advanced items, three are boosted in extreme items |
 
 ### stat_type
 A special stat which describes the stat type of an entity.  
 Available stat types:  
 
-| Stat feature | Unit | Purpose |
+| Stat feature | Unit of measurement | Purpose |
 |:-------------|:-------------|:-------------|
-| AMMO_ANGLE_SPEED | | XXXXX |
-| AMMO_AUTOAIM | | XXXXX |
-| AMMO_CLUSTER | | XXXXX |
-| AMMO_COST | | XXXXX |
-| AMMO_HOMING | | XXXXX |
-| AMMO_SPEED | | XXXXX |
-| AMMO_SPREAD | | XXXXX |
-| AMMO_STUN | | XXXXX |
-| AMMO_STUN_LENGTH | | XXXXX |
-| BEAM_RANGE | | XXXXX |
-| BEAM_WIDTH | | XXXXX |
-| DAMAGE_CRITICAL_CHANCE | | XXXXX |
-| DAMAGE_CRITICAL_FACTOR | | XXXXX |
-| DAMAGE_LIFESTEAL | | XXXXX |
-| DAMAGE_OVER_TIME | | XXXXX |
-| DAMAGE_OVER_TIME_LENGTH | | XXXXX |
-| DAMAGE_PENETRATION | | XXXXX |
-| DAMAGE_SPLASH | | XXXXX |
-| DAMAGE_SPREAD | | XXXXX |
-| DAMAGE_VALUE | | XXXXX |
-| FIRE_PER_BURST | | XXXXX |
-| FIRE_PER_SHOT | | XXXXX |
-| FIRE_RATE | | XXXXX |
-| WEAPON_SCALE | | XXXXX |
-| WEAPON_ANIMATION_SPEED | | XXXXX |
+| AMMO_ANGLE_SPEED | degrees per second | This is projectile property, used only in weapons with ammo_homing, sets how fast projectiles can turn, high speed projectiles need much higher values to be effective |
+| AMMO_AUTOAIM | degrees | This is weapon property, width of an autoaiming cone, weapons shoot projectiles "off the aiming line" straight at the closest target included in this aiming cone |
+| AMMO_CLUSTER | percent | Number of new projectiles spawned at collision with world or an enemy, default 0, 1.5 means 100% chance for one cluster projectile at collision and 50% for another one |
+| AMMO_COST | ammo | Ammo used per single projectile or per second in continuous weapons like laser or flamer |
+| AMMO_HOMING | bool | This is projectile property, just a switch "on/off" - 0 means homing projectiles are disabled, 100 means homing projectiles are enabled, must be used with `ammo_angle_speed` |
+| AMMO_SPEED | meters per second | Projectile speed |
+| AMMO_SPREAD | degrees | Adds random aiming deviation to projectiles fired |
+| AMMO_STUN | percent | Chance for stunning an enemy with every hit, enemies may have stun cooldowns or stun resistance |
+| AMMO_STUN_LENGTH | seconds | Duration of stun |
+| BEAM_RANGE | meter | Range of the beam or a flamer fire stream |
+| BEAM_WIDTH | meter | Width of the beam or a flamer fire stream |
+| DAMAGE_CRITICAL_CHANCE | percent | Chance for higher damage, calculated with every shot that hits an enemy, 5 means 5% chance for damage multiplied by `damage_critical_factor` percentage |
+| DAMAGE_CRITICAL_FACTOR | percent | Critical multiplier for basic damage value, 500 means five times more damage than usual |
+| DAMAGE_LIFESTEAL | hitpoints recovered per hit | Weapons with lifesteal recover a set number of hitpoints per every succeful hit, 1 means one hitpoint recovered per hit |
+| DAMAGE_OVER_TIME | damage per second | Value of damage dealt per one second when damage over time effect is active |
+| DAMAGE_OVER_TIME_LENGTH | seconds | Length of damage over time effect |
+| DAMAGE_PENETRATION | percent | Number of targets that can be pierced by a projectile, default 0, 1.5 means 100% chance to pierce one enemy and 50% to pierce another one |
+| DAMAGE_SPLASH | meter | Radius where damage is still applied |
+| DAMAGE_SPREAD | percent | Damage random deviation, 5 means that there is up to 5% random damage addition or reduction (95%-105%) |
+| DAMAGE_VALUE | damage points | Damage done by a single projectile or per second in continuous weapons like laser or flamer |
+| FIRE_PER_BURST | projectiles per burst | Number of projectiles fire in short succession, 1.5 means that there is 50% chance for an addidtional projectile |
+| FIRE_PER_SHOT | projectiles per shot | Number of projectiles fired simultaneously, 1.5 means that there is 50% chance for an addidtional projectile |
+| FIRE_RATE | projectiles per second | Number of projectiles fired per second |
+| WEAPON_SCALE | percent | Scale of projectiles, muzzle effects and hit effects, <br/>1 is 100% |
+| WEAPON_ANIMATION_SPEED | percent | Does not work? Should change animation speed, <br/>1 is 100% |
