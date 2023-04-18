@@ -56,13 +56,13 @@ This part is seperated into even more parameters which describe the actual damag
 
 ### default_value
 Is only available when the stats_feature `BASE_DEFAULT` is given.  
-Sets a default value which XXXXXXXX. Just used for weapons and item typically.
+Sets a single value with optional min/max value for randomization. Just used for weapons and item typically.
 
 ### max_value
-Sets a max value.
+Sets a max value, used by `BASE_MINMAX` and optionally `BASE_DEFAULT`.
 
 ### min_value
-Sets a min value.
+Sets a min value, used by `BASE_MINMAX` and optionally `BASE_DEFAULT`.
 
 ### stat_features
 Special stats which describe the general value behaviour of an entity.  
