@@ -75,3 +75,31 @@ Stops "listening" for events / requests happening to entities
 self:UnregisterHandler( event_sink, "DamageRequest", ... )
 self:UnregisterHandler( event_sink, "DamageEvent", ... )
 ```
+
+---
+
+# Create a custom event
+Besides using events which have already been given a purpose, you can create your own events.  
+
+## Example
+```qml
+QueueEvent("LuaGlobalEvent", sender, "CustomYourNameEvent", { 
+    param_1 = 2,
+    xyz = "test"
+} );  
+
+self:RegisterHandler( event_sink, "LuaGlobalEvent", "_OnLuaGlobalEvent" )
+
+function script_name:_OnLuaGlobalEvent(evt)
+    local eventName = evt:GetEvent()
+    if eventName == "CustomYourNameEvent"  then
+          local params = evt:GetDatabase()
+          local param_1 = params:GetFloat("param_1")
+          local xyz = params:GetString("xyz")
+    end
+end  
+```
+
+## Explanation
+Here, you use the `LuaGlobalEvent` but assign it a custom name with custom parameters.  
+In the code you create a RegisterHandler for the `LuaGlobalEvent`, so you can use the `_OnLuaGlobalEvent(evt)` function to access your parameters.
