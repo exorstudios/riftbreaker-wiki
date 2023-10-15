@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [IdString](/game-reflection/components/id_string.md) | name |
-| Vector< [BoneTransform](/game-reflection/classes/bone_transform.md) > | bone_transforms |
+| [IdString](/docs/game-reflection/components/id_string) | name |
+| Vector< [BoneTransform](/docs/game-reflection/classes/bone_transform) > | bone_transforms |
+

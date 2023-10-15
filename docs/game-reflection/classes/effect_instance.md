@@ -9,10 +9,12 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [Entity](/game-reflection/classes/entity.md) | entity |
-| [StringHash](/game-reflection/classes/string_hash.md) | group |
-| [StringHash](/game-reflection/classes/string_hash.md) | blueprint |
-| [bool](/game-reflection/components/bool.md) | always_up |
-| [StringHash](/game-reflection/classes/string_hash.md) | attachment |
+| [Entity](/docs/game-reflection/classes/entity) | entity |
+| [StringHash](/docs/game-reflection/classes/string_hash) | group |
+| [StringHash](/docs/game-reflection/classes/string_hash) | blueprint |
+| [bool](/docs/game-reflection/components/bool) | always_up |
+| [StringHash](/docs/game-reflection/classes/string_hash) | attachment |
+

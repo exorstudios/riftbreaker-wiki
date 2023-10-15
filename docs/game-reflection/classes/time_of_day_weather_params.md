@@ -9,11 +9,13 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [IdString](/game-reflection/components/id_string.md) | weather_sound |
-| [int](/game-reflection/enums/int.md) | time_of_day |
-| [IdString](/game-reflection/components/id_string.md) | weather_haptic |
-| [IdString](/game-reflection/components/id_string.md) | weather_effect |
-| [IdString](/game-reflection/components/id_string.md) | weather_wind |
-| [int](/game-reflection/enums/int.md) | weather_type |
+| [IdString](/docs/game-reflection/components/id_string) | weather_sound |
+| [int](/docs/game-reflection/enums/int) | time_of_day |
+| [IdString](/docs/game-reflection/components/id_string) | weather_haptic |
+| [IdString](/docs/game-reflection/components/id_string) | weather_effect |
+| [IdString](/docs/game-reflection/components/id_string) | weather_wind |
+| [int](/docs/game-reflection/enums/int) | weather_type |
+

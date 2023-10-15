@@ -9,33 +9,35 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [String](/game-reflection/components/string.md) | resource_icon_4 |
-| [bool](/game-reflection/components/bool.md) | is_new |
-| [String](/game-reflection/components/string.md) | resource_icon_1 |
-| [String](/game-reflection/components/string.md) | resource_icon_2 |
-| [String](/game-reflection/components/string.md) | coords |
-| [bool](/game-reflection/components/bool.md) | is_startup_mission |
-| [bool](/game-reflection/components/bool.md) | has_outpost |
-| [String](/game-reflection/components/string.md) | description |
-| [String](/game-reflection/components/string.md) | resource_icon_3 |
-| [String](/game-reflection/components/string.md) | local_objectives_header |
-| [String](/game-reflection/components/string.md) | name |
-| [bool](/game-reflection/components/bool.md) | is_in_progress |
-| [String](/game-reflection/components/string.md) | id |
-| [String](/game-reflection/components/string.md) | resource_label_1 |
-| Vector< [float](/game-reflection/components/float.md) > | threat_bar |
-| [String](/game-reflection/components/string.md) | resource_label_2 |
-| [String](/game-reflection/components/string.md) | resource_label_4 |
-| [String](/game-reflection/components/string.md) | resource_label_3 |
-| [String](/game-reflection/components/string.md) | resource_1 |
-| [String](/game-reflection/components/string.md) | resource_3 |
-| [String](/game-reflection/components/string.md) | resource_4 |
-| [String](/game-reflection/components/string.md) | resource_2 |
-| [bool](/game-reflection/components/bool.md) | lost |
-| [String](/game-reflection/components/string.md) | biom_name |
-| [String](/game-reflection/components/string.md) | threat_label |
-| [String](/game-reflection/components/string.md) | preview_material |
-| [float](/game-reflection/components/float.md) | threat |
-| [bool](/game-reflection/components/bool.md) | finished |
+| [String](/docs/game-reflection/components/string) | resource_icon_4 |
+| [bool](/docs/game-reflection/components/bool) | is_new |
+| [String](/docs/game-reflection/components/string) | resource_icon_1 |
+| [String](/docs/game-reflection/components/string) | resource_icon_2 |
+| [String](/docs/game-reflection/components/string) | coords |
+| [bool](/docs/game-reflection/components/bool) | is_startup_mission |
+| [bool](/docs/game-reflection/components/bool) | has_outpost |
+| [String](/docs/game-reflection/components/string) | description |
+| [String](/docs/game-reflection/components/string) | resource_icon_3 |
+| [String](/docs/game-reflection/components/string) | local_objectives_header |
+| [String](/docs/game-reflection/components/string) | name |
+| [bool](/docs/game-reflection/components/bool) | is_in_progress |
+| [String](/docs/game-reflection/components/string) | id |
+| [String](/docs/game-reflection/components/string) | resource_label_1 |
+| Vector< [float](/docs/game-reflection/components/float) > | threat_bar |
+| [String](/docs/game-reflection/components/string) | resource_label_2 |
+| [String](/docs/game-reflection/components/string) | resource_label_4 |
+| [String](/docs/game-reflection/components/string) | resource_label_3 |
+| [String](/docs/game-reflection/components/string) | resource_1 |
+| [String](/docs/game-reflection/components/string) | resource_3 |
+| [String](/docs/game-reflection/components/string) | resource_4 |
+| [String](/docs/game-reflection/components/string) | resource_2 |
+| [bool](/docs/game-reflection/components/bool) | lost |
+| [String](/docs/game-reflection/components/string) | biom_name |
+| [String](/docs/game-reflection/components/string) | threat_label |
+| [String](/docs/game-reflection/components/string) | preview_material |
+| [float](/docs/game-reflection/components/float) | threat |
+| [bool](/docs/game-reflection/components/bool) | finished |
+

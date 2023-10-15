@@ -5,16 +5,18 @@ has_children: false
 parent: Event
 grand_parent: Game Reflection
 ---
-# PlayerDiedEvent( ![ EntityEventBase ](/game-reflection/events/entity_event_base.md) )
+# PlayerDiedEvent( [ EntityEventBase ](/docs/game-reflection/events/entity_event_base) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [uint](/game-reflection/components/uint.md) | Killer |
-| [String](/game-reflection/components/string.md) | KillerName |
-| [uint](/game-reflection/components/uint.md) | PlayerId |
-| [String](/game-reflection/components/string.md) | DamageType |
-| [float](/game-reflection/components/float.md) | DamagePercentage |
-| [String](/game-reflection/components/string.md) | PlayerName |
-| [Entity](/game-reflection/classes/entity.md) | Entity |
+| [uint](/docs/game-reflection/components/uint) | Killer |
+| [String](/docs/game-reflection/components/string) | KillerName |
+| [uint](/docs/game-reflection/components/uint) | PlayerId |
+| [String](/docs/game-reflection/components/string) | DamageType |
+| [float](/docs/game-reflection/components/float) | DamagePercentage |
+| [String](/docs/game-reflection/components/string) | PlayerName |
+| [Entity](/docs/game-reflection/classes/entity) | Entity |
+

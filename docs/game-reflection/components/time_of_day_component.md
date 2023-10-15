@@ -9,13 +9,15 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [int](/game-reflection/enums/int.md) | shadow_degree_limit |
-| [int](/game-reflection/enums/int.md) | timeofday_cycle |
-| Vector< [TimeOfDayPresetHolder](/game-reflection/components/time_of_day_preset_holder.md) > | timeofday_presets |
-| [int](/game-reflection/enums/int.md) | next_preset |
-| [int](/game-reflection/enums/int.md) | prev_preset |
-| Vector< [TimeOfDay](/game-reflection/enums/time_of_day.md) > | timeofday_override |
-| [int](/game-reflection/enums/int.md) | initial_hour |
-| [int](/game-reflection/enums/int.md) | current_preset |
+| [int](/docs/game-reflection/enums/int) | shadow_degree_limit |
+| [int](/docs/game-reflection/enums/int) | timeofday_cycle |
+| Vector< [TimeOfDayPresetHolder](/docs/game-reflection/components/time_of_day_preset_holder) > | timeofday_presets |
+| [int](/docs/game-reflection/enums/int) | next_preset |
+| [int](/docs/game-reflection/enums/int) | prev_preset |
+| Vector< [TimeOfDay](/docs/game-reflection/enums/time_of_day) > | timeofday_override |
+| [int](/docs/game-reflection/enums/int) | initial_hour |
+| [int](/docs/game-reflection/enums/int) | current_preset |
+

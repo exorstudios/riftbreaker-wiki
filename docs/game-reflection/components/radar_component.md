@@ -9,8 +9,10 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [float](/game-reflection/components/float.md) | radius |
-| Vector< [Entity](/game-reflection/classes/entity.md) > | marked_cells |
-| [Vector3](/game-reflection/classes/vector3.md) | marked_position |
+| [float](/docs/game-reflection/components/float) | radius |
+| Vector< [Entity](/docs/game-reflection/classes/entity) > | marked_cells |
+| [Vector3](/docs/game-reflection/classes/vector3) | marked_position |
+

@@ -9,20 +9,22 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| Vector< [Pair_String_String](/game-reflection/classes/pair__string__string.md) > | skeleton_overrides |
-| [String](/game-reflection/components/string.md) | end_date |
-| [String](/game-reflection/components/string.md) | start_date |
-| Vector< [Pair_String_String](/game-reflection/classes/pair__string__string.md) > | particle_overrides |
-| Vector< [Pair_String_String](/game-reflection/classes/pair__string__string.md) > | time_of_day_overrides |
-| [String](/game-reflection/components/string.md) | event_icon |
-| Vector< [Pair_String_String](/game-reflection/classes/pair__string__string.md) > | material_overrides |
-| Vector< [Pair_String_String](/game-reflection/classes/pair__string__string.md) > | mesh_overrides |
-| Vector< [Pair_String_String](/game-reflection/classes/pair__string__string.md) > | gpu_program_overrides |
-| Vector< [Pair_String_String](/game-reflection/classes/pair__string__string.md) > | texture_overrides |
-| [String](/game-reflection/components/string.md) | resource_name |
-| Vector< [String](/game-reflection/components/string.md) > | supported_biomes |
-| [String](/game-reflection/components/string.md) | event_localization |
-| [String](/game-reflection/components/string.md) | logic |
-| [String](/game-reflection/components/string.md) | event_name |
+| Vector< [Pair_String_String](/docs/game-reflection/classes/pair__string__string) > | skeleton_overrides |
+| [String](/docs/game-reflection/components/string) | end_date |
+| [String](/docs/game-reflection/components/string) | start_date |
+| Vector< [Pair_String_String](/docs/game-reflection/classes/pair__string__string) > | particle_overrides |
+| Vector< [Pair_String_String](/docs/game-reflection/classes/pair__string__string) > | time_of_day_overrides |
+| [String](/docs/game-reflection/components/string) | event_icon |
+| Vector< [Pair_String_String](/docs/game-reflection/classes/pair__string__string) > | material_overrides |
+| Vector< [Pair_String_String](/docs/game-reflection/classes/pair__string__string) > | mesh_overrides |
+| Vector< [Pair_String_String](/docs/game-reflection/classes/pair__string__string) > | gpu_program_overrides |
+| Vector< [Pair_String_String](/docs/game-reflection/classes/pair__string__string) > | texture_overrides |
+| [String](/docs/game-reflection/components/string) | resource_name |
+| Vector< [String](/docs/game-reflection/components/string) > | supported_biomes |
+| [String](/docs/game-reflection/components/string) | event_localization |
+| [String](/docs/game-reflection/components/string) | logic |
+| [String](/docs/game-reflection/components/string) | event_name |
+

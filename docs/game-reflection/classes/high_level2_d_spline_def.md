@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [short](/game-reflection/components/short.md) | type |
-| Vector< [Vector2](/game-reflection/classes/vector2.md) > | points |
+| [short](/docs/game-reflection/components/short) | type |
+| Vector< [Vector2](/docs/game-reflection/classes/vector2) > | points |
+

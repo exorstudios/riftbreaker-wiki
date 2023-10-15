@@ -9,6 +9,8 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| Vector< [GuiAnimationDef](/game-reflection/classes/gui_animation_def.md) > | items |
+| Vector< [GuiAnimationDef](/docs/game-reflection/classes/gui_animation_def) > | items |
+

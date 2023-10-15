@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [bool](/game-reflection/components/bool.md) | authoritativity |
-| [float](/game-reflection/components/float.md) | duration |
+| [bool](/docs/game-reflection/components/bool) | authoritativity |
+| [float](/docs/game-reflection/components/float) | duration |
+

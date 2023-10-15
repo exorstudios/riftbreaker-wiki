@@ -9,6 +9,8 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [String](/game-reflection/components/string.md) | splash_effect |
+| [String](/docs/game-reflection/components/string) | splash_effect |
+

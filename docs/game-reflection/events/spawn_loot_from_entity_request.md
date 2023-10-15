@@ -5,15 +5,17 @@ has_children: false
 parent: Event
 grand_parent: Game Reflection
 ---
-# SpawnLootFromEntityRequest( ![ EntityEventBase ](/game-reflection/events/entity_event_base.md) )
+# SpawnLootFromEntityRequest( [ EntityEventBase ](/docs/game-reflection/events/entity_event_base) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [int](/game-reflection/enums/int.md) | LifetTimeType |
-| Vector< [Database](/game-reflection/components/database.md) > | AdditionalDatabase |
-| [uint64](/game-reflection/components/uint64.md) | PackedSize |
-| [String](/game-reflection/components/string.md) | Blueprint |
-| [Entity](/game-reflection/classes/entity.md) | Entity |
-| [float](/game-reflection/components/float.md) | Timeout |
+| [int](/docs/game-reflection/enums/int) | LifetTimeType |
+| Vector< [Database](/docs/game-reflection/components/database) > | AdditionalDatabase |
+| [uint64](/docs/game-reflection/components/uint64) | PackedSize |
+| [String](/docs/game-reflection/components/string) | Blueprint |
+| [Entity](/docs/game-reflection/classes/entity) | Entity |
+| [float](/docs/game-reflection/components/float) | Timeout |
+

@@ -9,11 +9,13 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [String](/game-reflection/components/string.md) | name |
-| [int](/game-reflection/enums/int.md) | rank |
-| [int](/game-reflection/enums/int.md) | score |
-| [int](/game-reflection/enums/int.md) | ping |
-| [int](/game-reflection/enums/int.md) | deaths |
-| [String](/game-reflection/components/string.md) | icon |
+| [String](/docs/game-reflection/components/string) | name |
+| [int](/docs/game-reflection/enums/int) | rank |
+| [int](/docs/game-reflection/enums/int) | score |
+| [int](/docs/game-reflection/enums/int) | ping |
+| [int](/docs/game-reflection/enums/int) | deaths |
+| [String](/docs/game-reflection/components/string) | icon |
+

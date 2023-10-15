@@ -9,8 +9,10 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| Vector< [CampaignCustomOption](/game-reflection/classes/campaign_custom_option.md) > | options |
-| [CampaignDef2](/game-reflection/components/campaign_def2.md) | campaign |
-| Vector< [MultiplayerMission](/game-reflection/classes/multiplayer_mission.md) > | missions |
+| Vector< [CampaignCustomOption](/docs/game-reflection/classes/campaign_custom_option) > | options |
+| [CampaignDef2](/docs/game-reflection/components/campaign_def2) | campaign |
+| Vector< [MultiplayerMission](/docs/game-reflection/classes/multiplayer_mission) > | missions |
+

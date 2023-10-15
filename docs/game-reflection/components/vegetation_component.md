@@ -9,21 +9,23 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [Vector3](/game-reflection/classes/vector3.md) | requested_object_force |
-| [IdString](/game-reflection/components/id_string.md) | root_material |
-| [Vector4](/game-reflection/classes/vector4.md) | current_bending_info |
-| [float](/game-reflection/components/float.md) | bending_spring_time |
-| [float](/game-reflection/components/float.md) | breaking_force_threshold |
-| [float](/game-reflection/components/float.md) | bending_spring_phases |
-| [float](/game-reflection/components/float.md) | bending_spring_damping |
-| [float](/game-reflection/components/float.md) | bending_recovery_delay |
-| [Vector2](/game-reflection/classes/vector2.md) | last_bending |
-| [Vector3](/game-reflection/classes/vector3.md) | current_object_force |
-| [float](/game-reflection/components/float.md) | bending_spring_slope_factor |
-| [IdString](/game-reflection/components/id_string.md) | root_mesh |
-| [float](/game-reflection/components/float.md) | current_emissive_factor |
-| [Vector3](/game-reflection/classes/vector3.md) | current_wind_force |
-| [float](/game-reflection/components/float.md) | bending_wind_scale |
-| [float](/game-reflection/components/float.md) | bending_object_scale |
+| [Vector3](/docs/game-reflection/classes/vector3) | requested_object_force |
+| [IdString](/docs/game-reflection/components/id_string) | root_material |
+| [Vector4](/docs/game-reflection/classes/vector4) | current_bending_info |
+| [float](/docs/game-reflection/components/float) | bending_spring_time |
+| [float](/docs/game-reflection/components/float) | breaking_force_threshold |
+| [float](/docs/game-reflection/components/float) | bending_spring_phases |
+| [float](/docs/game-reflection/components/float) | bending_spring_damping |
+| [float](/docs/game-reflection/components/float) | bending_recovery_delay |
+| [Vector2](/docs/game-reflection/classes/vector2) | last_bending |
+| [Vector3](/docs/game-reflection/classes/vector3) | current_object_force |
+| [float](/docs/game-reflection/components/float) | bending_spring_slope_factor |
+| [IdString](/docs/game-reflection/components/id_string) | root_mesh |
+| [float](/docs/game-reflection/components/float) | current_emissive_factor |
+| [Vector3](/docs/game-reflection/classes/vector3) | current_wind_force |
+| [float](/docs/game-reflection/components/float) | bending_wind_scale |
+| [float](/docs/game-reflection/components/float) | bending_object_scale |
+

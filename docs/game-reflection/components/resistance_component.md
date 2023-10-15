@@ -9,9 +9,11 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [float](/game-reflection/components/float.md) | default_factor |
-| [float](/game-reflection/components/float.md) | min_damage_threshold |
-| Vector< [Pair_IdString_ModifiableValue](/game-reflection/classes/pair__id_string__modifiable_value.md) > | resistances |
-| [float](/game-reflection/components/float.md) | reflect_damage_max_percent |
+| [float](/docs/game-reflection/components/float) | default_factor |
+| [float](/docs/game-reflection/components/float) | min_damage_threshold |
+| Vector< [Pair_IdString_ModifiableValue](/docs/game-reflection/classes/pair__id_string__modifiable_value) > | resistances |
+| [float](/docs/game-reflection/components/float) | reflect_damage_max_percent |
+

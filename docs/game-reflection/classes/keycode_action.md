@@ -9,8 +9,10 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [int](/game-reflection/enums/int.md) | key_code |
-| [float](/game-reflection/components/float.md) | value |
-| [String](/game-reflection/components/string.md) | action |
+| [int](/docs/game-reflection/enums/int) | key_code |
+| [float](/docs/game-reflection/components/float) | value |
+| [String](/docs/game-reflection/components/string) | action |
+

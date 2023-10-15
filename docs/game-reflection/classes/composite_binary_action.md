@@ -5,11 +5,13 @@ has_children: false
 parent: Class
 grand_parent: Game Reflection
 ---
-# CompositeBinaryAction( ![ CompositeAction ](/game-reflection/classes/composite_action.md) )
+# CompositeBinaryAction( [ CompositeAction ](/docs/game-reflection/classes/composite_action) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [float](/game-reflection/components/float.md) | threshold |
-| [String](/game-reflection/components/string.md) | action |
+| [float](/docs/game-reflection/components/float) | threshold |
+| [String](/docs/game-reflection/components/string) | action |
+

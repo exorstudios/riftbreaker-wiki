@@ -5,20 +5,22 @@ has_children: false
 parent: Component
 grand_parent: Game Reflection
 ---
-# DynamicGeometryComponent( ![ RenderableComponent ](/game-reflection/components/renderable_component.md) )
+# DynamicGeometryComponent( [ RenderableComponent ](/docs/game-reflection/components/renderable_component) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [uint64](/game-reflection/components/uint64.md) | vertex_buffer_capacity |
-| [uint64](/game-reflection/components/uint64.md) | vertex_count |
-| [uint64](/game-reflection/components/uint64.md) | index_count |
-| [uint64](/game-reflection/components/uint64.md) | index_buffer_capacity |
-| [SystemMemoryVertexBuffer4](/game-reflection/components/system_memory_vertex_buffer4.md) | vertex_buffer |
-| [VertexDeclaration](/game-reflection/components/vertex_declaration.md) | vertex_declaration |
-| [IdString](/game-reflection/components/id_string.md) | material_id |
-| [int](/game-reflection/enums/int.md) | index_type |
-| [uchar](/game-reflection/enums/uchar.md) | is_disabled |
-| [uchar](/game-reflection/enums/uchar.md) | is_dirty |
-| [SystemMemoryIndexBuffer4](/game-reflection/components/system_memory_index_buffer4.md) | index_buffer |
+| [uint64](/docs/game-reflection/components/uint64) | vertex_buffer_capacity |
+| [uint64](/docs/game-reflection/components/uint64) | vertex_count |
+| [uint64](/docs/game-reflection/components/uint64) | index_count |
+| [uint64](/docs/game-reflection/components/uint64) | index_buffer_capacity |
+| [SystemMemoryVertexBuffer4](/docs/game-reflection/components/system_memory_vertex_buffer4) | vertex_buffer |
+| [VertexDeclaration](/docs/game-reflection/components/vertex_declaration) | vertex_declaration |
+| [IdString](/docs/game-reflection/components/id_string) | material_id |
+| [int](/docs/game-reflection/enums/int) | index_type |
+| [uchar](/docs/game-reflection/enums/uchar) | is_disabled |
+| [uchar](/docs/game-reflection/enums/uchar) | is_dirty |
+| [SystemMemoryIndexBuffer4](/docs/game-reflection/components/system_memory_index_buffer4) | index_buffer |
+

@@ -9,16 +9,18 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [float](/game-reflection/components/float.md) | time_factor |
-| [float](/game-reflection/components/float.md) | fade_in_time |
-| [float](/game-reflection/components/float.md) | bloom_scale |
-| [float](/game-reflection/components/float.md) | contrast |
-| [float](/game-reflection/components/float.md) | fade_out_time |
-| [float](/game-reflection/components/float.md) | brightness |
-| [float](/game-reflection/components/float.md) | red_tone |
-| [float](/game-reflection/components/float.md) | desaturation |
-| [float](/game-reflection/components/float.md) | timer |
-| [float](/game-reflection/components/float.md) | delay |
-| [float](/game-reflection/components/float.md) | duration |
+| [float](/docs/game-reflection/components/float) | time_factor |
+| [float](/docs/game-reflection/components/float) | fade_in_time |
+| [float](/docs/game-reflection/components/float) | bloom_scale |
+| [float](/docs/game-reflection/components/float) | contrast |
+| [float](/docs/game-reflection/components/float) | fade_out_time |
+| [float](/docs/game-reflection/components/float) | brightness |
+| [float](/docs/game-reflection/components/float) | red_tone |
+| [float](/docs/game-reflection/components/float) | desaturation |
+| [float](/docs/game-reflection/components/float) | timer |
+| [float](/docs/game-reflection/components/float) | delay |
+| [float](/docs/game-reflection/components/float) | duration |
+

@@ -9,12 +9,14 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [uint](/game-reflection/components/uint.md) | node_index |
-| [Vector3](/game-reflection/classes/vector3.md) | origin |
-| [bool](/game-reflection/components/bool.md) | checked |
-| [bool](/game-reflection/components/bool.md) | connected |
-| [int](/game-reflection/enums/int.md) | curr_radius |
-| [int](/game-reflection/enums/int.md) | max_radius |
-| [bool](/game-reflection/components/bool.md) | status |
+| [uint](/docs/game-reflection/components/uint) | node_index |
+| [Vector3](/docs/game-reflection/classes/vector3) | origin |
+| [bool](/docs/game-reflection/components/bool) | checked |
+| [bool](/docs/game-reflection/components/bool) | connected |
+| [int](/docs/game-reflection/enums/int) | curr_radius |
+| [int](/docs/game-reflection/enums/int) | max_radius |
+| [bool](/docs/game-reflection/components/bool) | status |
+

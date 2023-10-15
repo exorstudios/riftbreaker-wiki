@@ -9,9 +9,11 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [Entity](/game-reflection/classes/entity.md) | parent |
-| Vector< [String](/game-reflection/components/string.md) > | component_name_vec |
-| [Transform](/game-reflection/classes/transform.md) | transform |
-| [StringHash](/game-reflection/classes/string_hash.md) | attachment |
+| [Entity](/docs/game-reflection/classes/entity) | parent |
+| Vector< [String](/docs/game-reflection/components/string) > | component_name_vec |
+| [Transform](/docs/game-reflection/classes/transform) | transform |
+| [StringHash](/docs/game-reflection/classes/string_hash) | attachment |
+

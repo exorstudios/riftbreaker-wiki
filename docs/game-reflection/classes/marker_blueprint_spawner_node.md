@@ -5,15 +5,17 @@ has_children: false
 parent: Class
 grand_parent: Game Reflection
 ---
-# MarkerBlueprintSpawnerNode( ![ BehaviourNode ](/game-reflection/classes/behaviour_node.md) )
+# MarkerBlueprintSpawnerNode( [ BehaviourNode ](/docs/game-reflection/classes/behaviour_node) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| Vector< [String](/game-reflection/components/string.md) > | spawn_pool_local |
-| [int](/game-reflection/enums/int.md) | spawn_preference |
-| [MarkerBlueprintSpawner](/game-reflection/classes/marker_blueprint_spawner.md) | spawner |
-| Vector< [Pair_String_float](/game-reflection/classes/pair__string_float.md) > | spawn_min_distance_from_local_pools |
-| [bool](/game-reflection/components/bool.md) | spawn_at_marker_name_is_global |
-| Vector< [Pair_String_float](/game-reflection/classes/pair__string_float.md) > | spawn_max_distance_from_local_pools |
+| Vector< [String](/docs/game-reflection/components/string) > | spawn_pool_local |
+| [int](/docs/game-reflection/enums/int) | spawn_preference |
+| [MarkerBlueprintSpawner](/docs/game-reflection/classes/marker_blueprint_spawner) | spawner |
+| Vector< [Pair_String_float](/docs/game-reflection/classes/pair__string_float) > | spawn_min_distance_from_local_pools |
+| [bool](/docs/game-reflection/components/bool) | spawn_at_marker_name_is_global |
+| Vector< [Pair_String_float](/docs/game-reflection/classes/pair__string_float) > | spawn_max_distance_from_local_pools |
+

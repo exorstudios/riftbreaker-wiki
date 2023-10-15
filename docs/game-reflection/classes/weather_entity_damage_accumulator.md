@@ -9,6 +9,8 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [float](/game-reflection/components/float.md) | dt_accumulate |
+| [float](/docs/game-reflection/components/float) | dt_accumulate |
+

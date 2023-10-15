@@ -5,15 +5,17 @@ has_children: false
 parent: Event
 grand_parent: Game Reflection
 ---
-# BuildingStartEvent( ![ EntityEventBase ](/game-reflection/events/entity_event_base.md) )
+# BuildingStartEvent( [ EntityEventBase ](/docs/game-reflection/events/entity_event_base) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [Entity](/game-reflection/classes/entity.md) | CubeEnt |
-| [bool](/game-reflection/components/bool.md) | Effects |
-| [uint](/game-reflection/components/uint.md) | PlayerId |
-| [Entity](/game-reflection/classes/entity.md) | Entity |
-| [Entity](/game-reflection/classes/entity.md) | EndCubeEnt |
-| [bool](/game-reflection/components/bool.md) | Upgrading |
+| [Entity](/docs/game-reflection/classes/entity) | CubeEnt |
+| [bool](/docs/game-reflection/components/bool) | Effects |
+| [uint](/docs/game-reflection/components/uint) | PlayerId |
+| [Entity](/docs/game-reflection/classes/entity) | Entity |
+| [Entity](/docs/game-reflection/classes/entity) | EndCubeEnt |
+| [bool](/docs/game-reflection/components/bool) | Upgrading |
+

@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [Entity](/game-reflection/classes/entity.md) | entity |
-| [float](/game-reflection/components/float.md) | time_to |
+| [Entity](/docs/game-reflection/classes/entity) | entity |
+| [float](/docs/game-reflection/components/float) | time_to |
+

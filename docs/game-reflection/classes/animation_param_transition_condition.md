@@ -5,11 +5,13 @@ has_children: false
 parent: Class
 grand_parent: Game Reflection
 ---
-# AnimationParamTransitionCondition( ![ AnimationParamTransitionConditionBase ](/game-reflection/classes/animation_param_transition_condition_base.md) )
+# AnimationParamTransitionCondition( [ AnimationParamTransitionConditionBase ](/docs/game-reflection/classes/animation_param_transition_condition_base) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [int](/game-reflection/enums/int.md) | cmp |
-| [AnimationDataValueHolder](/game-reflection/components/animation_data_value_holder.md) | value |
+| [int](/docs/game-reflection/enums/int) | cmp |
+| [AnimationDataValueHolder](/docs/game-reflection/components/animation_data_value_holder) | value |
+

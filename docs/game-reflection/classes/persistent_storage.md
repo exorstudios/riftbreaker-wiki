@@ -9,8 +9,10 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [ResourceBasket](/game-reflection/classes/resource_basket.md) | outcome |
-| [ResourceBasket](/game-reflection/classes/resource_basket.md) | income |
-| [ResourceAccount](/game-reflection/classes/resource_account.md) | storage |
+| [ResourceBasket](/docs/game-reflection/classes/resource_basket) | outcome |
+| [ResourceBasket](/docs/game-reflection/classes/resource_basket) | income |
+| [ResourceAccount](/docs/game-reflection/classes/resource_account) | storage |
+

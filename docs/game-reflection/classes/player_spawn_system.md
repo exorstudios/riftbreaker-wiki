@@ -9,8 +9,10 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| Vector< [uint](/game-reflection/components/uint.md) > | player_respawn_queue |
-| Vector< [DestroyRequest](/game-reflection/events/destroy_request.md) > | pawn_destroy_queue |
-| [bool](/game-reflection/components/bool.md) | scheduled_respawn |
+| Vector< [uint](/docs/game-reflection/components/uint) > | player_respawn_queue |
+| Vector< [DestroyRequest](/docs/game-reflection/events/destroy_request) > | pawn_destroy_queue |
+| [bool](/docs/game-reflection/components/bool) | scheduled_respawn |
+

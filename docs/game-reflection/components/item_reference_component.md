@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [IdString](/game-reflection/components/id_string.md) | blueprint |
-| [Entity](/game-reflection/classes/entity.md) | owner |
+| [IdString](/docs/game-reflection/components/id_string) | blueprint |
+| [Entity](/docs/game-reflection/classes/entity) | owner |
+

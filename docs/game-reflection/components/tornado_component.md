@@ -5,13 +5,15 @@ has_children: false
 parent: Component
 grand_parent: Game Reflection
 ---
-# TornadoComponent( ![ TornadoBase ](/game-reflection/components/tornado_base.md) )
+# TornadoComponent( [ TornadoBase ](/docs/game-reflection/components/tornado_base) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [Vector3](/game-reflection/classes/vector3.md) | velocity |
-| [Vector3](/game-reflection/classes/vector3.md) | wander |
-| [Vector3](/game-reflection/classes/vector3.md) | precalculated_target_origin |
-| [float](/game-reflection/components/float.md) | oscillation |
+| [Vector3](/docs/game-reflection/classes/vector3) | velocity |
+| [Vector3](/docs/game-reflection/classes/vector3) | wander |
+| [Vector3](/docs/game-reflection/classes/vector3) | precalculated_target_origin |
+| [float](/docs/game-reflection/components/float) | oscillation |
+

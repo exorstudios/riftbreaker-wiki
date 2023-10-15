@@ -5,11 +5,13 @@ has_children: false
 parent: Class
 grand_parent: Game Reflection
 ---
-# TypeTargetFinder( ![ TargetFinder ](/game-reflection/classes/target_finder.md) )
+# TypeTargetFinder( [ TargetFinder ](/docs/game-reflection/classes/target_finder) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [float](/game-reflection/components/float.md) | search_radius |
-| Vector< [TypeId](/game-reflection/enums/type_id.md) > | priority_target |
+| [float](/docs/game-reflection/components/float) | search_radius |
+| Vector< [TypeId](/docs/game-reflection/enums/type_id) > | priority_target |
+

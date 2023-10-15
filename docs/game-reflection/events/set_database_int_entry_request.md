@@ -5,12 +5,14 @@ has_children: false
 parent: Event
 grand_parent: Game Reflection
 ---
-# SetDatabaseIntEntryRequest( ![ EntityEventBase ](/game-reflection/events/entity_event_base.md) )
+# SetDatabaseIntEntryRequest( [ EntityEventBase ](/docs/game-reflection/events/entity_event_base) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [String](/game-reflection/components/string.md) | Key |
-| [int](/game-reflection/enums/int.md) | Value |
-| [Entity](/game-reflection/classes/entity.md) | Entity |
+| [String](/docs/game-reflection/components/string) | Key |
+| [int](/docs/game-reflection/enums/int) | Value |
+| [Entity](/docs/game-reflection/classes/entity) | Entity |
+

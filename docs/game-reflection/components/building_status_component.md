@@ -9,12 +9,14 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [Timer](/game-reflection/classes/timer.md) | reset_timer |
-| [bool](/game-reflection/components/bool.md) | resource_status_set |
-| [WorkingStatus](/game-reflection/classes/working_status.md) | last_status |
-| Vector< [float](/game-reflection/components/float.md) > | not_working_time |
-| [uint](/game-reflection/components/uint.md) | owner |
-| [WorkingStatus](/game-reflection/classes/working_status.md) | status |
-| Vector< [float](/game-reflection/components/float.md) > | working_time |
+| [Timer](/docs/game-reflection/classes/timer) | reset_timer |
+| [bool](/docs/game-reflection/components/bool) | resource_status_set |
+| [WorkingStatus](/docs/game-reflection/classes/working_status) | last_status |
+| Vector< [float](/docs/game-reflection/components/float) > | not_working_time |
+| [uint](/docs/game-reflection/components/uint) | owner |
+| [WorkingStatus](/docs/game-reflection/classes/working_status) | status |
+| Vector< [float](/docs/game-reflection/components/float) > | working_time |
+

@@ -9,12 +9,14 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| Vector< [Entity](/game-reflection/classes/entity.md) > | to_init_storage |
-| Vector< [Entity](/game-reflection/classes/entity.md) > | to_init_pipes |
-| Vector< [Entity](/game-reflection/classes/entity.md) > | to_init |
-| [bool](/game-reflection/components/bool.md) | have_research |
-| Vector< [Pair_GameplayResourceDefHolder_ResourceValue](/game-reflection/classes/pair__gameplay_resource_def_holder__resource_value.md) > | outcome |
-| Vector< [Pair_GameplayResourceDefHolder_ResourceValue](/game-reflection/classes/pair__gameplay_resource_def_holder__resource_value.md) > | income |
-| Vector< [Pair_EntityUnorderedSet_uint](/game-reflection/classes/pair__entity_unordered_set_uint.md) > | to_remove |
+| Vector< [Entity](/docs/game-reflection/classes/entity) > | to_init_storage |
+| Vector< [Entity](/docs/game-reflection/classes/entity) > | to_init_pipes |
+| Vector< [Entity](/docs/game-reflection/classes/entity) > | to_init |
+| [bool](/docs/game-reflection/components/bool) | have_research |
+| Vector< [Pair_GameplayResourceDefHolder_ResourceValue](/docs/game-reflection/classes/pair__gameplay_resource_def_holder__resource_value) > | outcome |
+| Vector< [Pair_GameplayResourceDefHolder_ResourceValue](/docs/game-reflection/classes/pair__gameplay_resource_def_holder__resource_value) > | income |
+| Vector< [Pair_EntityUnorderedSet_uint](/docs/game-reflection/classes/pair__entity_unordered_set_uint) > | to_remove |
+

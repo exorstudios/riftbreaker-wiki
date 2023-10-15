@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| Vector< [Entity](/game-reflection/classes/entity.md) > | trigger_entity_vec |
-| [bool](/game-reflection/components/bool.md) | trigger_status |
+| Vector< [Entity](/docs/game-reflection/classes/entity) > | trigger_entity_vec |
+| [bool](/docs/game-reflection/components/bool) | trigger_status |
+

@@ -9,9 +9,11 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [String](/game-reflection/components/string.md) | avg |
-| [String](/game-reflection/components/string.md) | name |
-| [String](/game-reflection/components/string.md) | max |
-| [String](/game-reflection/components/string.md) | min |
+| [String](/docs/game-reflection/components/string) | avg |
+| [String](/docs/game-reflection/components/string) | name |
+| [String](/docs/game-reflection/components/string) | max |
+| [String](/docs/game-reflection/components/string) | min |
+

@@ -9,9 +9,11 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [IdString](/game-reflection/components/id_string.md) | material |
-| [bool](/game-reflection/components/bool.md) | cullable |
-| Vector< [TerrainVertexData](/game-reflection/classes/terrain_vertex_data.md) > | vertices |
-| Vector< [ushort](/game-reflection/enums/ushort.md) > | indices |
+| [IdString](/docs/game-reflection/components/id_string) | material |
+| [bool](/docs/game-reflection/components/bool) | cullable |
+| Vector< [TerrainVertexData](/docs/game-reflection/classes/terrain_vertex_data) > | vertices |
+| Vector< [ushort](/docs/game-reflection/enums/ushort) > | indices |
+

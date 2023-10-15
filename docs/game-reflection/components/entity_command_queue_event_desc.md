@@ -9,8 +9,10 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [TypeAny](/game-reflection/components/type_any.md) | event |
-| [ushort](/game-reflection/enums/ushort.md) | event_version |
-| [String](/game-reflection/components/string.md) | event_name |
+| [TypeAny](/docs/game-reflection/components/type_any) | event |
+| [ushort](/docs/game-reflection/enums/ushort) | event_version |
+| [String](/docs/game-reflection/components/string) | event_name |
+

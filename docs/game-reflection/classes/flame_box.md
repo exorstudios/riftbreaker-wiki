@@ -9,10 +9,12 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [Entity](/game-reflection/classes/entity.md) | entity |
-| [Quaternion](/game-reflection/classes/quaternion.md) | orient |
-| [Vector3](/game-reflection/classes/vector3.md) | position |
-| [float](/game-reflection/components/float.md) | range |
-| [Vector3](/game-reflection/classes/vector3.md) | extent |
+| [Entity](/docs/game-reflection/classes/entity) | entity |
+| [Quaternion](/docs/game-reflection/classes/quaternion) | orient |
+| [Vector3](/docs/game-reflection/classes/vector3) | position |
+| [float](/docs/game-reflection/components/float) | range |
+| [Vector3](/docs/game-reflection/classes/vector3) | extent |
+

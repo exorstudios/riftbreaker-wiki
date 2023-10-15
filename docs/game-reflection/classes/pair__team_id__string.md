@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [String](/game-reflection/components/string.md) | value |
-| [TeamId](/game-reflection/classes/team_id.md) | key |
+| [String](/docs/game-reflection/components/string) | value |
+| [TeamId](/docs/game-reflection/classes/team_id) | key |
+

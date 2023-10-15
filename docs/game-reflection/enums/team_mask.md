@@ -9,6 +9,8 @@ grand_parent: Game Reflection
 Description 
 
 ## Enum values
+
 | Name | Value |
 |:-------------|:--------------|
 | EMPTY_TEAM | 0 |
+

@@ -9,8 +9,10 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| Vector< [BuildingData](/game-reflection/classes/building_data.md) > | buildings |
-| [bool](/game-reflection/components/bool.md) | buildings_visible |
-| [String](/game-reflection/components/string.md) | last_building_base_name |
+| Vector< [BuildingData](/docs/game-reflection/classes/building_data) > | buildings |
+| [bool](/docs/game-reflection/components/bool) | buildings_visible |
+| [String](/docs/game-reflection/components/string) | last_building_base_name |
+

@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [String](/game-reflection/components/string.md) | name |
-| [Vector2](/game-reflection/classes/vector2.md) | position |
+| [String](/docs/game-reflection/components/string) | name |
+| [Vector2](/docs/game-reflection/classes/vector2) | position |
+

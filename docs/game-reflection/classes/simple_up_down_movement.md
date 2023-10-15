@@ -5,10 +5,12 @@ has_children: false
 parent: Class
 grand_parent: Game Reflection
 ---
-# SimpleUpDownMovement( ![ SimpleMovement ](/game-reflection/classes/simple_movement.md) )
+# SimpleUpDownMovement( [ SimpleMovement ](/docs/game-reflection/classes/simple_movement) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [FloatInterpolator](/game-reflection/classes/float_interpolator.md) | interpolator |
+| [FloatInterpolator](/docs/game-reflection/classes/float_interpolator) | interpolator |
+

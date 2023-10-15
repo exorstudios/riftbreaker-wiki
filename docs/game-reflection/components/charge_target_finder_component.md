@@ -9,11 +9,13 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [float](/game-reflection/components/float.md) | max_distance |
-| [float](/game-reflection/components/float.md) | min_distance |
-| [Timer](/game-reflection/classes/timer.md) | timer |
-| [IdString](/game-reflection/components/id_string.md) | tag |
-| [float](/game-reflection/components/float.md) | time |
-| [uint64](/game-reflection/components/uint64.md) | ignore_type_mask |
+| [float](/docs/game-reflection/components/float) | max_distance |
+| [float](/docs/game-reflection/components/float) | min_distance |
+| [Timer](/docs/game-reflection/classes/timer) | timer |
+| [IdString](/docs/game-reflection/components/id_string) | tag |
+| [float](/docs/game-reflection/components/float) | time |
+| [uint64](/docs/game-reflection/components/uint64) | ignore_type_mask |
+

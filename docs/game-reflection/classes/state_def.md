@@ -9,12 +9,14 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [EntityTemplate](/game-reflection/classes/entity_template.md) | components |
-| [StateDefId](/game-reflection/classes/state_def_id.md) | state_name |
-| [float](/game-reflection/components/float.md) | max_event_timer |
-| [float](/game-reflection/components/float.md) | min_event_timer |
-| [uchar](/game-reflection/enums/uchar.md) | type |
-| Vector< [EventTransition](/game-reflection/classes/event_transition.md) > | transitions |
-| [EntityTemplate](/game-reflection/classes/entity_template.md) | events |
+| [EntityTemplate](/docs/game-reflection/classes/entity_template) | components |
+| [StateDefId](/docs/game-reflection/classes/state_def_id) | state_name |
+| [float](/docs/game-reflection/components/float) | max_event_timer |
+| [float](/docs/game-reflection/components/float) | min_event_timer |
+| [uchar](/docs/game-reflection/enums/uchar) | type |
+| Vector< [EventTransition](/docs/game-reflection/classes/event_transition) > | transitions |
+| [EntityTemplate](/docs/game-reflection/classes/entity_template) | events |
+

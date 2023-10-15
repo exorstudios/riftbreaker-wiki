@@ -5,12 +5,14 @@ has_children: false
 parent: Event
 grand_parent: Game Reflection
 ---
-# UnequipItemRequest( ![ EntityEventBase ](/game-reflection/events/entity_event_base.md) )
+# UnequipItemRequest( [ EntityEventBase ](/docs/game-reflection/events/entity_event_base) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [IdString](/game-reflection/components/id_string.md) | Slot |
-| [Entity](/game-reflection/classes/entity.md) | ItemEnt |
-| [Entity](/game-reflection/classes/entity.md) | Entity |
+| [IdString](/docs/game-reflection/components/id_string) | Slot |
+| [Entity](/docs/game-reflection/classes/entity) | ItemEnt |
+| [Entity](/docs/game-reflection/classes/entity) | Entity |
+

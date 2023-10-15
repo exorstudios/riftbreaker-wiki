@@ -9,6 +9,7 @@ grand_parent: Game Reflection
 Description 
 
 ## Enum values
+
 | Name | Value |
 |:-------------|:--------------|
 | TagBool | 0 |
@@ -28,3 +29,4 @@ Description
 | TagCustom | 14 |
 | TagInvalid | 15 |
 | TagCount | 16 |
+

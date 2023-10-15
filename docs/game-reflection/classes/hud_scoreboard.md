@@ -9,9 +9,11 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| Vector< [ScoreboardPlayerInfo](/game-reflection/classes/scoreboard_player_info.md) > | players |
-| [String](/game-reflection/components/string.md) | score_limit |
-| [String](/game-reflection/components/string.md) | time_limit |
-| [String](/game-reflection/components/string.md) | limit |
+| Vector< [ScoreboardPlayerInfo](/docs/game-reflection/classes/scoreboard_player_info) > | players |
+| [String](/docs/game-reflection/components/string) | score_limit |
+| [String](/docs/game-reflection/components/string) | time_limit |
+| [String](/docs/game-reflection/components/string) | limit |
+

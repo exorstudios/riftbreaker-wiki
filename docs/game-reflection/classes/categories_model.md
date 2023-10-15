@@ -9,6 +9,8 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| Vector< [CategoryModel](/game-reflection/classes/category_model.md) > | categories |
+| Vector< [CategoryModel](/docs/game-reflection/classes/category_model) > | categories |
+

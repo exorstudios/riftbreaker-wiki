@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [bool](/game-reflection/components/bool.md) | download_cancel_allowed |
-| [float](/game-reflection/components/float.md) | download_progress |
+| [bool](/docs/game-reflection/components/bool) | download_cancel_allowed |
+| [float](/docs/game-reflection/components/float) | download_progress |
+

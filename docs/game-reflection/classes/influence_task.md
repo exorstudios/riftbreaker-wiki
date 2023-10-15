@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [Entity](/game-reflection/classes/entity.md) | owner |
-| [float](/game-reflection/components/float.md) | delay |
+| [Entity](/docs/game-reflection/classes/entity) | owner |
+| [float](/docs/game-reflection/components/float) | delay |
+

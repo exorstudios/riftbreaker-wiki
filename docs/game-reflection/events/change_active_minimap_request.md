@@ -5,12 +5,14 @@ has_children: false
 parent: Event
 grand_parent: Game Reflection
 ---
-# ChangeActiveMinimapRequest( ![ EntityEventBase ](/game-reflection/events/entity_event_base.md) )
+# ChangeActiveMinimapRequest( [ EntityEventBase ](/docs/game-reflection/events/entity_event_base) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [uchar](/game-reflection/enums/uchar.md) | Type |
-| [uint](/game-reflection/components/uint.md) | PlayerId |
-| [Entity](/game-reflection/classes/entity.md) | Entity |
+| [uchar](/docs/game-reflection/enums/uchar) | Type |
+| [uint](/docs/game-reflection/components/uint) | PlayerId |
+| [Entity](/docs/game-reflection/classes/entity) | Entity |
+

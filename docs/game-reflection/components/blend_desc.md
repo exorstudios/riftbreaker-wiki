@@ -9,16 +9,18 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [int](/game-reflection/enums/int.md) | BlendOpAlpha |
-| [int](/game-reflection/enums/int.md) | SrcBlendAlpha |
-| [bool](/game-reflection/components/bool.md) | ColourWriteMaskB |
-| [bool](/game-reflection/components/bool.md) | ColourWriteMaskA |
-| [bool](/game-reflection/components/bool.md) | ColourWriteMaskG |
-| [int](/game-reflection/enums/int.md) | DestBlendAlpha |
-| [bool](/game-reflection/components/bool.md) | ColourWriteMaskR |
-| [bool](/game-reflection/components/bool.md) | SeparateSceneBlending |
-| [int](/game-reflection/enums/int.md) | SrcBlend |
-| [int](/game-reflection/enums/int.md) | BlendOp |
-| [int](/game-reflection/enums/int.md) | DestBlend |
+| [int](/docs/game-reflection/enums/int) | BlendOpAlpha |
+| [int](/docs/game-reflection/enums/int) | SrcBlendAlpha |
+| [bool](/docs/game-reflection/components/bool) | ColourWriteMaskB |
+| [bool](/docs/game-reflection/components/bool) | ColourWriteMaskA |
+| [bool](/docs/game-reflection/components/bool) | ColourWriteMaskG |
+| [int](/docs/game-reflection/enums/int) | DestBlendAlpha |
+| [bool](/docs/game-reflection/components/bool) | ColourWriteMaskR |
+| [bool](/docs/game-reflection/components/bool) | SeparateSceneBlending |
+| [int](/docs/game-reflection/enums/int) | SrcBlend |
+| [int](/docs/game-reflection/enums/int) | BlendOp |
+| [int](/docs/game-reflection/enums/int) | DestBlend |
+

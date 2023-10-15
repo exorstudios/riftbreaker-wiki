@@ -9,29 +9,31 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [int](/game-reflection/enums/int.md) | destruction_level_version |
-| [int](/game-reflection/enums/int.md) | light_version |
-| [int](/game-reflection/enums/int.md) | inventory_version |
-| [int](/game-reflection/enums/int.md) | blueprint_version |
-| [int](/game-reflection/enums/int.md) | minimap_version |
-| [int](/game-reflection/enums/int.md) | player_version |
-| [int](/game-reflection/enums/int.md) | interactive_version |
-| [int](/game-reflection/enums/int.md) | mesh_desc_version |
-| [int](/game-reflection/enums/int.md) | time_of_day_version |
-| [int](/game-reflection/enums/int.md) | terrain_grid_version |
-| [int](/game-reflection/enums/int.md) | terrain_affector_version |
-| [int](/game-reflection/enums/int.md) | vegetation_version |
-| [int](/game-reflection/enums/int.md) | fog_of_war_version |
-| [int](/game-reflection/enums/int.md) | research_version |
-| [int](/game-reflection/enums/int.md) | action_component_version |
-| [int](/game-reflection/enums/int.md) | dialogs_version |
-| [int](/game-reflection/enums/int.md) | building_system_version |
-| [int](/game-reflection/enums/int.md) | loot_system_version |
-| [int](/game-reflection/enums/int.md) | resource_volumes_version |
-| [int](/game-reflection/enums/int.md) | turret_version |
-| [EntityPatchVersion](/game-reflection/classes/entity_patch_version.md) | entities_version |
-| [int](/game-reflection/enums/int.md) | transform_patch_version |
-| [int](/game-reflection/enums/int.md) | mission_system_version |
-| [int](/game-reflection/enums/int.md) | resources_version |
+| [int](/docs/game-reflection/enums/int) | destruction_level_version |
+| [int](/docs/game-reflection/enums/int) | light_version |
+| [int](/docs/game-reflection/enums/int) | inventory_version |
+| [int](/docs/game-reflection/enums/int) | blueprint_version |
+| [int](/docs/game-reflection/enums/int) | minimap_version |
+| [int](/docs/game-reflection/enums/int) | player_version |
+| [int](/docs/game-reflection/enums/int) | interactive_version |
+| [int](/docs/game-reflection/enums/int) | mesh_desc_version |
+| [int](/docs/game-reflection/enums/int) | time_of_day_version |
+| [int](/docs/game-reflection/enums/int) | terrain_grid_version |
+| [int](/docs/game-reflection/enums/int) | terrain_affector_version |
+| [int](/docs/game-reflection/enums/int) | vegetation_version |
+| [int](/docs/game-reflection/enums/int) | fog_of_war_version |
+| [int](/docs/game-reflection/enums/int) | research_version |
+| [int](/docs/game-reflection/enums/int) | action_component_version |
+| [int](/docs/game-reflection/enums/int) | dialogs_version |
+| [int](/docs/game-reflection/enums/int) | building_system_version |
+| [int](/docs/game-reflection/enums/int) | loot_system_version |
+| [int](/docs/game-reflection/enums/int) | resource_volumes_version |
+| [int](/docs/game-reflection/enums/int) | turret_version |
+| [EntityPatchVersion](/docs/game-reflection/classes/entity_patch_version) | entities_version |
+| [int](/docs/game-reflection/enums/int) | transform_patch_version |
+| [int](/docs/game-reflection/enums/int) | mission_system_version |
+| [int](/docs/game-reflection/enums/int) | resources_version |
+

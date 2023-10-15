@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [GuiBind](/game-reflection/classes/gui_bind.md) | value |
-| [String](/game-reflection/components/string.md) | key |
+| [GuiBind](/docs/game-reflection/classes/gui_bind) | value |
+| [String](/docs/game-reflection/components/string) | key |
+

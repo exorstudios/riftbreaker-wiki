@@ -5,11 +5,13 @@ has_children: false
 parent: Class
 grand_parent: Game Reflection
 ---
-# GuiModelMapConverter( ![ GuiModelConverter ](/game-reflection/classes/gui_model_converter.md) )
+# GuiModelMapConverter( [ GuiModelConverter ](/docs/game-reflection/classes/gui_model_converter) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| Vector< [Pair_String_String](/game-reflection/classes/pair__string__string.md) > | map |
-| [String](/game-reflection/components/string.md) | fallback_value |
+| Vector< [Pair_String_String](/docs/game-reflection/classes/pair__string__string) > | map |
+| [String](/docs/game-reflection/components/string) | fallback_value |
+

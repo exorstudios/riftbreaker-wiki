@@ -9,6 +9,8 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| Vector< [Pair_uint_float](/game-reflection/classes/pair_uint_float.md) > | global_quest_display |
+| Vector< [Pair_uint_float](/docs/game-reflection/classes/pair_uint_float) > | global_quest_display |
+

@@ -9,10 +9,12 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| Vector< [Entity](/game-reflection/classes/entity.md) > | items |
-| Vector< [Pair_String_PassiveSkill](/game-reflection/classes/pair__string__passive_skill.md) > | passive_skills |
-| Vector< [Entity](/game-reflection/classes/entity.md) > | new_items |
-| Vector< [Pair_String_UnorderedSet_Entity](/game-reflection/classes/pair__string__unordered_set__entity.md) > | items_by_type |
-| Vector< [Pair_String_UnorderedSet_Entity](/game-reflection/classes/pair__string__unordered_set__entity.md) > | items_by_blueprint |
+| Vector< [Entity](/docs/game-reflection/classes/entity) > | items |
+| Vector< [Pair_String_PassiveSkill](/docs/game-reflection/classes/pair__string__passive_skill) > | passive_skills |
+| Vector< [Entity](/docs/game-reflection/classes/entity) > | new_items |
+| Vector< [Pair_String_UnorderedSet_Entity](/docs/game-reflection/classes/pair__string__unordered_set__entity) > | items_by_type |
+| Vector< [Pair_String_UnorderedSet_Entity](/docs/game-reflection/classes/pair__string__unordered_set__entity) > | items_by_blueprint |
+

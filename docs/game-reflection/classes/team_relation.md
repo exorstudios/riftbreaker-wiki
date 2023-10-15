@@ -9,8 +9,10 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [String](/game-reflection/components/string.md) | relation_name |
-| [uchar](/game-reflection/enums/uchar.md) | relation_id |
-| Vector< [TeamMask](/game-reflection/enums/team_mask.md) > | relation_set |
+| [String](/docs/game-reflection/components/string) | relation_name |
+| [uchar](/docs/game-reflection/enums/uchar) | relation_id |
+| Vector< [TeamMask](/docs/game-reflection/enums/team_mask) > | relation_set |
+

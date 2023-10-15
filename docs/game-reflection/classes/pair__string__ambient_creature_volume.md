@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [AmbientCreatureVolume](/game-reflection/classes/ambient_creature_volume.md) | value |
-| [String](/game-reflection/components/string.md) | key |
+| [AmbientCreatureVolume](/docs/game-reflection/classes/ambient_creature_volume) | value |
+| [String](/docs/game-reflection/components/string) | key |
+

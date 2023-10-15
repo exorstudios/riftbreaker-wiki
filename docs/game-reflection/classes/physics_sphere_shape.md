@@ -5,10 +5,12 @@ has_children: false
 parent: Class
 grand_parent: Game Reflection
 ---
-# PhysicsSphereShape( ![ PhysicsShape ](/game-reflection/classes/physics_shape.md) )
+# PhysicsSphereShape( [ PhysicsShape ](/docs/game-reflection/classes/physics_shape) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [float](/game-reflection/components/float.md) | r |
+| [float](/docs/game-reflection/components/float) | r |
+

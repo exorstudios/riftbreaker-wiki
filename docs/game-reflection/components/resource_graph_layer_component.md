@@ -9,6 +9,8 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| Vector< [Entity](/game-reflection/classes/entity.md) > | graph_ent |
+| Vector< [Entity](/docs/game-reflection/classes/entity) > | graph_ent |
+

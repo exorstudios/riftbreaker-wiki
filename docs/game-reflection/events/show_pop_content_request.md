@@ -5,14 +5,16 @@ has_children: false
 parent: Event
 grand_parent: Game Reflection
 ---
-# ShowPopContentRequest( ![ EntityEventBase ](/game-reflection/events/entity_event_base.md) )
+# ShowPopContentRequest( [ EntityEventBase ](/docs/game-reflection/events/entity_event_base) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [float](/game-reflection/components/float.md) | Size |
-| [String](/game-reflection/components/string.md) | Content |
-| [String](/game-reflection/components/string.md) | Icon |
-| [Color](/game-reflection/classes/color.md) | Color |
-| [Entity](/game-reflection/classes/entity.md) | Entity |
+| [float](/docs/game-reflection/components/float) | Size |
+| [String](/docs/game-reflection/components/string) | Content |
+| [String](/docs/game-reflection/components/string) | Icon |
+| [Color](/docs/game-reflection/classes/color) | Color |
+| [Entity](/docs/game-reflection/classes/entity) | Entity |
+

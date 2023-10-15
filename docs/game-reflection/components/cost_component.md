@@ -9,8 +9,10 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| Vector< [ResearchCost](/game-reflection/classes/research_cost.md) > | item_costs |
-| [bool](/game-reflection/components/bool.md) | is_unique |
-| [ResourceAccount](/game-reflection/classes/resource_account.md) | account |
+| Vector< [ResearchCost](/docs/game-reflection/classes/research_cost) > | item_costs |
+| [bool](/docs/game-reflection/components/bool) | is_unique |
+| [ResourceAccount](/docs/game-reflection/classes/resource_account) | account |
+

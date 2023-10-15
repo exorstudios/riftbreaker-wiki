@@ -5,12 +5,14 @@ has_children: false
 parent: Event
 grand_parent: Game Reflection
 ---
-# SetBaseMovementDataRequest( ![ EntityEventBase ](/game-reflection/events/entity_event_base.md) )
+# SetBaseMovementDataRequest( [ EntityEventBase ](/docs/game-reflection/events/entity_event_base) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [float](/game-reflection/components/float.md) | MaxSpeed |
-| [float](/game-reflection/components/float.md) | Acceleration |
-| [Entity](/game-reflection/classes/entity.md) | Entity |
+| [float](/docs/game-reflection/components/float) | MaxSpeed |
+| [float](/docs/game-reflection/components/float) | Acceleration |
+| [Entity](/docs/game-reflection/classes/entity) | Entity |
+

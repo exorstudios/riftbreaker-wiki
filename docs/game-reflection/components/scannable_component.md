@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [float](/game-reflection/components/float.md) | scanning_progress |
-| [bool](/game-reflection/components/bool.md) | is_scan_in_progress |
+| [float](/docs/game-reflection/components/float) | scanning_progress |
+| [bool](/docs/game-reflection/components/bool) | is_scan_in_progress |
+

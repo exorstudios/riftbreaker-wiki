@@ -9,6 +9,8 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| Vector< [RibbonBezierCurve](/game-reflection/classes/ribbon_bezier_curve.md) > | curves |
+| Vector< [RibbonBezierCurve](/docs/game-reflection/classes/ribbon_bezier_curve) > | curves |
+

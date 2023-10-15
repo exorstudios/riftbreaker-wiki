@@ -9,12 +9,14 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [IdString](/game-reflection/components/id_string.md) | name |
-| [IdString](/game-reflection/components/id_string.md) | bone |
-| [bool](/game-reflection/components/bool.md) | active |
-| [bool](/game-reflection/components/bool.md) | mirror |
-| [uint](/game-reflection/components/uint.md) | current_subslot |
-| Vector< [IdString](/game-reflection/components/id_string.md) > | allow_types |
-| [uchar](/game-reflection/enums/uchar.md) | subslots_count |
+| [IdString](/docs/game-reflection/components/id_string) | name |
+| [IdString](/docs/game-reflection/components/id_string) | bone |
+| [bool](/docs/game-reflection/components/bool) | active |
+| [bool](/docs/game-reflection/components/bool) | mirror |
+| [uint](/docs/game-reflection/components/uint) | current_subslot |
+| Vector< [IdString](/docs/game-reflection/components/id_string) > | allow_types |
+| [uchar](/docs/game-reflection/enums/uchar) | subslots_count |
+

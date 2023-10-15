@@ -9,6 +9,8 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| Vector< [StringHash](/game-reflection/classes/string_hash.md) > | buildings |
+| Vector< [StringHash](/docs/game-reflection/classes/string_hash) > | buildings |
+

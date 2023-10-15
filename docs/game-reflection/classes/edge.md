@@ -9,9 +9,11 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [uint64](/game-reflection/components/uint64.md) | end |
-| [uint64](/game-reflection/components/uint64.md) | start |
-| [int](/game-reflection/enums/int.md) | status |
-| [bool](/game-reflection/components/bool.md) | visit_once |
+| [uint64](/docs/game-reflection/components/uint64) | end |
+| [uint64](/docs/game-reflection/components/uint64) | start |
+| [int](/docs/game-reflection/enums/int) | status |
+| [bool](/docs/game-reflection/components/bool) | visit_once |
+

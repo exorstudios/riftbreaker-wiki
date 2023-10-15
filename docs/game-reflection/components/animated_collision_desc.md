@@ -9,8 +9,10 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [uchar](/game-reflection/enums/uchar.md) | collision_group_id |
-| [String](/game-reflection/components/string.md) | skeleton_prefix |
-| Vector< [String](/game-reflection/components/string.md) > | excluded_collisions |
+| [uchar](/docs/game-reflection/enums/uchar) | collision_group_id |
+| [String](/docs/game-reflection/components/string) | skeleton_prefix |
+| Vector< [String](/docs/game-reflection/components/string) > | excluded_collisions |
+

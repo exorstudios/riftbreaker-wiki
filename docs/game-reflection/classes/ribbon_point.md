@@ -9,8 +9,10 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [float](/game-reflection/components/float.md) | alpha |
-| [float](/game-reflection/components/float.md) | distance |
-| [Vector3](/game-reflection/classes/vector3.md) | point |
+| [float](/docs/game-reflection/components/float) | alpha |
+| [float](/docs/game-reflection/components/float) | distance |
+| [Vector3](/docs/game-reflection/classes/vector3) | point |
+

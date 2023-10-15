@@ -9,6 +9,8 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| Vector< [ReflectionTypeDesc](/game-reflection/components/reflection_type_desc.md) > | types |
+| Vector< [ReflectionTypeDesc](/docs/game-reflection/components/reflection_type_desc) > | types |
+

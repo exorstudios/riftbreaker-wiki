@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [uchar](/game-reflection/enums/uchar.md) | projection_plane |
-| [Radian](/game-reflection/classes/radian.md) | angular_speed |
+| [uchar](/docs/game-reflection/enums/uchar) | projection_plane |
+| [Radian](/docs/game-reflection/classes/radian) | angular_speed |
+

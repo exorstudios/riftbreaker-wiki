@@ -9,8 +9,10 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [float](/game-reflection/components/float.md) | near |
-| [float](/game-reflection/components/float.md) | intensity |
-| [float](/game-reflection/components/float.md) | penumbra |
+| [float](/docs/game-reflection/components/float) | near |
+| [float](/docs/game-reflection/components/float) | intensity |
+| [float](/docs/game-reflection/components/float) | penumbra |
+

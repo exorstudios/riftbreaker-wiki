@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| Vector< [QueueDialogRequest](/game-reflection/classes/queue_dialog_request.md) > | value |
-| [float](/game-reflection/components/float.md) | key |
+| Vector< [QueueDialogRequest](/docs/game-reflection/classes/queue_dialog_request) > | value |
+| [float](/docs/game-reflection/components/float) | key |
+

@@ -5,12 +5,14 @@ has_children: false
 parent: Event
 grand_parent: Game Reflection
 ---
-# MinimapClickedEvent( ![ EntityEventBase ](/game-reflection/events/entity_event_base.md) )
+# MinimapClickedEvent( [ EntityEventBase ](/docs/game-reflection/events/entity_event_base) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [uchar](/game-reflection/enums/uchar.md) | MinimapType |
-| [Vector3](/game-reflection/classes/vector3.md) | WorldPosition |
-| [Entity](/game-reflection/classes/entity.md) | Entity |
+| [uchar](/docs/game-reflection/enums/uchar) | MinimapType |
+| [Vector3](/docs/game-reflection/classes/vector3) | WorldPosition |
+| [Entity](/docs/game-reflection/classes/entity) | Entity |
+

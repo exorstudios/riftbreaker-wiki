@@ -9,10 +9,12 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [Quaternion](/game-reflection/classes/quaternion.md) | orientation |
-| [uchar](/game-reflection/enums/uchar.md) | type |
-| [Vector3](/game-reflection/classes/vector3.md) | position |
-| [uchar](/game-reflection/enums/uchar.md) | flags |
-| [uchar](/game-reflection/enums/uchar.md) | group_id |
+| [Quaternion](/docs/game-reflection/classes/quaternion) | orientation |
+| [uchar](/docs/game-reflection/enums/uchar) | type |
+| [Vector3](/docs/game-reflection/classes/vector3) | position |
+| [uchar](/docs/game-reflection/enums/uchar) | flags |
+| [uchar](/docs/game-reflection/enums/uchar) | group_id |
+

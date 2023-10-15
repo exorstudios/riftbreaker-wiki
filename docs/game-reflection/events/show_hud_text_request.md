@@ -5,12 +5,14 @@ has_children: false
 parent: Event
 grand_parent: Game Reflection
 ---
-# ShowHudTextRequest( ![ EntityEventBase ](/game-reflection/events/entity_event_base.md) )
+# ShowHudTextRequest( [ EntityEventBase ](/docs/game-reflection/events/entity_event_base) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [String](/game-reflection/components/string.md) | Content |
-| [String](/game-reflection/components/string.md) | Id |
-| [Entity](/game-reflection/classes/entity.md) | Entity |
+| [String](/docs/game-reflection/components/string) | Content |
+| [String](/docs/game-reflection/components/string) | Id |
+| [Entity](/docs/game-reflection/classes/entity) | Entity |
+

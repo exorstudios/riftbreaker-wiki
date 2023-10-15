@@ -9,19 +9,21 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [float](/game-reflection/components/float.md) | damping_constant |
-| [float](/game-reflection/components/float.md) | fake_tip_mass |
-| [float](/game-reflection/components/float.md) | burned_spring_scaler |
-| [String](/game-reflection/components/string.md) | mesh_prefix |
-| [float](/game-reflection/components/float.md) | spring_constant |
-| [bool](/game-reflection/components/bool.md) | tree_collapse |
-| [String](/game-reflection/components/string.md) | material_prefix |
-| [float](/game-reflection/components/float.md) | falling_mass |
-| [float](/game-reflection/components/float.md) | bend_break_threshold |
-| [float](/game-reflection/components/float.md) | fall_impulse_scale |
-| [String](/game-reflection/components/string.md) | bird_effect |
-| [float](/game-reflection/components/float.md) | falling_force |
-| [String](/game-reflection/components/string.md) | fall_tree_effect |
-| [float](/game-reflection/components/float.md) | bird_emission_probability |
+| [float](/docs/game-reflection/components/float) | damping_constant |
+| [float](/docs/game-reflection/components/float) | fake_tip_mass |
+| [float](/docs/game-reflection/components/float) | burned_spring_scaler |
+| [String](/docs/game-reflection/components/string) | mesh_prefix |
+| [float](/docs/game-reflection/components/float) | spring_constant |
+| [bool](/docs/game-reflection/components/bool) | tree_collapse |
+| [String](/docs/game-reflection/components/string) | material_prefix |
+| [float](/docs/game-reflection/components/float) | falling_mass |
+| [float](/docs/game-reflection/components/float) | bend_break_threshold |
+| [float](/docs/game-reflection/components/float) | fall_impulse_scale |
+| [String](/docs/game-reflection/components/string) | bird_effect |
+| [float](/docs/game-reflection/components/float) | falling_force |
+| [String](/docs/game-reflection/components/string) | fall_tree_effect |
+| [float](/docs/game-reflection/components/float) | bird_emission_probability |
+

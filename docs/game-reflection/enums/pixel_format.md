@@ -9,6 +9,7 @@ grand_parent: Game Reflection
 Description 
 
 ## Enum values
+
 | Name | Value |
 |:-------------|:--------------|
 | PF_UNKNOWN | 0 |
@@ -63,3 +64,4 @@ Description
 | PF_DEPTH_D24_S8 | 49 |
 | PF_DEPTH_D32_S8X24 | 50 |
 | PF_COUNT | 51 |
+

@@ -9,19 +9,21 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [uint64](/game-reflection/components/uint64.md) | template_version |
-| Vector< [uint64](/game-reflection/components/uint64.md) > | active_indices |
-| [bool](/game-reflection/components/bool.md) | initialized |
-| Vector< [uint64](/game-reflection/components/uint64.md) > | pending_indices |
-| [bool](/game-reflection/components/bool.md) | update_disabled_nodes |
-| Vector< [Pair_StringHash_uint64](/game-reflection/classes/pair__string_hash_uint64.md) > | name_to_node |
-| [String](/game-reflection/components/string.md) | template_name |
-| Vector< [uint64](/game-reflection/components/uint64.md) > | start_indices |
-| Vector< [uint64](/game-reflection/components/uint64.md) > | end_indices |
-| Vector< [Edge](/game-reflection/classes/edge.md) > | edges |
-| Vector< [Node](/game-reflection/classes/node.md) > | nodes |
-| [FlowGraphCustomizer1](/game-reflection/components/flow_graph_customizer1.md) | customizer |
-| [int](/game-reflection/enums/int.md) | status |
-| Vector< [uint64](/game-reflection/components/uint64.md) > | disabled_indices |
+| [uint64](/docs/game-reflection/components/uint64) | template_version |
+| Vector< [uint64](/docs/game-reflection/components/uint64) > | active_indices |
+| [bool](/docs/game-reflection/components/bool) | initialized |
+| Vector< [uint64](/docs/game-reflection/components/uint64) > | pending_indices |
+| [bool](/docs/game-reflection/components/bool) | update_disabled_nodes |
+| Vector< [Pair_StringHash_uint64](/docs/game-reflection/classes/pair__string_hash_uint64) > | name_to_node |
+| [String](/docs/game-reflection/components/string) | template_name |
+| Vector< [uint64](/docs/game-reflection/components/uint64) > | start_indices |
+| Vector< [uint64](/docs/game-reflection/components/uint64) > | end_indices |
+| Vector< [Edge](/docs/game-reflection/classes/edge) > | edges |
+| Vector< [Node](/docs/game-reflection/classes/node) > | nodes |
+| [FlowGraphCustomizer1](/docs/game-reflection/components/flow_graph_customizer1) | customizer |
+| [int](/docs/game-reflection/enums/int) | status |
+| Vector< [uint64](/docs/game-reflection/components/uint64) > | disabled_indices |
+

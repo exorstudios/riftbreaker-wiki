@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| Vector< [String](/game-reflection/components/string.md) > | unlocked |
-| Vector< [Entity](/game-reflection/classes/entity.md) > | to_remove |
+| Vector< [String](/docs/game-reflection/components/string) > | unlocked |
+| Vector< [Entity](/docs/game-reflection/classes/entity) > | to_remove |
+

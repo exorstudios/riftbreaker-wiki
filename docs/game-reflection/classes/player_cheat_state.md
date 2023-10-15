@@ -9,12 +9,14 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [bool](/game-reflection/components/bool.md) | unlock_all |
-| [Entity](/game-reflection/classes/entity.md) | minimap_revealer |
-| [bool](/game-reflection/components/bool.md) | no_clip |
-| [bool](/game-reflection/components/bool.md) | ignore_limits |
-| [bool](/game-reflection/components/bool.md) | unlimited_ammo |
-| [bool](/game-reflection/components/bool.md) | god_mode |
-| [bool](/game-reflection/components/bool.md) | unlimited_money |
+| [bool](/docs/game-reflection/components/bool) | unlock_all |
+| [Entity](/docs/game-reflection/classes/entity) | minimap_revealer |
+| [bool](/docs/game-reflection/components/bool) | no_clip |
+| [bool](/docs/game-reflection/components/bool) | ignore_limits |
+| [bool](/docs/game-reflection/components/bool) | unlimited_ammo |
+| [bool](/docs/game-reflection/components/bool) | god_mode |
+| [bool](/docs/game-reflection/components/bool) | unlimited_money |
+

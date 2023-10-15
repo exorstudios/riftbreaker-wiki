@@ -9,9 +9,11 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [uint](/game-reflection/components/uint.md) | EntityId |
-| [uint](/game-reflection/components/uint.md) | CostId |
-| Vector< [int](/game-reflection/enums/int.md) > | NodesIdx |
-| Vector< [int](/game-reflection/enums/int.md) > | AirNodesIdx |
+| [uint](/docs/game-reflection/components/uint) | EntityId |
+| [uint](/docs/game-reflection/components/uint) | CostId |
+| Vector< [int](/docs/game-reflection/enums/int) > | NodesIdx |
+| Vector< [int](/docs/game-reflection/enums/int) > | AirNodesIdx |
+

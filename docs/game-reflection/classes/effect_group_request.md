@@ -9,12 +9,14 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [Entity](/game-reflection/classes/entity.md) | entity |
-| [StringHash](/game-reflection/classes/string_hash.md) | group |
-| [IdString](/game-reflection/components/id_string.md) | blueprint |
-| [Transform](/game-reflection/classes/transform.md) | transform |
-| [int](/game-reflection/enums/int.md) | type |
-| [float](/game-reflection/components/float.md) | delay |
-| [StringHash](/game-reflection/classes/string_hash.md) | attachment |
+| [Entity](/docs/game-reflection/classes/entity) | entity |
+| [StringHash](/docs/game-reflection/classes/string_hash) | group |
+| [IdString](/docs/game-reflection/components/id_string) | blueprint |
+| [Transform](/docs/game-reflection/classes/transform) | transform |
+| [int](/docs/game-reflection/enums/int) | type |
+| [float](/docs/game-reflection/components/float) | delay |
+| [StringHash](/docs/game-reflection/classes/string_hash) | attachment |
+

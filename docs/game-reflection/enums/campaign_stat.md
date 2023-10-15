@@ -9,6 +9,7 @@ grand_parent: Game Reflection
 Description 
 
 ## Enum values
+
 | Name | Value |
 |:-------------|:--------------|
 | PlaytimeElapsed | 0 |
@@ -45,3 +46,4 @@ Description
 | BuildingsDamageDoneByType | 31 |
 | BuildingsDamageTakenByType | 32 |
 | BuildingsDamageTakenByOwner | 33 |
+

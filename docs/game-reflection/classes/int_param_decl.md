@@ -5,12 +5,14 @@ has_children: false
 parent: Class
 grand_parent: Game Reflection
 ---
-# IntParamDecl( ![ ParamDecl ](/game-reflection/classes/param_decl.md) )
+# IntParamDecl( [ ParamDecl ](/docs/game-reflection/classes/param_decl) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [int](/game-reflection/enums/int.md) | max |
-| [int](/game-reflection/enums/int.md) | min |
-| [int](/game-reflection/enums/int.md) | default |
+| [int](/docs/game-reflection/enums/int) | max |
+| [int](/docs/game-reflection/enums/int) | min |
+| [int](/docs/game-reflection/enums/int) | default |
+

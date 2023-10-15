@@ -9,10 +9,12 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [Database](/game-reflection/components/database.md) | action_database |
-| [String](/game-reflection/components/string.md) | requirement |
-| [String](/game-reflection/components/string.md) | label |
-| [String](/game-reflection/components/string.md) | action |
-| [String](/game-reflection/components/string.md) | icon |
+| [Database](/docs/game-reflection/components/database) | action_database |
+| [String](/docs/game-reflection/components/string) | requirement |
+| [String](/docs/game-reflection/components/string) | label |
+| [String](/docs/game-reflection/components/string) | action |
+| [String](/docs/game-reflection/components/string) | icon |
+

@@ -5,10 +5,12 @@ has_children: false
 parent: Class
 grand_parent: Game Reflection
 ---
-# GuiModelEmptyStringFallbackConverter( ![ GuiModelConverter ](/game-reflection/classes/gui_model_converter.md) )
+# GuiModelEmptyStringFallbackConverter( [ GuiModelConverter ](/docs/game-reflection/classes/gui_model_converter) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [String](/game-reflection/components/string.md) | fallback_value |
+| [String](/docs/game-reflection/components/string) | fallback_value |
+

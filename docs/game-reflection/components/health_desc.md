@@ -9,13 +9,15 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [bool](/game-reflection/components/bool.md) | override_only_first_submesh |
-| [bool](/game-reflection/components/bool.md) | is_manual |
-| [bool](/game-reflection/components/bool.md) | is_dead |
-| Vector< [DestructionLevel](/game-reflection/classes/destruction_level.md) > | DestructionLevels |
-| [bool](/game-reflection/components/bool.md) | update_health_uniform |
-| [float](/game-reflection/components/float.md) | max_health |
-| [float](/game-reflection/components/float.md) | health |
-| [bool](/game-reflection/components/bool.md) | is_immortal |
+| [bool](/docs/game-reflection/components/bool) | override_only_first_submesh |
+| [bool](/docs/game-reflection/components/bool) | is_manual |
+| [bool](/docs/game-reflection/components/bool) | is_dead |
+| Vector< [DestructionLevel](/docs/game-reflection/classes/destruction_level) > | DestructionLevels |
+| [bool](/docs/game-reflection/components/bool) | update_health_uniform |
+| [float](/docs/game-reflection/components/float) | max_health |
+| [float](/docs/game-reflection/components/float) | health |
+| [bool](/docs/game-reflection/components/bool) | is_immortal |
+

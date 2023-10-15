@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [float](/game-reflection/components/float.md) | x |
-| [float](/game-reflection/components/float.md) | y |
+| [float](/docs/game-reflection/components/float) | x |
+| [float](/docs/game-reflection/components/float) | y |
+

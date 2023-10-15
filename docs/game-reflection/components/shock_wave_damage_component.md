@@ -9,12 +9,14 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [Entity](/game-reflection/classes/entity.md) | owner_ent |
-| [float](/game-reflection/components/float.md) | damage_factor |
-| [float](/game-reflection/components/float.md) | head |
-| Vector< [Entity](/game-reflection/classes/entity.md) > | visited_ents |
-| [float](/game-reflection/components/float.md) | tail |
-| [DamagePattern](/game-reflection/classes/damage_pattern.md) | DamagePattern |
-| [Entity](/game-reflection/classes/entity.md) | creator_ent |
+| [Entity](/docs/game-reflection/classes/entity) | owner_ent |
+| [float](/docs/game-reflection/components/float) | damage_factor |
+| [float](/docs/game-reflection/components/float) | head |
+| Vector< [Entity](/docs/game-reflection/classes/entity) > | visited_ents |
+| [float](/docs/game-reflection/components/float) | tail |
+| [DamagePattern](/docs/game-reflection/classes/damage_pattern) | DamagePattern |
+| [Entity](/docs/game-reflection/classes/entity) | creator_ent |
+

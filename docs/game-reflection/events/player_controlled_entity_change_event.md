@@ -5,12 +5,14 @@ has_children: false
 parent: Event
 grand_parent: Game Reflection
 ---
-# PlayerControlledEntityChangeEvent( ![ EntityEventBase ](/game-reflection/events/entity_event_base.md) )
+# PlayerControlledEntityChangeEvent( [ EntityEventBase ](/docs/game-reflection/events/entity_event_base) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [uint](/game-reflection/components/uint.md) | PlayerId |
-| [Entity](/game-reflection/classes/entity.md) | Entity |
-| [Entity](/game-reflection/classes/entity.md) | ControlledEntity |
+| [uint](/docs/game-reflection/components/uint) | PlayerId |
+| [Entity](/docs/game-reflection/classes/entity) | Entity |
+| [Entity](/docs/game-reflection/classes/entity) | ControlledEntity |
+

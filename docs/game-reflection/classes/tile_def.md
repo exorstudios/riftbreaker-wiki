@@ -9,8 +9,10 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [bool](/game-reflection/components/bool.md) | is_hidden |
-| Vector< [int](/game-reflection/enums/int.md) > | fixed_rotation |
-| Vector< [TileRegion](/game-reflection/classes/tile_region.md) > | tile_regions |
+| [bool](/docs/game-reflection/components/bool) | is_hidden |
+| Vector< [int](/docs/game-reflection/enums/int) > | fixed_rotation |
+| Vector< [TileRegion](/docs/game-reflection/classes/tile_region) > | tile_regions |
+

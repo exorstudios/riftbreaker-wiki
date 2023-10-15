@@ -5,12 +5,14 @@ has_children: false
 parent: Event
 grand_parent: Game Reflection
 ---
-# DestroyRequest( ![ EntityEventBase ](/game-reflection/events/entity_event_base.md) )
+# DestroyRequest( [ EntityEventBase ](/docs/game-reflection/events/entity_event_base) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [String](/game-reflection/components/string.md) | DamageType |
-| [float](/game-reflection/components/float.md) | DamagePercentage |
-| [Entity](/game-reflection/classes/entity.md) | Entity |
+| [String](/docs/game-reflection/components/string) | DamageType |
+| [float](/docs/game-reflection/components/float) | DamagePercentage |
+| [Entity](/docs/game-reflection/classes/entity) | Entity |
+

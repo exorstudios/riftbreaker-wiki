@@ -9,8 +9,10 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [String](/game-reflection/components/string.md) | message |
-| [uint64](/game-reflection/components/uint64.md) | timestamp |
-| [String](/game-reflection/components/string.md) | sender |
+| [String](/docs/game-reflection/components/string) | message |
+| [uint64](/docs/game-reflection/components/uint64) | timestamp |
+| [String](/docs/game-reflection/components/string) | sender |
+

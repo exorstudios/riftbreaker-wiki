@@ -9,13 +9,15 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [float](/game-reflection/components/float.md) | physics_gravity_factor |
-| [bool](/game-reflection/components/bool.md) | initialized |
-| [int](/game-reflection/enums/int.md) | time_of_day |
-| [TimeOfDayEnvState](/game-reflection/classes/time_of_day_env_state.md) | time_of_day_env_state |
-| [Entity](/game-reflection/classes/entity.md) | sun_entity |
-| [int64](/game-reflection/components/int64.md) | time |
-| Vector< [TimeOfDay](/game-reflection/enums/time_of_day.md) > | timeofday_override |
-| [Vector3](/game-reflection/classes/vector3.md) | sun_dir |
+| [float](/docs/game-reflection/components/float) | physics_gravity_factor |
+| [bool](/docs/game-reflection/components/bool) | initialized |
+| [int](/docs/game-reflection/enums/int) | time_of_day |
+| [TimeOfDayEnvState](/docs/game-reflection/classes/time_of_day_env_state) | time_of_day_env_state |
+| [Entity](/docs/game-reflection/classes/entity) | sun_entity |
+| [int64](/docs/game-reflection/components/int64) | time |
+| Vector< [TimeOfDay](/docs/game-reflection/enums/time_of_day) > | timeofday_override |
+| [Vector3](/docs/game-reflection/classes/vector3) | sun_dir |
+

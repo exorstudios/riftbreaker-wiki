@@ -5,12 +5,14 @@ has_children: false
 parent: Event
 grand_parent: Game Reflection
 ---
-# ActivateOnceEquipmentSlotRequest( ![ EntityEventBase ](/game-reflection/events/entity_event_base.md) )
+# ActivateOnceEquipmentSlotRequest( [ EntityEventBase ](/docs/game-reflection/events/entity_event_base) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [Entity](/game-reflection/classes/entity.md) | Owner |
-| [IdString](/game-reflection/components/id_string.md) | SlotID |
-| [StringHash](/game-reflection/classes/string_hash.md) | PermissionMatrixName |
+| [Entity](/docs/game-reflection/classes/entity) | Owner |
+| [IdString](/docs/game-reflection/components/id_string) | SlotID |
+| [StringHash](/docs/game-reflection/classes/string_hash) | PermissionMatrixName |
+

@@ -5,13 +5,15 @@ has_children: false
 parent: Class
 grand_parent: Game Reflection
 ---
-# AnimationFloatRemapNode( ![ AnimationEvalNode ](/game-reflection/classes/animation_eval_node.md) )
+# AnimationFloatRemapNode( [ AnimationEvalNode ](/docs/game-reflection/classes/animation_eval_node) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [float](/game-reflection/components/float.md) | arg_min |
-| [float](/game-reflection/components/float.md) | value_min |
-| [float](/game-reflection/components/float.md) | arg_max |
-| [float](/game-reflection/components/float.md) | value_max |
+| [float](/docs/game-reflection/components/float) | arg_min |
+| [float](/docs/game-reflection/components/float) | value_min |
+| [float](/docs/game-reflection/components/float) | arg_max |
+| [float](/docs/game-reflection/components/float) | value_max |
+

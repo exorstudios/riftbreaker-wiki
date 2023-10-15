@@ -9,21 +9,23 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [bool](/game-reflection/components/bool.md) | last_can_fire |
-| [uchar](/game-reflection/enums/uchar.md) | ammo_type |
-| [float](/game-reflection/components/float.md) | affector_power |
-| [Entity](/game-reflection/classes/entity.md) | last_snaped_ent |
-| Vector< [WeaponMuzzle](/game-reflection/classes/weapon_muzzle.md) > | WeaponMuzzles |
-| [uchar](/game-reflection/enums/uchar.md) | current_state |
-| [bool](/game-reflection/components/bool.md) | plain_auto_aim |
-| [uint64](/game-reflection/components/uint64.md) | autoaim_type |
-| [bool](/game-reflection/components/bool.md) | check_target_visibility |
-| [float](/game-reflection/components/float.md) | cooldown_time |
-| [WeaponAffector](/game-reflection/classes/weapon_affector.md) | WeaponAffector |
-| [LogicTimer](/game-reflection/classes/logic_timer.md) | cooldown_timer |
-| Vector< [Pair_IdString_Vector_Entity](/game-reflection/classes/pair__id_string__vector__entity.md) > | children_entities |
-| [IdString](/game-reflection/components/id_string.md) | fire_effect |
-| [uchar](/game-reflection/enums/uchar.md) | pending_state |
-| [IdString](/game-reflection/components/id_string.md) | ammo_blueprint |
+| [bool](/docs/game-reflection/components/bool) | last_can_fire |
+| [uchar](/docs/game-reflection/enums/uchar) | ammo_type |
+| [float](/docs/game-reflection/components/float) | affector_power |
+| [Entity](/docs/game-reflection/classes/entity) | last_snaped_ent |
+| Vector< [WeaponMuzzle](/docs/game-reflection/classes/weapon_muzzle) > | WeaponMuzzles |
+| [uchar](/docs/game-reflection/enums/uchar) | current_state |
+| [bool](/docs/game-reflection/components/bool) | plain_auto_aim |
+| [uint64](/docs/game-reflection/components/uint64) | autoaim_type |
+| [bool](/docs/game-reflection/components/bool) | check_target_visibility |
+| [float](/docs/game-reflection/components/float) | cooldown_time |
+| [WeaponAffector](/docs/game-reflection/classes/weapon_affector) | WeaponAffector |
+| [LogicTimer](/docs/game-reflection/classes/logic_timer) | cooldown_timer |
+| Vector< [Pair_IdString_Vector_Entity](/docs/game-reflection/classes/pair__id_string__vector__entity) > | children_entities |
+| [IdString](/docs/game-reflection/components/id_string) | fire_effect |
+| [uchar](/docs/game-reflection/enums/uchar) | pending_state |
+| [IdString](/docs/game-reflection/components/id_string) | ammo_blueprint |
+

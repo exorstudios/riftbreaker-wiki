@@ -9,6 +9,8 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [ComponentRemoveObserver](/game-reflection/components/component_remove_observer.md) | removed_observer |
+| [ComponentRemoveObserver](/docs/game-reflection/components/component_remove_observer) | removed_observer |
+

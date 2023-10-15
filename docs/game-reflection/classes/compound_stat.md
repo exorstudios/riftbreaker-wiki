@@ -5,10 +5,12 @@ has_children: false
 parent: Class
 grand_parent: Game Reflection
 ---
-# CompoundStat( ![ AggregatedStat ](/game-reflection/classes/aggregated_stat.md) )
+# CompoundStat( [ AggregatedStat ](/docs/game-reflection/classes/aggregated_stat) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| Vector< [Pair_CampaignStat_AggregatedStat](/game-reflection/classes/pair__campaign_stat__aggregated_stat.md) > | aggregates |
+| Vector< [Pair_CampaignStat_AggregatedStat](/docs/game-reflection/classes/pair__campaign_stat__aggregated_stat) > | aggregates |
+

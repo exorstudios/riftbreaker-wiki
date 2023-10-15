@@ -5,11 +5,13 @@ has_children: false
 parent: Class
 grand_parent: Game Reflection
 ---
-# BehaviourNode( ![ FlowGraphNode ](/game-reflection/classes/flow_graph_node.md) )
+# BehaviourNode( [ FlowGraphNode ](/docs/game-reflection/classes/flow_graph_node) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [Entity](/game-reflection/classes/entity.md) | entity |
-| [bool](/game-reflection/components/bool.md) | initialized |
+| [Entity](/docs/game-reflection/classes/entity) | entity |
+| [bool](/docs/game-reflection/components/bool) | initialized |
+

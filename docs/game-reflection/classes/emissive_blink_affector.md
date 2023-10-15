@@ -5,13 +5,15 @@ has_children: false
 parent: Class
 grand_parent: Game Reflection
 ---
-# EmissiveBlinkAffector( ![ AffectorLambda ](/game-reflection/classes/affector_lambda.md) )
+# EmissiveBlinkAffector( [ AffectorLambda ](/docs/game-reflection/classes/affector_lambda) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [float](/game-reflection/components/float.md) | timer |
-| [ushort](/game-reflection/enums/ushort.md) | quantity |
-| [float](/game-reflection/components/float.md) | time |
-| [float](/game-reflection/components/float.md) | power |
+| [float](/docs/game-reflection/components/float) | timer |
+| [ushort](/docs/game-reflection/enums/ushort) | quantity |
+| [float](/docs/game-reflection/components/float) | time |
+| [float](/docs/game-reflection/components/float) | power |
+

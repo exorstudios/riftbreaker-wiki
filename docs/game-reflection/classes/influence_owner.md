@@ -9,10 +9,12 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [Entity](/game-reflection/classes/entity.md) | entity |
-| [int](/game-reflection/enums/int.md) | radius |
-| [int](/game-reflection/enums/int.md) | max_radius |
-| [int](/game-reflection/enums/int.md) | energy_radius |
-| [int](/game-reflection/enums/int.md) | emissive_radius |
+| [Entity](/docs/game-reflection/classes/entity) | entity |
+| [int](/docs/game-reflection/enums/int) | radius |
+| [int](/docs/game-reflection/enums/int) | max_radius |
+| [int](/docs/game-reflection/enums/int) | energy_radius |
+| [int](/docs/game-reflection/enums/int) | emissive_radius |
+

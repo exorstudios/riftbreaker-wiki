@@ -9,8 +9,10 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [String](/game-reflection/components/string.md) | user_name |
-| [String](/game-reflection/components/string.md) | id |
-| [String](/game-reflection/components/string.md) | remote_identity |
+| [String](/docs/game-reflection/components/string) | user_name |
+| [String](/docs/game-reflection/components/string) | id |
+| [String](/docs/game-reflection/components/string) | remote_identity |
+

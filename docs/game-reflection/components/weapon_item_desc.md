@@ -9,9 +9,11 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [uchar](/game-reflection/enums/uchar.md) | rarity |
-| [IdString](/game-reflection/components/id_string.md) | damage_type |
-| Vector< [WeaponStatDef](/game-reflection/classes/weapon_stat_def.md) > | stat_def_vec |
-| [IdString](/game-reflection/components/id_string.md) | ammo_storage |
+| [uchar](/docs/game-reflection/enums/uchar) | rarity |
+| [IdString](/docs/game-reflection/components/id_string) | damage_type |
+| Vector< [WeaponStatDef](/docs/game-reflection/classes/weapon_stat_def) > | stat_def_vec |
+| [IdString](/docs/game-reflection/components/id_string) | ammo_storage |
+

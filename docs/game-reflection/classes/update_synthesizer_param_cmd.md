@@ -9,8 +9,10 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [float](/game-reflection/components/float.md) | fvalue |
-| [IdString](/game-reflection/components/id_string.md) | param |
-| [IdString](/game-reflection/components/id_string.md) | sound |
+| [float](/docs/game-reflection/components/float) | fvalue |
+| [IdString](/docs/game-reflection/components/id_string) | param |
+| [IdString](/docs/game-reflection/components/id_string) | sound |
+

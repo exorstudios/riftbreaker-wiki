@@ -9,9 +9,11 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [float](/game-reflection/components/float.md) | look_forward_distance |
-| [float](/game-reflection/components/float.md) | water_offset |
-| [float](/game-reflection/components/float.md) | interpolation_speed |
-| [float](/game-reflection/components/float.md) | add_extra_height |
+| [float](/docs/game-reflection/components/float) | look_forward_distance |
+| [float](/docs/game-reflection/components/float) | water_offset |
+| [float](/docs/game-reflection/components/float) | interpolation_speed |
+| [float](/docs/game-reflection/components/float) | add_extra_height |
+

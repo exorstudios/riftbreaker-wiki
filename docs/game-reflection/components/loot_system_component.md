@@ -9,10 +9,12 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [Random](/game-reflection/components/random.md) | random |
-| [ModifiableValue](/game-reflection/classes/modifiable_value.md) | loot_resources_modifier |
-| [ModifiableValue](/game-reflection/classes/modifiable_value.md) | loot_mods_modifier |
-| [bool](/game-reflection/components/bool.md) | is_initialized |
-| [bool](/game-reflection/components/bool.md) | enable_conditions |
+| [Random](/docs/game-reflection/components/random) | random |
+| [ModifiableValue](/docs/game-reflection/classes/modifiable_value) | loot_resources_modifier |
+| [ModifiableValue](/docs/game-reflection/classes/modifiable_value) | loot_mods_modifier |
+| [bool](/docs/game-reflection/components/bool) | is_initialized |
+| [bool](/docs/game-reflection/components/bool) | enable_conditions |
+

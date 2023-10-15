@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [Vector3](/game-reflection/classes/vector3.md) | second |
-| [Entity](/game-reflection/classes/entity.md) | first |
+| [Vector3](/docs/game-reflection/classes/vector3) | second |
+| [Entity](/docs/game-reflection/classes/entity) | first |
+

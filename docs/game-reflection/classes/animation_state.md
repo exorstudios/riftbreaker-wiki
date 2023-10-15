@@ -9,10 +9,12 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [bool](/game-reflection/components/bool.md) | is_paused |
-| [float](/game-reflection/components/float.md) | anim_speed |
-| [String](/game-reflection/components/string.md) | name |
-| [bool](/game-reflection/components/bool.md) | is_looped |
-| [float](/game-reflection/components/float.md) | elapsed_time |
+| [bool](/docs/game-reflection/components/bool) | is_paused |
+| [float](/docs/game-reflection/components/float) | anim_speed |
+| [String](/docs/game-reflection/components/string) | name |
+| [bool](/docs/game-reflection/components/bool) | is_looped |
+| [float](/docs/game-reflection/components/float) | elapsed_time |
+

@@ -9,9 +9,11 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| Vector< [Pair_StringHash_float](/game-reflection/classes/pair__string_hash_float.md) > | pct_modifiers |
-| Vector< [Pair_StringHash_float](/game-reflection/classes/pair__string_hash_float.md) > | flat_modifiers |
-| [float](/game-reflection/components/float.md) | base |
-| [float](/game-reflection/components/float.md) | current_value |
+| Vector< [Pair_StringHash_float](/docs/game-reflection/classes/pair__string_hash_float) > | pct_modifiers |
+| Vector< [Pair_StringHash_float](/docs/game-reflection/classes/pair__string_hash_float) > | flat_modifiers |
+| [float](/docs/game-reflection/components/float) | base |
+| [float](/docs/game-reflection/components/float) | current_value |
+

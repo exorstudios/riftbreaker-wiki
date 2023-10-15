@@ -9,10 +9,12 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [float](/game-reflection/components/float.md) | constraint_timer |
-| [int](/game-reflection/enums/int.md) | dir |
-| [int](/game-reflection/enums/int.md) | current |
-| Vector< [Vector3](/game-reflection/classes/vector3.md) > | target |
-| [uint](/game-reflection/components/uint.md) | count |
+| [float](/docs/game-reflection/components/float) | constraint_timer |
+| [int](/docs/game-reflection/enums/int) | dir |
+| [int](/docs/game-reflection/enums/int) | current |
+| Vector< [Vector3](/docs/game-reflection/classes/vector3) > | target |
+| [uint](/docs/game-reflection/components/uint) | count |
+

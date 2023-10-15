@@ -5,11 +5,13 @@ has_children: false
 parent: Event
 grand_parent: Game Reflection
 ---
-# ShowDialogGroupRequest( ![ EntityEventBase ](/game-reflection/events/entity_event_base.md) )
+# ShowDialogGroupRequest( [ EntityEventBase ](/docs/game-reflection/events/entity_event_base) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [QueueDialogGroupRequest](/game-reflection/classes/queue_dialog_group_request.md) | Dialog |
-| [Entity](/game-reflection/classes/entity.md) | Entity |
+| [QueueDialogGroupRequest](/docs/game-reflection/classes/queue_dialog_group_request) | Dialog |
+| [Entity](/docs/game-reflection/classes/entity) | Entity |
+

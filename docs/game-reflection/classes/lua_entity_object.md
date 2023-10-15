@@ -9,9 +9,11 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [LuaEventHandler](/game-reflection/classes/lua_event_handler.md) | event_handlers |
-| [LuaObject](/game-reflection/classes/lua_object.md) | context |
-| Vector< [LuaStateMachine](/game-reflection/classes/lua_state_machine.md) > | state_machines |
-| [World1](/game-reflection/components/world1.md) | world |
+| [LuaEventHandler](/docs/game-reflection/classes/lua_event_handler) | event_handlers |
+| [LuaObject](/docs/game-reflection/classes/lua_object) | context |
+| Vector< [LuaStateMachine](/docs/game-reflection/classes/lua_state_machine) > | state_machines |
+| [World1](/docs/game-reflection/components/world1) | world |
+

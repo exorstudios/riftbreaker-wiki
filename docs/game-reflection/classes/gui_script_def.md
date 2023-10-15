@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [GuiScriptNodeDef](/game-reflection/classes/gui_script_node_def.md) | script |
-| [IdString](/game-reflection/components/id_string.md) | event_name |
+| [GuiScriptNodeDef](/docs/game-reflection/classes/gui_script_node_def) | script |
+| [IdString](/docs/game-reflection/components/id_string) | event_name |
+

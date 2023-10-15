@@ -5,11 +5,13 @@ has_children: false
 parent: Class
 grand_parent: Game Reflection
 ---
-# GuiPolylineDef( ![ GuiImageDef ](/game-reflection/classes/gui_image_def.md) )
+# GuiPolylineDef( [ GuiImageDef ](/docs/game-reflection/classes/gui_image_def) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [bool](/game-reflection/components/bool.md) | texture_strech |
-| [GuiPolylineDefAbstract](/game-reflection/classes/gui_polyline_def_abstract.md) | polyline |
+| [bool](/docs/game-reflection/components/bool) | texture_strech |
+| [GuiPolylineDefAbstract](/docs/game-reflection/classes/gui_polyline_def_abstract) | polyline |
+

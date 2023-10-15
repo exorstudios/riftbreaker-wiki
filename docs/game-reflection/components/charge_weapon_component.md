@@ -9,9 +9,11 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [float](/game-reflection/components/float.md) | charge_ammo_cost_decreased |
-| Vector< [ChargeLevel](/game-reflection/classes/charge_level.md) > | ChargeLevels |
-| Vector< [ChargeRequest](/game-reflection/classes/charge_request.md) > | charge_requests |
-| Vector< [ChargeFireRequest](/game-reflection/classes/charge_fire_request.md) > | charge_fire_requests |
+| [float](/docs/game-reflection/components/float) | charge_ammo_cost_decreased |
+| Vector< [ChargeLevel](/docs/game-reflection/classes/charge_level) > | ChargeLevels |
+| Vector< [ChargeRequest](/docs/game-reflection/classes/charge_request) > | charge_requests |
+| Vector< [ChargeFireRequest](/docs/game-reflection/classes/charge_fire_request) > | charge_fire_requests |
+

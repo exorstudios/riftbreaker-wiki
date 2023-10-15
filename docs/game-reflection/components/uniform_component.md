@@ -9,6 +9,8 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [RenderableCustomParameters](/game-reflection/components/renderable_custom_parameters.md) | renderable_custom_parameters |
+| [RenderableCustomParameters](/docs/game-reflection/components/renderable_custom_parameters) | renderable_custom_parameters |
+

@@ -9,9 +9,11 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [uchar](/game-reflection/enums/uchar.md) | relation_type |
-| Vector< [Entity](/game-reflection/classes/entity.md) > | entities |
-| [uint](/game-reflection/components/uint.md) | component_type_hash |
-| [uint](/game-reflection/components/uint.md) | target |
+| [uchar](/docs/game-reflection/enums/uchar) | relation_type |
+| Vector< [Entity](/docs/game-reflection/classes/entity) > | entities |
+| [uint](/docs/game-reflection/components/uint) | component_type_hash |
+| [uint](/docs/game-reflection/components/uint) | target |
+

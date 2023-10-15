@@ -9,9 +9,11 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [FlowGraphNode4](/game-reflection/components/flow_graph_node4.md) | impl |
-| Vector< [uint64](/game-reflection/components/uint64.md) > | children |
-| [int](/game-reflection/enums/int.md) | status |
-| Vector< [uint64](/game-reflection/components/uint64.md) > | dependencies |
+| [FlowGraphNode4](/docs/game-reflection/components/flow_graph_node4) | impl |
+| Vector< [uint64](/docs/game-reflection/components/uint64) > | children |
+| [int](/docs/game-reflection/enums/int) | status |
+| Vector< [uint64](/docs/game-reflection/components/uint64) > | dependencies |
+

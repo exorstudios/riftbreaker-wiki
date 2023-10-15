@@ -9,6 +9,7 @@ grand_parent: Game Reflection
 Description 
 
 ## Enum values
+
 | Name | Value |
 |:-------------|:--------------|
 | global | 0 |
@@ -21,3 +22,4 @@ Description
 | loot | 7 |
 | local_compressed | 8 |
 |  | 10 |
+

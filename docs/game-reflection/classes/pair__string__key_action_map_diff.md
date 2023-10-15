@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [KeyActionMapDiff](/game-reflection/classes/key_action_map_diff.md) | value |
-| [String](/game-reflection/components/string.md) | key |
+| [KeyActionMapDiff](/docs/game-reflection/classes/key_action_map_diff) | value |
+| [String](/docs/game-reflection/components/string) | key |
+

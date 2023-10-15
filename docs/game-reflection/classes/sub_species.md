@@ -9,14 +9,16 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [String](/game-reflection/components/string.md) | description |
-| [String](/game-reflection/components/string.md) | name |
-| [String](/game-reflection/components/string.md) | large_icon |
-| Vector< [String](/game-reflection/components/string.md) > | hidden_blueprints |
-| Vector< [String](/game-reflection/components/string.md) > | unscannable_blueprints |
-| [bool](/game-reflection/components/bool.md) | cultivator |
-| Vector< [String](/game-reflection/components/string.md) > | cultivator_biomes |
-| Vector< [String](/game-reflection/components/string.md) > | blueprints |
-| [String](/game-reflection/components/string.md) | icon |
+| [String](/docs/game-reflection/components/string) | description |
+| [String](/docs/game-reflection/components/string) | name |
+| [String](/docs/game-reflection/components/string) | large_icon |
+| Vector< [String](/docs/game-reflection/components/string) > | hidden_blueprints |
+| Vector< [String](/docs/game-reflection/components/string) > | unscannable_blueprints |
+| [bool](/docs/game-reflection/components/bool) | cultivator |
+| Vector< [String](/docs/game-reflection/components/string) > | cultivator_biomes |
+| Vector< [String](/docs/game-reflection/components/string) > | blueprints |
+| [String](/docs/game-reflection/components/string) | icon |
+

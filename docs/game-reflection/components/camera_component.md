@@ -9,24 +9,26 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| Vector< [Vector3](/game-reflection/classes/vector3.md) > | world_space_corners |
-| [bool](/game-reflection/components/bool.md) | teleport_on_next_synchronize |
-| [bool](/game-reflection/components/bool.md) | receive_shadows |
-| [String](/game-reflection/components/string.md) | name |
-| [float](/game-reflection/components/float.md) | fov |
-| [bool](/game-reflection/components/bool.md) | active |
-| [String](/game-reflection/components/string.md) | group |
-| [Frustum](/game-reflection/components/frustum.md) | frustum |
-| [float](/game-reflection/components/float.md) | orthoHeight |
-| [Frustum](/game-reflection/components/frustum.md) | custom_frustum |
-| [float](/game-reflection/components/float.md) | aspectRatio |
-| [int](/game-reflection/enums/int.md) | projection_type |
-| [Matrix4](/game-reflection/components/matrix4.md) | view_matrix |
-| [float](/game-reflection/components/float.md) | last_global_shake_power |
-| [bool](/game-reflection/components/bool.md) | override_frustum |
-| [float](/game-reflection/components/float.md) | farClip |
-| [Matrix4](/game-reflection/components/matrix4.md) | proj_matrix |
-| [float](/game-reflection/components/float.md) | nearClip |
-| [uint](/game-reflection/components/uint.md) | camera_mask |
+| Vector< [Vector3](/docs/game-reflection/classes/vector3) > | world_space_corners |
+| [bool](/docs/game-reflection/components/bool) | teleport_on_next_synchronize |
+| [bool](/docs/game-reflection/components/bool) | receive_shadows |
+| [String](/docs/game-reflection/components/string) | name |
+| [float](/docs/game-reflection/components/float) | fov |
+| [bool](/docs/game-reflection/components/bool) | active |
+| [String](/docs/game-reflection/components/string) | group |
+| [Frustum](/docs/game-reflection/components/frustum) | frustum |
+| [float](/docs/game-reflection/components/float) | orthoHeight |
+| [Frustum](/docs/game-reflection/components/frustum) | custom_frustum |
+| [float](/docs/game-reflection/components/float) | aspectRatio |
+| [int](/docs/game-reflection/enums/int) | projection_type |
+| [Matrix4](/docs/game-reflection/components/matrix4) | view_matrix |
+| [float](/docs/game-reflection/components/float) | last_global_shake_power |
+| [bool](/docs/game-reflection/components/bool) | override_frustum |
+| [float](/docs/game-reflection/components/float) | farClip |
+| [Matrix4](/docs/game-reflection/components/matrix4) | proj_matrix |
+| [float](/docs/game-reflection/components/float) | nearClip |
+| [uint](/docs/game-reflection/components/uint) | camera_mask |
+

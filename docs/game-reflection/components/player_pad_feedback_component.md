@@ -9,9 +9,11 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [float](/game-reflection/components/float.md) | right_motor |
-| Vector< [PlayerPadHapticFeedback](/game-reflection/classes/player_pad_haptic_feedback.md) > | haptic_feedback |
-| [bool](/game-reflection/components/bool.md) | enabled |
-| [float](/game-reflection/components/float.md) | left_motor |
+| [float](/docs/game-reflection/components/float) | right_motor |
+| Vector< [PlayerPadHapticFeedback](/docs/game-reflection/classes/player_pad_haptic_feedback) > | haptic_feedback |
+| [bool](/docs/game-reflection/components/bool) | enabled |
+| [float](/docs/game-reflection/components/float) | left_motor |
+

@@ -9,6 +9,8 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [PlayerCollection1](/game-reflection/components/player_collection1.md) | player_collection |
+| [PlayerCollection1](/docs/game-reflection/components/player_collection1) | player_collection |
+

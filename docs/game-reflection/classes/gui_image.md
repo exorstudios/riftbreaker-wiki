@@ -5,16 +5,18 @@ has_children: false
 parent: Class
 grand_parent: Game Reflection
 ---
-# GuiImage( ![ GuiItem ](/game-reflection/classes/gui_item.md) )
+# GuiImage( [ GuiItem ](/docs/game-reflection/classes/gui_item) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [String](/game-reflection/components/string.md) | material |
-| [String](/game-reflection/components/string.md) | error_material |
-| [StringHash](/game-reflection/classes/string_hash.md) | last_material_hash |
-| [uchar](/game-reflection/enums/uchar.md) | image_view_mode_y |
-| [uchar](/game-reflection/enums/uchar.md) | image_view_mode_x |
-| [bool](/game-reflection/components/bool.md) | valid_material |
-| [bool](/game-reflection/components/bool.md) | enable_scale_uv |
+| [String](/docs/game-reflection/components/string) | material |
+| [String](/docs/game-reflection/components/string) | error_material |
+| [StringHash](/docs/game-reflection/classes/string_hash) | last_material_hash |
+| [uchar](/docs/game-reflection/enums/uchar) | image_view_mode_y |
+| [uchar](/docs/game-reflection/enums/uchar) | image_view_mode_x |
+| [bool](/docs/game-reflection/components/bool) | valid_material |
+| [bool](/docs/game-reflection/components/bool) | enable_scale_uv |
+

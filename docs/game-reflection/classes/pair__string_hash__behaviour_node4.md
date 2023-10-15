@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [BehaviourNode4](/game-reflection/components/behaviour_node4.md) | value |
-| [StringHash](/game-reflection/classes/string_hash.md) | key |
+| [BehaviourNode4](/docs/game-reflection/components/behaviour_node4) | value |
+| [StringHash](/docs/game-reflection/classes/string_hash) | key |
+

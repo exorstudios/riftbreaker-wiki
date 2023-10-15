@@ -5,12 +5,14 @@ has_children: false
 parent: Event
 grand_parent: Game Reflection
 ---
-# StorePositionAsTargetRequest( ![ EntityEventBase ](/game-reflection/events/entity_event_base.md) )
+# StorePositionAsTargetRequest( [ EntityEventBase ](/docs/game-reflection/events/entity_event_base) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [Vector3](/game-reflection/classes/vector3.md) | Origin |
-| [String](/game-reflection/components/string.md) | Tag |
-| [Entity](/game-reflection/classes/entity.md) | Entity |
+| [Vector3](/docs/game-reflection/classes/vector3) | Origin |
+| [String](/docs/game-reflection/components/string) | Tag |
+| [Entity](/docs/game-reflection/classes/entity) | Entity |
+

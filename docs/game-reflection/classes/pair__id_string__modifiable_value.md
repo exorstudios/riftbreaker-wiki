@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [ModifiableValue](/game-reflection/classes/modifiable_value.md) | value |
-| [IdString](/game-reflection/components/id_string.md) | key |
+| [ModifiableValue](/docs/game-reflection/classes/modifiable_value) | value |
+| [IdString](/docs/game-reflection/components/id_string) | key |
+

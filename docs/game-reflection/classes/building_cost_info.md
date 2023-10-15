@@ -9,8 +9,10 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| Vector< [Pair_String_float](/game-reflection/classes/pair__string_float.md) > | building_cost |
-| [String](/game-reflection/components/string.md) | name |
-| [float](/game-reflection/components/float.md) | building_time |
+| Vector< [Pair_String_float](/docs/game-reflection/classes/pair__string_float) > | building_cost |
+| [String](/docs/game-reflection/components/string) | name |
+| [float](/docs/game-reflection/components/float) | building_time |
+

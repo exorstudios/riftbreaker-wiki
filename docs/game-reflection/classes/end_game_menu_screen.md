@@ -9,8 +9,10 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [bool](/game-reflection/components/bool.md) | disable_statistics |
-| [bool](/game-reflection/components/bool.md) | main_menu |
-| [bool](/game-reflection/components/bool.md) | prologue_visible |
+| [bool](/docs/game-reflection/components/bool) | disable_statistics |
+| [bool](/docs/game-reflection/components/bool) | main_menu |
+| [bool](/docs/game-reflection/components/bool) | prologue_visible |
+

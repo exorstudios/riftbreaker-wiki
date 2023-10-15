@@ -9,8 +9,10 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [uint64](/game-reflection/components/uint64.md) | max_progress |
-| [uint64](/game-reflection/components/uint64.md) | progress |
-| [int](/game-reflection/enums/int.md) | status |
+| [uint64](/docs/game-reflection/components/uint64) | max_progress |
+| [uint64](/docs/game-reflection/components/uint64) | progress |
+| [int](/docs/game-reflection/enums/int) | status |
+

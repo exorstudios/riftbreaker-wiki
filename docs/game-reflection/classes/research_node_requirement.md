@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [String](/game-reflection/components/string.md) | research_name |
-| [String](/game-reflection/components/string.md) | research_category |
+| [String](/docs/game-reflection/components/string) | research_name |
+| [String](/docs/game-reflection/components/string) | research_category |
+

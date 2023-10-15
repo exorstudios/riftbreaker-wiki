@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [TeamRelation](/game-reflection/classes/team_relation.md) | value |
-| [uchar](/game-reflection/enums/uchar.md) | key |
+| [TeamRelation](/docs/game-reflection/classes/team_relation) | value |
+| [uchar](/docs/game-reflection/enums/uchar) | key |
+

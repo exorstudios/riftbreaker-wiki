@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| Vector< [String](/game-reflection/components/string.md) > | value |
-| [GameplayResourceDefHolder](/game-reflection/components/gameplay_resource_def_holder.md) | key |
+| Vector< [String](/docs/game-reflection/components/string) > | value |
+| [GameplayResourceDefHolder](/docs/game-reflection/components/gameplay_resource_def_holder) | key |
+

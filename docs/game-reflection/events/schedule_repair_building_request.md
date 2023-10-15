@@ -5,11 +5,13 @@ has_children: false
 parent: Event
 grand_parent: Game Reflection
 ---
-# ScheduleRepairBuildingRequest( ![ EntityEventBase ](/game-reflection/events/entity_event_base.md) )
+# ScheduleRepairBuildingRequest( [ EntityEventBase ](/docs/game-reflection/events/entity_event_base) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [uint](/game-reflection/components/uint.md) | Player |
-| [Entity](/game-reflection/classes/entity.md) | Entity |
+| [uint](/docs/game-reflection/components/uint) | Player |
+| [Entity](/docs/game-reflection/classes/entity) | Entity |
+

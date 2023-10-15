@@ -9,10 +9,12 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [bool](/game-reflection/components/bool.md) | is_discovered |
-| [bool](/game-reflection/components/bool.md) | auto_reveal |
-| [Database](/game-reflection/components/database.md) | database |
-| [int](/game-reflection/enums/int.md) | lvl |
-| [String](/game-reflection/components/string.md) | bp |
+| [bool](/docs/game-reflection/components/bool) | is_discovered |
+| [bool](/docs/game-reflection/components/bool) | auto_reveal |
+| [Database](/docs/game-reflection/components/database) | database |
+| [int](/docs/game-reflection/enums/int) | lvl |
+| [String](/docs/game-reflection/components/string) | bp |
+

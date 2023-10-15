@@ -5,11 +5,13 @@ has_children: false
 parent: Event
 grand_parent: Game Reflection
 ---
-# RemoveAccelerationModifierRequest( ![ EntityEventBase ](/game-reflection/events/entity_event_base.md) )
+# RemoveAccelerationModifierRequest( [ EntityEventBase ](/docs/game-reflection/events/entity_event_base) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [IdString](/game-reflection/components/id_string.md) | ModifierName |
-| [Entity](/game-reflection/classes/entity.md) | Entity |
+| [IdString](/docs/game-reflection/components/id_string) | ModifierName |
+| [Entity](/docs/game-reflection/classes/entity) | Entity |
+

@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [ObjectiveData](/game-reflection/classes/objective_data.md) | value |
-| [uint](/game-reflection/components/uint.md) | key |
+| [ObjectiveData](/docs/game-reflection/classes/objective_data) | value |
+| [uint](/docs/game-reflection/components/uint) | key |
+

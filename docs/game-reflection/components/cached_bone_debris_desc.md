@@ -9,8 +9,10 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [IdString](/game-reflection/components/id_string.md) | material_id |
-| [IdString](/game-reflection/components/id_string.md) | mesh_id |
-| [StringHash](/game-reflection/classes/string_hash.md) | attachment |
+| [IdString](/docs/game-reflection/components/id_string) | material_id |
+| [IdString](/docs/game-reflection/components/id_string) | mesh_id |
+| [StringHash](/docs/game-reflection/classes/string_hash) | attachment |
+

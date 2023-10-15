@@ -9,9 +9,11 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| Vector< [uint](/game-reflection/components/uint.md) > | cells_occupied |
-| Vector< [Entity](/game-reflection/classes/entity.md) > | cells_occupied_ents |
-| [String](/game-reflection/components/string.md) | blueprint_to_use |
-| Vector< [EnergyGraphEdge](/game-reflection/classes/energy_graph_edge.md) > | energy_lines |
+| Vector< [uint](/docs/game-reflection/components/uint) > | cells_occupied |
+| Vector< [Entity](/docs/game-reflection/classes/entity) > | cells_occupied_ents |
+| [String](/docs/game-reflection/components/string) | blueprint_to_use |
+| Vector< [EnergyGraphEdge](/docs/game-reflection/classes/energy_graph_edge) > | energy_lines |
+

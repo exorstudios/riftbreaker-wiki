@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| Vector< [String](/game-reflection/components/string.md) > | volume_units_type |
-| [bool](/game-reflection/components/bool.md) | disabled |
+| Vector< [String](/docs/game-reflection/components/string) > | volume_units_type |
+| [bool](/docs/game-reflection/components/bool) | disabled |
+

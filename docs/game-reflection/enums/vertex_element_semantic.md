@@ -9,6 +9,7 @@ grand_parent: Game Reflection
 Description 
 
 ## Enum values
+
 | Name | Value |
 |:-------------|:--------------|
 | VES_POSITION | 1 |
@@ -20,3 +21,4 @@ Description
 | VES_TEXTURE_COORDINATES | 7 |
 | VES_BINORMAL | 8 |
 | VES_TANGENT | 9 |
+

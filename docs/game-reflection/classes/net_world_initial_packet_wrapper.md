@@ -9,6 +9,8 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [NetWorldInitialPacket4](/game-reflection/components/net_world_initial_packet4.md) | initial_packet |
+| [NetWorldInitialPacket4](/docs/game-reflection/components/net_world_initial_packet4) | initial_packet |
+

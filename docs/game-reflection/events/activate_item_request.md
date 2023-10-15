@@ -5,11 +5,13 @@ has_children: false
 parent: Event
 grand_parent: Game Reflection
 ---
-# ActivateItemRequest( ![ EntityEventBase ](/game-reflection/events/entity_event_base.md) )
+# ActivateItemRequest( [ EntityEventBase ](/docs/game-reflection/events/entity_event_base) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [bool](/game-reflection/components/bool.md) | Continous |
-| [Entity](/game-reflection/classes/entity.md) | Entity |
+| [bool](/docs/game-reflection/components/bool) | Continous |
+| [Entity](/docs/game-reflection/classes/entity) | Entity |
+

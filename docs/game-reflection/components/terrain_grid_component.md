@@ -9,6 +9,8 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [TerrainGrid](/game-reflection/classes/terrain_grid.md) | grid |
+| [TerrainGrid](/docs/game-reflection/classes/terrain_grid) | grid |
+

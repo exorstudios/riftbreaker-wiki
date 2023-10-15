@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [float](/game-reflection/components/float.md) | bending_power |
-| [float](/game-reflection/components/float.md) | bending_radius |
+| [float](/docs/game-reflection/components/float) | bending_power |
+| [float](/docs/game-reflection/components/float) | bending_radius |
+

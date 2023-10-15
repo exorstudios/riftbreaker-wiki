@@ -9,8 +9,10 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [IdString](/game-reflection/components/id_string.md) | material |
-| Vector< [TileRotation](/game-reflection/enums/tile_rotation.md) > | rotation |
-| Vector< [ResourceVolumeGeometryVertex](/game-reflection/classes/resource_volume_geometry_vertex.md) > | vertices |
+| [IdString](/docs/game-reflection/components/id_string) | material |
+| Vector< [TileRotation](/docs/game-reflection/enums/tile_rotation) > | rotation |
+| Vector< [ResourceVolumeGeometryVertex](/docs/game-reflection/classes/resource_volume_geometry_vertex) > | vertices |
+

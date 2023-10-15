@@ -9,10 +9,12 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [float](/game-reflection/components/float.md) | multiplier |
-| [bool](/game-reflection/components/bool.md) | reverse |
-| [bool](/game-reflection/components/bool.md) | stay_at_end |
-| [int](/game-reflection/enums/int.md) | loop |
-| [bool](/game-reflection/components/bool.md) | random_start |
+| [float](/docs/game-reflection/components/float) | multiplier |
+| [bool](/docs/game-reflection/components/bool) | reverse |
+| [bool](/docs/game-reflection/components/bool) | stay_at_end |
+| [int](/docs/game-reflection/enums/int) | loop |
+| [bool](/docs/game-reflection/components/bool) | random_start |
+

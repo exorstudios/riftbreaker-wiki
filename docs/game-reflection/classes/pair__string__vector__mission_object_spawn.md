@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| Vector< [MissionObjectSpawn](/game-reflection/classes/mission_object_spawn.md) > | value |
-| [String](/game-reflection/components/string.md) | key |
+| Vector< [MissionObjectSpawn](/docs/game-reflection/classes/mission_object_spawn) > | value |
+| [String](/docs/game-reflection/components/string) | key |
+

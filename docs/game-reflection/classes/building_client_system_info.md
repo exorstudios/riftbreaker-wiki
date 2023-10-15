@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| Vector< [Pair_Entity_Vector_Variant_ResourceConverterCreatedEventResourceStorageCreatedEventResourceRemovedFromConverterEvent](/game-reflection/classes/pair__entity__vector__variant__resource_converter_created_event_resource_storage_created_event_resource_removed_from_converter_event.md) > | to_init |
-| [int](/game-reflection/enums/int.md) | version |
+| Vector< [Pair_Entity_Vector_Variant_ResourceConverterCreatedEventResourceStorageCreatedEventResourceRemovedFromConverterEvent](/docs/game-reflection/classes/pair__entity__vector__variant__resource_converter_created_event_resource_storage_created_event_resource_removed_from_converter_event) > | to_init |
+| [int](/docs/game-reflection/enums/int) | version |
+

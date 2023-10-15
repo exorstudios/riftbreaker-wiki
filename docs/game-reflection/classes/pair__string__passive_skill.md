@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [PassiveSkill](/game-reflection/classes/passive_skill.md) | value |
-| [String](/game-reflection/components/string.md) | key |
+| [PassiveSkill](/docs/game-reflection/classes/passive_skill) | value |
+| [String](/docs/game-reflection/components/string) | key |
+

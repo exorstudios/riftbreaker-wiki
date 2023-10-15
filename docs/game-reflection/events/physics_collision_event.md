@@ -5,16 +5,18 @@ has_children: false
 parent: Event
 grand_parent: Game Reflection
 ---
-# PhysicsCollisionEvent( ![ EntityEventBase ](/game-reflection/events/entity_event_base.md) )
+# PhysicsCollisionEvent( [ EntityEventBase ](/docs/game-reflection/events/entity_event_base) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [Vector3](/game-reflection/classes/vector3.md) | Point |
-| [Entity](/game-reflection/classes/entity.md) | OtherEntity |
-| [uchar](/game-reflection/enums/uchar.md) | GroupId |
-| [uchar](/game-reflection/enums/uchar.md) | OtherGroupId |
-| [Vector3](/game-reflection/classes/vector3.md) | Normal |
-| [Vector3](/game-reflection/classes/vector3.md) | Impulse |
-| [Entity](/game-reflection/classes/entity.md) | Entity |
+| [Vector3](/docs/game-reflection/classes/vector3) | Point |
+| [Entity](/docs/game-reflection/classes/entity) | OtherEntity |
+| [uchar](/docs/game-reflection/enums/uchar) | GroupId |
+| [uchar](/docs/game-reflection/enums/uchar) | OtherGroupId |
+| [Vector3](/docs/game-reflection/classes/vector3) | Normal |
+| [Vector3](/docs/game-reflection/classes/vector3) | Impulse |
+| [Entity](/docs/game-reflection/classes/entity) | Entity |
+

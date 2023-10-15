@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [float](/game-reflection/components/float.md) | beam_width |
-| [float](/game-reflection/components/float.md) | beam_range |
+| [float](/docs/game-reflection/components/float) | beam_width |
+| [float](/docs/game-reflection/components/float) | beam_range |
+

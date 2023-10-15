@@ -9,8 +9,10 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [ResourceValue](/game-reflection/classes/resource_value.md) | add |
-| [ResourceValue](/game-reflection/classes/resource_value.md) | amount |
-| [ResourceValue](/game-reflection/classes/resource_value.md) | min |
+| [ResourceValue](/docs/game-reflection/classes/resource_value) | add |
+| [ResourceValue](/docs/game-reflection/classes/resource_value) | amount |
+| [ResourceValue](/docs/game-reflection/classes/resource_value) | min |
+

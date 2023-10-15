@@ -9,8 +9,10 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [float](/game-reflection/components/float.md) | last_value |
-| [float](/game-reflection/components/float.md) | max |
-| [float](/game-reflection/components/float.md) | min |
+| [float](/docs/game-reflection/components/float) | last_value |
+| [float](/docs/game-reflection/components/float) | max |
+| [float](/docs/game-reflection/components/float) | min |
+

@@ -5,11 +5,13 @@ has_children: false
 parent: Class
 grand_parent: Game Reflection
 ---
-# NameTriggerFilter( ![ TriggerFilter ](/game-reflection/classes/trigger_filter.md) )
+# NameTriggerFilter( [ TriggerFilter ](/docs/game-reflection/classes/trigger_filter) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [IdString](/game-reflection/components/id_string.md) | name |
-| [IdString](/game-reflection/components/id_string.md) | group |
+| [IdString](/docs/game-reflection/components/id_string) | name |
+| [IdString](/docs/game-reflection/components/id_string) | group |
+

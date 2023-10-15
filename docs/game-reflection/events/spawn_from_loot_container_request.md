@@ -5,12 +5,14 @@ has_children: false
 parent: Event
 grand_parent: Game Reflection
 ---
-# SpawnFromLootContainerRequest( ![ EntityEventBase ](/game-reflection/events/entity_event_base.md) )
+# SpawnFromLootContainerRequest( [ EntityEventBase ](/docs/game-reflection/events/entity_event_base) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [uint](/game-reflection/components/uint.md) | Player |
-| [uchar](/game-reflection/enums/uchar.md) | Rarity |
-| [Entity](/game-reflection/classes/entity.md) | Entity |
+| [uint](/docs/game-reflection/components/uint) | Player |
+| [uchar](/docs/game-reflection/enums/uchar) | Rarity |
+| [Entity](/docs/game-reflection/classes/entity) | Entity |
+

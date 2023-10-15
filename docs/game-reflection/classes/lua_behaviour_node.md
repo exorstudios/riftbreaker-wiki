@@ -5,16 +5,18 @@ has_children: false
 parent: Class
 grand_parent: Game Reflection
 ---
-# LuaBehaviourNode( ![ BehaviourNode ](/game-reflection/classes/behaviour_node.md) )
+# LuaBehaviourNode( [ BehaviourNode ](/docs/game-reflection/classes/behaviour_node) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [bool](/game-reflection/components/bool.md) | has_update |
-| [bool](/game-reflection/components/bool.md) | call_activated |
-| [IdString](/game-reflection/components/id_string.md) | script |
-| [Database](/game-reflection/components/database.md) | database |
-| [bool](/game-reflection/components/bool.md) | has_activated |
-| [bool](/game-reflection/components/bool.md) | has_interrupted |
-| [bool](/game-reflection/components/bool.md) | has_deactivated |
+| [bool](/docs/game-reflection/components/bool) | has_update |
+| [bool](/docs/game-reflection/components/bool) | call_activated |
+| [IdString](/docs/game-reflection/components/id_string) | script |
+| [Database](/docs/game-reflection/components/database) | database |
+| [bool](/docs/game-reflection/components/bool) | has_activated |
+| [bool](/docs/game-reflection/components/bool) | has_interrupted |
+| [bool](/docs/game-reflection/components/bool) | has_deactivated |
+

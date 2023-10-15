@@ -9,9 +9,11 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [float](/game-reflection/components/float.md) | recoil_offset |
-| [float](/game-reflection/components/float.md) | recoil_time |
-| [IdString](/game-reflection/components/id_string.md) | recoil_bone |
-| [IdString](/game-reflection/components/id_string.md) | attachment |
+| [float](/docs/game-reflection/components/float) | recoil_offset |
+| [float](/docs/game-reflection/components/float) | recoil_time |
+| [IdString](/docs/game-reflection/components/id_string) | recoil_bone |
+| [IdString](/docs/game-reflection/components/id_string) | attachment |
+

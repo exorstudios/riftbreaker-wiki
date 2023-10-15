@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| Vector< [Pair_StringHash_Entity](/game-reflection/classes/pair__string_hash__entity.md) > | layers |
-| [int](/game-reflection/enums/int.md) | interferences |
+| Vector< [Pair_StringHash_Entity](/docs/game-reflection/classes/pair__string_hash__entity) > | layers |
+| [int](/docs/game-reflection/enums/int) | interferences |
+

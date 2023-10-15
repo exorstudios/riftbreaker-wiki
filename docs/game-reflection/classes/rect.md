@@ -9,9 +9,11 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [float](/game-reflection/components/float.md) | height |
-| [float](/game-reflection/components/float.md) | x |
-| [float](/game-reflection/components/float.md) | y |
-| [float](/game-reflection/components/float.md) | width |
+| [float](/docs/game-reflection/components/float) | height |
+| [float](/docs/game-reflection/components/float) | x |
+| [float](/docs/game-reflection/components/float) | y |
+| [float](/docs/game-reflection/components/float) | width |
+

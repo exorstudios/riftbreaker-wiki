@@ -9,8 +9,10 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [float](/game-reflection/components/float.md) | volume_aggressive_distance |
-| [String](/game-reflection/components/string.md) | creature_species |
-| [float](/game-reflection/components/float.md) | volume_spawn_ratio |
+| [float](/docs/game-reflection/components/float) | volume_aggressive_distance |
+| [String](/docs/game-reflection/components/string) | creature_species |
+| [float](/docs/game-reflection/components/float) | volume_spawn_ratio |
+

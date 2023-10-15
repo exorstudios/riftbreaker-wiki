@@ -9,8 +9,10 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [int](/game-reflection/enums/int.md) | last_stun_type |
-| [bool](/game-reflection/components/bool.md) | reset_stun |
-| [float](/game-reflection/components/float.md) | last_stun_factor |
+| [int](/docs/game-reflection/enums/int) | last_stun_type |
+| [bool](/docs/game-reflection/components/bool) | reset_stun |
+| [float](/docs/game-reflection/components/float) | last_stun_factor |
+

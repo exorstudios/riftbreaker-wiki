@@ -9,8 +9,10 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [ModifiableValue](/game-reflection/classes/modifiable_value.md) | deacceleration |
-| [ModifiableValue](/game-reflection/classes/modifiable_value.md) | acceleration |
-| [ModifiableValue](/game-reflection/classes/modifiable_value.md) | max_speed |
+| [ModifiableValue](/docs/game-reflection/classes/modifiable_value) | deacceleration |
+| [ModifiableValue](/docs/game-reflection/classes/modifiable_value) | acceleration |
+| [ModifiableValue](/docs/game-reflection/classes/modifiable_value) | max_speed |
+

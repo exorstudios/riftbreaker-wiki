@@ -5,13 +5,15 @@ has_children: false
 parent: Event
 grand_parent: Game Reflection
 ---
-# BuildingRemovedEvent( ![ EntityEventBase ](/game-reflection/events/entity_event_base.md) )
+# BuildingRemovedEvent( [ EntityEventBase ](/docs/game-reflection/events/entity_event_base) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [bool](/game-reflection/components/bool.md) | WasSold |
-| [String](/game-reflection/components/string.md) | BuildingName |
-| [Aabb](/game-reflection/components/aabb.md) | Bounds |
-| [Entity](/game-reflection/classes/entity.md) | Entity |
+| [bool](/docs/game-reflection/components/bool) | WasSold |
+| [String](/docs/game-reflection/components/string) | BuildingName |
+| [Aabb](/docs/game-reflection/components/aabb) | Bounds |
+| [Entity](/docs/game-reflection/classes/entity) | Entity |
+

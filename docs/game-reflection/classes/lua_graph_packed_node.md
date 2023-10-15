@@ -5,12 +5,14 @@ has_children: false
 parent: Class
 grand_parent: Game Reflection
 ---
-# LuaGraphPackedNode( ![ LuaEntityPackedObject ](/game-reflection/classes/lua_entity_packed_object.md) )
+# LuaGraphPackedNode( [ LuaEntityPackedObject ](/docs/game-reflection/classes/lua_entity_packed_object) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [bool](/game-reflection/components/bool.md) | is_suspended |
-| [String](/game-reflection/components/string.md) | selected_node |
-| [bool](/game-reflection/components/bool.md) | is_finished |
+| [bool](/docs/game-reflection/components/bool) | is_suspended |
+| [String](/docs/game-reflection/components/string) | selected_node |
+| [bool](/docs/game-reflection/components/bool) | is_finished |
+

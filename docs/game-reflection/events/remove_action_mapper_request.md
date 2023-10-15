@@ -5,11 +5,13 @@ has_children: false
 parent: Event
 grand_parent: Game Reflection
 ---
-# RemoveActionMapperRequest( ![ EntityEventBase ](/game-reflection/events/entity_event_base.md) )
+# RemoveActionMapperRequest( [ EntityEventBase ](/docs/game-reflection/events/entity_event_base) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [String](/game-reflection/components/string.md) | ActionMapperName |
-| [Entity](/game-reflection/classes/entity.md) | Entity |
+| [String](/docs/game-reflection/components/string) | ActionMapperName |
+| [Entity](/docs/game-reflection/classes/entity) | Entity |
+

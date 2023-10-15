@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [ObjectiveScript](/game-reflection/classes/objective_script.md) | value |
-| [uint](/game-reflection/components/uint.md) | key |
+| [ObjectiveScript](/docs/game-reflection/classes/objective_script) | value |
+| [uint](/docs/game-reflection/components/uint) | key |
+

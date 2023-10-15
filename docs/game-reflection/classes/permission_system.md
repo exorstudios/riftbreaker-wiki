@@ -9,9 +9,11 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| Vector< [String](/game-reflection/components/string.md) > | hidden |
-| Vector< [String](/game-reflection/components/string.md) > | blocked |
-| Vector< [StringHash](/game-reflection/classes/string_hash.md) > | building_blocked |
-| Vector< [StringHash](/game-reflection/classes/string_hash.md) > | highlighted_building_categories |
+| Vector< [String](/docs/game-reflection/components/string) > | hidden |
+| Vector< [String](/docs/game-reflection/components/string) > | blocked |
+| Vector< [StringHash](/docs/game-reflection/classes/string_hash) > | building_blocked |
+| Vector< [StringHash](/docs/game-reflection/classes/string_hash) > | highlighted_building_categories |
+

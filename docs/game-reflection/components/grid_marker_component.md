@@ -9,13 +9,15 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [int](/game-reflection/enums/int.md) | mode |
-| Vector< [uint](/game-reflection/components/uint.md) > | indexes |
-| [Vector3](/game-reflection/classes/vector3.md) | pos |
-| Vector< [CellLayer](/game-reflection/components/cell_layer.md) > | Layers |
-| [String](/game-reflection/components/string.md) | terrain_type |
-| [EntityTemplate](/game-reflection/classes/entity_template.md) | layers_template |
-| Vector< [Entity](/game-reflection/classes/entity.md) > | indexes_ents |
-| [float](/game-reflection/components/float.md) | extend |
+| [int](/docs/game-reflection/enums/int) | mode |
+| Vector< [uint](/docs/game-reflection/components/uint) > | indexes |
+| [Vector3](/docs/game-reflection/classes/vector3) | pos |
+| Vector< [CellLayer](/docs/game-reflection/components/cell_layer) > | Layers |
+| [String](/docs/game-reflection/components/string) | terrain_type |
+| [EntityTemplate](/docs/game-reflection/classes/entity_template) | layers_template |
+| Vector< [Entity](/docs/game-reflection/classes/entity) > | indexes_ents |
+| [float](/docs/game-reflection/components/float) | extend |
+

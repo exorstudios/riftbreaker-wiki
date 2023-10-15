@@ -9,12 +9,14 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [float](/game-reflection/components/float.md) | event_timer |
-| [IdString](/game-reflection/components/id_string.md) | state_machine_name |
-| Vector< [StateDefId](/game-reflection/classes/state_def_id.md) > | execution_stack |
-| [StateMachineDef2](/game-reflection/components/state_machine_def2.md) | machine_def |
-| [StateDefId](/game-reflection/classes/state_def_id.md) | initial_state |
-| [bool](/game-reflection/components/bool.md) | is_initialized |
-| Vector< [IdString](/game-reflection/components/id_string.md) > | event_vec |
+| [float](/docs/game-reflection/components/float) | event_timer |
+| [IdString](/docs/game-reflection/components/id_string) | state_machine_name |
+| Vector< [StateDefId](/docs/game-reflection/classes/state_def_id) > | execution_stack |
+| [StateMachineDef2](/docs/game-reflection/components/state_machine_def2) | machine_def |
+| [StateDefId](/docs/game-reflection/classes/state_def_id) | initial_state |
+| [bool](/docs/game-reflection/components/bool) | is_initialized |
+| Vector< [IdString](/docs/game-reflection/components/id_string) > | event_vec |
+

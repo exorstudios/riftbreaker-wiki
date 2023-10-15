@@ -5,12 +5,14 @@ has_children: false
 parent: Event
 grand_parent: Game Reflection
 ---
-# AddPassiveSkillRequest( ![ EntityEventBase ](/game-reflection/events/entity_event_base.md) )
+# AddPassiveSkillRequest( [ EntityEventBase ](/docs/game-reflection/events/entity_event_base) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [String](/game-reflection/components/string.md) | Skill |
-| [uint](/game-reflection/components/uint.md) | PlayerId |
-| [Entity](/game-reflection/classes/entity.md) | Entity |
+| [String](/docs/game-reflection/components/string) | Skill |
+| [uint](/docs/game-reflection/components/uint) | PlayerId |
+| [Entity](/docs/game-reflection/classes/entity) | Entity |
+

@@ -9,13 +9,15 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [uint64](/game-reflection/components/uint64.md) | gather_amount |
-| [int](/game-reflection/enums/int.md) | condition |
-| [float](/game-reflection/components/float.md) | chance |
-| [uint64](/game-reflection/components/uint64.md) | max |
-| [uint64](/game-reflection/components/uint64.md) | package_size |
-| [uint64](/game-reflection/components/uint64.md) | min |
-| [String](/game-reflection/components/string.md) | condition_value |
-| Vector< [IdString](/game-reflection/components/id_string.md) > | blueprints |
+| [uint64](/docs/game-reflection/components/uint64) | gather_amount |
+| [int](/docs/game-reflection/enums/int) | condition |
+| [float](/docs/game-reflection/components/float) | chance |
+| [uint64](/docs/game-reflection/components/uint64) | max |
+| [uint64](/docs/game-reflection/components/uint64) | package_size |
+| [uint64](/docs/game-reflection/components/uint64) | min |
+| [String](/docs/game-reflection/components/string) | condition_value |
+| Vector< [IdString](/docs/game-reflection/components/id_string) > | blueprints |
+

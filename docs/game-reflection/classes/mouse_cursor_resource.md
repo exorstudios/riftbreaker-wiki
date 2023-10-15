@@ -9,10 +9,12 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| Vector< [Pair_String_String](/game-reflection/classes/pair__string__string.md) > | materials |
-| Vector< [Pair_String_String](/game-reflection/classes/pair__string__string.md) > | materials_selected |
-| Vector< [Pair_String_String](/game-reflection/classes/pair__string__string.md) > | gamepad_materials_selected |
-| Vector< [Pair_String_String](/game-reflection/classes/pair__string__string.md) > | gamepad_materials |
-| [Vector2](/game-reflection/classes/vector2.md) | hotspot |
+| Vector< [Pair_String_String](/docs/game-reflection/classes/pair__string__string) > | materials |
+| Vector< [Pair_String_String](/docs/game-reflection/classes/pair__string__string) > | materials_selected |
+| Vector< [Pair_String_String](/docs/game-reflection/classes/pair__string__string) > | gamepad_materials_selected |
+| Vector< [Pair_String_String](/docs/game-reflection/classes/pair__string__string) > | gamepad_materials |
+| [Vector2](/docs/game-reflection/classes/vector2) | hotspot |
+

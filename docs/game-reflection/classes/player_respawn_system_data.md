@@ -9,11 +9,13 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [bool](/game-reflection/components/bool.md) | skip_spawn_portal_sequence |
-| Vector< [Pair_uint_Entity](/game-reflection/classes/pair_uint__entity.md) > | player_spawn_point |
-| [bool](/game-reflection/components/bool.md) | block_respawn |
-| [Entity](/game-reflection/classes/entity.md) | selected_spawn_point |
-| [bool](/game-reflection/components/bool.md) | respawn_player |
-| Vector< [Pair_uint_String](/game-reflection/classes/pair_uint__string.md) > | player_blueprint_override |
+| [bool](/docs/game-reflection/components/bool) | skip_spawn_portal_sequence |
+| Vector< [Pair_uint_Entity](/docs/game-reflection/classes/pair_uint__entity) > | player_spawn_point |
+| [bool](/docs/game-reflection/components/bool) | block_respawn |
+| [Entity](/docs/game-reflection/classes/entity) | selected_spawn_point |
+| [bool](/docs/game-reflection/components/bool) | respawn_player |
+| Vector< [Pair_uint_String](/docs/game-reflection/classes/pair_uint__string) > | player_blueprint_override |
+

@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [TileSpawnRule](/game-reflection/classes/tile_spawn_rule.md) | second |
-| [String](/game-reflection/components/string.md) | first |
+| [TileSpawnRule](/docs/game-reflection/classes/tile_spawn_rule) | second |
+| [String](/docs/game-reflection/components/string) | first |
+

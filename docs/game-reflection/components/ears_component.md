@@ -9,8 +9,10 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [bool](/game-reflection/components/bool.md) | active |
-| [bool](/game-reflection/components/bool.md) | alwaysForward |
-| [Vector3](/game-reflection/classes/vector3.md) | lastPos |
+| [bool](/docs/game-reflection/components/bool) | active |
+| [bool](/docs/game-reflection/components/bool) | alwaysForward |
+| [Vector3](/docs/game-reflection/classes/vector3) | lastPos |
+

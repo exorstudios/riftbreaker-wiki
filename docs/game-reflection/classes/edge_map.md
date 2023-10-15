@@ -9,9 +9,11 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| Vector< [Pair_String_String](/game-reflection/classes/pair__string__string.md) > | up |
-| Vector< [Pair_String_String](/game-reflection/classes/pair__string__string.md) > | right |
-| Vector< [Pair_String_String](/game-reflection/classes/pair__string__string.md) > | down |
-| Vector< [Pair_String_String](/game-reflection/classes/pair__string__string.md) > | left |
+| Vector< [Pair_String_String](/docs/game-reflection/classes/pair__string__string) > | up |
+| Vector< [Pair_String_String](/docs/game-reflection/classes/pair__string__string) > | right |
+| Vector< [Pair_String_String](/docs/game-reflection/classes/pair__string__string) > | down |
+| Vector< [Pair_String_String](/docs/game-reflection/classes/pair__string__string) > | left |
+

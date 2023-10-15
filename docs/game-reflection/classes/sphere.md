@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [Vector3](/game-reflection/classes/vector3.md) | center |
-| [float](/game-reflection/components/float.md) | r |
+| [Vector3](/docs/game-reflection/classes/vector3) | center |
+| [float](/docs/game-reflection/components/float) | r |
+

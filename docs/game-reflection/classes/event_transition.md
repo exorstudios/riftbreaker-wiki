@@ -9,8 +9,10 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| Vector< [IdString](/game-reflection/components/id_string.md) > | state |
-| Vector< [ParamWithValue](/game-reflection/classes/param_with_value.md) > | param_vec |
-| [IdString](/game-reflection/components/id_string.md) | event_name |
+| Vector< [IdString](/docs/game-reflection/components/id_string) > | state |
+| Vector< [ParamWithValue](/docs/game-reflection/classes/param_with_value) > | param_vec |
+| [IdString](/docs/game-reflection/components/id_string) | event_name |
+

@@ -9,12 +9,14 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [UVWAddressingMode](/game-reflection/classes/u_v_w_addressing_mode.md) | AddressUVW |
-| [int](/game-reflection/enums/int.md) | Comparison |
-| [int](/game-reflection/enums/int.md) | FilterMag |
-| [uint](/game-reflection/components/uint.md) | MaxAnisotropy |
-| [int](/game-reflection/enums/int.md) | FilterMin |
-| [ColourValue](/game-reflection/classes/colour_value.md) | BorderColor |
-| [int](/game-reflection/enums/int.md) | FilterMip |
+| [UVWAddressingMode](/docs/game-reflection/classes/u_v_w_addressing_mode) | AddressUVW |
+| [int](/docs/game-reflection/enums/int) | Comparison |
+| [int](/docs/game-reflection/enums/int) | FilterMag |
+| [uint](/docs/game-reflection/components/uint) | MaxAnisotropy |
+| [int](/docs/game-reflection/enums/int) | FilterMin |
+| [ColourValue](/docs/game-reflection/classes/colour_value) | BorderColor |
+| [int](/docs/game-reflection/enums/int) | FilterMip |
+

@@ -9,6 +9,8 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [SpatialNode1](/game-reflection/components/spatial_node1.md) | node |
+| [SpatialNode1](/docs/game-reflection/components/spatial_node1) | node |
+

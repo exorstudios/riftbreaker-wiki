@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [TerrainInfo](/game-reflection/classes/terrain_info.md) | value |
-| [StringHash](/game-reflection/classes/string_hash.md) | key |
+| [TerrainInfo](/docs/game-reflection/classes/terrain_info) | value |
+| [StringHash](/docs/game-reflection/classes/string_hash) | key |
+

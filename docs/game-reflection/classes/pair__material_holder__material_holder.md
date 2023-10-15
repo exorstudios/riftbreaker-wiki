@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [MaterialHolder](/game-reflection/components/material_holder.md) | value |
-| [MaterialHolder](/game-reflection/components/material_holder.md) | key |
+| [MaterialHolder](/docs/game-reflection/components/material_holder) | value |
+| [MaterialHolder](/docs/game-reflection/components/material_holder) | key |
+

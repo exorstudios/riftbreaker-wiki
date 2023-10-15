@@ -9,10 +9,12 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [MultiplayerMission2](/game-reflection/components/multiplayer_mission2.md) | selected_mission |
-| [bool](/game-reflection/components/bool.md) | public_game |
-| [MultiplayerCampaign2](/game-reflection/components/multiplayer_campaign2.md) | selected_campaign |
-| [bool](/game-reflection/components/bool.md) | dedicated_server |
-| [CampaignCustomOption](/game-reflection/classes/campaign_custom_option.md) | max_players_option |
+| [MultiplayerMission2](/docs/game-reflection/components/multiplayer_mission2) | selected_mission |
+| [bool](/docs/game-reflection/components/bool) | public_game |
+| [MultiplayerCampaign2](/docs/game-reflection/components/multiplayer_campaign2) | selected_campaign |
+| [bool](/docs/game-reflection/components/bool) | dedicated_server |
+| [CampaignCustomOption](/docs/game-reflection/classes/campaign_custom_option) | max_players_option |
+

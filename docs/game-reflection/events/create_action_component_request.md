@@ -5,11 +5,13 @@ has_children: false
 parent: Event
 grand_parent: Game Reflection
 ---
-# CreateActionComponentRequest( ![ EntityEventBase ](/game-reflection/events/entity_event_base.md) )
+# CreateActionComponentRequest( [ EntityEventBase ](/docs/game-reflection/events/entity_event_base) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [Entity](/game-reflection/classes/entity.md) | Sink |
-| [Entity](/game-reflection/classes/entity.md) | Entity |
+| [Entity](/docs/game-reflection/classes/entity) | Sink |
+| [Entity](/docs/game-reflection/classes/entity) | Entity |
+

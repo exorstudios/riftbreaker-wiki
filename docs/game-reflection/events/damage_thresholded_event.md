@@ -5,14 +5,16 @@ has_children: false
 parent: Event
 grand_parent: Game Reflection
 ---
-# DamageThresholdedEvent( ![ EntityEventBase ](/game-reflection/events/entity_event_base.md) )
+# DamageThresholdedEvent( [ EntityEventBase ](/docs/game-reflection/events/entity_event_base) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [Entity](/game-reflection/classes/entity.md) | Creator |
-| [Entity](/game-reflection/classes/entity.md) | Owner |
-| [String](/game-reflection/components/string.md) | DamageType |
-| [Entity](/game-reflection/classes/entity.md) | Entity |
-| [float](/game-reflection/components/float.md) | Damage |
+| [Entity](/docs/game-reflection/classes/entity) | Creator |
+| [Entity](/docs/game-reflection/classes/entity) | Owner |
+| [String](/docs/game-reflection/components/string) | DamageType |
+| [Entity](/docs/game-reflection/classes/entity) | Entity |
+| [float](/docs/game-reflection/components/float) | Damage |
+

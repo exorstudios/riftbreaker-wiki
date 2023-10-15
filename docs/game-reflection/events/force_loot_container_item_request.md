@@ -5,12 +5,14 @@ has_children: false
 parent: Event
 grand_parent: Game Reflection
 ---
-# ForceLootContainerItemRequest( ![ EntityEventBase ](/game-reflection/events/entity_event_base.md) )
+# ForceLootContainerItemRequest( [ EntityEventBase ](/docs/game-reflection/events/entity_event_base) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [bool](/game-reflection/components/bool.md) | MustHaveRequirement |
-| [String](/game-reflection/components/string.md) | AwardItem |
-| [Entity](/game-reflection/classes/entity.md) | Entity |
+| [bool](/docs/game-reflection/components/bool) | MustHaveRequirement |
+| [String](/docs/game-reflection/components/string) | AwardItem |
+| [Entity](/docs/game-reflection/classes/entity) | Entity |
+

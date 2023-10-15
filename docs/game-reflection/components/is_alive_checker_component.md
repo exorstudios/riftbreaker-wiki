@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [LogicTimer](/game-reflection/classes/logic_timer.md) | interval |
-| [IdString](/game-reflection/components/id_string.md) | tag |
+| [LogicTimer](/docs/game-reflection/classes/logic_timer) | interval |
+| [IdString](/docs/game-reflection/components/id_string) | tag |
+

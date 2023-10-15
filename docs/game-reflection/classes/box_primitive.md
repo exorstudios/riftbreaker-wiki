@@ -5,14 +5,16 @@ has_children: false
 parent: Class
 grand_parent: Game Reflection
 ---
-# BoxPrimitive( ![ Primitive ](/game-reflection/classes/primitive.md) )
+# BoxPrimitive( [ Primitive ](/docs/game-reflection/classes/primitive) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [Vector4](/game-reflection/classes/vector4.md) | lineColor |
-| [Quaternion](/game-reflection/classes/quaternion.md) | orient |
-| [Vector3](/game-reflection/classes/vector3.md) | position |
-| [Vector4](/game-reflection/classes/vector4.md) | solidColor |
-| [Vector3](/game-reflection/classes/vector3.md) | extent |
+| [Vector4](/docs/game-reflection/classes/vector4) | lineColor |
+| [Quaternion](/docs/game-reflection/classes/quaternion) | orient |
+| [Vector3](/docs/game-reflection/classes/vector3) | position |
+| [Vector4](/docs/game-reflection/classes/vector4) | solidColor |
+| [Vector3](/docs/game-reflection/classes/vector3) | extent |
+

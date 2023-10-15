@@ -9,14 +9,16 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [String](/game-reflection/components/string.md) | name |
-| [float](/game-reflection/components/float.md) | chance |
-| [ushort](/game-reflection/enums/ushort.md) | max_amount |
-| Vector< [ContainerLootGroup](/game-reflection/classes/container_loot_group.md) > | groups |
-| [String](/game-reflection/components/string.md) | condition_value |
-| [int](/game-reflection/enums/int.md) | condition_type |
-| [bool](/game-reflection/components/bool.md) | default |
-| [ushort](/game-reflection/enums/ushort.md) | spawn_ratio |
-| [ushort](/game-reflection/enums/ushort.md) | min_amount |
+| [String](/docs/game-reflection/components/string) | name |
+| [float](/docs/game-reflection/components/float) | chance |
+| [ushort](/docs/game-reflection/enums/ushort) | max_amount |
+| Vector< [ContainerLootGroup](/docs/game-reflection/classes/container_loot_group) > | groups |
+| [String](/docs/game-reflection/components/string) | condition_value |
+| [int](/docs/game-reflection/enums/int) | condition_type |
+| [bool](/docs/game-reflection/components/bool) | default |
+| [ushort](/docs/game-reflection/enums/ushort) | spawn_ratio |
+| [ushort](/docs/game-reflection/enums/ushort) | min_amount |
+

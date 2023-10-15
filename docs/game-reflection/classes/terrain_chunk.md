@@ -9,8 +9,10 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [String](/game-reflection/components/string.md) | name |
-| [ChunkIndex](/game-reflection/classes/chunk_index.md) | index |
-| Vector< [TerrainVertex](/game-reflection/classes/terrain_vertex.md) > | vertices |
+| [String](/docs/game-reflection/components/string) | name |
+| [ChunkIndex](/docs/game-reflection/classes/chunk_index) | index |
+| Vector< [TerrainVertex](/docs/game-reflection/classes/terrain_vertex) > | vertices |
+

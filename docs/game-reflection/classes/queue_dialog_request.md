@@ -9,20 +9,22 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [float](/game-reflection/components/float.md) | timeout |
-| [bool](/game-reflection/components/bool.md) | global |
-| [String](/game-reflection/components/string.md) | localization_id |
-| [float](/game-reflection/components/float.md) | current_time |
-| [String](/game-reflection/components/string.md) | gui_id |
-| [bool](/game-reflection/components/bool.md) | slowdown |
-| [float](/game-reflection/components/float.md) | priority |
-| [Database](/game-reflection/components/database.md) | db |
-| [bool](/game-reflection/components/bool.md) | interrupt |
-| [bool](/game-reflection/components/bool.md) | infinite_dialog_finished |
-| [String](/game-reflection/components/string.md) | sound_name |
-| [float](/game-reflection/components/float.md) | delay |
-| [float](/game-reflection/components/float.md) | duration |
-| [bool](/game-reflection/components/bool.md) | infinite |
-| [String](/game-reflection/components/string.md) | group_id |
+| [float](/docs/game-reflection/components/float) | timeout |
+| [bool](/docs/game-reflection/components/bool) | global |
+| [String](/docs/game-reflection/components/string) | localization_id |
+| [float](/docs/game-reflection/components/float) | current_time |
+| [String](/docs/game-reflection/components/string) | gui_id |
+| [bool](/docs/game-reflection/components/bool) | slowdown |
+| [float](/docs/game-reflection/components/float) | priority |
+| [Database](/docs/game-reflection/components/database) | db |
+| [bool](/docs/game-reflection/components/bool) | interrupt |
+| [bool](/docs/game-reflection/components/bool) | infinite_dialog_finished |
+| [String](/docs/game-reflection/components/string) | sound_name |
+| [float](/docs/game-reflection/components/float) | delay |
+| [float](/docs/game-reflection/components/float) | duration |
+| [bool](/docs/game-reflection/components/bool) | infinite |
+| [String](/docs/game-reflection/components/string) | group_id |
+

@@ -9,8 +9,10 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| Vector< [Pair_uint_ObjectiveScript](/game-reflection/classes/pair_uint__objective_script.md) > | objective_scripts |
-| [World1](/game-reflection/components/world1.md) | world |
-| Vector< [uint](/game-reflection/components/uint.md) > | to_remove |
+| Vector< [Pair_uint_ObjectiveScript](/docs/game-reflection/classes/pair_uint__objective_script) > | objective_scripts |
+| [World1](/docs/game-reflection/components/world1) | world |
+| Vector< [uint](/docs/game-reflection/components/uint) > | to_remove |
+

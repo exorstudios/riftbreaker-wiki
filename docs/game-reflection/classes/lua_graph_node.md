@@ -5,11 +5,13 @@ has_children: false
 parent: Class
 grand_parent: Game Reflection
 ---
-# LuaGraphNode( ![ LuaEntityObject ](/game-reflection/classes/lua_entity_object.md) )
+# LuaGraphNode( [ LuaEntityObject ](/docs/game-reflection/classes/lua_entity_object) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [bool](/game-reflection/components/bool.md) | is_suspended |
-| [bool](/game-reflection/components/bool.md) | is_finished |
+| [bool](/docs/game-reflection/components/bool) | is_suspended |
+| [bool](/docs/game-reflection/components/bool) | is_finished |
+

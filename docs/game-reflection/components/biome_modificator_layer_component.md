@@ -9,12 +9,14 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [ModifiableValue](/game-reflection/classes/modifiable_value.md) | solar_power_mod |
-| [float](/game-reflection/components/float.md) | geothermal_power |
-| [bool](/game-reflection/components/bool.md) | self_service |
-| Vector< [Entity](/game-reflection/classes/entity.md) > | owners |
-| [float](/game-reflection/components/float.md) | wind_power |
-| [ModifiableValue](/game-reflection/classes/modifiable_value.md) | wind_power_mod |
-| [float](/game-reflection/components/float.md) | solar_power |
+| [ModifiableValue](/docs/game-reflection/classes/modifiable_value) | solar_power_mod |
+| [float](/docs/game-reflection/components/float) | geothermal_power |
+| [bool](/docs/game-reflection/components/bool) | self_service |
+| Vector< [Entity](/docs/game-reflection/classes/entity) > | owners |
+| [float](/docs/game-reflection/components/float) | wind_power |
+| [ModifiableValue](/docs/game-reflection/classes/modifiable_value) | wind_power_mod |
+| [float](/docs/game-reflection/components/float) | solar_power |
+

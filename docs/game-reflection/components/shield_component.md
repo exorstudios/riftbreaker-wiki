@@ -9,10 +9,12 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [uchar](/game-reflection/enums/uchar.md) | mode |
-| Vector< [Entity](/game-reflection/classes/entity.md) > | owners |
-| [String](/game-reflection/components/string.md) | highlight_material |
-| [uchar](/game-reflection/enums/uchar.md) | priority |
-| [uchar](/game-reflection/enums/uchar.md) | owner |
+| [uchar](/docs/game-reflection/enums/uchar) | mode |
+| Vector< [Entity](/docs/game-reflection/classes/entity) > | owners |
+| [String](/docs/game-reflection/components/string) | highlight_material |
+| [uchar](/docs/game-reflection/enums/uchar) | priority |
+| [uchar](/docs/game-reflection/enums/uchar) | owner |
+

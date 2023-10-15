@@ -9,8 +9,10 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [String](/game-reflection/components/string.md) | description |
-| [uchar](/game-reflection/enums/uchar.md) | rarity |
-| [String](/game-reflection/components/string.md) | icon |
+| [String](/docs/game-reflection/components/string) | description |
+| [uchar](/docs/game-reflection/enums/uchar) | rarity |
+| [String](/docs/game-reflection/components/string) | icon |
+

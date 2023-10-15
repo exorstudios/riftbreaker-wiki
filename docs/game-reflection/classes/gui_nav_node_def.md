@@ -9,9 +9,11 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [GuiScriptDefMap](/game-reflection/classes/gui_script_def_map.md) | scripts |
-| [int](/game-reflection/enums/int.md) | type |
-| [bool](/game-reflection/components/bool.md) | default_sound |
-| [String](/game-reflection/components/string.md) | path |
+| [GuiScriptDefMap](/docs/game-reflection/classes/gui_script_def_map) | scripts |
+| [int](/docs/game-reflection/enums/int) | type |
+| [bool](/docs/game-reflection/components/bool) | default_sound |
+| [String](/docs/game-reflection/components/string) | path |
+

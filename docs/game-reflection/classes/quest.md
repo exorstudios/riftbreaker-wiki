@@ -9,8 +9,10 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| Vector< [SubQuest](/game-reflection/classes/sub_quest.md) > | sub_quest_vec |
-| [int](/game-reflection/enums/int.md) | type |
-| [bool](/game-reflection/components/bool.md) | ended |
+| Vector< [SubQuest](/docs/game-reflection/classes/sub_quest) > | sub_quest_vec |
+| [int](/docs/game-reflection/enums/int) | type |
+| [bool](/docs/game-reflection/components/bool) | ended |
+

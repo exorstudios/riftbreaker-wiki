@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [uint](/game-reflection/components/uint.md) | type |
-| [float](/game-reflection/components/float.md) | time |
+| [uint](/docs/game-reflection/components/uint) | type |
+| [float](/docs/game-reflection/components/float) | time |
+

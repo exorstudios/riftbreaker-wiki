@@ -9,9 +9,11 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [float](/game-reflection/components/float.md) | animFactor |
-| [bool](/game-reflection/components/bool.md) | animLoop |
-| [float](/game-reflection/components/float.md) | animTime |
-| [String](/game-reflection/components/string.md) | animName |
+| [float](/docs/game-reflection/components/float) | animFactor |
+| [bool](/docs/game-reflection/components/bool) | animLoop |
+| [float](/docs/game-reflection/components/float) | animTime |
+| [String](/docs/game-reflection/components/string) | animName |
+

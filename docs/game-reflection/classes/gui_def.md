@@ -9,29 +9,31 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [GuiAnimationTimelineDef2](/game-reflection/components/gui_animation_timeline_def2.md) | animations |
-| [String](/game-reflection/components/string.md) | model_source |
-| [String](/game-reflection/components/string.md) | id |
-| [Vector4](/game-reflection/classes/vector4.md) | color |
-| [float](/game-reflection/components/float.md) | rotation |
-| [uchar](/game-reflection/enums/uchar.md) | size_mode_x |
-| [uchar](/game-reflection/enums/uchar.md) | size_mode_y |
-| Vector< [GuiAnimationGroupDef](/game-reflection/classes/gui_animation_group_def.md) > | animation_groups |
-| [Vector2](/game-reflection/classes/vector2.md) | max_size |
-| [bool](/game-reflection/components/bool.md) | hitbox_visible |
-| [GuiTooltip2](/game-reflection/components/gui_tooltip2.md) | tooltip |
-| [uchar](/game-reflection/enums/uchar.md) | anchor |
-| [Vector2](/game-reflection/classes/vector2.md) | scale |
-| [float](/game-reflection/components/float.md) | z_order |
-| Vector< [Pair_String_String](/game-reflection/classes/pair__string__string.md) > | bindings_proxy |
-| [Vector2](/game-reflection/classes/vector2.md) | offset |
-| [bool](/game-reflection/components/bool.md) | visible |
-| Vector< [Pair_String_GuiBind](/game-reflection/classes/pair__string__gui_bind.md) > | bindings |
-| [uchar](/game-reflection/enums/uchar.md) | alignment |
-| [Vector2](/game-reflection/classes/vector2.md) | min_size |
-| [GuiScriptDefMap2](/game-reflection/components/gui_script_def_map2.md) | item_scripts |
-| [Vector4](/game-reflection/classes/vector4.md) | margin |
-| [uchar](/game-reflection/enums/uchar.md) | size_mode |
-| [Vector2](/game-reflection/classes/vector2.md) | size |
+| [GuiAnimationTimelineDef2](/docs/game-reflection/components/gui_animation_timeline_def2) | animations |
+| [String](/docs/game-reflection/components/string) | model_source |
+| [String](/docs/game-reflection/components/string) | id |
+| [Vector4](/docs/game-reflection/classes/vector4) | color |
+| [float](/docs/game-reflection/components/float) | rotation |
+| [uchar](/docs/game-reflection/enums/uchar) | size_mode_x |
+| [uchar](/docs/game-reflection/enums/uchar) | size_mode_y |
+| Vector< [GuiAnimationGroupDef](/docs/game-reflection/classes/gui_animation_group_def) > | animation_groups |
+| [Vector2](/docs/game-reflection/classes/vector2) | max_size |
+| [bool](/docs/game-reflection/components/bool) | hitbox_visible |
+| [GuiTooltip2](/docs/game-reflection/components/gui_tooltip2) | tooltip |
+| [uchar](/docs/game-reflection/enums/uchar) | anchor |
+| [Vector2](/docs/game-reflection/classes/vector2) | scale |
+| [float](/docs/game-reflection/components/float) | z_order |
+| Vector< [Pair_String_String](/docs/game-reflection/classes/pair__string__string) > | bindings_proxy |
+| [Vector2](/docs/game-reflection/classes/vector2) | offset |
+| [bool](/docs/game-reflection/components/bool) | visible |
+| Vector< [Pair_String_GuiBind](/docs/game-reflection/classes/pair__string__gui_bind) > | bindings |
+| [uchar](/docs/game-reflection/enums/uchar) | alignment |
+| [Vector2](/docs/game-reflection/classes/vector2) | min_size |
+| [GuiScriptDefMap2](/docs/game-reflection/components/gui_script_def_map2) | item_scripts |
+| [Vector4](/docs/game-reflection/classes/vector4) | margin |
+| [uchar](/docs/game-reflection/enums/uchar) | size_mode |
+| [Vector2](/docs/game-reflection/classes/vector2) | size |
+

@@ -5,11 +5,13 @@ has_children: false
 parent: Event
 grand_parent: Game Reflection
 ---
-# RepairBuildingRequest( ![ EntityEventBase ](/game-reflection/events/entity_event_base.md) )
+# RepairBuildingRequest( [ EntityEventBase ](/docs/game-reflection/events/entity_event_base) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [float](/game-reflection/components/float.md) | Amount |
-| [Entity](/game-reflection/classes/entity.md) | Entity |
+| [float](/docs/game-reflection/components/float) | Amount |
+| [Entity](/docs/game-reflection/classes/entity) | Entity |
+

@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [Timer](/game-reflection/classes/timer.md) | decay_timer |
-| [Vector3](/game-reflection/classes/vector3.md) | bending_force |
+| [Timer](/docs/game-reflection/classes/timer) | decay_timer |
+| [Vector3](/docs/game-reflection/classes/vector3) | bending_force |
+

@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| Vector< [Pair_CampaignStat_AggregatedStat](/game-reflection/classes/pair__campaign_stat__aggregated_stat.md) > | aggregates |
-| Vector< [Pair_CampaignStat_CompoundStat](/game-reflection/classes/pair__campaign_stat__compound_stat.md) > | compounds |
+| Vector< [Pair_CampaignStat_AggregatedStat](/docs/game-reflection/classes/pair__campaign_stat__aggregated_stat) > | aggregates |
+| Vector< [Pair_CampaignStat_CompoundStat](/docs/game-reflection/classes/pair__campaign_stat__compound_stat) > | compounds |
+

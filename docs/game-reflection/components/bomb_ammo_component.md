@@ -9,12 +9,14 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [uchar](/game-reflection/enums/uchar.md) | hit_effect_scale |
-| [uint](/game-reflection/components/uint.md) | creator |
-| [float](/game-reflection/components/float.md) | explosion_delay |
-| [IdString](/game-reflection/components/id_string.md) | explosion_effect |
-| [uint](/game-reflection/components/uint.md) | owner |
-| [ShockWavePattern](/game-reflection/classes/shock_wave_pattern.md) | ShockWavePattern |
-| [DamagePattern](/game-reflection/classes/damage_pattern.md) | DamagePattern |
+| [uchar](/docs/game-reflection/enums/uchar) | hit_effect_scale |
+| [uint](/docs/game-reflection/components/uint) | creator |
+| [float](/docs/game-reflection/components/float) | explosion_delay |
+| [IdString](/docs/game-reflection/components/id_string) | explosion_effect |
+| [uint](/docs/game-reflection/components/uint) | owner |
+| [ShockWavePattern](/docs/game-reflection/classes/shock_wave_pattern) | ShockWavePattern |
+| [DamagePattern](/docs/game-reflection/classes/damage_pattern) | DamagePattern |
+

@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [short](/game-reflection/components/short.md) | x |
-| [short](/game-reflection/components/short.md) | y |
+| [short](/docs/game-reflection/components/short) | x |
+| [short](/docs/game-reflection/components/short) | y |
+

@@ -5,13 +5,15 @@ has_children: false
 parent: Event
 grand_parent: Game Reflection
 ---
-# HideVegetationRequest( ![ EntityEventBase ](/game-reflection/events/entity_event_base.md) )
+# HideVegetationRequest( [ EntityEventBase ](/docs/game-reflection/events/entity_event_base) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [bool](/game-reflection/components/bool.md) | WithLifetime |
-| [Aabb](/game-reflection/components/aabb.md) | Bounds |
-| [uint64](/game-reflection/components/uint64.md) | VegetationType |
-| [Entity](/game-reflection/classes/entity.md) | Entity |
+| [bool](/docs/game-reflection/components/bool) | WithLifetime |
+| [Aabb](/docs/game-reflection/components/aabb) | Bounds |
+| [uint64](/docs/game-reflection/components/uint64) | VegetationType |
+| [Entity](/docs/game-reflection/classes/entity) | Entity |
+

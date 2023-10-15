@@ -9,9 +9,11 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [bool](/game-reflection/components/bool.md) | unlimited |
-| [float](/game-reflection/components/float.md) | radius |
-| [float](/game-reflection/components/float.md) | speed |
-| [uint](/game-reflection/components/uint.md) | power |
+| [bool](/docs/game-reflection/components/bool) | unlimited |
+| [float](/docs/game-reflection/components/float) | radius |
+| [float](/docs/game-reflection/components/float) | speed |
+| [uint](/docs/game-reflection/components/uint) | power |
+

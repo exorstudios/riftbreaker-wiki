@@ -9,8 +9,10 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [int](/game-reflection/enums/int.md) | permutation |
-| [int](/game-reflection/enums/int.md) | unique_id |
-| [bool](/game-reflection/components/bool.md) | is_root_region |
+| [int](/docs/game-reflection/enums/int) | permutation |
+| [int](/docs/game-reflection/enums/int) | unique_id |
+| [bool](/docs/game-reflection/components/bool) | is_root_region |
+

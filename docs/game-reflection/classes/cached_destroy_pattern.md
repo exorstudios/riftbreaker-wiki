@@ -9,24 +9,26 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [uint](/game-reflection/components/uint.md) | explosion_min_power |
-| Vector< [CachedPhysicsDebrisDesc](/game-reflection/components/cached_physics_debris_desc.md) > | cached_dynamic_debris_vec |
-| [bool](/game-reflection/components/bool.md) | part_custom_dissolve |
-| [IdString](/game-reflection/components/id_string.md) | bone |
-| [IdString](/game-reflection/components/id_string.md) | explosion_effect |
-| [uchar](/game-reflection/enums/uchar.md) | physx_group_id |
-| [float](/game-reflection/components/float.md) | part_rest_offset |
-| [IdString](/game-reflection/components/id_string.md) | part_effect |
-| [uint](/game-reflection/components/uint.md) | explosion_max_power |
-| [uint](/game-reflection/components/uint.md) | explosion_type |
-| [IdString](/game-reflection/components/id_string.md) | physx_material_id |
-| [float](/game-reflection/components/float.md) | part_mass |
-| [float](/game-reflection/components/float.md) | explosion_effect_scale |
-| [float](/game-reflection/components/float.md) | part_sleep_threshold |
-| [bool](/game-reflection/components/bool.md) | is_skeleton |
-| Vector< [CachedBoneDebrisDesc](/game-reflection/components/cached_bone_debris_desc.md) > | cached_bone_debris_vec |
-| [float](/game-reflection/components/float.md) | part_linear_damping |
-| [float](/game-reflection/components/float.md) | part_contact_offset |
-| [float](/game-reflection/components/float.md) | part_life_time |
+| [uint](/docs/game-reflection/components/uint) | explosion_min_power |
+| Vector< [CachedPhysicsDebrisDesc](/docs/game-reflection/components/cached_physics_debris_desc) > | cached_dynamic_debris_vec |
+| [bool](/docs/game-reflection/components/bool) | part_custom_dissolve |
+| [IdString](/docs/game-reflection/components/id_string) | bone |
+| [IdString](/docs/game-reflection/components/id_string) | explosion_effect |
+| [uchar](/docs/game-reflection/enums/uchar) | physx_group_id |
+| [float](/docs/game-reflection/components/float) | part_rest_offset |
+| [IdString](/docs/game-reflection/components/id_string) | part_effect |
+| [uint](/docs/game-reflection/components/uint) | explosion_max_power |
+| [uint](/docs/game-reflection/components/uint) | explosion_type |
+| [IdString](/docs/game-reflection/components/id_string) | physx_material_id |
+| [float](/docs/game-reflection/components/float) | part_mass |
+| [float](/docs/game-reflection/components/float) | explosion_effect_scale |
+| [float](/docs/game-reflection/components/float) | part_sleep_threshold |
+| [bool](/docs/game-reflection/components/bool) | is_skeleton |
+| Vector< [CachedBoneDebrisDesc](/docs/game-reflection/components/cached_bone_debris_desc) > | cached_bone_debris_vec |
+| [float](/docs/game-reflection/components/float) | part_linear_damping |
+| [float](/docs/game-reflection/components/float) | part_contact_offset |
+| [float](/docs/game-reflection/components/float) | part_life_time |
+

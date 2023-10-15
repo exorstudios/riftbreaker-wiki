@@ -9,6 +9,8 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [uchar](/game-reflection/enums/uchar.md) | ammo_type |
+| [uchar](/docs/game-reflection/enums/uchar) | ammo_type |
+

@@ -5,10 +5,12 @@ has_children: false
 parent: Class
 grand_parent: Game Reflection
 ---
-# AnimationMarkerReachedTransitionCondition( ![ AnimationTransitionCondition ](/game-reflection/classes/animation_transition_condition.md) )
+# AnimationMarkerReachedTransitionCondition( [ AnimationTransitionCondition ](/docs/game-reflection/classes/animation_transition_condition) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [String](/game-reflection/components/string.md) | marker_name |
+| [String](/docs/game-reflection/components/string) | marker_name |
+

@@ -9,8 +9,10 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [String](/game-reflection/components/string.md) | name |
-| [String](/game-reflection/components/string.md) | tooltip_content |
-| [String](/game-reflection/components/string.md) | icon |
+| [String](/docs/game-reflection/components/string) | name |
+| [String](/docs/game-reflection/components/string) | tooltip_content |
+| [String](/docs/game-reflection/components/string) | icon |
+

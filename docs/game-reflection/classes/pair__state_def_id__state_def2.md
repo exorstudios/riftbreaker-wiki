@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [StateDef2](/game-reflection/components/state_def2.md) | value |
-| [StateDefId](/game-reflection/classes/state_def_id.md) | key |
+| [StateDef2](/docs/game-reflection/components/state_def2) | value |
+| [StateDefId](/docs/game-reflection/classes/state_def_id) | key |
+

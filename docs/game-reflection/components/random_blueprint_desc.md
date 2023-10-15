@@ -9,6 +9,8 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| Vector< [Blueprint](/game-reflection/classes/blueprint.md) > | Blueprints |
+| Vector< [Blueprint](/docs/game-reflection/classes/blueprint) > | Blueprints |
+

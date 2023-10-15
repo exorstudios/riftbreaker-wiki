@@ -5,10 +5,12 @@ has_children: false
 parent: Class
 grand_parent: Game Reflection
 ---
-# TerrainAffectorSystem( ![ System ](/game-reflection/classes/system.md) )
+# TerrainAffectorSystem( [ System ](/docs/game-reflection/classes/system) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [Entity](/game-reflection/classes/entity.md) | terran_affector_ent |
+| [Entity](/docs/game-reflection/classes/entity) | terran_affector_ent |
+

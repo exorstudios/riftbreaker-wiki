@@ -5,10 +5,12 @@ has_children: false
 parent: Class
 grand_parent: Game Reflection
 ---
-# MiscLayer( ![ CellLayer ](/game-reflection/classes/cell_layer.md) )
+# MiscLayer( [ CellLayer ](/docs/game-reflection/classes/cell_layer) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [Entity](/game-reflection/classes/entity.md) | entity |
+| [Entity](/docs/game-reflection/classes/entity) | entity |
+

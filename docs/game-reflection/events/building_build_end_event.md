@@ -5,13 +5,15 @@ has_children: false
 parent: Event
 grand_parent: Game Reflection
 ---
-# BuildingBuildEndEvent( ![ EntityEventBase ](/game-reflection/events/entity_event_base.md) )
+# BuildingBuildEndEvent( [ EntityEventBase ](/docs/game-reflection/events/entity_event_base) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [String](/game-reflection/components/string.md) | BuildingName |
-| [String](/game-reflection/components/string.md) | BuildingType |
-| [bool](/game-reflection/components/bool.md) | Upgraded |
-| [Entity](/game-reflection/classes/entity.md) | Entity |
+| [String](/docs/game-reflection/components/string) | BuildingName |
+| [String](/docs/game-reflection/components/string) | BuildingType |
+| [bool](/docs/game-reflection/components/bool) | Upgraded |
+| [Entity](/docs/game-reflection/classes/entity) | Entity |
+

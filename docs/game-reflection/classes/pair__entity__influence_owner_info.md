@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [InfluenceOwnerInfo](/game-reflection/classes/influence_owner_info.md) | value |
-| [Entity](/game-reflection/classes/entity.md) | key |
+| [InfluenceOwnerInfo](/docs/game-reflection/classes/influence_owner_info) | value |
+| [Entity](/docs/game-reflection/classes/entity) | key |
+

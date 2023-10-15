@@ -5,14 +5,16 @@ has_children: false
 parent: Event
 grand_parent: Game Reflection
 ---
-# AnimationMarkerReached( ![ EntityEventBase ](/game-reflection/events/entity_event_base.md) )
+# AnimationMarkerReached( [ EntityEventBase ](/docs/game-reflection/events/entity_event_base) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [String](/game-reflection/components/string.md) | MarkerName |
-| [String](/game-reflection/components/string.md) | LayerName |
-| [String](/game-reflection/components/string.md) | StateName |
-| [String](/game-reflection/components/string.md) | TrackName |
-| [Entity](/game-reflection/classes/entity.md) | Entity |
+| [String](/docs/game-reflection/components/string) | MarkerName |
+| [String](/docs/game-reflection/components/string) | LayerName |
+| [String](/docs/game-reflection/components/string) | StateName |
+| [String](/docs/game-reflection/components/string) | TrackName |
+| [Entity](/docs/game-reflection/classes/entity) | Entity |
+

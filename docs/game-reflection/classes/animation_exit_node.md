@@ -5,10 +5,12 @@ has_children: false
 parent: Class
 grand_parent: Game Reflection
 ---
-# AnimationExitNode( ![ AnimationStateNode ](/game-reflection/classes/animation_state_node.md) )
+# AnimationExitNode( [ AnimationStateNode ](/docs/game-reflection/classes/animation_state_node) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [bool](/game-reflection/components/bool.md) | terminal_node |
+| [bool](/docs/game-reflection/components/bool) | terminal_node |
+

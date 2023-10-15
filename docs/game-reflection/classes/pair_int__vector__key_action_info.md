@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| Vector< [KeyActionInfo](/game-reflection/classes/key_action_info.md) > | value |
-| [int](/game-reflection/enums/int.md) | key |
+| Vector< [KeyActionInfo](/docs/game-reflection/classes/key_action_info) > | value |
+| [int](/docs/game-reflection/enums/int) | key |
+

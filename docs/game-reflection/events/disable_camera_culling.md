@@ -5,11 +5,13 @@ has_children: false
 parent: Event
 grand_parent: Game Reflection
 ---
-# DisableCameraCulling( ![ EntityEventBase ](/game-reflection/events/entity_event_base.md) )
+# DisableCameraCulling( [ EntityEventBase ](/docs/game-reflection/events/entity_event_base) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [Entity](/game-reflection/classes/entity.md) | Culler |
-| [Entity](/game-reflection/classes/entity.md) | Entity |
+| [Entity](/docs/game-reflection/classes/entity) | Culler |
+| [Entity](/docs/game-reflection/classes/entity) | Entity |
+

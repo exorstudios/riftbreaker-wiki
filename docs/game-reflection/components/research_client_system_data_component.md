@@ -9,6 +9,8 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| Vector< [Pair_String_float](/game-reflection/classes/pair__string_float.md) > | research_times |
+| Vector< [Pair_String_float](/docs/game-reflection/classes/pair__string_float) > | research_times |
+

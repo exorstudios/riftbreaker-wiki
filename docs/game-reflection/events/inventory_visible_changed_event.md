@@ -5,11 +5,13 @@ has_children: false
 parent: Event
 grand_parent: Game Reflection
 ---
-# InventoryVisibleChangedEvent( ![ EntityEventBase ](/game-reflection/events/entity_event_base.md) )
+# InventoryVisibleChangedEvent( [ EntityEventBase ](/docs/game-reflection/events/entity_event_base) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [bool](/game-reflection/components/bool.md) | Visible |
-| [Entity](/game-reflection/classes/entity.md) | MechEnt |
+| [bool](/docs/game-reflection/components/bool) | Visible |
+| [Entity](/docs/game-reflection/classes/entity) | MechEnt |
+

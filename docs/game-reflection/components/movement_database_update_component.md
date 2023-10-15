@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [Quaternion](/game-reflection/classes/quaternion.md) | prev_orientation |
-| [Vector3](/game-reflection/classes/vector3.md) | prev_position |
+| [Quaternion](/docs/game-reflection/classes/quaternion) | prev_orientation |
+| [Vector3](/docs/game-reflection/classes/vector3) | prev_position |
+

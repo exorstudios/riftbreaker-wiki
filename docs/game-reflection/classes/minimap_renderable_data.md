@@ -5,11 +5,13 @@ has_children: false
 parent: Class
 grand_parent: Game Reflection
 ---
-# MinimapRenderableData( ![ CustomRenderableData ](/game-reflection/classes/custom_renderable_data.md) )
+# MinimapRenderableData( [ CustomRenderableData ](/docs/game-reflection/classes/custom_renderable_data) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [String](/game-reflection/components/string.md) | material |
-| Vector< [MinimapVertex](/game-reflection/components/minimap_vertex.md) > | vertices |
+| [String](/docs/game-reflection/components/string) | material |
+| Vector< [MinimapVertex](/docs/game-reflection/components/minimap_vertex) > | vertices |
+

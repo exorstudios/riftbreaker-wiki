@@ -5,11 +5,13 @@ has_children: false
 parent: Event
 grand_parent: Game Reflection
 ---
-# SpikeAmmoFiredEvent( ![ EntityEventBase ](/game-reflection/events/entity_event_base.md) )
+# SpikeAmmoFiredEvent( [ EntityEventBase ](/docs/game-reflection/events/entity_event_base) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [Entity](/game-reflection/classes/entity.md) | Entity |
-| [Entity](/game-reflection/classes/entity.md) | AmmoEntity |
+| [Entity](/docs/game-reflection/classes/entity) | Entity |
+| [Entity](/docs/game-reflection/classes/entity) | AmmoEntity |
+

@@ -9,9 +9,11 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [int](/game-reflection/enums/int.md) | CullMode |
-| [float](/game-reflection/components/float.md) | DepthBias |
-| [int](/game-reflection/enums/int.md) | FillMode |
-| [float](/game-reflection/components/float.md) | SlopeScaledDepthBias |
+| [int](/docs/game-reflection/enums/int) | CullMode |
+| [float](/docs/game-reflection/components/float) | DepthBias |
+| [int](/docs/game-reflection/enums/int) | FillMode |
+| [float](/docs/game-reflection/components/float) | SlopeScaledDepthBias |
+

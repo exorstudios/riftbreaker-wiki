@@ -9,11 +9,13 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [bool](/game-reflection/components/bool.md) | save_mode |
-| [bool](/game-reflection/components/bool.md) | main_menu |
-| [bool](/game-reflection/components/bool.md) | load_available |
-| [String](/game-reflection/components/string.md) | category_name |
-| [bool](/game-reflection/components/bool.md) | disable_delete_button |
-| [bool](/game-reflection/components/bool.md) | campaign_selected |
+| [bool](/docs/game-reflection/components/bool) | save_mode |
+| [bool](/docs/game-reflection/components/bool) | main_menu |
+| [bool](/docs/game-reflection/components/bool) | load_available |
+| [String](/docs/game-reflection/components/string) | category_name |
+| [bool](/docs/game-reflection/components/bool) | disable_delete_button |
+| [bool](/docs/game-reflection/components/bool) | campaign_selected |
+

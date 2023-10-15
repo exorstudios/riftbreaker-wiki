@@ -9,6 +9,8 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [EntityTemplate](/game-reflection/classes/entity_template.md) | component_storage |
+| [EntityTemplate](/docs/game-reflection/classes/entity_template) | component_storage |
+

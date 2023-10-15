@@ -9,9 +9,11 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [uint](/game-reflection/components/uint.md) | mapper_type_hash |
-| [String](/game-reflection/components/string.md) | name |
-| [int](/game-reflection/enums/int.md) | priority |
-| [bool](/game-reflection/components/bool.md) | enabled |
+| [uint](/docs/game-reflection/components/uint) | mapper_type_hash |
+| [String](/docs/game-reflection/components/string) | name |
+| [int](/docs/game-reflection/enums/int) | priority |
+| [bool](/docs/game-reflection/components/bool) | enabled |
+

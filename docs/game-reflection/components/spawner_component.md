@@ -9,10 +9,12 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [float](/game-reflection/components/float.md) | cooldown |
-| [bool](/game-reflection/components/bool.md) | ignore_orientation |
-| [EntityTemplate](/game-reflection/classes/entity_template.md) | entity_template |
-| [int](/game-reflection/enums/int.md) | spawns_left |
-| [Timer](/game-reflection/classes/timer.md) | timer |
+| [float](/docs/game-reflection/components/float) | cooldown |
+| [bool](/docs/game-reflection/components/bool) | ignore_orientation |
+| [EntityTemplate](/docs/game-reflection/classes/entity_template) | entity_template |
+| [int](/docs/game-reflection/enums/int) | spawns_left |
+| [Timer](/docs/game-reflection/classes/timer) | timer |
+

@@ -9,9 +9,11 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [Vector3](/game-reflection/classes/vector3.md) | start_handle |
-| [Transform](/game-reflection/classes/transform.md) | start_point |
-| [Vector3](/game-reflection/classes/vector3.md) | end_handle |
-| [Transform](/game-reflection/classes/transform.md) | end_point |
+| [Vector3](/docs/game-reflection/classes/vector3) | start_handle |
+| [Transform](/docs/game-reflection/classes/transform) | start_point |
+| [Vector3](/docs/game-reflection/classes/vector3) | end_handle |
+| [Transform](/docs/game-reflection/classes/transform) | end_point |
+

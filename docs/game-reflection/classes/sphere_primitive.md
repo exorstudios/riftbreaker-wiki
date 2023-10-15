@@ -5,12 +5,14 @@ has_children: false
 parent: Class
 grand_parent: Game Reflection
 ---
-# SpherePrimitive( ![ Primitive ](/game-reflection/classes/primitive.md) )
+# SpherePrimitive( [ Primitive ](/docs/game-reflection/classes/primitive) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [Vector4](/game-reflection/classes/vector4.md) | lineColor |
-| [Vector3](/game-reflection/classes/vector3.md) | position |
-| [Vector4](/game-reflection/classes/vector4.md) | solidColor |
+| [Vector4](/docs/game-reflection/classes/vector4) | lineColor |
+| [Vector3](/docs/game-reflection/classes/vector3) | position |
+| [Vector4](/docs/game-reflection/classes/vector4) | solidColor |
+

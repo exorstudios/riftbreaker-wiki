@@ -9,12 +9,14 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [bool](/game-reflection/components/bool.md) | created |
-| [IdString](/game-reflection/components/id_string.md) | blueprint |
-| [bool](/game-reflection/components/bool.md) | always_up |
-| [Vector3](/game-reflection/classes/vector3.md) | scale |
-| [bool](/game-reflection/components/bool.md) | random_rotation |
-| [float](/game-reflection/components/float.md) | min_height |
-| [bool](/game-reflection/components/bool.md) | attach |
+| [bool](/docs/game-reflection/components/bool) | created |
+| [IdString](/docs/game-reflection/components/id_string) | blueprint |
+| [bool](/docs/game-reflection/components/bool) | always_up |
+| [Vector3](/docs/game-reflection/classes/vector3) | scale |
+| [bool](/docs/game-reflection/components/bool) | random_rotation |
+| [float](/docs/game-reflection/components/float) | min_height |
+| [bool](/docs/game-reflection/components/bool) | attach |
+

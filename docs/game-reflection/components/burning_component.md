@@ -9,18 +9,20 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [float](/game-reflection/components/float.md) | spread_chance_override |
-| [uint64](/game-reflection/components/uint64.md) | spread_target_mask |
-| [uchar](/game-reflection/enums/uchar.md) | state |
-| [LogicTimer](/game-reflection/classes/logic_timer.md) | spread_timer |
-| [float](/game-reflection/components/float.md) | burned_time |
-| [float](/game-reflection/components/float.md) | burned_min_glow |
-| [Timer](/game-reflection/classes/timer.md) | burning_interval |
-| [float](/game-reflection/components/float.md) | spread_radius |
-| [bool](/game-reflection/components/bool.md) | disable_light_fade_out |
-| Vector< [LogicTimer](/game-reflection/classes/logic_timer.md) > | state_timer |
-| Vector< [Color](/game-reflection/classes/color.md) > | burning_color |
-| [Vector3](/game-reflection/classes/vector3.md) | spread_offset |
-| [float](/game-reflection/components/float.md) | burning_time |
+| [float](/docs/game-reflection/components/float) | spread_chance_override |
+| [uint64](/docs/game-reflection/components/uint64) | spread_target_mask |
+| [uchar](/docs/game-reflection/enums/uchar) | state |
+| [LogicTimer](/docs/game-reflection/classes/logic_timer) | spread_timer |
+| [float](/docs/game-reflection/components/float) | burned_time |
+| [float](/docs/game-reflection/components/float) | burned_min_glow |
+| [Timer](/docs/game-reflection/classes/timer) | burning_interval |
+| [float](/docs/game-reflection/components/float) | spread_radius |
+| [bool](/docs/game-reflection/components/bool) | disable_light_fade_out |
+| Vector< [LogicTimer](/docs/game-reflection/classes/logic_timer) > | state_timer |
+| Vector< [Color](/docs/game-reflection/classes/color) > | burning_color |
+| [Vector3](/docs/game-reflection/classes/vector3) | spread_offset |
+| [float](/docs/game-reflection/components/float) | burning_time |
+

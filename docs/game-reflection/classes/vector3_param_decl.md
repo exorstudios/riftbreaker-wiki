@@ -5,12 +5,14 @@ has_children: false
 parent: Class
 grand_parent: Game Reflection
 ---
-# Vector3ParamDecl( ![ ParamDecl ](/game-reflection/classes/param_decl.md) )
+# Vector3ParamDecl( [ ParamDecl ](/docs/game-reflection/classes/param_decl) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [Vector3](/game-reflection/classes/vector3.md) | max |
-| [Vector3](/game-reflection/classes/vector3.md) | min |
-| [Vector3](/game-reflection/classes/vector3.md) | default |
+| [Vector3](/docs/game-reflection/classes/vector3) | max |
+| [Vector3](/docs/game-reflection/classes/vector3) | min |
+| [Vector3](/docs/game-reflection/classes/vector3) | default |
+

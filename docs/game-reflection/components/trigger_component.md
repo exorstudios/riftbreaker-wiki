@@ -9,13 +9,15 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| Vector< [Entity](/game-reflection/classes/entity.md) > | ents |
-| [int](/game-reflection/enums/int.md) | type |
-| Vector< [TriggerFilter](/game-reflection/components/trigger_filter.md) > | Filters |
-| [bool](/game-reflection/components/bool.md) | enabled |
-| [int](/game-reflection/enums/int.md) | owner |
-| [IdString](/game-reflection/components/id_string.md) | tag |
-| [uint](/game-reflection/components/uint.md) | collision |
-| Vector< [PhysicsShape](/game-reflection/classes/physics_shape.md) > | Shapes |
+| Vector< [Entity](/docs/game-reflection/classes/entity) > | ents |
+| [int](/docs/game-reflection/enums/int) | type |
+| Vector< [TriggerFilter](/docs/game-reflection/components/trigger_filter) > | Filters |
+| [bool](/docs/game-reflection/components/bool) | enabled |
+| [int](/docs/game-reflection/enums/int) | owner |
+| [IdString](/docs/game-reflection/components/id_string) | tag |
+| [uint](/docs/game-reflection/components/uint) | collision |
+| Vector< [PhysicsShape](/docs/game-reflection/classes/physics_shape) > | Shapes |
+

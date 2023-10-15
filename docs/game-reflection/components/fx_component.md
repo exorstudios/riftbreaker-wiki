@@ -9,10 +9,12 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| Vector< [float](/game-reflection/components/float.md) > | threshold_vec |
-| [Vector3](/game-reflection/classes/vector3.md) | prev_pos |
-| [float](/game-reflection/components/float.md) | avg_speed |
-| [uint](/game-reflection/components/uint.md) | tier |
-| [bool](/game-reflection/components/bool.md) | idle_audible |
+| Vector< [float](/docs/game-reflection/components/float) > | threshold_vec |
+| [Vector3](/docs/game-reflection/classes/vector3) | prev_pos |
+| [float](/docs/game-reflection/components/float) | avg_speed |
+| [uint](/docs/game-reflection/components/uint) | tier |
+| [bool](/docs/game-reflection/components/bool) | idle_audible |
+

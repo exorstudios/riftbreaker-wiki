@@ -9,11 +9,13 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [float](/game-reflection/components/float.md) | explosion_min_power |
-| [Vector3](/game-reflection/classes/vector3.md) | spawn_offset |
-| [uchar](/game-reflection/enums/uchar.md) | loot_container_override |
-| [IdString](/game-reflection/components/id_string.md) | bp |
-| [float](/game-reflection/components/float.md) | explosion_max_power |
-| [bool](/game-reflection/components/bool.md) | is_gatherable |
+| [float](/docs/game-reflection/components/float) | explosion_min_power |
+| [Vector3](/docs/game-reflection/classes/vector3) | spawn_offset |
+| [uchar](/docs/game-reflection/enums/uchar) | loot_container_override |
+| [IdString](/docs/game-reflection/components/id_string) | bp |
+| [float](/docs/game-reflection/components/float) | explosion_max_power |
+| [bool](/docs/game-reflection/components/bool) | is_gatherable |
+

@@ -9,11 +9,13 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [TimeOfDayEnvParams](/game-reflection/classes/time_of_day_env_params.md) | timeofday_sunrise |
-| [TimeOfDayWeatherParams](/game-reflection/classes/time_of_day_weather_params.md) | weather_day |
-| [TimeOfDayEnvParams](/game-reflection/classes/time_of_day_env_params.md) | timeofday_day |
-| [TimeOfDayWeatherParams](/game-reflection/classes/time_of_day_weather_params.md) | weather_night |
-| [TimeOfDayEnvParams](/game-reflection/classes/time_of_day_env_params.md) | timeofday_night |
-| [TimeOfDayEnvParams](/game-reflection/classes/time_of_day_env_params.md) | timeofday_sunset |
+| [TimeOfDayEnvParams](/docs/game-reflection/classes/time_of_day_env_params) | timeofday_sunrise |
+| [TimeOfDayWeatherParams](/docs/game-reflection/classes/time_of_day_weather_params) | weather_day |
+| [TimeOfDayEnvParams](/docs/game-reflection/classes/time_of_day_env_params) | timeofday_day |
+| [TimeOfDayWeatherParams](/docs/game-reflection/classes/time_of_day_weather_params) | weather_night |
+| [TimeOfDayEnvParams](/docs/game-reflection/classes/time_of_day_env_params) | timeofday_night |
+| [TimeOfDayEnvParams](/docs/game-reflection/classes/time_of_day_env_params) | timeofday_sunset |
+

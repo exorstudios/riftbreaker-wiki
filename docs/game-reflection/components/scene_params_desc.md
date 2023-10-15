@@ -9,16 +9,18 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [SkyboxParams](/game-reflection/classes/skybox_params.md) | skybox_params |
-| [VolumetricFogParams](/game-reflection/classes/volumetric_fog_params.md) | volumetric_fog_params |
-| [SkyboxProceduralParams](/game-reflection/classes/skybox_procedural_params.md) | skybox_procedural_params |
-| [ShadowParams](/game-reflection/classes/shadow_params.md) | shadow_params |
-| [PostParams](/game-reflection/components/post_params.md) | poost_params |
-| [DebugParams](/game-reflection/classes/debug_params.md) | debug_params |
-| [CloudsParams](/game-reflection/classes/clouds_params.md) | clouds_params |
-| [SSAOParams](/game-reflection/classes/s_s_a_o_params.md) | ssao_params |
-| [BloomParams](/game-reflection/classes/bloom_params.md) | bloom_params |
-| [ToneMappingParams](/game-reflection/classes/tone_mapping_params.md) | tone_mapping_params |
-| [FogParams](/game-reflection/classes/fog_params.md) | fog_params |
+| [SkyboxParams](/docs/game-reflection/classes/skybox_params) | skybox_params |
+| [VolumetricFogParams](/docs/game-reflection/classes/volumetric_fog_params) | volumetric_fog_params |
+| [SkyboxProceduralParams](/docs/game-reflection/classes/skybox_procedural_params) | skybox_procedural_params |
+| [ShadowParams](/docs/game-reflection/classes/shadow_params) | shadow_params |
+| [PostParams](/docs/game-reflection/components/post_params) | poost_params |
+| [DebugParams](/docs/game-reflection/classes/debug_params) | debug_params |
+| [CloudsParams](/docs/game-reflection/classes/clouds_params) | clouds_params |
+| [SSAOParams](/docs/game-reflection/classes/s_s_a_o_params) | ssao_params |
+| [BloomParams](/docs/game-reflection/classes/bloom_params) | bloom_params |
+| [ToneMappingParams](/docs/game-reflection/classes/tone_mapping_params) | tone_mapping_params |
+| [FogParams](/docs/game-reflection/classes/fog_params) | fog_params |
+

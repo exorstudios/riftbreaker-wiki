@@ -5,14 +5,16 @@ has_children: false
 parent: Class
 grand_parent: Game Reflection
 ---
-# GuiTextLine( ![ GuiItem ](/game-reflection/classes/gui_item.md) )
+# GuiTextLine( [ GuiItem ](/docs/game-reflection/classes/gui_item) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [String](/game-reflection/components/string.md) | content |
-| [bool](/game-reflection/components/bool.md) | translate |
-| [String](/game-reflection/components/string.md) | style_name |
-| [Vector2](/game-reflection/classes/vector2.md) | proper_text_size |
-| [bool](/game-reflection/components/bool.md) | capitals |
+| [String](/docs/game-reflection/components/string) | content |
+| [bool](/docs/game-reflection/components/bool) | translate |
+| [String](/docs/game-reflection/components/string) | style_name |
+| [Vector2](/docs/game-reflection/classes/vector2) | proper_text_size |
+| [bool](/docs/game-reflection/components/bool) | capitals |
+

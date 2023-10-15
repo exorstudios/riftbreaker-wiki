@@ -5,11 +5,13 @@ has_children: false
 parent: Event
 grand_parent: Game Reflection
 ---
-# PickedUpItemEvent( ![ EntityEventBase ](/game-reflection/events/entity_event_base.md) )
+# PickedUpItemEvent( [ EntityEventBase ](/docs/game-reflection/events/entity_event_base) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [Entity](/game-reflection/classes/entity.md) | Inventory |
-| [Entity](/game-reflection/classes/entity.md) | Entity |
+| [Entity](/docs/game-reflection/classes/entity) | Inventory |
+| [Entity](/docs/game-reflection/classes/entity) | Entity |
+

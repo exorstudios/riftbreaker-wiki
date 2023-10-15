@@ -9,9 +9,11 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [ResourceHandle_EntityBlueprint](/game-reflection/components/resource_handle__entity_blueprint.md) | blueprint |
-| [float](/game-reflection/components/float.md) | max_difficulty_factor |
-| [float](/game-reflection/components/float.md) | min_difficulty_factor |
-| [float](/game-reflection/components/float.md) | volume_spawn_proximity_factor |
+| [ResourceHandle_EntityBlueprint](/docs/game-reflection/components/resource_handle__entity_blueprint) | blueprint |
+| [float](/docs/game-reflection/components/float) | max_difficulty_factor |
+| [float](/docs/game-reflection/components/float) | min_difficulty_factor |
+| [float](/docs/game-reflection/components/float) | volume_spawn_proximity_factor |
+

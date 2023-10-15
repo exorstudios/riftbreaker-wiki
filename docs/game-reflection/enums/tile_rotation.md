@@ -9,6 +9,7 @@ grand_parent: Game Reflection
 Description 
 
 ## Enum values
+
 | Name | Value |
 |:-------------|:--------------|
 | None | 0 |
@@ -16,3 +17,4 @@ Description
 | Mirror | 2 |
 | VerticalMirror | 3 |
 | Count | 4 |
+

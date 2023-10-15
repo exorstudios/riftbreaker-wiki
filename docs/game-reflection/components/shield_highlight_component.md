@@ -9,10 +9,12 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [float](/game-reflection/components/float.md) | current_time |
-| [String](/game-reflection/components/string.md) | highlight_material |
-| [float](/game-reflection/components/float.md) | flash_time |
-| Vector< [float](/game-reflection/components/float.md) > | hits |
-| [float](/game-reflection/components/float.md) | last_hit_time |
+| [float](/docs/game-reflection/components/float) | current_time |
+| [String](/docs/game-reflection/components/string) | highlight_material |
+| [float](/docs/game-reflection/components/float) | flash_time |
+| Vector< [float](/docs/game-reflection/components/float) > | hits |
+| [float](/docs/game-reflection/components/float) | last_hit_time |
+

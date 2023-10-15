@@ -9,12 +9,14 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [AmmoStat](/game-reflection/classes/ammo_stat.md) | ammo_stat |
-| [float](/game-reflection/components/float.md) | ammo_cost |
-| [FireStat](/game-reflection/classes/fire_stat.md) | fire_stat |
-| [BeamStat](/game-reflection/classes/beam_stat.md) | beam_stat |
-| [DamageStat](/game-reflection/classes/damage_stat.md) | damage_stat |
-| [float](/game-reflection/components/float.md) | weapon_scale |
-| [GameplayResourceDefHolder](/game-reflection/components/gameplay_resource_def_holder.md) | ammo_storage |
+| [AmmoStat](/docs/game-reflection/classes/ammo_stat) | ammo_stat |
+| [float](/docs/game-reflection/components/float) | ammo_cost |
+| [FireStat](/docs/game-reflection/classes/fire_stat) | fire_stat |
+| [BeamStat](/docs/game-reflection/classes/beam_stat) | beam_stat |
+| [DamageStat](/docs/game-reflection/classes/damage_stat) | damage_stat |
+| [float](/docs/game-reflection/components/float) | weapon_scale |
+| [GameplayResourceDefHolder](/docs/game-reflection/components/gameplay_resource_def_holder) | ammo_storage |
+

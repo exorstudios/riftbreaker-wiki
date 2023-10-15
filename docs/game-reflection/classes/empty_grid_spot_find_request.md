@@ -5,10 +5,12 @@ has_children: false
 parent: Class
 grand_parent: Game Reflection
 ---
-# EmptyGridSpotFindRequest( ![ TerrainGridFindRequest ](/game-reflection/classes/terrain_grid_find_request.md) )
+# EmptyGridSpotFindRequest( [ TerrainGridFindRequest ](/docs/game-reflection/classes/terrain_grid_find_request) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [float](/game-reflection/components/float.md) | radius |
+| [float](/docs/game-reflection/components/float) | radius |
+

@@ -5,9 +5,11 @@ has_children: false
 parent: Component
 grand_parent: Game Reflection
 ---
-# ComponentHiderSystem( ![ System ](/game-reflection/components/system.md) )
+# ComponentHiderSystem( [ System ](/docs/game-reflection/components/system) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
+

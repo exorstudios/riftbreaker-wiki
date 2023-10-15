@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| Vector< [Pair_StringHash_FlatMap_floatCameraShakeState](/game-reflection/classes/pair__string_hash__flat_map_float_camera_shake_state.md) > | value |
-| [StringHash](/game-reflection/classes/string_hash.md) | key |
+| Vector< [Pair_StringHash_FlatMap_floatCameraShakeState](/docs/game-reflection/classes/pair__string_hash__flat_map_float_camera_shake_state) > | value |
+| [StringHash](/docs/game-reflection/classes/string_hash) | key |
+

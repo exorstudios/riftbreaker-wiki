@@ -9,10 +9,12 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [uint](/game-reflection/components/uint.md) | radius |
-| [float](/game-reflection/components/float.md) | creation_time_step |
-| [uint](/game-reflection/components/uint.md) | energy_radius |
-| [uint](/game-reflection/components/uint.md) | emissive_radius |
-| [float](/game-reflection/components/float.md) | remove_time_step |
+| [uint](/docs/game-reflection/components/uint) | radius |
+| [float](/docs/game-reflection/components/float) | creation_time_step |
+| [uint](/docs/game-reflection/components/uint) | energy_radius |
+| [uint](/docs/game-reflection/components/uint) | emissive_radius |
+| [float](/docs/game-reflection/components/float) | remove_time_step |
+

@@ -9,12 +9,14 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| Vector< [uint](/game-reflection/components/uint.md) > | cell_idx |
-| [uint64](/game-reflection/components/uint64.md) | counter |
-| [String](/game-reflection/components/string.md) | last_resource_name |
-| [String](/game-reflection/components/string.md) | resource_name |
-| Vector< [String](/game-reflection/components/string.md) > | attachment |
-| [uint64](/game-reflection/components/uint64.md) | connection_id |
-| Vector< [Entity](/game-reflection/classes/entity.md) > | cell_idx_ent |
+| Vector< [uint](/docs/game-reflection/components/uint) > | cell_idx |
+| [uint64](/docs/game-reflection/components/uint64) | counter |
+| [String](/docs/game-reflection/components/string) | last_resource_name |
+| [String](/docs/game-reflection/components/string) | resource_name |
+| Vector< [String](/docs/game-reflection/components/string) > | attachment |
+| [uint64](/docs/game-reflection/components/uint64) | connection_id |
+| Vector< [Entity](/docs/game-reflection/classes/entity) > | cell_idx_ent |
+

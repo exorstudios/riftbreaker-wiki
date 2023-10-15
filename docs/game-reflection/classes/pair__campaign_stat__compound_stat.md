@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [CompoundStat](/game-reflection/classes/compound_stat.md) | value |
-| [int](/game-reflection/enums/int.md) | key |
+| [CompoundStat](/docs/game-reflection/classes/compound_stat) | value |
+| [int](/docs/game-reflection/enums/int) | key |
+

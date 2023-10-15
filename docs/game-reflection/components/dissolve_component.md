@@ -9,9 +9,11 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [int](/game-reflection/enums/int.md) | direction |
-| [float](/game-reflection/components/float.md) | inital_timer |
-| [float](/game-reflection/components/float.md) | value |
-| [LogicTimer](/game-reflection/classes/logic_timer.md) | timer |
+| [int](/docs/game-reflection/enums/int) | direction |
+| [float](/docs/game-reflection/components/float) | inital_timer |
+| [float](/docs/game-reflection/components/float) | value |
+| [LogicTimer](/docs/game-reflection/classes/logic_timer) | timer |
+

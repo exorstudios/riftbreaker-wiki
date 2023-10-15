@@ -9,6 +9,7 @@ grand_parent: Game Reflection
 Description 
 
 ## Enum values
+
 | Name | Value |
 |:-------------|:--------------|
 | NONE | 0 |
@@ -17,3 +18,4 @@ Description
 | EPIC | 3 |
 | LEGENDARY | 4 |
 | UNDISCOVERABLE | 5 |
+

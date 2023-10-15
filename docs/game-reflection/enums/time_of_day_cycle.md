@@ -9,8 +9,10 @@ grand_parent: Game Reflection
 Description 
 
 ## Enum values
+
 | Name | Value |
 |:-------------|:--------------|
 | full | 0 |
 | night | 2 |
 | day | 1 |
+

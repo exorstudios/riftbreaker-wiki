@@ -9,19 +9,21 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [String](/game-reflection/components/string.md) | mission_date |
-| [String](/game-reflection/components/string.md) | date |
-| [String](/game-reflection/components/string.md) | mode |
-| [bool](/game-reflection/components/bool.md) | autosave |
-| [String](/game-reflection/components/string.md) | name |
-| [uint64](/game-reflection/components/uint64.md) | convertible |
-| [bool](/game-reflection/components/bool.md) | warning |
-| [String](/game-reflection/components/string.md) | outposts |
-| [String](/game-reflection/components/string.md) | mission |
-| Vector< [String](/game-reflection/components/string.md) > | missing_content |
-| [bool](/game-reflection/components/bool.md) | empty |
-| [uint64](/game-reflection/components/uint64.md) | save_version |
-| [String](/game-reflection/components/string.md) | difficulty |
-| [String](/game-reflection/components/string.md) | version |
+| [String](/docs/game-reflection/components/string) | mission_date |
+| [String](/docs/game-reflection/components/string) | date |
+| [String](/docs/game-reflection/components/string) | mode |
+| [bool](/docs/game-reflection/components/bool) | autosave |
+| [String](/docs/game-reflection/components/string) | name |
+| [uint64](/docs/game-reflection/components/uint64) | convertible |
+| [bool](/docs/game-reflection/components/bool) | warning |
+| [String](/docs/game-reflection/components/string) | outposts |
+| [String](/docs/game-reflection/components/string) | mission |
+| Vector< [String](/docs/game-reflection/components/string) > | missing_content |
+| [bool](/docs/game-reflection/components/bool) | empty |
+| [uint64](/docs/game-reflection/components/uint64) | save_version |
+| [String](/docs/game-reflection/components/string) | difficulty |
+| [String](/docs/game-reflection/components/string) | version |
+

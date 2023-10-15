@@ -9,6 +9,8 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [ResourceAccount](/game-reflection/classes/resource_account.md) | account |
+| [ResourceAccount](/docs/game-reflection/classes/resource_account) | account |
+

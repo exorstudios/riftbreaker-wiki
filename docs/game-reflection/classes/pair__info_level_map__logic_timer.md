@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [LogicTimer](/game-reflection/classes/logic_timer.md) | value |
-| [InfoLevelMap](/game-reflection/classes/info_level_map.md) | key |
+| [LogicTimer](/docs/game-reflection/classes/logic_timer) | value |
+| [InfoLevelMap](/docs/game-reflection/classes/info_level_map) | key |
+

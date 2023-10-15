@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| Vector< [Pair_float_List_Dialog](/game-reflection/classes/pair_float__list__dialog.md) > | dialogs_map |
-| Vector< [Dialog](/game-reflection/classes/dialog.md) > | current_dialog |
+| Vector< [Pair_float_List_Dialog](/docs/game-reflection/classes/pair_float__list__dialog) > | dialogs_map |
+| Vector< [Dialog](/docs/game-reflection/classes/dialog) > | current_dialog |
+

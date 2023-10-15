@@ -9,9 +9,11 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [float](/game-reflection/components/float.md) | water_level |
-| [float](/game-reflection/components/float.md) | damping_linear |
-| [bool](/game-reflection/components/bool.md) | enabled |
-| [float](/game-reflection/components/float.md) | damping_angular |
+| [float](/docs/game-reflection/components/float) | water_level |
+| [float](/docs/game-reflection/components/float) | damping_linear |
+| [bool](/docs/game-reflection/components/bool) | enabled |
+| [float](/docs/game-reflection/components/float) | damping_angular |
+

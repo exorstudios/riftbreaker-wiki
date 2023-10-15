@@ -5,11 +5,13 @@ has_children: false
 parent: Class
 grand_parent: Game Reflection
 ---
-# AnimationStateTransitionCondition( ![ AnimationTransitionCondition ](/game-reflection/classes/animation_transition_condition.md) )
+# AnimationStateTransitionCondition( [ AnimationTransitionCondition ](/docs/game-reflection/classes/animation_transition_condition) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [float](/game-reflection/components/float.md) | max_time |
-| [int](/game-reflection/enums/int.md) | condition |
+| [float](/docs/game-reflection/components/float) | max_time |
+| [int](/docs/game-reflection/enums/int) | condition |
+

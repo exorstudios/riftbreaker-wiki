@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [float](/game-reflection/components/float.md) | update_frequency |
-| [uchar](/game-reflection/enums/uchar.md) | priority |
+| [float](/docs/game-reflection/components/float) | update_frequency |
+| [uchar](/docs/game-reflection/enums/uchar) | priority |
+

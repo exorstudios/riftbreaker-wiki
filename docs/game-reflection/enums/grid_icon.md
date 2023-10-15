@@ -9,6 +9,7 @@ grand_parent: Game Reflection
 Description 
 
 ## Enum values
+
 | Name | Value |
 |:-------------|:--------------|
 |  | 0 |
@@ -18,3 +19,4 @@ Description
 | magma | 4 |
 | wind | 5 |
 | solar | 6 |
+

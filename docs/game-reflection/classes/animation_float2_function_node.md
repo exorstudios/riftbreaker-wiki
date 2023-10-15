@@ -5,10 +5,12 @@ has_children: false
 parent: Class
 grand_parent: Game Reflection
 ---
-# AnimationFloat2FunctionNode( ![ AnimationEvalNode ](/game-reflection/classes/animation_eval_node.md) )
+# AnimationFloat2FunctionNode( [ AnimationEvalNode ](/docs/game-reflection/classes/animation_eval_node) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [int](/game-reflection/enums/int.md) | function |
+| [int](/docs/game-reflection/enums/int) | function |
+

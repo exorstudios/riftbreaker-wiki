@@ -5,12 +5,14 @@ has_children: false
 parent: Event
 grand_parent: Game Reflection
 ---
-# CheatSpawnUnitsRequest( ![ EntityEventBase ](/game-reflection/events/entity_event_base.md) )
+# CheatSpawnUnitsRequest( [ EntityEventBase ](/docs/game-reflection/events/entity_event_base) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [String](/game-reflection/components/string.md) | Direction |
-| Vector< [Enemy](/game-reflection/classes/enemy.md) > | Enemies |
-| [Entity](/game-reflection/classes/entity.md) | Entity |
+| [String](/docs/game-reflection/components/string) | Direction |
+| Vector< [Enemy](/docs/game-reflection/classes/enemy) > | Enemies |
+| [Entity](/docs/game-reflection/classes/entity) | Entity |
+

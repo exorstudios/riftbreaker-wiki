@@ -5,10 +5,12 @@ has_children: false
 parent: Class
 grand_parent: Game Reflection
 ---
-# GuiScriptCommandSoundPlayDef( ![ GuiScriptCommandDef ](/game-reflection/classes/gui_script_command_def.md) )
+# GuiScriptCommandSoundPlayDef( [ GuiScriptCommandDef ](/docs/game-reflection/classes/gui_script_command_def) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [IdString](/game-reflection/components/id_string.md) | sound |
+| [IdString](/docs/game-reflection/components/id_string) | sound |
+

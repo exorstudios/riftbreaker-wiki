@@ -9,8 +9,10 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [int](/game-reflection/enums/int.md) | type |
-| [Timer](/game-reflection/classes/timer.md) | time |
-| [float](/game-reflection/components/float.md) | dissolveTime |
+| [int](/docs/game-reflection/enums/int) | type |
+| [Timer](/docs/game-reflection/classes/timer) | time |
+| [float](/docs/game-reflection/components/float) | dissolveTime |
+

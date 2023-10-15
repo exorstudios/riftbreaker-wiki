@@ -9,10 +9,12 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [int](/game-reflection/enums/int.md) | flag |
-| Vector< [uint](/game-reflection/components/uint.md) > | free_grids |
-| [uint](/game-reflection/components/uint.md) | entity_to_repair |
-| Vector< [String](/game-reflection/components/string.md) > | missing_resources |
-| Vector< [uint](/game-reflection/components/uint.md) > | entities_to_sell |
+| [int](/docs/game-reflection/enums/int) | flag |
+| Vector< [uint](/docs/game-reflection/components/uint) > | free_grids |
+| [uint](/docs/game-reflection/components/uint) | entity_to_repair |
+| Vector< [String](/docs/game-reflection/components/string) > | missing_resources |
+| Vector< [uint](/docs/game-reflection/components/uint) > | entities_to_sell |
+

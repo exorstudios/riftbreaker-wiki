@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [StateMachineComponent](/game-reflection/components/state_machine_component.md) | second |
-| [Entity](/game-reflection/classes/entity.md) | first |
+| [StateMachineComponent](/docs/game-reflection/components/state_machine_component) | second |
+| [Entity](/docs/game-reflection/classes/entity) | first |
+

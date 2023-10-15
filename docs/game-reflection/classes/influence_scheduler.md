@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| Vector< [InfluenceTask](/game-reflection/classes/influence_task.md) > | queue |
-| [int](/game-reflection/enums/int.md) | current_task |
+| Vector< [InfluenceTask](/docs/game-reflection/classes/influence_task) > | queue |
+| [int](/docs/game-reflection/enums/int) | current_task |
+

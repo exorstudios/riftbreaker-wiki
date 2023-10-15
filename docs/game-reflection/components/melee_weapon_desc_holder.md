@@ -9,6 +9,8 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [EntityBlueprintHolder](/game-reflection/components/entity_blueprint_holder.md) | blueprint_holder |
+| [EntityBlueprintHolder](/docs/game-reflection/components/entity_blueprint_holder) | blueprint_holder |
+

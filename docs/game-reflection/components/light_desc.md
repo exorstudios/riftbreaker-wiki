@@ -9,22 +9,24 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [float](/game-reflection/components/float.md) | light_range |
-| [float](/game-reflection/components/float.md) | shadow_near_clip |
-| [float](/game-reflection/components/float.md) | scattering_intensity |
-| [uint](/game-reflection/components/uint.md) | camera_visibility_mask |
-| [Vector4](/game-reflection/classes/vector4.md) | light_color |
-| [int](/game-reflection/enums/int.md) | type |
-| [float](/game-reflection/components/float.md) | fade_factor |
-| [bool](/game-reflection/components/bool.md) | is_shadow_caster |
-| [bool](/game-reflection/components/bool.md) | is_active |
-| [Degree](/game-reflection/classes/degree.md) | spotlight_outer_angle |
-| [IdString](/game-reflection/components/id_string.md) | light_mask_texture |
-| [Vector3](/game-reflection/classes/vector3.md) | light_world_offset |
-| [float](/game-reflection/components/float.md) | light_size |
-| [float](/game-reflection/components/float.md) | attenuation_bias |
-| [float](/game-reflection/components/float.md) | light_factor |
-| [Degree](/game-reflection/classes/degree.md) | spotlight_inner_angle |
-| [float](/game-reflection/components/float.md) | shadow_intensity |
+| [float](/docs/game-reflection/components/float) | light_range |
+| [float](/docs/game-reflection/components/float) | shadow_near_clip |
+| [float](/docs/game-reflection/components/float) | scattering_intensity |
+| [uint](/docs/game-reflection/components/uint) | camera_visibility_mask |
+| [Vector4](/docs/game-reflection/classes/vector4) | light_color |
+| [int](/docs/game-reflection/enums/int) | type |
+| [float](/docs/game-reflection/components/float) | fade_factor |
+| [bool](/docs/game-reflection/components/bool) | is_shadow_caster |
+| [bool](/docs/game-reflection/components/bool) | is_active |
+| [Degree](/docs/game-reflection/classes/degree) | spotlight_outer_angle |
+| [IdString](/docs/game-reflection/components/id_string) | light_mask_texture |
+| [Vector3](/docs/game-reflection/classes/vector3) | light_world_offset |
+| [float](/docs/game-reflection/components/float) | light_size |
+| [float](/docs/game-reflection/components/float) | attenuation_bias |
+| [float](/docs/game-reflection/components/float) | light_factor |
+| [Degree](/docs/game-reflection/classes/degree) | spotlight_inner_angle |
+| [float](/docs/game-reflection/components/float) | shadow_intensity |
+

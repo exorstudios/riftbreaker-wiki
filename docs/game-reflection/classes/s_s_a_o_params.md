@@ -9,9 +9,11 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [float](/game-reflection/components/float.md) | intensity |
-| [float](/game-reflection/components/float.md) | sample_length |
-| [float](/game-reflection/components/float.md) | factor |
-| [float](/game-reflection/components/float.md) | angle_bias |
+| [float](/docs/game-reflection/components/float) | intensity |
+| [float](/docs/game-reflection/components/float) | sample_length |
+| [float](/docs/game-reflection/components/float) | factor |
+| [float](/docs/game-reflection/components/float) | angle_bias |
+

@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [bool](/game-reflection/components/bool.md) | enabled |
-| [String](/game-reflection/components/string.md) | current_category |
+| [bool](/docs/game-reflection/components/bool) | enabled |
+| [String](/docs/game-reflection/components/string) | current_category |
+

@@ -5,16 +5,18 @@ has_children: false
 parent: Class
 grand_parent: Game Reflection
 ---
-# RibbonRenderableData( ![ CustomRenderableData ](/game-reflection/classes/custom_renderable_data.md) )
+# RibbonRenderableData( [ CustomRenderableData ](/docs/game-reflection/classes/custom_renderable_data) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [Vector2](/game-reflection/classes/vector2.md) | uv_scroll |
-| [float](/game-reflection/components/float.md) | tesselation_step |
-| [IdString](/game-reflection/components/id_string.md) | material_id |
-| Vector< [float](/game-reflection/components/float.md) > | path_distance |
-| [bool](/game-reflection/components/bool.md) | keep_local |
-| Vector< [RibbonBezierPath](/game-reflection/classes/ribbon_bezier_path.md) > | path |
-| [float](/game-reflection/components/float.md) | tiling_distance |
+| [Vector2](/docs/game-reflection/classes/vector2) | uv_scroll |
+| [float](/docs/game-reflection/components/float) | tesselation_step |
+| [IdString](/docs/game-reflection/components/id_string) | material_id |
+| Vector< [float](/docs/game-reflection/components/float) > | path_distance |
+| [bool](/docs/game-reflection/components/bool) | keep_local |
+| Vector< [RibbonBezierPath](/docs/game-reflection/classes/ribbon_bezier_path) > | path |
+| [float](/docs/game-reflection/components/float) | tiling_distance |
+

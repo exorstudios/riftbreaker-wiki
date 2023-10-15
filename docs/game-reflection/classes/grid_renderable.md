@@ -9,12 +9,14 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [Entity](/game-reflection/classes/entity.md) | entity |
-| [bool](/game-reflection/components/bool.md) | water_trace |
-| [ResourceHandle_EntityBlueprint](/game-reflection/components/resource_handle__entity_blueprint.md) | blueprint |
-| [Entity](/game-reflection/classes/entity.md) | grid_ent |
-| [bool](/game-reflection/components/bool.md) | floor |
-| [Vector2](/game-reflection/classes/vector2.md) | inner_size |
-| [Vector2](/game-reflection/classes/vector2.md) | outer_size |
+| [Entity](/docs/game-reflection/classes/entity) | entity |
+| [bool](/docs/game-reflection/components/bool) | water_trace |
+| [ResourceHandle_EntityBlueprint](/docs/game-reflection/components/resource_handle__entity_blueprint) | blueprint |
+| [Entity](/docs/game-reflection/classes/entity) | grid_ent |
+| [bool](/docs/game-reflection/components/bool) | floor |
+| [Vector2](/docs/game-reflection/classes/vector2) | inner_size |
+| [Vector2](/docs/game-reflection/classes/vector2) | outer_size |
+

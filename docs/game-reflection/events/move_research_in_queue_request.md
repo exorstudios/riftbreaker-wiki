@@ -5,13 +5,15 @@ has_children: false
 parent: Event
 grand_parent: Game Reflection
 ---
-# MoveResearchInQueueRequest( ![ EntityEventBase ](/game-reflection/events/entity_event_base.md) )
+# MoveResearchInQueueRequest( [ EntityEventBase ](/docs/game-reflection/events/entity_event_base) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [int](/game-reflection/enums/int.md) | MoveType |
-| [uint](/game-reflection/components/uint.md) | PlayerId |
-| [String](/game-reflection/components/string.md) | Research |
-| [Entity](/game-reflection/classes/entity.md) | Entity |
+| [int](/docs/game-reflection/enums/int) | MoveType |
+| [uint](/docs/game-reflection/components/uint) | PlayerId |
+| [String](/docs/game-reflection/components/string) | Research |
+| [Entity](/docs/game-reflection/classes/entity) | Entity |
+

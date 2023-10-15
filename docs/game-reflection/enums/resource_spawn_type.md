@@ -9,9 +9,11 @@ grand_parent: Game Reflection
 Description 
 
 ## Enum values
+
 | Name | Value |
 |:-------------|:--------------|
 |  | 0 |
 | deposit | 1 |
 | liquid_volume | 2 |
 | single | 3 |
+

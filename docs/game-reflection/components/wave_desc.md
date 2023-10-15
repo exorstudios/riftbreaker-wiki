@@ -9,11 +9,13 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [int](/game-reflection/enums/int.md) | percentage_units_to_end_wave |
-| [String](/game-reflection/components/string.md) | spawn_point |
-| [String](/game-reflection/components/string.md) | spawn_group |
-| [String](/game-reflection/components/string.md) | group_name |
-| Vector< [Enemy](/game-reflection/classes/enemy.md) > | Enemies |
-| [float](/game-reflection/components/float.md) | delay |
+| [int](/docs/game-reflection/enums/int) | percentage_units_to_end_wave |
+| [String](/docs/game-reflection/components/string) | spawn_point |
+| [String](/docs/game-reflection/components/string) | spawn_group |
+| [String](/docs/game-reflection/components/string) | group_name |
+| Vector< [Enemy](/docs/game-reflection/classes/enemy) > | Enemies |
+| [float](/docs/game-reflection/components/float) | delay |
+

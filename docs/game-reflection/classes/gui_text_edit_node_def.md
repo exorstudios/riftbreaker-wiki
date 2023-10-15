@@ -5,13 +5,15 @@ has_children: false
 parent: Class
 grand_parent: Game Reflection
 ---
-# GuiTextEditNodeDef( ![ GuiButtonDef ](/game-reflection/classes/gui_button_def.md) )
+# GuiTextEditNodeDef( [ GuiButtonDef ](/docs/game-reflection/classes/gui_button_def) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [String](/game-reflection/components/string.md) | default_text |
-| [ushort](/game-reflection/enums/ushort.md) | max_char_count |
-| [bool](/game-reflection/components/bool.md) | filename_mode |
-| [bool](/game-reflection/components/bool.md) | pswrd_mode |
+| [String](/docs/game-reflection/components/string) | default_text |
+| [ushort](/docs/game-reflection/enums/ushort) | max_char_count |
+| [bool](/docs/game-reflection/components/bool) | filename_mode |
+| [bool](/docs/game-reflection/components/bool) | pswrd_mode |
+

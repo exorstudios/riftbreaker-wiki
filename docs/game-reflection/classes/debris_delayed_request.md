@@ -9,12 +9,14 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [Vector4](/game-reflection/classes/vector4.md) | burning_amount |
-| [Vector3](/game-reflection/classes/vector3.md) | center |
-| [float](/game-reflection/components/float.md) | health_amount |
-| [Transform](/game-reflection/classes/transform.md) | transform |
-| [Vector4](/game-reflection/classes/vector4.md) | burning_color |
-| [CachedDestroyPattern2](/game-reflection/components/cached_destroy_pattern2.md) | destroy_pattern |
-| [int](/game-reflection/enums/int.md) | flags |
+| [Vector4](/docs/game-reflection/classes/vector4) | burning_amount |
+| [Vector3](/docs/game-reflection/classes/vector3) | center |
+| [float](/docs/game-reflection/components/float) | health_amount |
+| [Transform](/docs/game-reflection/classes/transform) | transform |
+| [Vector4](/docs/game-reflection/classes/vector4) | burning_color |
+| [CachedDestroyPattern2](/docs/game-reflection/components/cached_destroy_pattern2) | destroy_pattern |
+| [int](/docs/game-reflection/enums/int) | flags |
+

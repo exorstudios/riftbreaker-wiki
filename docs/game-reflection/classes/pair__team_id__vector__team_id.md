@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| Vector< [TeamId](/game-reflection/classes/team_id.md) > | value |
-| [TeamId](/game-reflection/classes/team_id.md) | key |
+| Vector< [TeamId](/docs/game-reflection/classes/team_id) > | value |
+| [TeamId](/docs/game-reflection/classes/team_id) | key |
+

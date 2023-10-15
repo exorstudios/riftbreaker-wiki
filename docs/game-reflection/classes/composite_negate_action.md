@@ -5,10 +5,12 @@ has_children: false
 parent: Class
 grand_parent: Game Reflection
 ---
-# CompositeNegateAction( ![ CompositeAction ](/game-reflection/classes/composite_action.md) )
+# CompositeNegateAction( [ CompositeAction ](/docs/game-reflection/classes/composite_action) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [String](/game-reflection/components/string.md) | action |
+| [String](/docs/game-reflection/components/string) | action |
+

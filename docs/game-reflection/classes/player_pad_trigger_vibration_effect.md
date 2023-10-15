@@ -9,8 +9,10 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [uchar](/game-reflection/enums/uchar.md) | frequency |
-| [uchar](/game-reflection/enums/uchar.md) | amplitude |
-| [uchar](/game-reflection/enums/uchar.md) | position |
+| [uchar](/docs/game-reflection/enums/uchar) | frequency |
+| [uchar](/docs/game-reflection/enums/uchar) | amplitude |
+| [uchar](/docs/game-reflection/enums/uchar) | position |
+

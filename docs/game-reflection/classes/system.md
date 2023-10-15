@@ -9,6 +9,8 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [EntityCommandBuffer4](/game-reflection/components/entity_command_buffer4.md) | command_buffer |
+| [EntityCommandBuffer4](/docs/game-reflection/components/entity_command_buffer4) | command_buffer |
+

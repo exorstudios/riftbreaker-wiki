@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [int](/game-reflection/enums/int.md) | path_mode |
-| [TransformBezierPath](/game-reflection/classes/transform_bezier_path.md) | bezier_path |
+| [int](/docs/game-reflection/enums/int) | path_mode |
+| [TransformBezierPath](/docs/game-reflection/classes/transform_bezier_path) | bezier_path |
+

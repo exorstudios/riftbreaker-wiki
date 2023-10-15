@@ -9,10 +9,12 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [String](/game-reflection/components/string.md) | name |
-| [String](/game-reflection/components/string.md) | objective_icon |
-| [String](/game-reflection/components/string.md) | blueprint |
-| [Vector4](/game-reflection/classes/vector4.md) | color |
-| [String](/game-reflection/components/string.md) | minimap_icon |
+| [String](/docs/game-reflection/components/string) | name |
+| [String](/docs/game-reflection/components/string) | objective_icon |
+| [String](/docs/game-reflection/components/string) | blueprint |
+| [Vector4](/docs/game-reflection/classes/vector4) | color |
+| [String](/docs/game-reflection/components/string) | minimap_icon |
+

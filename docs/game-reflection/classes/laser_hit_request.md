@@ -9,8 +9,10 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [bool](/game-reflection/components/bool.md) | blocking |
-| [float](/game-reflection/components/float.md) | distance |
-| [IdString](/game-reflection/components/id_string.md) | effect |
+| [bool](/docs/game-reflection/components/bool) | blocking |
+| [float](/docs/game-reflection/components/float) | distance |
+| [IdString](/docs/game-reflection/components/id_string) | effect |
+

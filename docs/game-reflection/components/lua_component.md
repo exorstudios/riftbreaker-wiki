@@ -9,10 +9,12 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [LuaScriptHolder](/game-reflection/components/lua_script_holder.md) | script |
-| [Database4](/game-reflection/components/database4.md) | database |
-| [LuaEntityPackedObject4](/game-reflection/components/lua_entity_packed_object4.md) | snapshot |
-| [bool](/game-reflection/components/bool.md) | is_initialized |
-| [LuaEntityObject4](/game-reflection/components/lua_entity_object4.md) | object |
+| [LuaScriptHolder](/docs/game-reflection/components/lua_script_holder) | script |
+| [Database4](/docs/game-reflection/components/database4) | database |
+| [LuaEntityPackedObject4](/docs/game-reflection/components/lua_entity_packed_object4) | snapshot |
+| [bool](/docs/game-reflection/components/bool) | is_initialized |
+| [LuaEntityObject4](/docs/game-reflection/components/lua_entity_object4) | object |
+

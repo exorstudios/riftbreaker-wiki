@@ -9,14 +9,16 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [bool](/game-reflection/components/bool.md) | is_new |
-| [bool](/game-reflection/components/bool.md) | category_extra_hightlight |
-| [String](/game-reflection/components/string.md) | name |
-| [String](/game-reflection/components/string.md) | icon_active_material |
-| [bool](/game-reflection/components/bool.md) | is_active |
-| [String](/game-reflection/components/string.md) | icon_material |
-| [String](/game-reflection/components/string.md) | icon_selected_material |
-| [String](/game-reflection/components/string.md) | shortcut |
-| [bool](/game-reflection/components/bool.md) | is_shortcut |
+| [bool](/docs/game-reflection/components/bool) | is_new |
+| [bool](/docs/game-reflection/components/bool) | category_extra_hightlight |
+| [String](/docs/game-reflection/components/string) | name |
+| [String](/docs/game-reflection/components/string) | icon_active_material |
+| [bool](/docs/game-reflection/components/bool) | is_active |
+| [String](/docs/game-reflection/components/string) | icon_material |
+| [String](/docs/game-reflection/components/string) | icon_selected_material |
+| [String](/docs/game-reflection/components/string) | shortcut |
+| [bool](/docs/game-reflection/components/bool) | is_shortcut |
+

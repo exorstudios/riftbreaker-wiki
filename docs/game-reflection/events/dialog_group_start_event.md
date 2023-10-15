@@ -5,12 +5,14 @@ has_children: false
 parent: Event
 grand_parent: Game Reflection
 ---
-# DialogGroupStartEvent( ![ EntityEventBase ](/game-reflection/events/entity_event_base.md) )
+# DialogGroupStartEvent( [ EntityEventBase ](/docs/game-reflection/events/entity_event_base) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [String](/game-reflection/components/string.md) | GroupId |
-| [Entity](/game-reflection/classes/entity.md) | Entity |
-| Vector< [DialogGroupInfo](/game-reflection/classes/dialog_group_info.md) > | Dialogs |
+| [String](/docs/game-reflection/components/string) | GroupId |
+| [Entity](/docs/game-reflection/classes/entity) | Entity |
+| Vector< [DialogGroupInfo](/docs/game-reflection/classes/dialog_group_info) > | Dialogs |
+

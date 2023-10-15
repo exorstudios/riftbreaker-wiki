@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [Pair_TimerVector_String](/game-reflection/classes/pair__timer_vector__string.md) | value |
-| [Entity](/game-reflection/classes/entity.md) | key |
+| [Pair_TimerVector_String](/docs/game-reflection/classes/pair__timer_vector__string) | value |
+| [Entity](/docs/game-reflection/classes/entity) | key |
+

@@ -9,9 +9,11 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [bool](/game-reflection/components/bool.md) | working |
-| Vector< [String](/game-reflection/components/string.md) > | missing_resources |
-| [uchar](/game-reflection/enums/uchar.md) | status |
-| Vector< [String](/game-reflection/components/string.md) > | missing_resources_persistant |
+| [bool](/docs/game-reflection/components/bool) | working |
+| Vector< [String](/docs/game-reflection/components/string) > | missing_resources |
+| [uchar](/docs/game-reflection/enums/uchar) | status |
+| Vector< [String](/docs/game-reflection/components/string) > | missing_resources_persistant |
+

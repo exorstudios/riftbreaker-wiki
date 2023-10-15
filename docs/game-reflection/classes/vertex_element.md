@@ -9,10 +9,12 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [int](/game-reflection/enums/int.md) | semantic |
-| [ushort](/game-reflection/enums/ushort.md) | source |
-| [int](/game-reflection/enums/int.md) | type |
-| [ushort](/game-reflection/enums/ushort.md) | index |
-| [uint64](/game-reflection/components/uint64.md) | offset |
+| [int](/docs/game-reflection/enums/int) | semantic |
+| [ushort](/docs/game-reflection/enums/ushort) | source |
+| [int](/docs/game-reflection/enums/int) | type |
+| [ushort](/docs/game-reflection/enums/ushort) | index |
+| [uint64](/docs/game-reflection/components/uint64) | offset |
+

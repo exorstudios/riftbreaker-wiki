@@ -9,8 +9,10 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [bool](/game-reflection/components/bool.md) | streaming |
-| [String](/game-reflection/components/string.md) | platform |
-| [String](/game-reflection/components/string.md) | campaign_name |
+| [bool](/docs/game-reflection/components/bool) | streaming |
+| [String](/docs/game-reflection/components/string) | platform |
+| [String](/docs/game-reflection/components/string) | campaign_name |
+

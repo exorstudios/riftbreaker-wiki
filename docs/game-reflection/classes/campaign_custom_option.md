@@ -9,10 +9,12 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [String](/game-reflection/components/string.md) | name |
-| Vector< [String](/game-reflection/components/string.md) > | values |
-| [String](/game-reflection/components/string.md) | value |
-| [String](/game-reflection/components/string.md) | localization |
-| [String](/game-reflection/components/string.md) | type |
+| [String](/docs/game-reflection/components/string) | name |
+| Vector< [String](/docs/game-reflection/components/string) > | values |
+| [String](/docs/game-reflection/components/string) | value |
+| [String](/docs/game-reflection/components/string) | localization |
+| [String](/docs/game-reflection/components/string) | type |
+

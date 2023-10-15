@@ -9,6 +9,7 @@ grand_parent: Game Reflection
 Description 
 
 ## Enum values
+
 | Name | Value |
 |:-------------|:--------------|
 | IMAGE | 1 |
@@ -21,3 +22,4 @@ Description
 | DAMAGE | 128 |
 | DROP_INCREASE | 256 |
 | CULTIVATOR | 512 |
+

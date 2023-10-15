@@ -5,12 +5,14 @@ has_children: false
 parent: Event
 grand_parent: Game Reflection
 ---
-# UnsetGridFlagRequest( ![ EntityEventBase ](/game-reflection/events/entity_event_base.md) )
+# UnsetGridFlagRequest( [ EntityEventBase ](/docs/game-reflection/events/entity_event_base) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| Vector< [Entity](/game-reflection/classes/entity.md) > | Indexes |
-| [int](/game-reflection/enums/int.md) | Flag |
-| [Entity](/game-reflection/classes/entity.md) | Entity |
+| Vector< [Entity](/docs/game-reflection/classes/entity) > | Indexes |
+| [int](/docs/game-reflection/enums/int) | Flag |
+| [Entity](/docs/game-reflection/classes/entity) | Entity |
+

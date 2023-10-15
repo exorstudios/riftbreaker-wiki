@@ -5,10 +5,12 @@ has_children: false
 parent: Class
 grand_parent: Game Reflection
 ---
-# GameplayState( ![ State ](/game-reflection/classes/state.md) )
+# GameplayState( [ State ](/docs/game-reflection/classes/state) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [Entity](/game-reflection/classes/entity.md) | owner |
+| [Entity](/docs/game-reflection/classes/entity) | owner |
+

@@ -9,6 +9,8 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [BuildInfo](/game-reflection/classes/build_info.md) | build_info |
+| [BuildInfo](/docs/game-reflection/classes/build_info) | build_info |
+

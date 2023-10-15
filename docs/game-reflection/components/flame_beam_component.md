@@ -9,18 +9,20 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [float](/game-reflection/components/float.md) | particle_velocity_scale |
-| [float](/game-reflection/components/float.md) | angle_speed |
-| [float](/game-reflection/components/float.md) | particle_reference_range |
-| [float](/game-reflection/components/float.md) | burning_chance_override |
-| [uint](/game-reflection/components/uint.md) | creator |
-| [float](/game-reflection/components/float.md) | range_speed |
-| [uint](/game-reflection/components/uint.md) | collision_3d |
-| [float](/game-reflection/components/float.md) | diameter |
-| [uint](/game-reflection/components/uint.md) | owner |
-| [DamagePattern](/game-reflection/classes/damage_pattern.md) | DamagePattern |
-| [FlameData](/game-reflection/classes/flame_data.md) | flame_data |
-| [uint](/game-reflection/components/uint.md) | box_count |
-| [float](/game-reflection/components/float.md) | range |
+| [float](/docs/game-reflection/components/float) | particle_velocity_scale |
+| [float](/docs/game-reflection/components/float) | angle_speed |
+| [float](/docs/game-reflection/components/float) | particle_reference_range |
+| [float](/docs/game-reflection/components/float) | burning_chance_override |
+| [uint](/docs/game-reflection/components/uint) | creator |
+| [float](/docs/game-reflection/components/float) | range_speed |
+| [uint](/docs/game-reflection/components/uint) | collision_3d |
+| [float](/docs/game-reflection/components/float) | diameter |
+| [uint](/docs/game-reflection/components/uint) | owner |
+| [DamagePattern](/docs/game-reflection/classes/damage_pattern) | DamagePattern |
+| [FlameData](/docs/game-reflection/classes/flame_data) | flame_data |
+| [uint](/docs/game-reflection/components/uint) | box_count |
+| [float](/docs/game-reflection/components/float) | range |
+

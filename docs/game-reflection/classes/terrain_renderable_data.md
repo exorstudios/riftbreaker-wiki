@@ -9,6 +9,8 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| Vector< [TerrainRenderableRegion](/game-reflection/classes/terrain_renderable_region.md) > | regions |
+| Vector< [TerrainRenderableRegion](/docs/game-reflection/classes/terrain_renderable_region) > | regions |
+

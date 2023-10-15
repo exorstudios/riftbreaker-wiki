@@ -9,14 +9,16 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| Vector< [int](/game-reflection/enums/int.md) > | regions |
-| [ResourceHandle_TileDef](/game-reflection/components/resource_handle__tile_def.md) | tile |
-| [TileCoord](/game-reflection/classes/tile_coord.md) | max |
-| [int](/game-reflection/enums/int.md) | rotation |
-| [bool](/game-reflection/components/bool.md) | is_visible |
-| [TileCoord](/game-reflection/classes/tile_coord.md) | min |
-| [TileCoord](/game-reflection/classes/tile_coord.md) | offset |
-| [String](/game-reflection/components/string.md) | tile_name |
-| [TileContour](/game-reflection/classes/tile_contour.md) | contour |
+| Vector< [int](/docs/game-reflection/enums/int) > | regions |
+| [ResourceHandle_TileDef](/docs/game-reflection/components/resource_handle__tile_def) | tile |
+| [TileCoord](/docs/game-reflection/classes/tile_coord) | max |
+| [int](/docs/game-reflection/enums/int) | rotation |
+| [bool](/docs/game-reflection/components/bool) | is_visible |
+| [TileCoord](/docs/game-reflection/classes/tile_coord) | min |
+| [TileCoord](/docs/game-reflection/classes/tile_coord) | offset |
+| [String](/docs/game-reflection/components/string) | tile_name |
+| [TileContour](/docs/game-reflection/classes/tile_contour) | contour |
+

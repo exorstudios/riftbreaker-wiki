@@ -9,32 +9,34 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [bool](/game-reflection/components/bool.md) | replace_lower_quality |
-| [String](/game-reflection/components/string.md) | description |
-| [float](/game-reflection/components/float.md) | cooldown |
-| [bool](/game-reflection/components/bool.md) | allow_empty |
-| [String](/game-reflection/components/string.md) | name |
-| [bool](/game-reflection/components/bool.md) | is_persistant |
-| [int](/game-reflection/enums/int.md) | storage_limit |
-| [uchar](/game-reflection/enums/uchar.md) | rarity |
-| [bool](/game-reflection/components/bool.md) | is_global |
-| [bool](/game-reflection/components/bool.md) | activated |
-| [String](/game-reflection/components/string.md) | cooldown_category |
-| [bool](/game-reflection/components/bool.md) | add_after_obtaining |
-| [float](/game-reflection/components/float.md) | value |
-| [String](/game-reflection/components/string.md) | type |
-| [String](/game-reflection/components/string.md) | subtype |
-| [bool](/game-reflection/components/bool.md) | internal_block |
-| [String](/game-reflection/components/string.md) | item_bp |
-| [LogicTimer](/game-reflection/classes/logic_timer.md) | cooldown_timer |
-| [bool](/game-reflection/components/bool.md) | continuous |
-| [Entity](/game-reflection/classes/entity.md) | owner |
-| [String](/game-reflection/components/string.md) | bigger_icon |
-| [bool](/game-reflection/components/bool.md) | switch |
-| [bool](/game-reflection/components/bool.md) | equipped |
-| [bool](/game-reflection/components/bool.md) | add_quality |
-| [String](/game-reflection/components/string.md) | holding_pose |
-| [int](/game-reflection/enums/int.md) | use_count |
-| [String](/game-reflection/components/string.md) | icon |
+| [bool](/docs/game-reflection/components/bool) | replace_lower_quality |
+| [String](/docs/game-reflection/components/string) | description |
+| [float](/docs/game-reflection/components/float) | cooldown |
+| [bool](/docs/game-reflection/components/bool) | allow_empty |
+| [String](/docs/game-reflection/components/string) | name |
+| [bool](/docs/game-reflection/components/bool) | is_persistant |
+| [int](/docs/game-reflection/enums/int) | storage_limit |
+| [uchar](/docs/game-reflection/enums/uchar) | rarity |
+| [bool](/docs/game-reflection/components/bool) | is_global |
+| [bool](/docs/game-reflection/components/bool) | activated |
+| [String](/docs/game-reflection/components/string) | cooldown_category |
+| [bool](/docs/game-reflection/components/bool) | add_after_obtaining |
+| [float](/docs/game-reflection/components/float) | value |
+| [String](/docs/game-reflection/components/string) | type |
+| [String](/docs/game-reflection/components/string) | subtype |
+| [bool](/docs/game-reflection/components/bool) | internal_block |
+| [String](/docs/game-reflection/components/string) | item_bp |
+| [LogicTimer](/docs/game-reflection/classes/logic_timer) | cooldown_timer |
+| [bool](/docs/game-reflection/components/bool) | continuous |
+| [Entity](/docs/game-reflection/classes/entity) | owner |
+| [String](/docs/game-reflection/components/string) | bigger_icon |
+| [bool](/docs/game-reflection/components/bool) | switch |
+| [bool](/docs/game-reflection/components/bool) | equipped |
+| [bool](/docs/game-reflection/components/bool) | add_quality |
+| [String](/docs/game-reflection/components/string) | holding_pose |
+| [int](/docs/game-reflection/enums/int) | use_count |
+| [String](/docs/game-reflection/components/string) | icon |
+

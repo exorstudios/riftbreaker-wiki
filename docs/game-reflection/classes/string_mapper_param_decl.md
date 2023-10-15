@@ -5,12 +5,14 @@ has_children: false
 parent: Class
 grand_parent: Game Reflection
 ---
-# StringMapperParamDecl( ![ ParamDecl ](/game-reflection/classes/param_decl.md) )
+# StringMapperParamDecl( [ ParamDecl ](/docs/game-reflection/classes/param_decl) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [String](/game-reflection/components/string.md) | observed_param_name |
-| Vector< [Pair_String_String](/game-reflection/classes/pair__string__string.md) > | value_map |
-| [String](/game-reflection/components/string.md) | default |
+| [String](/docs/game-reflection/components/string) | observed_param_name |
+| Vector< [Pair_String_String](/docs/game-reflection/classes/pair__string__string) > | value_map |
+| [String](/docs/game-reflection/components/string) | default |
+

@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [Aabb](/game-reflection/components/aabb.md) | second |
-| [Aabb](/game-reflection/components/aabb.md) | first |
+| [Aabb](/docs/game-reflection/components/aabb) | second |
+| [Aabb](/docs/game-reflection/components/aabb) | first |
+

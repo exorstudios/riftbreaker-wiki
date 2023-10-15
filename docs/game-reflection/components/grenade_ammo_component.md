@@ -9,33 +9,35 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [IdString](/game-reflection/components/id_string.md) | on_water_hit_effect |
-| [float](/game-reflection/components/float.md) | artillery_min_angle |
-| [uchar](/game-reflection/enums/uchar.md) | hit_effect_scale |
-| [float](/game-reflection/components/float.md) | fly_time_limit |
-| [IdString](/game-reflection/components/id_string.md) | on_world_hit_effect |
-| [uint](/game-reflection/components/uint.md) | creator |
-| [uint](/game-reflection/components/uint.md) | cluster_generation |
-| [float](/game-reflection/components/float.md) | on_enemy_explosion_delay |
-| [Vector3](/game-reflection/classes/vector3.md) | last_position |
-| [IdString](/game-reflection/components/id_string.md) | explosion_delay_effect |
-| [uint](/game-reflection/components/uint.md) | collision_3d |
-| [float](/game-reflection/components/float.md) | cluster_explosion_radius |
-| [float](/game-reflection/components/float.md) | diameter |
-| [IdString](/game-reflection/components/id_string.md) | on_decal_hit_effect |
-| [IdString](/game-reflection/components/id_string.md) | on_enemy_hit_effect |
-| [IdString](/game-reflection/components/id_string.md) | on_resisted_hit_effect |
-| [uchar](/game-reflection/enums/uchar.md) | hit_effect_direction |
-| [uint](/game-reflection/components/uint.md) | cluster_count |
-| [float](/game-reflection/components/float.md) | artillery_max_angle |
-| [uint](/game-reflection/components/uint.md) | owner |
-| [float](/game-reflection/components/float.md) | on_world_explosion_delay |
-| [ShockWavePattern](/game-reflection/classes/shock_wave_pattern.md) | ShockWavePattern |
-| [DamagePattern](/game-reflection/classes/damage_pattern.md) | DamagePattern |
-| [uchar](/game-reflection/enums/uchar.md) | friendly_fire |
-| [uchar](/game-reflection/enums/uchar.md) | status |
-| [IdString](/game-reflection/components/id_string.md) | on_shield_hit_effect |
-| [IdString](/game-reflection/components/id_string.md) | on_reflected_hit_effect |
-| [uint](/game-reflection/components/uint.md) | cluster_max_generation |
+| [IdString](/docs/game-reflection/components/id_string) | on_water_hit_effect |
+| [float](/docs/game-reflection/components/float) | artillery_min_angle |
+| [uchar](/docs/game-reflection/enums/uchar) | hit_effect_scale |
+| [float](/docs/game-reflection/components/float) | fly_time_limit |
+| [IdString](/docs/game-reflection/components/id_string) | on_world_hit_effect |
+| [uint](/docs/game-reflection/components/uint) | creator |
+| [uint](/docs/game-reflection/components/uint) | cluster_generation |
+| [float](/docs/game-reflection/components/float) | on_enemy_explosion_delay |
+| [Vector3](/docs/game-reflection/classes/vector3) | last_position |
+| [IdString](/docs/game-reflection/components/id_string) | explosion_delay_effect |
+| [uint](/docs/game-reflection/components/uint) | collision_3d |
+| [float](/docs/game-reflection/components/float) | cluster_explosion_radius |
+| [float](/docs/game-reflection/components/float) | diameter |
+| [IdString](/docs/game-reflection/components/id_string) | on_decal_hit_effect |
+| [IdString](/docs/game-reflection/components/id_string) | on_enemy_hit_effect |
+| [IdString](/docs/game-reflection/components/id_string) | on_resisted_hit_effect |
+| [uchar](/docs/game-reflection/enums/uchar) | hit_effect_direction |
+| [uint](/docs/game-reflection/components/uint) | cluster_count |
+| [float](/docs/game-reflection/components/float) | artillery_max_angle |
+| [uint](/docs/game-reflection/components/uint) | owner |
+| [float](/docs/game-reflection/components/float) | on_world_explosion_delay |
+| [ShockWavePattern](/docs/game-reflection/classes/shock_wave_pattern) | ShockWavePattern |
+| [DamagePattern](/docs/game-reflection/classes/damage_pattern) | DamagePattern |
+| [uchar](/docs/game-reflection/enums/uchar) | friendly_fire |
+| [uchar](/docs/game-reflection/enums/uchar) | status |
+| [IdString](/docs/game-reflection/components/id_string) | on_shield_hit_effect |
+| [IdString](/docs/game-reflection/components/id_string) | on_reflected_hit_effect |
+| [uint](/docs/game-reflection/components/uint) | cluster_max_generation |
+

@@ -9,9 +9,11 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [float](/game-reflection/components/float.md) | power_frequency |
-| [float](/game-reflection/components/float.md) | power_max |
-| [float](/game-reflection/components/float.md) | radius |
-| [float](/game-reflection/components/float.md) | power_min |
+| [float](/docs/game-reflection/components/float) | power_frequency |
+| [float](/docs/game-reflection/components/float) | power_max |
+| [float](/docs/game-reflection/components/float) | radius |
+| [float](/docs/game-reflection/components/float) | power_min |
+

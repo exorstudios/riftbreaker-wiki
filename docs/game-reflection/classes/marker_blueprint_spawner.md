@@ -5,12 +5,14 @@ has_children: false
 parent: Class
 grand_parent: Game Reflection
 ---
-# MarkerBlueprintSpawner( ![ ObjectSpawner ](/game-reflection/classes/object_spawner.md) )
+# MarkerBlueprintSpawner( [ ObjectSpawner ](/docs/game-reflection/classes/object_spawner) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [String](/game-reflection/components/string.md) | spawn_at_marker |
-| [String](/game-reflection/components/string.md) | spawn_at_group |
-| [String](/game-reflection/components/string.md) | spawn_at_name |
+| [String](/docs/game-reflection/components/string) | spawn_at_marker |
+| [String](/docs/game-reflection/components/string) | spawn_at_group |
+| [String](/docs/game-reflection/components/string) | spawn_at_name |
+

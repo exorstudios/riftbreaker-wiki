@@ -9,9 +9,11 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [float](/game-reflection/components/float.md) | aggressive_distance |
-| [String](/game-reflection/components/string.md) | creature_species |
-| [Timer](/game-reflection/classes/timer.md) | inactive_timer |
-| [LogicTimer](/game-reflection/classes/logic_timer.md) | respawn_timer |
+| [float](/docs/game-reflection/components/float) | aggressive_distance |
+| [String](/docs/game-reflection/components/string) | creature_species |
+| [Timer](/docs/game-reflection/classes/timer) | inactive_timer |
+| [LogicTimer](/docs/game-reflection/classes/logic_timer) | respawn_timer |
+

@@ -9,6 +9,8 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| Vector< [StringHash](/game-reflection/classes/string_hash.md) > | resistances |
+| Vector< [StringHash](/docs/game-reflection/classes/string_hash) > | resistances |
+

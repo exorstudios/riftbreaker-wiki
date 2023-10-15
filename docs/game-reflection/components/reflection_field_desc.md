@@ -9,11 +9,13 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [String](/game-reflection/components/string.md) | type_name |
-| [String](/game-reflection/components/string.md) | name |
-| [bool](/game-reflection/components/bool.md) | has_custom_serializer |
-| [uint64](/game-reflection/components/uint64.md) | offset |
-| [uchar](/game-reflection/enums/uchar.md) | flags |
-| [uchar](/game-reflection/enums/uchar.md) | ptr_type |
+| [String](/docs/game-reflection/components/string) | type_name |
+| [String](/docs/game-reflection/components/string) | name |
+| [bool](/docs/game-reflection/components/bool) | has_custom_serializer |
+| [uint64](/docs/game-reflection/components/uint64) | offset |
+| [uchar](/docs/game-reflection/enums/uchar) | flags |
+| [uchar](/docs/game-reflection/enums/uchar) | ptr_type |
+

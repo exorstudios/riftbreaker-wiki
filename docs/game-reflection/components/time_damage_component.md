@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [bool](/game-reflection/components/bool.md) | is_burning |
-| Vector< [TimeDamageData](/game-reflection/classes/time_damage_data.md) > | time_damage_vec |
+| [bool](/docs/game-reflection/components/bool) | is_burning |
+| Vector< [TimeDamageData](/docs/game-reflection/classes/time_damage_data) > | time_damage_vec |
+

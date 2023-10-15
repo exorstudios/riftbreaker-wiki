@@ -9,9 +9,11 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [Random](/game-reflection/components/random.md) | random |
-| [ResourceHandle_ContainerInfo](/game-reflection/components/resource_handle__container_info.md) | resource |
-| Vector< [Pair_String_LootTypeInfo](/game-reflection/classes/pair__string__loot_type_info.md) > | group_count |
-| Vector< [Pair_StringString](/game-reflection/classes/pair__string_string.md) > | forced_groups |
+| [Random](/docs/game-reflection/components/random) | random |
+| [ResourceHandle_ContainerInfo](/docs/game-reflection/components/resource_handle__container_info) | resource |
+| Vector< [Pair_String_LootTypeInfo](/docs/game-reflection/classes/pair__string__loot_type_info) > | group_count |
+| Vector< [Pair_StringString](/docs/game-reflection/classes/pair__string_string) > | forced_groups |
+

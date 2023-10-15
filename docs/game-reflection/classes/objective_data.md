@@ -9,9 +9,11 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [String](/game-reflection/components/string.md) | group |
-| [Database4](/game-reflection/components/database4.md) | database |
-| [int](/game-reflection/enums/int.md) | type |
-| [int](/game-reflection/enums/int.md) | status |
+| [String](/docs/game-reflection/components/string) | group |
+| [Database4](/docs/game-reflection/components/database4) | database |
+| [int](/docs/game-reflection/enums/int) | type |
+| [int](/docs/game-reflection/enums/int) | status |
+

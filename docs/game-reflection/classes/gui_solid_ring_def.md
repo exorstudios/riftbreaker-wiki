@@ -5,11 +5,13 @@ has_children: false
 parent: Class
 grand_parent: Game Reflection
 ---
-# GuiSolidRingDef( ![ GuiItemNoTextureDef ](/game-reflection/classes/gui_item_no_texture_def.md) )
+# GuiSolidRingDef( [ GuiItemNoTextureDef ](/docs/game-reflection/classes/gui_item_no_texture_def) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [float](/game-reflection/components/float.md) | radius |
-| [float](/game-reflection/components/float.md) | inner_radius |
+| [float](/docs/game-reflection/components/float) | radius |
+| [float](/docs/game-reflection/components/float) | inner_radius |
+

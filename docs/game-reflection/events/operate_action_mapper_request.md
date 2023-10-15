@@ -5,12 +5,14 @@ has_children: false
 parent: Event
 grand_parent: Game Reflection
 ---
-# OperateActionMapperRequest( ![ EntityEventBase ](/game-reflection/events/entity_event_base.md) )
+# OperateActionMapperRequest( [ EntityEventBase ](/docs/game-reflection/events/entity_event_base) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [String](/game-reflection/components/string.md) | MapperName |
-| [bool](/game-reflection/components/bool.md) | Status |
-| [Entity](/game-reflection/classes/entity.md) | Entity |
+| [String](/docs/game-reflection/components/string) | MapperName |
+| [bool](/docs/game-reflection/components/bool) | Status |
+| [Entity](/docs/game-reflection/classes/entity) | Entity |
+

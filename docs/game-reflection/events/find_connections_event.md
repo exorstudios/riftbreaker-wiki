@@ -5,11 +5,13 @@ has_children: false
 parent: Event
 grand_parent: Game Reflection
 ---
-# FindConnectionsEvent( ![ EntityEventBase ](/game-reflection/events/entity_event_base.md) )
+# FindConnectionsEvent( [ EntityEventBase ](/docs/game-reflection/events/entity_event_base) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| Vector< [Entity](/game-reflection/classes/entity.md) > | Nodes |
-| [Entity](/game-reflection/classes/entity.md) | Entity |
+| Vector< [Entity](/docs/game-reflection/classes/entity) > | Nodes |
+| [Entity](/docs/game-reflection/classes/entity) | Entity |
+

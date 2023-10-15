@@ -9,11 +9,13 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [float](/game-reflection/components/float.md) | event_threshold |
-| [float](/game-reflection/components/float.md) | deacceleration |
-| [float](/game-reflection/components/float.md) | acceleration |
-| [float](/game-reflection/components/float.md) | max_speed |
-| [String](/game-reflection/components/string.md) | tag |
-| [float](/game-reflection/components/float.md) | current_speed |
+| [float](/docs/game-reflection/components/float) | event_threshold |
+| [float](/docs/game-reflection/components/float) | deacceleration |
+| [float](/docs/game-reflection/components/float) | acceleration |
+| [float](/docs/game-reflection/components/float) | max_speed |
+| [String](/docs/game-reflection/components/string) | tag |
+| [float](/docs/game-reflection/components/float) | current_speed |
+

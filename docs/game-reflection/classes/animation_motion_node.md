@@ -5,16 +5,18 @@ has_children: false
 parent: Class
 grand_parent: Game Reflection
 ---
-# AnimationMotionNode( ![ AnimationStateNode ](/game-reflection/classes/animation_state_node.md) )
+# AnimationMotionNode( [ AnimationStateNode ](/docs/game-reflection/classes/animation_state_node) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [bool](/game-reflection/components/bool.md) | mirror |
-| [AnimationBlendFunctionHolder](/game-reflection/classes/animation_blend_function_holder.md) | blend_function_holder |
-| [bool](/game-reflection/components/bool.md) | loop |
-| [float](/game-reflection/components/float.md) | end_time |
-| [String](/game-reflection/components/string.md) | anim_name |
-| [float](/game-reflection/components/float.md) | speed |
-| [float](/game-reflection/components/float.md) | start_time |
+| [bool](/docs/game-reflection/components/bool) | mirror |
+| [AnimationBlendFunctionHolder](/docs/game-reflection/classes/animation_blend_function_holder) | blend_function_holder |
+| [bool](/docs/game-reflection/components/bool) | loop |
+| [float](/docs/game-reflection/components/float) | end_time |
+| [String](/docs/game-reflection/components/string) | anim_name |
+| [float](/docs/game-reflection/components/float) | speed |
+| [float](/docs/game-reflection/components/float) | start_time |
+

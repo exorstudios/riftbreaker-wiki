@@ -9,6 +9,8 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [AffectorLambda4](/game-reflection/components/affector_lambda4.md) | lambda |
+| [AffectorLambda4](/docs/game-reflection/components/affector_lambda4) | lambda |
+

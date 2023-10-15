@@ -9,10 +9,12 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [Database](/game-reflection/components/database.md) | param_database |
-| Vector< [StateActionContext](/game-reflection/classes/state_action_context.md) > | action_stack |
-| Vector< [StateMachineInstance](/game-reflection/classes/state_machine_instance.md) > | state_machines |
-| Vector< [IdString](/game-reflection/components/id_string.md) > | event_vec |
-| Vector< [IdString](/game-reflection/components/id_string.md) > | actions_to_remove |
+| [Database](/docs/game-reflection/components/database) | param_database |
+| Vector< [StateActionContext](/docs/game-reflection/classes/state_action_context) > | action_stack |
+| Vector< [StateMachineInstance](/docs/game-reflection/classes/state_machine_instance) > | state_machines |
+| Vector< [IdString](/docs/game-reflection/components/id_string) > | event_vec |
+| Vector< [IdString](/docs/game-reflection/components/id_string) > | actions_to_remove |
+

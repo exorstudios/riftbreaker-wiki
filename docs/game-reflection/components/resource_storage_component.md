@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| Vector< [Storage](/game-reflection/classes/storage.md) > | Storages |
-| [bool](/game-reflection/components/bool.md) | initialized |
+| Vector< [Storage](/docs/game-reflection/classes/storage) > | Storages |
+| [bool](/docs/game-reflection/components/bool) | initialized |
+

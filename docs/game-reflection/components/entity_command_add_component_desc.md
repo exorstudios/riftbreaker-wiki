@@ -9,9 +9,11 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [Entity](/game-reflection/classes/entity.md) | entity |
-| [String](/game-reflection/components/string.md) | component_name |
-| [ushort](/game-reflection/enums/ushort.md) | component_version |
-| [Entity](/game-reflection/classes/entity.md) | target |
+| [Entity](/docs/game-reflection/classes/entity) | entity |
+| [String](/docs/game-reflection/components/string) | component_name |
+| [ushort](/docs/game-reflection/enums/ushort) | component_version |
+| [Entity](/docs/game-reflection/classes/entity) | target |
+

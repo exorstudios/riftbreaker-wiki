@@ -9,9 +9,11 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [float](/game-reflection/components/float.md) | max_health |
-| [float](/game-reflection/components/float.md) | health |
-| [int](/game-reflection/enums/int.md) | status |
-| [uint](/game-reflection/components/uint.md) | immortal_counter |
+| [float](/docs/game-reflection/components/float) | max_health |
+| [float](/docs/game-reflection/components/float) | health |
+| [int](/docs/game-reflection/enums/int) | status |
+| [uint](/docs/game-reflection/components/uint) | immortal_counter |
+

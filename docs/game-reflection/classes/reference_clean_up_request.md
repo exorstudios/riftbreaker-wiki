@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [Entity](/game-reflection/classes/entity.md) | parent |
-| [Entity](/game-reflection/classes/entity.md) | sfx_ent |
+| [Entity](/docs/game-reflection/classes/entity) | parent |
+| [Entity](/docs/game-reflection/classes/entity) | sfx_ent |
+

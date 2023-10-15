@@ -9,8 +9,10 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [Entity](/game-reflection/classes/entity.md) | parent |
-| [Entity](/game-reflection/classes/entity.md) | entity |
-| [StringHash](/game-reflection/classes/string_hash.md) | attachment |
+| [Entity](/docs/game-reflection/classes/entity) | parent |
+| [Entity](/docs/game-reflection/classes/entity) | entity |
+| [StringHash](/docs/game-reflection/classes/string_hash) | attachment |
+

@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [String](/game-reflection/components/string.md) | sking_blueprint |
-| [int](/game-reflection/enums/int.md) | ping |
+| [String](/docs/game-reflection/components/string) | sking_blueprint |
+| [int](/docs/game-reflection/enums/int) | ping |
+

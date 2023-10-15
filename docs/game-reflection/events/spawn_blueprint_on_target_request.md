@@ -5,14 +5,16 @@ has_children: false
 parent: Event
 grand_parent: Game Reflection
 ---
-# SpawnBlueprintOnTargetRequest( ![ EntityEventBase ](/game-reflection/events/entity_event_base.md) )
+# SpawnBlueprintOnTargetRequest( [ EntityEventBase ](/docs/game-reflection/events/entity_event_base) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [Vector3](/game-reflection/classes/vector3.md) | Axis |
-| [String](/game-reflection/components/string.md) | Blueprint |
-| [float](/game-reflection/components/float.md) | Angle |
-| [String](/game-reflection/components/string.md) | Tag |
-| [Entity](/game-reflection/classes/entity.md) | Entity |
+| [Vector3](/docs/game-reflection/classes/vector3) | Axis |
+| [String](/docs/game-reflection/components/string) | Blueprint |
+| [float](/docs/game-reflection/components/float) | Angle |
+| [String](/docs/game-reflection/components/string) | Tag |
+| [Entity](/docs/game-reflection/classes/entity) | Entity |
+

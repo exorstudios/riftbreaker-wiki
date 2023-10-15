@@ -5,12 +5,14 @@ has_children: false
 parent: Event
 grand_parent: Game Reflection
 ---
-# SetDatabaseFloatEntryRequest( ![ EntityEventBase ](/game-reflection/events/entity_event_base.md) )
+# SetDatabaseFloatEntryRequest( [ EntityEventBase ](/docs/game-reflection/events/entity_event_base) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [String](/game-reflection/components/string.md) | Key |
-| [float](/game-reflection/components/float.md) | Value |
-| [Entity](/game-reflection/classes/entity.md) | Entity |
+| [String](/docs/game-reflection/components/string) | Key |
+| [float](/docs/game-reflection/components/float) | Value |
+| [Entity](/docs/game-reflection/classes/entity) | Entity |
+

@@ -9,6 +9,7 @@ grand_parent: Game Reflection
 Description 
 
 ## Enum values
+
 | Name | Value |
 |:-------------|:--------------|
 |  | -1 |
@@ -47,3 +48,4 @@ Description
 | resistance_sunburn | 32 |
 | resistance_heat | 33 |
 | resistance_tornado | 34 |
+

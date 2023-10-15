@@ -9,9 +9,11 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [String](/game-reflection/components/string.md) | camera_group |
-| [GuiDef2](/game-reflection/components/gui_def2.md) | def |
-| [bool](/game-reflection/components/bool.md) | use_database_component |
-| [bool](/game-reflection/components/bool.md) | visible |
+| [String](/docs/game-reflection/components/string) | camera_group |
+| [GuiDef2](/docs/game-reflection/components/gui_def2) | def |
+| [bool](/docs/game-reflection/components/bool) | use_database_component |
+| [bool](/docs/game-reflection/components/bool) | visible |
+

@@ -9,8 +9,10 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [uint](/game-reflection/components/uint.md) | mode |
-| [Vector3](/game-reflection/classes/vector3.md) | pos |
-| [uint](/game-reflection/components/uint.md) | radar_mode |
+| [uint](/docs/game-reflection/components/uint) | mode |
+| [Vector3](/docs/game-reflection/classes/vector3) | pos |
+| [uint](/docs/game-reflection/components/uint) | radar_mode |
+

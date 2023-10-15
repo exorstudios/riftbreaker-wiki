@@ -9,15 +9,17 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [bool](/game-reflection/components/bool.md) | receive_shadows |
-| [String](/game-reflection/components/string.md) | name |
-| [float](/game-reflection/components/float.md) | fov |
-| [bool](/game-reflection/components/bool.md) | active |
-| [String](/game-reflection/components/string.md) | group |
-| [float](/game-reflection/components/float.md) | orthoHeight |
-| [float](/game-reflection/components/float.md) | aspectRatio |
-| [int](/game-reflection/enums/int.md) | projection_type |
-| [float](/game-reflection/components/float.md) | farClip |
-| [float](/game-reflection/components/float.md) | nearClip |
+| [bool](/docs/game-reflection/components/bool) | receive_shadows |
+| [String](/docs/game-reflection/components/string) | name |
+| [float](/docs/game-reflection/components/float) | fov |
+| [bool](/docs/game-reflection/components/bool) | active |
+| [String](/docs/game-reflection/components/string) | group |
+| [float](/docs/game-reflection/components/float) | orthoHeight |
+| [float](/docs/game-reflection/components/float) | aspectRatio |
+| [int](/docs/game-reflection/enums/int) | projection_type |
+| [float](/docs/game-reflection/components/float) | farClip |
+| [float](/docs/game-reflection/components/float) | nearClip |
+

@@ -5,10 +5,12 @@ has_children: false
 parent: Class
 grand_parent: Game Reflection
 ---
-# StunSystem( ![ System ](/game-reflection/classes/system.md) )
+# StunSystem( [ System ](/docs/game-reflection/classes/system) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| Vector< [Entity](/game-reflection/classes/entity.md) > | effects_to_cleanup |
+| Vector< [Entity](/docs/game-reflection/classes/entity) > | effects_to_cleanup |
+

@@ -9,11 +9,13 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [float](/game-reflection/components/float.md) | time_end |
-| [uchar](/game-reflection/enums/uchar.md) | state |
-| [float](/game-reflection/components/float.md) | time_start |
-| Vector< [Entity](/game-reflection/classes/entity.md) > | charging_entities |
-| [uint](/game-reflection/components/uint.md) | charge_idx |
-| [float](/game-reflection/components/float.md) | charge_time |
+| [float](/docs/game-reflection/components/float) | time_end |
+| [uchar](/docs/game-reflection/enums/uchar) | state |
+| [float](/docs/game-reflection/components/float) | time_start |
+| Vector< [Entity](/docs/game-reflection/classes/entity) > | charging_entities |
+| [uint](/docs/game-reflection/components/uint) | charge_idx |
+| [float](/docs/game-reflection/components/float) | charge_time |
+

@@ -9,8 +9,10 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [float](/game-reflection/components/float.md) | fire_columns |
-| [float](/game-reflection/components/float.md) | fire_rate |
-| [float](/game-reflection/components/float.md) | fire_rows |
+| [float](/docs/game-reflection/components/float) | fire_columns |
+| [float](/docs/game-reflection/components/float) | fire_rate |
+| [float](/docs/game-reflection/components/float) | fire_rows |
+

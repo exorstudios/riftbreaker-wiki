@@ -9,8 +9,10 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [uint](/game-reflection/components/uint.md) | event |
-| [StringHash](/game-reflection/classes/string_hash.md) | callback |
-| [uint](/game-reflection/components/uint.md) | target |
+| [uint](/docs/game-reflection/components/uint) | event |
+| [StringHash](/docs/game-reflection/classes/string_hash) | callback |
+| [uint](/docs/game-reflection/components/uint) | target |
+

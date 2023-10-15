@@ -9,10 +9,12 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [bool](/game-reflection/components/bool.md) | has_actions_queued |
-| Vector< [DebugSpawnUnit](/game-reflection/classes/debug_spawn_unit.md) > | units |
-| [bool](/game-reflection/components/bool.md) | has_units_queued |
-| Vector< [DebugAction](/game-reflection/classes/debug_action.md) > | queued_actions |
-| Vector< [DebugSpawnEvent](/game-reflection/classes/debug_spawn_event.md) > | events |
+| [bool](/docs/game-reflection/components/bool) | has_actions_queued |
+| Vector< [DebugSpawnUnit](/docs/game-reflection/classes/debug_spawn_unit) > | units |
+| [bool](/docs/game-reflection/components/bool) | has_units_queued |
+| Vector< [DebugAction](/docs/game-reflection/classes/debug_action) > | queued_actions |
+| Vector< [DebugSpawnEvent](/docs/game-reflection/classes/debug_spawn_event) > | events |
+

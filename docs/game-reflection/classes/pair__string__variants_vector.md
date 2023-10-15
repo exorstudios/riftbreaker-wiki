@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [VariantsVector](/game-reflection/classes/variants_vector.md) | value |
-| [String](/game-reflection/components/string.md) | key |
+| [VariantsVector](/docs/game-reflection/classes/variants_vector) | value |
+| [String](/docs/game-reflection/components/string) | key |
+

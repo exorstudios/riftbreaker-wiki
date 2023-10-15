@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [IdString](/game-reflection/components/id_string.md) | damage_name |
-| [Entity](/game-reflection/classes/entity.md) | melee_entity |
+| [IdString](/docs/game-reflection/components/id_string) | damage_name |
+| [Entity](/docs/game-reflection/classes/entity) | melee_entity |
+

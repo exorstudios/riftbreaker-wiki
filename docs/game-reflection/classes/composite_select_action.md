@@ -5,11 +5,13 @@ has_children: false
 parent: Class
 grand_parent: Game Reflection
 ---
-# CompositeSelectAction( ![ CompositeAction ](/game-reflection/classes/composite_action.md) )
+# CompositeSelectAction( [ CompositeAction ](/docs/game-reflection/classes/composite_action) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [int](/game-reflection/enums/int.md) | active_action |
-| Vector< [String](/game-reflection/components/string.md) > | actions |
+| [int](/docs/game-reflection/enums/int) | active_action |
+| Vector< [String](/docs/game-reflection/components/string) > | actions |
+

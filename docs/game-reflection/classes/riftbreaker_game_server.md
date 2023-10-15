@@ -5,10 +5,12 @@ has_children: false
 parent: Class
 grand_parent: Game Reflection
 ---
-# RiftbreakerGameServer( ![ GameServer ](/game-reflection/classes/game_server.md) )
+# RiftbreakerGameServer( [ GameServer ](/docs/game-reflection/classes/game_server) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [GameServerInfo](/game-reflection/classes/game_server_info.md) | info |
+| [GameServerInfo](/docs/game-reflection/classes/game_server_info) | info |
+

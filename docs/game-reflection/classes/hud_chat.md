@@ -9,6 +9,8 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| Vector< [HudChatMessage](/game-reflection/classes/hud_chat_message.md) > | messages |
+| Vector< [HudChatMessage](/docs/game-reflection/classes/hud_chat_message) > | messages |
+

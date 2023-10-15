@@ -9,15 +9,17 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [int](/game-reflection/enums/int.md) | DepthFunc |
-| [int](/game-reflection/enums/int.md) | StencilFunc |
-| [int](/game-reflection/enums/int.md) | DepthFailOp |
-| [bool](/game-reflection/components/bool.md) | TwoSidedOperation |
-| [int](/game-reflection/enums/int.md) | StencilPassOp |
-| [int](/game-reflection/enums/int.md) | StencilFailOp |
-| [bool](/game-reflection/components/bool.md) | DepthWriteEnable |
-| [bool](/game-reflection/components/bool.md) | DepthCheckEnable |
-| [bool](/game-reflection/components/bool.md) | StencilEnable |
-| [uint](/game-reflection/components/uint.md) | StencilMask |
+| [int](/docs/game-reflection/enums/int) | DepthFunc |
+| [int](/docs/game-reflection/enums/int) | StencilFunc |
+| [int](/docs/game-reflection/enums/int) | DepthFailOp |
+| [bool](/docs/game-reflection/components/bool) | TwoSidedOperation |
+| [int](/docs/game-reflection/enums/int) | StencilPassOp |
+| [int](/docs/game-reflection/enums/int) | StencilFailOp |
+| [bool](/docs/game-reflection/components/bool) | DepthWriteEnable |
+| [bool](/docs/game-reflection/components/bool) | DepthCheckEnable |
+| [bool](/docs/game-reflection/components/bool) | StencilEnable |
+| [uint](/docs/game-reflection/components/uint) | StencilMask |
+

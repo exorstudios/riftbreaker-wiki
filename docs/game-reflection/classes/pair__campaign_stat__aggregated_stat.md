@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [AggregatedStat](/game-reflection/classes/aggregated_stat.md) | value |
-| [int](/game-reflection/enums/int.md) | key |
+| [AggregatedStat](/docs/game-reflection/classes/aggregated_stat) | value |
+| [int](/docs/game-reflection/enums/int) | key |
+

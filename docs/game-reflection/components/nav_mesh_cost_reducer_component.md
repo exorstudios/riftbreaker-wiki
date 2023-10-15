@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [int](/game-reflection/enums/int.md) | cost_value |
-| [uint](/game-reflection/components/uint.md) | cost_type |
+| [int](/docs/game-reflection/enums/int) | cost_value |
+| [uint](/docs/game-reflection/components/uint) | cost_type |
+

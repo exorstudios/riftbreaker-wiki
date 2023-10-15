@@ -9,16 +9,18 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [float](/game-reflection/components/float.md) | timeout |
-| [bool](/game-reflection/components/bool.md) | global |
-| [float](/game-reflection/components/float.md) | current_time |
-| [float](/game-reflection/components/float.md) | priority |
-| [Database](/game-reflection/components/database.md) | db |
-| Vector< [DialogGroupInfo](/game-reflection/classes/dialog_group_info.md) > | dialogs |
-| [bool](/game-reflection/components/bool.md) | interrupt |
-| [bool](/game-reflection/components/bool.md) | infinite_dialog_finished |
-| [float](/game-reflection/components/float.md) | delay |
-| [bool](/game-reflection/components/bool.md) | infinite |
-| [String](/game-reflection/components/string.md) | group_id |
+| [float](/docs/game-reflection/components/float) | timeout |
+| [bool](/docs/game-reflection/components/bool) | global |
+| [float](/docs/game-reflection/components/float) | current_time |
+| [float](/docs/game-reflection/components/float) | priority |
+| [Database](/docs/game-reflection/components/database) | db |
+| Vector< [DialogGroupInfo](/docs/game-reflection/classes/dialog_group_info) > | dialogs |
+| [bool](/docs/game-reflection/components/bool) | interrupt |
+| [bool](/docs/game-reflection/components/bool) | infinite_dialog_finished |
+| [float](/docs/game-reflection/components/float) | delay |
+| [bool](/docs/game-reflection/components/bool) | infinite |
+| [String](/docs/game-reflection/components/string) | group_id |
+

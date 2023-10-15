@@ -9,6 +9,8 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| Vector< [SeasonalEvent](/game-reflection/classes/seasonal_event.md) > | season |
+| Vector< [SeasonalEvent](/docs/game-reflection/classes/seasonal_event) > | season |
+

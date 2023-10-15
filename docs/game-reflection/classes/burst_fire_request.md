@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [Transform](/game-reflection/classes/transform.md) | transform |
-| [float](/game-reflection/components/float.md) | delay |
+| [Transform](/docs/game-reflection/classes/transform) | transform |
+| [float](/docs/game-reflection/components/float) | delay |
+

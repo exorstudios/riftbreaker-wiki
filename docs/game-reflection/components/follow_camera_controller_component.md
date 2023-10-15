@@ -9,20 +9,22 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [Radian](/game-reflection/classes/radian.md) | max_angular_speed |
-| [uchar](/game-reflection/enums/uchar.md) | mode |
-| [float](/game-reflection/components/float.md) | max_panning |
-| [Vector3](/game-reflection/classes/vector3.md) | local_offset |
-| [float](/game-reflection/components/float.md) | distance_to_target |
-| [Aabb](/game-reflection/components/aabb.md) | camera_limits |
-| [Vector3](/game-reflection/classes/vector3.md) | up |
-| [Quaternion](/game-reflection/classes/quaternion.md) | free_look_orientation |
-| [float](/game-reflection/components/float.md) | max_distance_speed |
-| [bool](/game-reflection/components/bool.md) | inherit_target_orientation |
-| [Entity](/game-reflection/classes/entity.md) | target |
-| [float](/game-reflection/components/float.md) | min_distance_to_target |
-| [Vector3](/game-reflection/classes/vector3.md) | offset |
-| [Radian](/game-reflection/classes/radian.md) | yaw_angle |
-| [Radian](/game-reflection/classes/radian.md) | pitch_angle |
+| [Radian](/docs/game-reflection/classes/radian) | max_angular_speed |
+| [uchar](/docs/game-reflection/enums/uchar) | mode |
+| [float](/docs/game-reflection/components/float) | max_panning |
+| [Vector3](/docs/game-reflection/classes/vector3) | local_offset |
+| [float](/docs/game-reflection/components/float) | distance_to_target |
+| [Aabb](/docs/game-reflection/components/aabb) | camera_limits |
+| [Vector3](/docs/game-reflection/classes/vector3) | up |
+| [Quaternion](/docs/game-reflection/classes/quaternion) | free_look_orientation |
+| [float](/docs/game-reflection/components/float) | max_distance_speed |
+| [bool](/docs/game-reflection/components/bool) | inherit_target_orientation |
+| [Entity](/docs/game-reflection/classes/entity) | target |
+| [float](/docs/game-reflection/components/float) | min_distance_to_target |
+| [Vector3](/docs/game-reflection/classes/vector3) | offset |
+| [Radian](/docs/game-reflection/classes/radian) | yaw_angle |
+| [Radian](/docs/game-reflection/classes/radian) | pitch_angle |
+

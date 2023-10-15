@@ -9,9 +9,11 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [Vector3](/game-reflection/classes/vector3.md) | dir |
-| [float](/game-reflection/components/float.md) | progress |
-| [float](/game-reflection/components/float.md) | duration |
-| [float](/game-reflection/components/float.md) | power |
+| [Vector3](/docs/game-reflection/classes/vector3) | dir |
+| [float](/docs/game-reflection/components/float) | progress |
+| [float](/docs/game-reflection/components/float) | duration |
+| [float](/docs/game-reflection/components/float) | power |
+

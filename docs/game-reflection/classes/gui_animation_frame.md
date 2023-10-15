@@ -9,13 +9,15 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [Vector4](/game-reflection/classes/vector4.md) | color |
-| [float](/game-reflection/components/float.md) | rotation |
-| [uint](/game-reflection/components/uint.md) | texture_number |
-| [int](/game-reflection/enums/int.md) | loop |
-| [Vector2](/game-reflection/classes/vector2.md) | scale |
-| [ushort](/game-reflection/enums/ushort.md) | mask |
-| [uint](/game-reflection/components/uint.md) | frame_number |
-| [Vector2](/game-reflection/classes/vector2.md) | offset |
+| [Vector4](/docs/game-reflection/classes/vector4) | color |
+| [float](/docs/game-reflection/components/float) | rotation |
+| [uint](/docs/game-reflection/components/uint) | texture_number |
+| [int](/docs/game-reflection/enums/int) | loop |
+| [Vector2](/docs/game-reflection/classes/vector2) | scale |
+| [ushort](/docs/game-reflection/enums/ushort) | mask |
+| [uint](/docs/game-reflection/components/uint) | frame_number |
+| [Vector2](/docs/game-reflection/classes/vector2) | offset |
+

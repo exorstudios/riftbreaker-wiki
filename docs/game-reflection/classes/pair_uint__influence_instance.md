@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [InfluenceInstance](/game-reflection/classes/influence_instance.md) | value |
-| [uint](/game-reflection/components/uint.md) | key |
+| [InfluenceInstance](/docs/game-reflection/classes/influence_instance) | value |
+| [uint](/docs/game-reflection/components/uint) | key |
+

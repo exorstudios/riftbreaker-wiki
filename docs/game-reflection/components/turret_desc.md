@@ -9,21 +9,23 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [float](/game-reflection/components/float.md) | aiming_cooldown |
-| [Vector3](/game-reflection/classes/vector3.md) | aiming_offset |
-| [uchar](/game-reflection/enums/uchar.md) | find_type |
-| [String](/game-reflection/components/string.md) | name |
-| [float](/game-reflection/components/float.md) | gravity_factor |
-| [bool](/game-reflection/components/bool.md) | use_IK |
-| [bool](/game-reflection/components/bool.md) | check_target_visibility |
-| [float](/game-reflection/components/float.md) | aiming_target_time |
-| [AimVolume2](/game-reflection/components/aim_volume2.md) | aim_volume |
-| [IdString](/game-reflection/components/id_string.md) | yaw |
-| [uint64](/game-reflection/components/uint64.md) | target_ignore |
-| [float](/game-reflection/components/float.md) | aiming_idle_angle |
-| [PriorityTypeMask](/game-reflection/classes/priority_type_mask.md) | target |
-| [float](/game-reflection/components/float.md) | speed |
-| [bool](/game-reflection/components/bool.md) | fog_of_war_filtering |
-| [IdString](/game-reflection/components/id_string.md) | pitch |
+| [float](/docs/game-reflection/components/float) | aiming_cooldown |
+| [Vector3](/docs/game-reflection/classes/vector3) | aiming_offset |
+| [uchar](/docs/game-reflection/enums/uchar) | find_type |
+| [String](/docs/game-reflection/components/string) | name |
+| [float](/docs/game-reflection/components/float) | gravity_factor |
+| [bool](/docs/game-reflection/components/bool) | use_IK |
+| [bool](/docs/game-reflection/components/bool) | check_target_visibility |
+| [float](/docs/game-reflection/components/float) | aiming_target_time |
+| [AimVolume2](/docs/game-reflection/components/aim_volume2) | aim_volume |
+| [IdString](/docs/game-reflection/components/id_string) | yaw |
+| [uint64](/docs/game-reflection/components/uint64) | target_ignore |
+| [float](/docs/game-reflection/components/float) | aiming_idle_angle |
+| [PriorityTypeMask](/docs/game-reflection/classes/priority_type_mask) | target |
+| [float](/docs/game-reflection/components/float) | speed |
+| [bool](/docs/game-reflection/components/bool) | fog_of_war_filtering |
+| [IdString](/docs/game-reflection/components/id_string) | pitch |
+

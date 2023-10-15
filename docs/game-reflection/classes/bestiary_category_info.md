@@ -9,8 +9,10 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [bool](/game-reflection/components/bool.md) | is_new |
-| [String](/game-reflection/components/string.md) | category_icon_selected |
-| [String](/game-reflection/components/string.md) | category_icon_neutral |
+| [bool](/docs/game-reflection/components/bool) | is_new |
+| [String](/docs/game-reflection/components/string) | category_icon_selected |
+| [String](/docs/game-reflection/components/string) | category_icon_neutral |
+

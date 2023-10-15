@@ -5,11 +5,13 @@ has_children: false
 parent: Event
 grand_parent: Game Reflection
 ---
-# PlayerTeamCreatedEvent( ![ EntityEventBase ](/game-reflection/events/entity_event_base.md) )
+# PlayerTeamCreatedEvent( [ EntityEventBase ](/docs/game-reflection/events/entity_event_base) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [TeamId](/game-reflection/classes/team_id.md) | TeamId |
-| [Entity](/game-reflection/classes/entity.md) | Entity |
+| [TeamId](/docs/game-reflection/classes/team_id) | TeamId |
+| [Entity](/docs/game-reflection/classes/entity) | Entity |
+

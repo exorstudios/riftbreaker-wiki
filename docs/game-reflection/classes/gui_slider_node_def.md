@@ -5,14 +5,16 @@ has_children: false
 parent: Class
 grand_parent: Game Reflection
 ---
-# GuiSliderNodeDef( ![ GuiNavNodeDef ](/game-reflection/classes/gui_nav_node_def.md) )
+# GuiSliderNodeDef( [ GuiNavNodeDef ](/docs/game-reflection/classes/gui_nav_node_def) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [float](/game-reflection/components/float.md) | max |
-| [float](/game-reflection/components/float.md) | change |
-| [float](/game-reflection/components/float.md) | min |
-| [float](/game-reflection/components/float.md) | default |
-| [bool](/game-reflection/components/bool.md) | horizontal |
+| [float](/docs/game-reflection/components/float) | max |
+| [float](/docs/game-reflection/components/float) | change |
+| [float](/docs/game-reflection/components/float) | min |
+| [float](/docs/game-reflection/components/float) | default |
+| [bool](/docs/game-reflection/components/bool) | horizontal |
+

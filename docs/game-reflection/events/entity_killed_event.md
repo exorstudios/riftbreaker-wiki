@@ -5,17 +5,19 @@ has_children: false
 parent: Event
 grand_parent: Game Reflection
 ---
-# EntityKilledEvent( ![ EntityEventBase ](/game-reflection/events/entity_event_base.md) )
+# EntityKilledEvent( [ EntityEventBase ](/docs/game-reflection/events/entity_event_base) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [Entity](/game-reflection/classes/entity.md) | Owner |
-| [Entity](/game-reflection/classes/entity.md) | Killer |
-| [uint64](/game-reflection/components/uint64.md) | TypeMask |
-| [IdString](/game-reflection/components/id_string.md) | Blueprint |
-| [IdString](/game-reflection/components/id_string.md) | DamageType |
-| [TeamId](/game-reflection/classes/team_id.md) | Team |
-| [Entity](/game-reflection/classes/entity.md) | Entity |
-| [uint](/game-reflection/components/uint.md) | KillerPlayer |
+| [Entity](/docs/game-reflection/classes/entity) | Owner |
+| [Entity](/docs/game-reflection/classes/entity) | Killer |
+| [uint64](/docs/game-reflection/components/uint64) | TypeMask |
+| [IdString](/docs/game-reflection/components/id_string) | Blueprint |
+| [IdString](/docs/game-reflection/components/id_string) | DamageType |
+| [TeamId](/docs/game-reflection/classes/team_id) | Team |
+| [Entity](/docs/game-reflection/classes/entity) | Entity |
+| [uint](/docs/game-reflection/components/uint) | KillerPlayer |
+

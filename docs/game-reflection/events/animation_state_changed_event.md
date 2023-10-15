@@ -5,12 +5,14 @@ has_children: false
 parent: Event
 grand_parent: Game Reflection
 ---
-# AnimationStateChangedEvent( ![ EntityEventBase ](/game-reflection/events/entity_event_base.md) )
+# AnimationStateChangedEvent( [ EntityEventBase ](/docs/game-reflection/events/entity_event_base) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [String](/game-reflection/components/string.md) | NewStateName |
-| [String](/game-reflection/components/string.md) | OldStateName |
-| [Entity](/game-reflection/classes/entity.md) | Entity |
+| [String](/docs/game-reflection/components/string) | NewStateName |
+| [String](/docs/game-reflection/components/string) | OldStateName |
+| [Entity](/docs/game-reflection/classes/entity) | Entity |
+

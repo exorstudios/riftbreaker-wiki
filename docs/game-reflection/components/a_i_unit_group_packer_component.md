@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| Vector< [Pair_Entity_EntityTemplate](/game-reflection/classes/pair__entity__entity_template.md) > | packed_units |
-| [String](/game-reflection/components/string.md) | group |
+| Vector< [Pair_Entity_EntityTemplate](/docs/game-reflection/classes/pair__entity__entity_template) > | packed_units |
+| [String](/docs/game-reflection/components/string) | group |
+

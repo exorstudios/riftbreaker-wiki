@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [DataHolder](/game-reflection/classes/data_holder.md) | value |
-| [BlendTreeDataKey](/game-reflection/classes/blend_tree_data_key.md) | key |
+| [DataHolder](/docs/game-reflection/classes/data_holder) | value |
+| [BlendTreeDataKey](/docs/game-reflection/classes/blend_tree_data_key) | key |
+

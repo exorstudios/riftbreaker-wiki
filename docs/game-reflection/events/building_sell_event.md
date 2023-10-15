@@ -5,13 +5,15 @@ has_children: false
 parent: Event
 grand_parent: Game Reflection
 ---
-# BuildingSellEvent( ![ EntityEventBase ](/game-reflection/events/entity_event_base.md) )
+# BuildingSellEvent( [ EntityEventBase ](/docs/game-reflection/events/entity_event_base) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [bool](/game-reflection/components/bool.md) | Forced |
-| [Entity](/game-reflection/classes/entity.md) | CubeEnt |
-| [uint](/game-reflection/components/uint.md) | PlayerId |
-| [Entity](/game-reflection/classes/entity.md) | Entity |
+| [bool](/docs/game-reflection/components/bool) | Forced |
+| [Entity](/docs/game-reflection/classes/entity) | CubeEnt |
+| [uint](/docs/game-reflection/components/uint) | PlayerId |
+| [Entity](/docs/game-reflection/classes/entity) | Entity |
+

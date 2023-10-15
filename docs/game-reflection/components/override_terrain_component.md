@@ -9,6 +9,8 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| Vector< [TerrainTypeHolder](/game-reflection/components/terrain_type_holder.md) > | terrain_overrides |
+| Vector< [TerrainTypeHolder](/docs/game-reflection/components/terrain_type_holder) > | terrain_overrides |
+

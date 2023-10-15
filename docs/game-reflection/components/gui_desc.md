@@ -9,17 +9,19 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [String](/game-reflection/components/string.md) | material |
-| [int](/game-reflection/enums/int.md) | mode |
-| [GuiDef2](/game-reflection/components/gui_def2.md) | gui_item |
-| [String](/game-reflection/components/string.md) | camera_group |
-| [float](/game-reflection/components/float.md) | order |
-| [bool](/game-reflection/components/bool.md) | clamp_in_frustum |
-| [String](/game-reflection/components/string.md) | def_name |
-| [Vector2](/game-reflection/classes/vector2.md) | scale |
-| [String](/game-reflection/components/string.md) | type |
-| [bool](/game-reflection/components/bool.md) | use_database_component |
-| [bool](/game-reflection/components/bool.md) | visible |
-| [uchar](/game-reflection/enums/uchar.md) | alignment |
+| [String](/docs/game-reflection/components/string) | material |
+| [int](/docs/game-reflection/enums/int) | mode |
+| [GuiDef2](/docs/game-reflection/components/gui_def2) | gui_item |
+| [String](/docs/game-reflection/components/string) | camera_group |
+| [float](/docs/game-reflection/components/float) | order |
+| [bool](/docs/game-reflection/components/bool) | clamp_in_frustum |
+| [String](/docs/game-reflection/components/string) | def_name |
+| [Vector2](/docs/game-reflection/classes/vector2) | scale |
+| [String](/docs/game-reflection/components/string) | type |
+| [bool](/docs/game-reflection/components/bool) | use_database_component |
+| [bool](/docs/game-reflection/components/bool) | visible |
+| [uchar](/docs/game-reflection/enums/uchar) | alignment |
+

@@ -5,14 +5,16 @@ has_children: false
 parent: Class
 grand_parent: Game Reflection
 ---
-# MovementTargetFinder( ![ TargetFinder ](/game-reflection/classes/target_finder.md) )
+# MovementTargetFinder( [ TargetFinder ](/docs/game-reflection/classes/target_finder) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [uchar](/game-reflection/enums/uchar.md) | team_relation_id |
-| [float](/game-reflection/components/float.md) | max_search_radius |
-| Vector< [TypeId](/game-reflection/enums/type_id.md) > | priority_target |
-| [float](/game-reflection/components/float.md) | priority_search_radius |
-| [uint64](/game-reflection/components/uint64.md) | ignore_move_to_type |
+| [uchar](/docs/game-reflection/enums/uchar) | team_relation_id |
+| [float](/docs/game-reflection/components/float) | max_search_radius |
+| Vector< [TypeId](/docs/game-reflection/enums/type_id) > | priority_target |
+| [float](/docs/game-reflection/components/float) | priority_search_radius |
+| [uint64](/docs/game-reflection/components/uint64) | ignore_move_to_type |
+

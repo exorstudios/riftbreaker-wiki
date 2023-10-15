@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [uint](/game-reflection/components/uint.md) | types_to_select |
-| Vector< [ContainerLootType](/game-reflection/classes/container_loot_type.md) > | container_loot_types |
+| [uint](/docs/game-reflection/components/uint) | types_to_select |
+| Vector< [ContainerLootType](/docs/game-reflection/classes/container_loot_type) > | container_loot_types |
+

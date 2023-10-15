@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [DestroyPattern](/game-reflection/classes/destroy_pattern.md) | value |
-| [IdString](/game-reflection/components/id_string.md) | key |
+| [DestroyPattern](/docs/game-reflection/classes/destroy_pattern) | value |
+| [IdString](/docs/game-reflection/components/id_string) | key |
+

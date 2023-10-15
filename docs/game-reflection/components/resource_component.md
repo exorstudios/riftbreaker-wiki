@@ -9,13 +9,15 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| Vector< [uint](/game-reflection/components/uint.md) > | indexes |
-| [Entity](/game-reflection/classes/entity.md) | volume_owner |
-| [GameplayResourceDefHolder](/game-reflection/components/gameplay_resource_def_holder.md) | type_produced |
-| [float](/game-reflection/components/float.md) | initial_amount |
-| [GameplayResourceDefHolder](/game-reflection/components/gameplay_resource_def_holder.md) | type |
-| Vector< [Entity](/game-reflection/classes/entity.md) > | indexes_ents |
-| [ResourceAccount](/game-reflection/classes/resource_account.md) | account |
-| [int](/game-reflection/enums/int.md) | size |
+| Vector< [uint](/docs/game-reflection/components/uint) > | indexes |
+| [Entity](/docs/game-reflection/classes/entity) | volume_owner |
+| [GameplayResourceDefHolder](/docs/game-reflection/components/gameplay_resource_def_holder) | type_produced |
+| [float](/docs/game-reflection/components/float) | initial_amount |
+| [GameplayResourceDefHolder](/docs/game-reflection/components/gameplay_resource_def_holder) | type |
+| Vector< [Entity](/docs/game-reflection/classes/entity) > | indexes_ents |
+| [ResourceAccount](/docs/game-reflection/classes/resource_account) | account |
+| [int](/docs/game-reflection/enums/int) | size |
+

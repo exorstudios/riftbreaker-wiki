@@ -9,9 +9,11 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [Vector3](/game-reflection/classes/vector3.md) | origin |
-| Vector< [FogOfWarSpace](/game-reflection/classes/fog_of_war_space.md) > | spaces |
-| [bool](/game-reflection/components/bool.md) | is_initialized |
-| [Vector2](/game-reflection/classes/vector2.md) | size |
+| [Vector3](/docs/game-reflection/classes/vector3) | origin |
+| Vector< [FogOfWarSpace](/docs/game-reflection/classes/fog_of_war_space) > | spaces |
+| [bool](/docs/game-reflection/components/bool) | is_initialized |
+| [Vector2](/docs/game-reflection/classes/vector2) | size |
+

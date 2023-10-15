@@ -9,8 +9,10 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [bool](/game-reflection/components/bool.md) | is_looped |
-| [String](/game-reflection/components/string.md) | sample_name |
-| [int](/game-reflection/enums/int.md) | priority |
+| [bool](/docs/game-reflection/components/bool) | is_looped |
+| [String](/docs/game-reflection/components/string) | sample_name |
+| [int](/docs/game-reflection/enums/int) | priority |
+

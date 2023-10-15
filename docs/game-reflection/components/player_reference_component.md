@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [uint](/game-reflection/components/uint.md) | player_id |
-| [PlayerReferenceType](/game-reflection/classes/player_reference_type.md) | reference_type |
+| [uint](/docs/game-reflection/components/uint) | player_id |
+| [PlayerReferenceType](/docs/game-reflection/classes/player_reference_type) | reference_type |
+

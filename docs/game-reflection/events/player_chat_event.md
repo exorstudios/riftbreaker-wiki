@@ -5,13 +5,15 @@ has_children: false
 parent: Event
 grand_parent: Game Reflection
 ---
-# PlayerChatEvent( ![ EntityEventBase ](/game-reflection/events/entity_event_base.md) )
+# PlayerChatEvent( [ EntityEventBase ](/docs/game-reflection/events/entity_event_base) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [String](/game-reflection/components/string.md) | Message |
-| [uint64](/game-reflection/components/uint64.md) | Timestamp |
-| [String](/game-reflection/components/string.md) | Player |
-| [Entity](/game-reflection/classes/entity.md) | Entity |
+| [String](/docs/game-reflection/components/string) | Message |
+| [uint64](/docs/game-reflection/components/uint64) | Timestamp |
+| [String](/docs/game-reflection/components/string) | Player |
+| [Entity](/docs/game-reflection/classes/entity) | Entity |
+

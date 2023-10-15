@@ -9,13 +9,15 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [float](/game-reflection/components/float.md) | min_duration |
-| [IdString](/game-reflection/components/id_string.md) | parent_end_attachment |
-| [float](/game-reflection/components/float.md) | timer |
-| [float](/game-reflection/components/float.md) | repeat_delay |
-| [IdString](/game-reflection/components/id_string.md) | end_attachment |
-| [IdString](/game-reflection/components/id_string.md) | start_attachment |
-| [float](/game-reflection/components/float.md) | max_duration |
-| [IdString](/game-reflection/components/id_string.md) | parent_start_attachment |
+| [float](/docs/game-reflection/components/float) | min_duration |
+| [IdString](/docs/game-reflection/components/id_string) | parent_end_attachment |
+| [float](/docs/game-reflection/components/float) | timer |
+| [float](/docs/game-reflection/components/float) | repeat_delay |
+| [IdString](/docs/game-reflection/components/id_string) | end_attachment |
+| [IdString](/docs/game-reflection/components/id_string) | start_attachment |
+| [float](/docs/game-reflection/components/float) | max_duration |
+| [IdString](/docs/game-reflection/components/id_string) | parent_start_attachment |
+

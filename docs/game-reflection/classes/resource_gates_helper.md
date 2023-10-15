@@ -9,6 +9,8 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| Vector< [ResourceGraphGate](/game-reflection/classes/resource_graph_gate.md) > | gates |
+| Vector< [ResourceGraphGate](/docs/game-reflection/classes/resource_graph_gate) > | gates |
+

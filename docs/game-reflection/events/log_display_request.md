@@ -5,13 +5,15 @@ has_children: false
 parent: Event
 grand_parent: Game Reflection
 ---
-# LogDisplayRequest( ![ EntityEventBase ](/game-reflection/events/entity_event_base.md) )
+# LogDisplayRequest( [ EntityEventBase ](/docs/game-reflection/events/entity_event_base) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [String](/game-reflection/components/string.md) | Content |
-| [String](/game-reflection/components/string.md) | Icon |
-| [String](/game-reflection/components/string.md) | style |
-| [Entity](/game-reflection/classes/entity.md) | Entity |
+| [String](/docs/game-reflection/components/string) | Content |
+| [String](/docs/game-reflection/components/string) | Icon |
+| [String](/docs/game-reflection/components/string) | style |
+| [Entity](/docs/game-reflection/classes/entity) | Entity |
+

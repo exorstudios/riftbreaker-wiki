@@ -5,11 +5,13 @@ has_children: false
 parent: Class
 grand_parent: Game Reflection
 ---
-# TeamTargetFinder( ![ TargetFinder ](/game-reflection/classes/target_finder.md) )
+# TeamTargetFinder( [ TargetFinder ](/docs/game-reflection/classes/target_finder) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [float](/game-reflection/components/float.md) | search_radius |
-| [uint](/game-reflection/components/uint.md) | team_mask |
+| [float](/docs/game-reflection/components/float) | search_radius |
+| [uint](/docs/game-reflection/components/uint) | team_mask |
+

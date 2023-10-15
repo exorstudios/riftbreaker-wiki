@@ -5,13 +5,15 @@ has_children: false
 parent: Component
 grand_parent: Game Reflection
 ---
-# CustomRenderableComponent( ![ RenderableComponent ](/game-reflection/components/renderable_component.md) )
+# CustomRenderableComponent( [ RenderableComponent ](/docs/game-reflection/components/renderable_component) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [uchar](/game-reflection/enums/uchar.md) | sync_type |
-| [CustomRenderableData4](/game-reflection/components/custom_renderable_data4.md) | data |
-| [bool](/game-reflection/components/bool.md) | is_dirty |
-| [CustomRenderableGenerator4](/game-reflection/components/custom_renderable_generator4.md) | builder |
+| [uchar](/docs/game-reflection/enums/uchar) | sync_type |
+| [CustomRenderableData4](/docs/game-reflection/components/custom_renderable_data4) | data |
+| [bool](/docs/game-reflection/components/bool) | is_dirty |
+| [CustomRenderableGenerator4](/docs/game-reflection/components/custom_renderable_generator4) | builder |
+

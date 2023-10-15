@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| Vector< [Pair_StringHash_EntityMod](/game-reflection/classes/pair__string_hash__entity_mod.md) > | value |
-| [int](/game-reflection/enums/int.md) | key |
+| Vector< [Pair_StringHash_EntityMod](/docs/game-reflection/classes/pair__string_hash__entity_mod) > | value |
+| [int](/docs/game-reflection/enums/int) | key |
+

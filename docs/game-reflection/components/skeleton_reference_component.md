@@ -9,6 +9,8 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [Entity](/game-reflection/classes/entity.md) | entity_or_parent |
+| [Entity](/docs/game-reflection/classes/entity) | entity_or_parent |
+

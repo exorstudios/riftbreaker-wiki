@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [String](/game-reflection/components/string.md) | family |
-| [String](/game-reflection/components/string.md) | subspecies |
+| [String](/docs/game-reflection/components/string) | family |
+| [String](/docs/game-reflection/components/string) | subspecies |
+

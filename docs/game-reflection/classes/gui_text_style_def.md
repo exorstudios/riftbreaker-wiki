@@ -9,28 +9,30 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [Vector4](/game-reflection/classes/vector4.md) | gradient_end |
-| [Vector4](/game-reflection/classes/vector4.md) | shadow_color |
-| [Vector4](/game-reflection/classes/vector4.md) | stroke_color |
-| [float](/game-reflection/components/float.md) | char_height |
-| [IdString](/game-reflection/components/id_string.md) | font |
-| [float](/game-reflection/components/float.md) | space_size |
-| [bool](/game-reflection/components/bool.md) | glow_enabled |
-| [float](/game-reflection/components/float.md) | glow_spread |
-| [float](/game-reflection/components/float.md) | stroke_size |
-| [Vector4](/game-reflection/classes/vector4.md) | color |
-| [bool](/game-reflection/components/bool.md) | color_enabled |
-| [float](/game-reflection/components/float.md) | shadow_distance |
-| [bool](/game-reflection/components/bool.md) | shadow_enabled |
-| [bool](/game-reflection/components/bool.md) | df |
-| [bool](/game-reflection/components/bool.md) | stroke_enabled |
-| [Vector4](/game-reflection/classes/vector4.md) | glow_color |
-| [int](/game-reflection/enums/int.md) | stroke_position |
-| [bool](/game-reflection/components/bool.md) | gradient_enabled |
-| [Vector4](/game-reflection/classes/vector4.md) | gradient_start |
-| [float](/game-reflection/components/float.md) | shadow_spread |
-| [float](/game-reflection/components/float.md) | shadow_angle |
-| [float](/game-reflection/components/float.md) | shadow_size |
-| [float](/game-reflection/components/float.md) | glow_size |
+| [Vector4](/docs/game-reflection/classes/vector4) | gradient_end |
+| [Vector4](/docs/game-reflection/classes/vector4) | shadow_color |
+| [Vector4](/docs/game-reflection/classes/vector4) | stroke_color |
+| [float](/docs/game-reflection/components/float) | char_height |
+| [IdString](/docs/game-reflection/components/id_string) | font |
+| [float](/docs/game-reflection/components/float) | space_size |
+| [bool](/docs/game-reflection/components/bool) | glow_enabled |
+| [float](/docs/game-reflection/components/float) | glow_spread |
+| [float](/docs/game-reflection/components/float) | stroke_size |
+| [Vector4](/docs/game-reflection/classes/vector4) | color |
+| [bool](/docs/game-reflection/components/bool) | color_enabled |
+| [float](/docs/game-reflection/components/float) | shadow_distance |
+| [bool](/docs/game-reflection/components/bool) | shadow_enabled |
+| [bool](/docs/game-reflection/components/bool) | df |
+| [bool](/docs/game-reflection/components/bool) | stroke_enabled |
+| [Vector4](/docs/game-reflection/classes/vector4) | glow_color |
+| [int](/docs/game-reflection/enums/int) | stroke_position |
+| [bool](/docs/game-reflection/components/bool) | gradient_enabled |
+| [Vector4](/docs/game-reflection/classes/vector4) | gradient_start |
+| [float](/docs/game-reflection/components/float) | shadow_spread |
+| [float](/docs/game-reflection/components/float) | shadow_angle |
+| [float](/docs/game-reflection/components/float) | shadow_size |
+| [float](/docs/game-reflection/components/float) | glow_size |
+

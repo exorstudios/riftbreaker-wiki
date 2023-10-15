@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [uint](/game-reflection/components/uint.md) | second |
-| [Ray](/game-reflection/classes/ray.md) | first |
+| [uint](/docs/game-reflection/components/uint) | second |
+| [Ray](/docs/game-reflection/classes/ray) | first |
+

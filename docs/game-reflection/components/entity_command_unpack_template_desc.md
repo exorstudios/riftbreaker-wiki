@@ -9,9 +9,11 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [Entity](/game-reflection/classes/entity.md) | entity |
-| [bool](/game-reflection/components/bool.md) | unpack_children |
-| Vector< [String](/game-reflection/components/string.md) > | components_to_unpack |
-| [EntityTemplate](/game-reflection/classes/entity_template.md) | template |
+| [Entity](/docs/game-reflection/classes/entity) | entity |
+| [bool](/docs/game-reflection/components/bool) | unpack_children |
+| Vector< [String](/docs/game-reflection/components/string) > | components_to_unpack |
+| [EntityTemplate](/docs/game-reflection/classes/entity_template) | template |
+

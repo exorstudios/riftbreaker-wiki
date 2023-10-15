@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [ResourceAccount](/game-reflection/classes/resource_account.md) | value |
-| [StringHash](/game-reflection/classes/string_hash.md) | key |
+| [ResourceAccount](/docs/game-reflection/classes/resource_account) | value |
+| [StringHash](/docs/game-reflection/classes/string_hash) | key |
+

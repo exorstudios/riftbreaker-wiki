@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| Vector< [NamedChild](/game-reflection/classes/named_child.md) > | value |
-| [StateDefId](/game-reflection/classes/state_def_id.md) | key |
+| Vector< [NamedChild](/docs/game-reflection/classes/named_child) > | value |
+| [StateDefId](/docs/game-reflection/classes/state_def_id) | key |
+

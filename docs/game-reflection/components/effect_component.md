@@ -9,6 +9,8 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| Vector< [EffectInstance](/game-reflection/classes/effect_instance.md) > | effects |
+| Vector< [EffectInstance](/docs/game-reflection/classes/effect_instance) > | effects |
+

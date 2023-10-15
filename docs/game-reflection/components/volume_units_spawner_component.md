@@ -9,9 +9,11 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [uint64](/game-reflection/components/uint64.md) | amount |
-| [IdString](/game-reflection/components/id_string.md) | blueprint |
-| [float](/game-reflection/components/float.md) | aggressive_distance |
-| [float](/game-reflection/components/float.md) | not_aggressive_distance |
+| [uint64](/docs/game-reflection/components/uint64) | amount |
+| [IdString](/docs/game-reflection/components/id_string) | blueprint |
+| [float](/docs/game-reflection/components/float) | aggressive_distance |
+| [float](/docs/game-reflection/components/float) | not_aggressive_distance |
+

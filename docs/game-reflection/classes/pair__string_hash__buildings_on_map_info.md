@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [BuildingsOnMapInfo](/game-reflection/classes/buildings_on_map_info.md) | value |
-| [StringHash](/game-reflection/classes/string_hash.md) | key |
+| [BuildingsOnMapInfo](/docs/game-reflection/classes/buildings_on_map_info) | value |
+| [StringHash](/docs/game-reflection/classes/string_hash) | key |
+

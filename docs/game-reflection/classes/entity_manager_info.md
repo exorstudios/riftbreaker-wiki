@@ -9,10 +9,12 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| Vector< [Entity](/game-reflection/classes/entity.md) > | entities |
-| [uint](/game-reflection/components/uint.md) | counter |
-| [uint](/game-reflection/components/uint.md) | end_id |
-| [int](/game-reflection/enums/int.md) | free_entity_head_idx |
-| [uint](/game-reflection/components/uint.md) | start_id |
+| Vector< [Entity](/docs/game-reflection/classes/entity) > | entities |
+| [uint](/docs/game-reflection/components/uint) | counter |
+| [uint](/docs/game-reflection/components/uint) | end_id |
+| [int](/docs/game-reflection/enums/int) | free_entity_head_idx |
+| [uint](/docs/game-reflection/components/uint) | start_id |
+

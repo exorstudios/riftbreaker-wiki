@@ -9,6 +9,8 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| Vector< [StatsDataTable](/game-reflection/classes/stats_data_table.md) > | statistics |
+| Vector< [StatsDataTable](/docs/game-reflection/classes/stats_data_table) > | statistics |
+

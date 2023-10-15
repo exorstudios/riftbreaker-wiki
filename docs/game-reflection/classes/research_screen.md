@@ -9,11 +9,13 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [bool](/game-reflection/components/bool.md) | hidden |
-| [bool](/game-reflection/components/bool.md) | empty_queue |
-| [bool](/game-reflection/components/bool.md) | have_research |
-| [String](/game-reflection/components/string.md) | build_or_upgrade |
-| [String](/game-reflection/components/string.md) | current_node |
-| [String](/game-reflection/components/string.md) | current_category |
+| [bool](/docs/game-reflection/components/bool) | hidden |
+| [bool](/docs/game-reflection/components/bool) | empty_queue |
+| [bool](/docs/game-reflection/components/bool) | have_research |
+| [String](/docs/game-reflection/components/string) | build_or_upgrade |
+| [String](/docs/game-reflection/components/string) | current_node |
+| [String](/docs/game-reflection/components/string) | current_category |
+

@@ -9,14 +9,16 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [Entity](/game-reflection/classes/entity.md) | owner_ent |
-| [bool](/game-reflection/components/bool.md) | global |
-| [Timer](/game-reflection/classes/timer.md) | area_timer |
-| [float](/game-reflection/components/float.md) | damage_factor |
-| [Timer](/game-reflection/classes/timer.md) | update_timer |
-| [DamagePattern](/game-reflection/classes/damage_pattern.md) | DamagePattern |
-| [bool](/game-reflection/components/bool.md) | infinite |
-| Vector< [Entity](/game-reflection/classes/entity.md) > | excluded_ents |
-| [Entity](/game-reflection/classes/entity.md) | creator_ent |
+| [Entity](/docs/game-reflection/classes/entity) | owner_ent |
+| [bool](/docs/game-reflection/components/bool) | global |
+| [Timer](/docs/game-reflection/classes/timer) | area_timer |
+| [float](/docs/game-reflection/components/float) | damage_factor |
+| [Timer](/docs/game-reflection/classes/timer) | update_timer |
+| [DamagePattern](/docs/game-reflection/classes/damage_pattern) | DamagePattern |
+| [bool](/docs/game-reflection/components/bool) | infinite |
+| Vector< [Entity](/docs/game-reflection/classes/entity) > | excluded_ents |
+| [Entity](/docs/game-reflection/classes/entity) | creator_ent |
+

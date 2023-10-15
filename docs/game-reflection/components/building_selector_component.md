@@ -9,16 +9,18 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [int](/game-reflection/enums/int.md) | mode |
-| [bool](/game-reflection/components/bool.md) | block_input |
-| [uint](/game-reflection/components/uint.md) | blueprint_entity |
-| Vector< [Vector3](/game-reflection/classes/vector3.md) > | position_override |
-| [LogicTimer](/game-reflection/classes/logic_timer.md) | blinking_timer |
-| Vector< [Vector3](/game-reflection/classes/vector3.md) > | last_build_pos |
-| [float](/game-reflection/components/float.md) | current_speed |
-| [Vector2](/game-reflection/classes/vector2.md) | cursor_pos |
-| [Vector3](/game-reflection/classes/vector3.md) | position |
-| [uint](/game-reflection/components/uint.md) | player |
-| [int](/game-reflection/enums/int.md) | last_input_timer |
+| [int](/docs/game-reflection/enums/int) | mode |
+| [bool](/docs/game-reflection/components/bool) | block_input |
+| [uint](/docs/game-reflection/components/uint) | blueprint_entity |
+| Vector< [Vector3](/docs/game-reflection/classes/vector3) > | position_override |
+| [LogicTimer](/docs/game-reflection/classes/logic_timer) | blinking_timer |
+| Vector< [Vector3](/docs/game-reflection/classes/vector3) > | last_build_pos |
+| [float](/docs/game-reflection/components/float) | current_speed |
+| [Vector2](/docs/game-reflection/classes/vector2) | cursor_pos |
+| [Vector3](/docs/game-reflection/classes/vector3) | position |
+| [uint](/docs/game-reflection/components/uint) | player |
+| [int](/docs/game-reflection/enums/int) | last_input_timer |
+

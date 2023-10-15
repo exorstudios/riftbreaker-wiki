@@ -5,14 +5,16 @@ has_children: false
 parent: Class
 grand_parent: Game Reflection
 ---
-# CompositeTapsAction( ![ CompositeAction ](/game-reflection/classes/composite_action.md) )
+# CompositeTapsAction( [ CompositeAction ](/docs/game-reflection/classes/composite_action) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [int](/game-reflection/enums/int.md) | required_tap_count |
-| [float](/game-reflection/components/float.md) | timer |
-| [float](/game-reflection/components/float.md) | time_limit |
-| [int](/game-reflection/enums/int.md) | tap_count |
-| [String](/game-reflection/components/string.md) | action |
+| [int](/docs/game-reflection/enums/int) | required_tap_count |
+| [float](/docs/game-reflection/components/float) | timer |
+| [float](/docs/game-reflection/components/float) | time_limit |
+| [int](/docs/game-reflection/enums/int) | tap_count |
+| [String](/docs/game-reflection/components/string) | action |
+

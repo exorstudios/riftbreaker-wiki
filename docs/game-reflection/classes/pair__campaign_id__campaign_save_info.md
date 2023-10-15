@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [CampaignSaveInfo](/game-reflection/classes/campaign_save_info.md) | value |
-| [CampaignId](/game-reflection/classes/campaign_id.md) | key |
+| [CampaignSaveInfo](/docs/game-reflection/classes/campaign_save_info) | value |
+| [CampaignId](/docs/game-reflection/classes/campaign_id) | key |
+

@@ -9,8 +9,10 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [String](/game-reflection/components/string.md) | name |
-| Vector< [float](/game-reflection/components/float.md) > | data |
-| [int8](/game-reflection/components/int8.md) | user_data |
+| [String](/docs/game-reflection/components/string) | name |
+| Vector< [float](/docs/game-reflection/components/float) > | data |
+| [int8](/docs/game-reflection/components/int8) | user_data |
+

@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [String](/game-reflection/components/string.md) | name |
-| [CompositeAction2](/game-reflection/components/composite_action2.md) | compositeAction |
+| [String](/docs/game-reflection/components/string) | name |
+| [CompositeAction2](/docs/game-reflection/components/composite_action2) | compositeAction |
+

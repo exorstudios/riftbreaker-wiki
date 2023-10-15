@@ -9,6 +9,8 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| Vector< [PhysicsObjectDesc](/game-reflection/components/physics_object_desc.md) > | objects |
+| Vector< [PhysicsObjectDesc](/docs/game-reflection/components/physics_object_desc) > | objects |
+

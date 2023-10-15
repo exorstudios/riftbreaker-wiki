@@ -9,12 +9,14 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [bool](/game-reflection/components/bool.md) | disable_custom_renderable |
-| [bool](/game-reflection/components/bool.md) | prepared |
-| [bool](/game-reflection/components/bool.md) | infinity |
-| [float](/game-reflection/components/float.md) | spawned_amount |
-| [bool](/game-reflection/components/bool.md) | initialized |
-| [float](/game-reflection/components/float.md) | amount |
-| [GameplayResourceDefHolder](/game-reflection/components/gameplay_resource_def_holder.md) | type |
+| [bool](/docs/game-reflection/components/bool) | disable_custom_renderable |
+| [bool](/docs/game-reflection/components/bool) | prepared |
+| [bool](/docs/game-reflection/components/bool) | infinity |
+| [float](/docs/game-reflection/components/float) | spawned_amount |
+| [bool](/docs/game-reflection/components/bool) | initialized |
+| [float](/docs/game-reflection/components/float) | amount |
+| [GameplayResourceDefHolder](/docs/game-reflection/components/gameplay_resource_def_holder) | type |
+

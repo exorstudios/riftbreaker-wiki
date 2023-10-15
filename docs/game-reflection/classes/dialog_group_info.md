@@ -9,10 +9,12 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [String](/game-reflection/components/string.md) | localization_id |
-| [String](/game-reflection/components/string.md) | gui_id |
-| [bool](/game-reflection/components/bool.md) | slowdown |
-| [String](/game-reflection/components/string.md) | sound_name |
-| [float](/game-reflection/components/float.md) | duration |
+| [String](/docs/game-reflection/components/string) | localization_id |
+| [String](/docs/game-reflection/components/string) | gui_id |
+| [bool](/docs/game-reflection/components/bool) | slowdown |
+| [String](/docs/game-reflection/components/string) | sound_name |
+| [float](/docs/game-reflection/components/float) | duration |
+

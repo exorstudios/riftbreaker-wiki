@@ -9,6 +9,8 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [TeamId](/game-reflection/classes/team_id.md) | team |
+| [TeamId](/docs/game-reflection/classes/team_id) | team |
+

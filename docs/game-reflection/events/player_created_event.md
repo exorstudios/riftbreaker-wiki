@@ -5,12 +5,14 @@ has_children: false
 parent: Event
 grand_parent: Game Reflection
 ---
-# PlayerCreatedEvent( ![ EntityEventBase ](/game-reflection/events/entity_event_base.md) )
+# PlayerCreatedEvent( [ EntityEventBase ](/docs/game-reflection/events/entity_event_base) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [PlayerInfo](/game-reflection/classes/player_info.md) | PlayerInfo |
-| [uint](/game-reflection/components/uint.md) | PlayerId |
-| [Entity](/game-reflection/classes/entity.md) | Entity |
+| [PlayerInfo](/docs/game-reflection/classes/player_info) | PlayerInfo |
+| [uint](/docs/game-reflection/components/uint) | PlayerId |
+| [Entity](/docs/game-reflection/classes/entity) | Entity |
+

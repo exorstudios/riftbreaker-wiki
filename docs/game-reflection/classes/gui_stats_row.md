@@ -9,9 +9,11 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [String](/game-reflection/components/string.md) | value |
-| [Vector2](/game-reflection/classes/vector2.md) | scale |
-| [String](/game-reflection/components/string.md) | label |
-| [String](/game-reflection/components/string.md) | icon |
+| [String](/docs/game-reflection/components/string) | value |
+| [Vector2](/docs/game-reflection/classes/vector2) | scale |
+| [String](/docs/game-reflection/components/string) | label |
+| [String](/docs/game-reflection/components/string) | icon |
+

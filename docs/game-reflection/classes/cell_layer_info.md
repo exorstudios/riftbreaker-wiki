@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [CellLayer4](/game-reflection/components/cell_layer4.md) | layer |
-| [uint64](/game-reflection/components/uint64.md) | id |
+| [CellLayer4](/docs/game-reflection/components/cell_layer4) | layer |
+| [uint64](/docs/game-reflection/components/uint64) | id |
+

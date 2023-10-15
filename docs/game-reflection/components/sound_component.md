@@ -9,11 +9,13 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [IdString](/game-reflection/components/id_string.md) | start_name |
-| [IdString](/game-reflection/components/id_string.md) | end_name |
-| [IdString](/game-reflection/components/id_string.md) | name |
-| [AudioSynthModel](/game-reflection/classes/audio_synth_model.md) | synth_model |
-| [bool](/game-reflection/components/bool.md) | is_spacial |
-| [float](/game-reflection/components/float.md) | start_time |
+| [IdString](/docs/game-reflection/components/id_string) | start_name |
+| [IdString](/docs/game-reflection/components/id_string) | end_name |
+| [IdString](/docs/game-reflection/components/id_string) | name |
+| [AudioSynthModel](/docs/game-reflection/classes/audio_synth_model) | synth_model |
+| [bool](/docs/game-reflection/components/bool) | is_spacial |
+| [float](/docs/game-reflection/components/float) | start_time |
+

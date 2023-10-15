@@ -9,8 +9,10 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [uint64](/game-reflection/components/uint64.md) | data2 |
-| [ushort](/game-reflection/enums/ushort.md) | size |
-| [uint64](/game-reflection/components/uint64.md) | data1 |
+| [uint64](/docs/game-reflection/components/uint64) | data2 |
+| [ushort](/docs/game-reflection/enums/ushort) | size |
+| [uint64](/docs/game-reflection/components/uint64) | data1 |
+

@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [PTree](/game-reflection/classes/p_tree.md) | second |
-| [String](/game-reflection/components/string.md) | first |
+| [PTree](/docs/game-reflection/classes/p_tree) | second |
+| [String](/docs/game-reflection/components/string) | first |
+

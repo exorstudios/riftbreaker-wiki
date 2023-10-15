@@ -9,6 +9,7 @@ grand_parent: Game Reflection
 Description 
 
 ## Enum values
+
 | Name | Value |
 |:-------------|:--------------|
 | Linear | 0 |
@@ -42,3 +43,4 @@ Description
 | EaseInBounce | 28 |
 | EaseOutBounce | 29 |
 | EaseInOutBounce | 30 |
+

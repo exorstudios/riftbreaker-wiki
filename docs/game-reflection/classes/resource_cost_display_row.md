@@ -9,13 +9,15 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [String](/game-reflection/components/string.md) | name |
-| Vector< [float](/game-reflection/components/float.md) > | data |
-| [float](/game-reflection/components/float.md) | current |
-| [String](/game-reflection/components/string.md) | value |
-| [String](/game-reflection/components/string.md) | storage |
-| [float](/game-reflection/components/float.md) | new |
-| [bool](/game-reflection/components/bool.md) | limit |
-| [String](/game-reflection/components/string.md) | icon |
+| [String](/docs/game-reflection/components/string) | name |
+| Vector< [float](/docs/game-reflection/components/float) > | data |
+| [float](/docs/game-reflection/components/float) | current |
+| [String](/docs/game-reflection/components/string) | value |
+| [String](/docs/game-reflection/components/string) | storage |
+| [float](/docs/game-reflection/components/float) | new |
+| [bool](/docs/game-reflection/components/bool) | limit |
+| [String](/docs/game-reflection/components/string) | icon |
+

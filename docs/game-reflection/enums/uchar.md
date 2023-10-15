@@ -9,8 +9,10 @@ grand_parent: Game Reflection
 Description 
 
 ## Enum values
+
 | Name | Value |
 |:-------------|:--------------|
 | canvas | 0 |
 | stack_horizontal | 1 |
 | stack_vartical | 2 |
+

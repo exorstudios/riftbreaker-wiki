@@ -9,6 +9,8 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [Database](/game-reflection/components/database.md) | database |
+| [Database](/docs/game-reflection/components/database) | database |
+

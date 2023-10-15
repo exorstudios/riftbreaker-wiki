@@ -9,10 +9,12 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| Vector< [uchar](/game-reflection/enums/uchar.md) > | generations |
-| [uint](/game-reflection/components/uint.md) | counter |
-| [uint](/game-reflection/components/uint.md) | end_id |
-| Vector< [uint](/game-reflection/components/uint.md) > | free_indices |
-| [uint](/game-reflection/components/uint.md) | start_id |
+| Vector< [uchar](/docs/game-reflection/enums/uchar) > | generations |
+| [uint](/docs/game-reflection/components/uint) | counter |
+| [uint](/docs/game-reflection/components/uint) | end_id |
+| Vector< [uint](/docs/game-reflection/components/uint) > | free_indices |
+| [uint](/docs/game-reflection/components/uint) | start_id |
+

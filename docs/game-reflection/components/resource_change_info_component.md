@@ -9,6 +9,8 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| Vector< [Pair_Pair_StringHashuint_HudResourceChangeStruct](/game-reflection/classes/pair__pair__string_hashuint__hud_resource_change_struct.md) > | change_info |
+| Vector< [Pair_Pair_StringHashuint_HudResourceChangeStruct](/docs/game-reflection/classes/pair__pair__string_hashuint__hud_resource_change_struct) > | change_info |
+

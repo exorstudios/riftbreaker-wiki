@@ -9,14 +9,16 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [bool](/game-reflection/components/bool.md) | footstep_effect |
-| [uint](/game-reflection/components/uint.md) | last_terrain_cell |
-| [uint64](/game-reflection/components/uint64.md) | last_terrain_hash |
-| [String](/game-reflection/components/string.md) | name |
-| [bool](/game-reflection/components/bool.md) | map_interference |
-| Vector< [Entity](/game-reflection/classes/entity.md) > | triggers |
-| Vector< [TerrainTypeHolder](/game-reflection/components/terrain_type_holder.md) > | terrain |
-| [Entity](/game-reflection/classes/entity.md) | last_terrain_cell_entity |
-| [bool](/game-reflection/components/bool.md) | origin_mode |
+| [bool](/docs/game-reflection/components/bool) | footstep_effect |
+| [uint](/docs/game-reflection/components/uint) | last_terrain_cell |
+| [uint64](/docs/game-reflection/components/uint64) | last_terrain_hash |
+| [String](/docs/game-reflection/components/string) | name |
+| [bool](/docs/game-reflection/components/bool) | map_interference |
+| Vector< [Entity](/docs/game-reflection/classes/entity) > | triggers |
+| Vector< [TerrainTypeHolder](/docs/game-reflection/components/terrain_type_holder) > | terrain |
+| [Entity](/docs/game-reflection/classes/entity) | last_terrain_cell_entity |
+| [bool](/docs/game-reflection/components/bool) | origin_mode |
+

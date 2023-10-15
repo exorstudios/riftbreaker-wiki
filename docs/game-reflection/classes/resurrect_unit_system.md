@@ -5,10 +5,12 @@ has_children: false
 parent: Class
 grand_parent: Game Reflection
 ---
-# ResurrectUnitSystem( ![ System ](/game-reflection/classes/system.md) )
+# ResurrectUnitSystem( [ System ](/docs/game-reflection/classes/system) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| Vector< [RescurrectUnitData](/game-reflection/classes/rescurrect_unit_data.md) > | resurrect_units_data |
+| Vector< [RescurrectUnitData](/docs/game-reflection/classes/rescurrect_unit_data) > | resurrect_units_data |
+

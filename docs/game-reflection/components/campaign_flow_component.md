@@ -9,6 +9,8 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [BehaviourFlowGraph4](/game-reflection/components/behaviour_flow_graph4.md) | campaign_flow |
+| [BehaviourFlowGraph4](/docs/game-reflection/components/behaviour_flow_graph4) | campaign_flow |
+

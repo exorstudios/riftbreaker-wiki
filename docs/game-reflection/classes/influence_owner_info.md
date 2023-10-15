@@ -9,8 +9,10 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [uint](/game-reflection/components/uint.md) | radius |
-| [float](/game-reflection/components/float.md) | creation_time_step |
-| [float](/game-reflection/components/float.md) | remove_time_step |
+| [uint](/docs/game-reflection/components/uint) | radius |
+| [float](/docs/game-reflection/components/float) | creation_time_step |
+| [float](/docs/game-reflection/components/float) | remove_time_step |
+

@@ -5,14 +5,16 @@ has_children: false
 parent: Class
 grand_parent: Game Reflection
 ---
-# AnimationPlayAnimNode( ![ AnimationEvalNode ](/game-reflection/classes/animation_eval_node.md) )
+# AnimationPlayAnimNode( [ AnimationEvalNode ](/docs/game-reflection/classes/animation_eval_node) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [bool](/game-reflection/components/bool.md) | mirror |
-| [String](/game-reflection/components/string.md) | anim_name |
-| [bool](/game-reflection/components/bool.md) | looped |
-| [bool](/game-reflection/components/bool.md) | normalize |
-| [AnimationBlendFunctionHolder](/game-reflection/classes/animation_blend_function_holder.md) | blend_funtion |
+| [bool](/docs/game-reflection/components/bool) | mirror |
+| [String](/docs/game-reflection/components/string) | anim_name |
+| [bool](/docs/game-reflection/components/bool) | looped |
+| [bool](/docs/game-reflection/components/bool) | normalize |
+| [AnimationBlendFunctionHolder](/docs/game-reflection/classes/animation_blend_function_holder) | blend_funtion |
+

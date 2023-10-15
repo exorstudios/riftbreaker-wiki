@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [GateConnections](/game-reflection/classes/gate_connections.md) | value |
-| [uint64](/game-reflection/components/uint64.md) | key |
+| [GateConnections](/docs/game-reflection/classes/gate_connections) | value |
+| [uint64](/docs/game-reflection/components/uint64) | key |
+

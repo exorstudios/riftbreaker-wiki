@@ -9,12 +9,14 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [float](/game-reflection/components/float.md) | rotate_speed |
-| [float](/game-reflection/components/float.md) | radius |
-| [float](/game-reflection/components/float.md) | damage_per_sec |
-| [int](/game-reflection/enums/int.md) | type |
-| [float](/game-reflection/components/float.md) | speed |
-| [float](/game-reflection/components/float.md) | oscillation_radius |
-| [float](/game-reflection/components/float.md) | wander_jitter_multiplier |
+| [float](/docs/game-reflection/components/float) | rotate_speed |
+| [float](/docs/game-reflection/components/float) | radius |
+| [float](/docs/game-reflection/components/float) | damage_per_sec |
+| [int](/docs/game-reflection/enums/int) | type |
+| [float](/docs/game-reflection/components/float) | speed |
+| [float](/docs/game-reflection/components/float) | oscillation_radius |
+| [float](/docs/game-reflection/components/float) | wander_jitter_multiplier |
+

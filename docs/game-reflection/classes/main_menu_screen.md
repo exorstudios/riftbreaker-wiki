@@ -9,12 +9,14 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [String](/game-reflection/components/string.md) | user_name |
-| [bool](/game-reflection/components/bool.md) | demo_mode |
-| [String](/game-reflection/components/string.md) | platform |
-| Vector< [MainMenuState](/game-reflection/classes/main_menu_state.md) > | states |
-| [MainMenuState](/game-reflection/classes/main_menu_state.md) | current_state |
-| Vector< [String](/game-reflection/components/string.md) > | states_stack |
-| [String](/game-reflection/components/string.md) | controller |
+| [String](/docs/game-reflection/components/string) | user_name |
+| [bool](/docs/game-reflection/components/bool) | demo_mode |
+| [String](/docs/game-reflection/components/string) | platform |
+| Vector< [MainMenuState](/docs/game-reflection/classes/main_menu_state) > | states |
+| [MainMenuState](/docs/game-reflection/classes/main_menu_state) | current_state |
+| Vector< [String](/docs/game-reflection/components/string) > | states_stack |
+| [String](/docs/game-reflection/components/string) | controller |
+

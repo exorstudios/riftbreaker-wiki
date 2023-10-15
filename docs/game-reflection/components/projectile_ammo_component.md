@@ -9,36 +9,38 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [float](/game-reflection/components/float.md) | dissipation_count |
-| [IdString](/game-reflection/components/id_string.md) | on_water_hit_effect |
-| Vector< [Entity](/game-reflection/classes/entity.md) > | dissipation_set |
-| [float](/game-reflection/components/float.md) | cluster_life_time_max |
-| [uchar](/game-reflection/enums/uchar.md) | hit_effect_scale |
-| [IdString](/game-reflection/components/id_string.md) | on_world_hit_effect |
-| [uint](/game-reflection/components/uint.md) | creator |
-| [uint](/game-reflection/components/uint.md) | cluster_generation |
-| [Vector3](/game-reflection/classes/vector3.md) | last_position |
-| [float](/game-reflection/components/float.md) | cluster_life_time_min |
-| [uint](/game-reflection/components/uint.md) | collision_3d |
-| [float](/game-reflection/components/float.md) | cluster_world_spread |
-| [uint](/game-reflection/components/uint.md) | cluster_max_inherit_count |
-| [float](/game-reflection/components/float.md) | diameter |
-| [IdString](/game-reflection/components/id_string.md) | on_decal_hit_effect |
-| [IdString](/game-reflection/components/id_string.md) | on_enemy_hit_effect |
-| [IdString](/game-reflection/components/id_string.md) | on_resisted_hit_effect |
-| [Vector3](/game-reflection/classes/vector3.md) | cluster_scale |
-| [uchar](/game-reflection/enums/uchar.md) | hit_effect_direction |
-| [uint](/game-reflection/components/uint.md) | cluster_count |
-| [uint](/game-reflection/components/uint.md) | collision_2d |
-| [uint](/game-reflection/components/uint.md) | owner |
-| [Entity](/game-reflection/classes/entity.md) | target |
-| [bool](/game-reflection/components/bool.md) | removed |
-| [ShockWavePattern](/game-reflection/classes/shock_wave_pattern.md) | ShockWavePattern |
-| [DamagePattern](/game-reflection/classes/damage_pattern.md) | DamagePattern |
-| [uchar](/game-reflection/enums/uchar.md) | friendly_fire |
-| [IdString](/game-reflection/components/id_string.md) | on_shield_hit_effect |
-| [float](/game-reflection/components/float.md) | cluster_enemy_spread |
-| [IdString](/game-reflection/components/id_string.md) | on_reflected_hit_effect |
-| [uint](/game-reflection/components/uint.md) | cluster_max_generation |
+| [float](/docs/game-reflection/components/float) | dissipation_count |
+| [IdString](/docs/game-reflection/components/id_string) | on_water_hit_effect |
+| Vector< [Entity](/docs/game-reflection/classes/entity) > | dissipation_set |
+| [float](/docs/game-reflection/components/float) | cluster_life_time_max |
+| [uchar](/docs/game-reflection/enums/uchar) | hit_effect_scale |
+| [IdString](/docs/game-reflection/components/id_string) | on_world_hit_effect |
+| [uint](/docs/game-reflection/components/uint) | creator |
+| [uint](/docs/game-reflection/components/uint) | cluster_generation |
+| [Vector3](/docs/game-reflection/classes/vector3) | last_position |
+| [float](/docs/game-reflection/components/float) | cluster_life_time_min |
+| [uint](/docs/game-reflection/components/uint) | collision_3d |
+| [float](/docs/game-reflection/components/float) | cluster_world_spread |
+| [uint](/docs/game-reflection/components/uint) | cluster_max_inherit_count |
+| [float](/docs/game-reflection/components/float) | diameter |
+| [IdString](/docs/game-reflection/components/id_string) | on_decal_hit_effect |
+| [IdString](/docs/game-reflection/components/id_string) | on_enemy_hit_effect |
+| [IdString](/docs/game-reflection/components/id_string) | on_resisted_hit_effect |
+| [Vector3](/docs/game-reflection/classes/vector3) | cluster_scale |
+| [uchar](/docs/game-reflection/enums/uchar) | hit_effect_direction |
+| [uint](/docs/game-reflection/components/uint) | cluster_count |
+| [uint](/docs/game-reflection/components/uint) | collision_2d |
+| [uint](/docs/game-reflection/components/uint) | owner |
+| [Entity](/docs/game-reflection/classes/entity) | target |
+| [bool](/docs/game-reflection/components/bool) | removed |
+| [ShockWavePattern](/docs/game-reflection/classes/shock_wave_pattern) | ShockWavePattern |
+| [DamagePattern](/docs/game-reflection/classes/damage_pattern) | DamagePattern |
+| [uchar](/docs/game-reflection/enums/uchar) | friendly_fire |
+| [IdString](/docs/game-reflection/components/id_string) | on_shield_hit_effect |
+| [float](/docs/game-reflection/components/float) | cluster_enemy_spread |
+| [IdString](/docs/game-reflection/components/id_string) | on_reflected_hit_effect |
+| [uint](/docs/game-reflection/components/uint) | cluster_max_generation |
+

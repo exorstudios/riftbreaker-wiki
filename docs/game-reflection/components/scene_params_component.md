@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [SceneParamsDesc](/game-reflection/components/scene_params_desc.md) | scene_params_desc |
-| [bool](/game-reflection/components/bool.md) | is_dirty |
+| [SceneParamsDesc](/docs/game-reflection/components/scene_params_desc) | scene_params_desc |
+| [bool](/docs/game-reflection/components/bool) | is_dirty |
+

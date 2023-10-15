@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [String](/game-reflection/components/string.md) | model_field |
-| [GuiModelConverter2](/game-reflection/components/gui_model_converter2.md) | converter |
+| [String](/docs/game-reflection/components/string) | model_field |
+| [GuiModelConverter2](/docs/game-reflection/components/gui_model_converter2) | converter |
+

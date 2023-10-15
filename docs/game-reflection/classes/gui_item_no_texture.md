@@ -5,10 +5,12 @@ has_children: false
 parent: Class
 grand_parent: Game Reflection
 ---
-# GuiItemNoTexture( ![ GuiItem ](/game-reflection/classes/gui_item.md) )
+# GuiItemNoTexture( [ GuiItem ](/docs/game-reflection/classes/gui_item) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [uchar](/game-reflection/enums/uchar.md) | material_mode |
+| [uchar](/docs/game-reflection/enums/uchar) | material_mode |
+

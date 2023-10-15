@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| Vector< [Pair_StringHash_UnorderedMap_StringHashVector_int](/game-reflection/classes/pair__string_hash__unordered_map__string_hash_vector_int.md) > | value |
-| [StringHash](/game-reflection/classes/string_hash.md) | key |
+| Vector< [Pair_StringHash_UnorderedMap_StringHashVector_int](/docs/game-reflection/classes/pair__string_hash__unordered_map__string_hash_vector_int) > | value |
+| [StringHash](/docs/game-reflection/classes/string_hash) | key |
+

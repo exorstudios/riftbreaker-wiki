@@ -9,9 +9,11 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [float](/game-reflection/components/float.md) | emissive_time |
-| [float](/game-reflection/components/float.md) | emissive_factor |
-| [float](/game-reflection/components/float.md) | emissive_base_factor |
-| [uint](/game-reflection/components/uint.md) | submesh_idx |
+| [float](/docs/game-reflection/components/float) | emissive_time |
+| [float](/docs/game-reflection/components/float) | emissive_factor |
+| [float](/docs/game-reflection/components/float) | emissive_base_factor |
+| [uint](/docs/game-reflection/components/uint) | submesh_idx |
+

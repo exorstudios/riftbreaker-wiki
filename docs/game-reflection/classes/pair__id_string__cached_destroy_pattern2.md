@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [CachedDestroyPattern2](/game-reflection/components/cached_destroy_pattern2.md) | value |
-| [IdString](/game-reflection/components/id_string.md) | key |
+| [CachedDestroyPattern2](/docs/game-reflection/components/cached_destroy_pattern2) | value |
+| [IdString](/docs/game-reflection/components/id_string) | key |
+

@@ -9,8 +9,10 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [String](/game-reflection/components/string.md) | Content |
-| [String](/game-reflection/components/string.md) | Id |
-| [Vector2](/game-reflection/classes/vector2.md) | OffsetNormalized |
+| [String](/docs/game-reflection/components/string) | Content |
+| [String](/docs/game-reflection/components/string) | Id |
+| [Vector2](/docs/game-reflection/classes/vector2) | OffsetNormalized |
+

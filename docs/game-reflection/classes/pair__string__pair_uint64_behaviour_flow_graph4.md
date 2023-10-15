@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [Pair_uint64BehaviourFlowGraph4](/game-reflection/classes/pair_uint64_behaviour_flow_graph4.md) | value |
-| [String](/game-reflection/components/string.md) | key |
+| [Pair_uint64BehaviourFlowGraph4](/docs/game-reflection/classes/pair_uint64_behaviour_flow_graph4) | value |
+| [String](/docs/game-reflection/components/string) | key |
+

@@ -9,9 +9,11 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [float](/game-reflection/components/float.md) | min_exposure |
-| [float](/game-reflection/components/float.md) | scale |
-| [float](/game-reflection/components/float.md) | threshold |
-| [float](/game-reflection/components/float.md) | max_exposure |
+| [float](/docs/game-reflection/components/float) | min_exposure |
+| [float](/docs/game-reflection/components/float) | scale |
+| [float](/docs/game-reflection/components/float) | threshold |
+| [float](/docs/game-reflection/components/float) | max_exposure |
+

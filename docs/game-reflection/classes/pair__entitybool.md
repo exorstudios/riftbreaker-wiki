@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [bool](/game-reflection/components/bool.md) | second |
-| [Entity](/game-reflection/classes/entity.md) | first |
+| [bool](/docs/game-reflection/components/bool) | second |
+| [Entity](/docs/game-reflection/classes/entity) | first |
+

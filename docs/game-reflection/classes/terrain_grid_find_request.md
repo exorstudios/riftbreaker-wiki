@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [Entity](/game-reflection/classes/entity.md) | request_owner |
-| [String](/game-reflection/components/string.md) | request_name |
+| [Entity](/docs/game-reflection/classes/entity) | request_owner |
+| [String](/docs/game-reflection/components/string) | request_name |
+

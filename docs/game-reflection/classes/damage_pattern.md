@@ -9,24 +9,26 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [float](/game-reflection/components/float.md) | damage_critical_factor |
-| [float](/game-reflection/components/float.md) | area_damage_radius |
-| [IdString](/game-reflection/components/id_string.md) | damage_additional_type |
-| Vector< [TimeDamage](/game-reflection/classes/time_damage.md) > | TimeDamages |
-| [float](/game-reflection/components/float.md) | damage_stun_duration |
-| [PriorityTypeMask](/game-reflection/classes/priority_type_mask.md) | area_damage_target |
-| [float](/game-reflection/components/float.md) | area_damage_speed |
-| [IdString](/game-reflection/components/id_string.md) | area_damage_effect |
-| [IdString](/game-reflection/components/id_string.md) | area_damage_radial_effect |
-| [int](/game-reflection/enums/int.md) | area_damage_type |
-| [IdString](/game-reflection/components/id_string.md) | area_damage_splash_effect |
-| [float](/game-reflection/components/float.md) | area_damage_duration |
-| Vector< [Damage](/game-reflection/classes/damage.md) > | Damages |
-| [float](/game-reflection/components/float.md) | damage_stun_chance |
-| [float](/game-reflection/components/float.md) | area_damage_angle |
-| [float](/game-reflection/components/float.md) | time_damage_interval |
-| [float](/game-reflection/components/float.md) | area_damage_width |
-| [float](/game-reflection/components/float.md) | damage_critical_chance |
-| [float](/game-reflection/components/float.md) | damage_lifesteal |
+| [float](/docs/game-reflection/components/float) | damage_critical_factor |
+| [float](/docs/game-reflection/components/float) | area_damage_radius |
+| [IdString](/docs/game-reflection/components/id_string) | damage_additional_type |
+| Vector< [TimeDamage](/docs/game-reflection/classes/time_damage) > | TimeDamages |
+| [float](/docs/game-reflection/components/float) | damage_stun_duration |
+| [PriorityTypeMask](/docs/game-reflection/classes/priority_type_mask) | area_damage_target |
+| [float](/docs/game-reflection/components/float) | area_damage_speed |
+| [IdString](/docs/game-reflection/components/id_string) | area_damage_effect |
+| [IdString](/docs/game-reflection/components/id_string) | area_damage_radial_effect |
+| [int](/docs/game-reflection/enums/int) | area_damage_type |
+| [IdString](/docs/game-reflection/components/id_string) | area_damage_splash_effect |
+| [float](/docs/game-reflection/components/float) | area_damage_duration |
+| Vector< [Damage](/docs/game-reflection/classes/damage) > | Damages |
+| [float](/docs/game-reflection/components/float) | damage_stun_chance |
+| [float](/docs/game-reflection/components/float) | area_damage_angle |
+| [float](/docs/game-reflection/components/float) | time_damage_interval |
+| [float](/docs/game-reflection/components/float) | area_damage_width |
+| [float](/docs/game-reflection/components/float) | damage_critical_chance |
+| [float](/docs/game-reflection/components/float) | damage_lifesteal |
+

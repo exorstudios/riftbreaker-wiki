@@ -5,14 +5,16 @@ has_children: false
 parent: Event
 grand_parent: Game Reflection
 ---
-# ChangeToWreckRequest( ![ EntityEventBase ](/game-reflection/events/entity_event_base.md) )
+# ChangeToWreckRequest( [ EntityEventBase ](/docs/game-reflection/events/entity_event_base) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [String](/game-reflection/components/string.md) | WreckMaterial |
-| [String](/game-reflection/components/string.md) | DamageType |
-| [float](/game-reflection/components/float.md) | DamagePercentage |
-| [float](/game-reflection/components/float.md) | MinWreckSpeed |
-| [Entity](/game-reflection/classes/entity.md) | Entity |
+| [String](/docs/game-reflection/components/string) | WreckMaterial |
+| [String](/docs/game-reflection/components/string) | DamageType |
+| [float](/docs/game-reflection/components/float) | DamagePercentage |
+| [float](/docs/game-reflection/components/float) | MinWreckSpeed |
+| [Entity](/docs/game-reflection/classes/entity) | Entity |
+

@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [TerrainVector](/game-reflection/classes/terrain_vector.md) | blend |
-| [TerrainVector](/game-reflection/classes/terrain_vector.md) | position |
+| [TerrainVector](/docs/game-reflection/classes/terrain_vector) | blend |
+| [TerrainVector](/docs/game-reflection/classes/terrain_vector) | position |
+

@@ -9,11 +9,13 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [uchar](/game-reflection/enums/uchar.md) | function_type |
-| [float](/game-reflection/components/float.md) | min_value |
-| [uchar](/game-reflection/enums/uchar.md) | rarity |
-| [uchar](/game-reflection/enums/uchar.md) | stat_type |
-| [uchar](/game-reflection/enums/uchar.md) | value_type |
-| [float](/game-reflection/components/float.md) | max_value |
+| [uchar](/docs/game-reflection/enums/uchar) | function_type |
+| [float](/docs/game-reflection/components/float) | min_value |
+| [uchar](/docs/game-reflection/enums/uchar) | rarity |
+| [uchar](/docs/game-reflection/enums/uchar) | stat_type |
+| [uchar](/docs/game-reflection/enums/uchar) | value_type |
+| [float](/docs/game-reflection/components/float) | max_value |
+

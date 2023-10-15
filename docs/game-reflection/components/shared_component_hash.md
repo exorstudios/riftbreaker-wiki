@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [int](/game-reflection/enums/int.md) | reference_counter |
-| [uint](/game-reflection/components/uint.md) | instance_hash |
+| [int](/docs/game-reflection/enums/int) | reference_counter |
+| [uint](/docs/game-reflection/components/uint) | instance_hash |
+

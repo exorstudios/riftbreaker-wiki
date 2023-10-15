@@ -9,8 +9,10 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [String](/game-reflection/components/string.md) | category |
-| Vector< [ResearchNode](/game-reflection/classes/research_node.md) > | nodes |
-| [String](/game-reflection/components/string.md) | research_tree |
+| [String](/docs/game-reflection/components/string) | category |
+| Vector< [ResearchNode](/docs/game-reflection/classes/research_node) > | nodes |
+| [String](/docs/game-reflection/components/string) | research_tree |
+

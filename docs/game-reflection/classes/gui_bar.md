@@ -5,14 +5,16 @@ has_children: false
 parent: Class
 grand_parent: Game Reflection
 ---
-# GuiBar( ![ GuiImage ](/game-reflection/classes/gui_image.md) )
+# GuiBar( [ GuiImage ](/docs/game-reflection/classes/gui_image) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [uchar](/game-reflection/enums/uchar.md) | direction |
-| Vector< [float](/game-reflection/components/float.md) > | data |
-| [uchar](/game-reflection/enums/uchar.md) | behavior |
-| [float](/game-reflection/components/float.md) | data_sum |
-| [uchar](/game-reflection/enums/uchar.md) | material_type |
+| [uchar](/docs/game-reflection/enums/uchar) | direction |
+| Vector< [float](/docs/game-reflection/components/float) > | data |
+| [uchar](/docs/game-reflection/enums/uchar) | behavior |
+| [float](/docs/game-reflection/components/float) | data_sum |
+| [uchar](/docs/game-reflection/enums/uchar) | material_type |
+

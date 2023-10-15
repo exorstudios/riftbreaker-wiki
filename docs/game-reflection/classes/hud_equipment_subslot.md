@@ -9,9 +9,11 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [int](/game-reflection/enums/int.md) | ammo |
-| [Vector4](/game-reflection/classes/vector4.md) | color |
-| [String](/game-reflection/components/string.md) | ammo_string |
-| [String](/game-reflection/components/string.md) | icon |
+| [int](/docs/game-reflection/enums/int) | ammo |
+| [Vector4](/docs/game-reflection/classes/vector4) | color |
+| [String](/docs/game-reflection/components/string) | ammo_string |
+| [String](/docs/game-reflection/components/string) | icon |
+

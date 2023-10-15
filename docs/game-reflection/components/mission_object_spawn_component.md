@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| Vector< [String](/game-reflection/components/string.md) > | pool_names |
-| [Aabb](/game-reflection/components/aabb.md) | bounds |
+| Vector< [String](/docs/game-reflection/components/string) > | pool_names |
+| [Aabb](/docs/game-reflection/components/aabb) | bounds |
+

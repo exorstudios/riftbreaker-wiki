@@ -9,9 +9,11 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [MeleeWeaponAffector2](/game-reflection/components/melee_weapon_affector2.md) | MeleeAffector |
-| Vector< [MeleeAttack](/game-reflection/classes/melee_attack.md) > | MeleeAttacks |
-| Vector< [MeleeDamage](/game-reflection/classes/melee_damage.md) > | MeleeDamages |
-| Vector< [PhysicsShape](/game-reflection/classes/physics_shape.md) > | MeleeShapes |
+| [MeleeWeaponAffector2](/docs/game-reflection/components/melee_weapon_affector2) | MeleeAffector |
+| Vector< [MeleeAttack](/docs/game-reflection/classes/melee_attack) > | MeleeAttacks |
+| Vector< [MeleeDamage](/docs/game-reflection/classes/melee_damage) > | MeleeDamages |
+| Vector< [PhysicsShape](/docs/game-reflection/classes/physics_shape) > | MeleeShapes |
+

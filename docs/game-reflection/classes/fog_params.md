@@ -9,9 +9,11 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [float](/game-reflection/components/float.md) | end |
-| [Vector4](/game-reflection/classes/vector4.md) | color |
-| [float](/game-reflection/components/float.md) | start |
-| [float](/game-reflection/components/float.md) | density |
+| [float](/docs/game-reflection/components/float) | end |
+| [Vector4](/docs/game-reflection/classes/vector4) | color |
+| [float](/docs/game-reflection/components/float) | start |
+| [float](/docs/game-reflection/components/float) | density |
+

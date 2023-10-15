@@ -9,9 +9,11 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| Vector< [StringHash](/game-reflection/classes/string_hash.md) > | volume |
-| [VertexBlend](/game-reflection/classes/vertex_blend.md) | blend |
-| [float](/game-reflection/components/float.md) | height |
-| Vector< [StringHash](/game-reflection/classes/string_hash.md) > | prefab |
+| Vector< [StringHash](/docs/game-reflection/classes/string_hash) > | volume |
+| [VertexBlend](/docs/game-reflection/classes/vertex_blend) | blend |
+| [float](/docs/game-reflection/components/float) | height |
+| Vector< [StringHash](/docs/game-reflection/classes/string_hash) > | prefab |
+

@@ -9,6 +9,8 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [LinearEcs](/game-reflection/components/linear_ecs.md) | components |
+| [LinearEcs](/docs/game-reflection/components/linear_ecs) | components |
+

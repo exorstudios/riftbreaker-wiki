@@ -9,13 +9,15 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [uint64](/game-reflection/components/uint64.md) | accessible_grids |
-| [Vector3](/game-reflection/classes/vector3.md) | origin |
-| Vector< [FogOfWarGrid](/game-reflection/classes/fog_of_war_grid.md) > | grids |
-| [bool](/game-reflection/components/bool.md) | dirty |
-| [uint64](/game-reflection/components/uint64.md) | radar_grids |
-| [Aabb2](/game-reflection/components/aabb2.md) | bounds |
-| [uint64](/game-reflection/components/uint64.md) | revealed_grids |
-| [Entity](/game-reflection/classes/entity.md) | ent |
+| [uint64](/docs/game-reflection/components/uint64) | accessible_grids |
+| [Vector3](/docs/game-reflection/classes/vector3) | origin |
+| Vector< [FogOfWarGrid](/docs/game-reflection/classes/fog_of_war_grid) > | grids |
+| [bool](/docs/game-reflection/components/bool) | dirty |
+| [uint64](/docs/game-reflection/components/uint64) | radar_grids |
+| [Aabb2](/docs/game-reflection/components/aabb2) | bounds |
+| [uint64](/docs/game-reflection/components/uint64) | revealed_grids |
+| [Entity](/docs/game-reflection/classes/entity) | ent |
+

@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [String](/game-reflection/components/string.md) | culling_type |
-| [Aabb](/game-reflection/components/aabb.md) | bounds |
+| [String](/docs/game-reflection/components/string) | culling_type |
+| [Aabb](/docs/game-reflection/components/aabb) | bounds |
+

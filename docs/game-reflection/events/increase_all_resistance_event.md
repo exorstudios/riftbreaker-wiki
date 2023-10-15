@@ -5,12 +5,14 @@ has_children: false
 parent: Event
 grand_parent: Game Reflection
 ---
-# IncreaseAllResistanceEvent( ![ EntityEventBase ](/game-reflection/events/entity_event_base.md) )
+# IncreaseAllResistanceEvent( [ EntityEventBase ](/docs/game-reflection/events/entity_event_base) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [float](/game-reflection/components/float.md) | Value |
-| [String](/game-reflection/components/string.md) | Name |
-| [Entity](/game-reflection/classes/entity.md) | Entity |
+| [float](/docs/game-reflection/components/float) | Value |
+| [String](/docs/game-reflection/components/string) | Name |
+| [Entity](/docs/game-reflection/classes/entity) | Entity |
+

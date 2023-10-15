@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| Vector< [Entity](/game-reflection/classes/entity.md) > | value |
-| [IdString](/game-reflection/components/id_string.md) | key |
+| Vector< [Entity](/docs/game-reflection/classes/entity) > | value |
+| [IdString](/docs/game-reflection/components/id_string) | key |
+

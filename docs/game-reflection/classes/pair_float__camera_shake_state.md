@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [CameraShakeState](/game-reflection/classes/camera_shake_state.md) | value |
-| [float](/game-reflection/components/float.md) | key |
+| [CameraShakeState](/docs/game-reflection/classes/camera_shake_state) | value |
+| [float](/docs/game-reflection/components/float) | key |
+

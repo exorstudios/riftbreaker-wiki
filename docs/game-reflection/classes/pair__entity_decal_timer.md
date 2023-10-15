@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [DecalTimer](/game-reflection/classes/decal_timer.md) | second |
-| [Entity](/game-reflection/classes/entity.md) | first |
+| [DecalTimer](/docs/game-reflection/classes/decal_timer) | second |
+| [Entity](/docs/game-reflection/classes/entity) | first |
+

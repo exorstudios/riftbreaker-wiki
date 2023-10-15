@@ -9,19 +9,21 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [String](/game-reflection/components/string.md) | mission_resource_name |
-| [String](/game-reflection/components/string.md) | campaign_name |
-| [uint64](/game-reflection/components/uint64.md) | timestamp |
-| [CampaignId](/game-reflection/classes/campaign_id.md) | campaign_id |
-| [String](/game-reflection/components/string.md) | game_version |
-| [int](/game-reflection/enums/int.md) | outpost_count |
-| [uint64](/game-reflection/components/uint64.md) | in_game_time_seconds |
-| [bool](/game-reflection/components/bool.md) | save_from_demo |
-| [uint64](/game-reflection/components/uint64.md) | save_version |
-| [String](/game-reflection/components/string.md) | difficulty |
-| Vector< [CampaignMissionExternalContent](/game-reflection/classes/campaign_mission_external_content.md) > | downloadable_content |
-| [bool](/game-reflection/components/bool.md) | is_autosave |
-| [String](/game-reflection/components/string.md) | campaign_type |
-| [String](/game-reflection/components/string.md) | save_name |
+| [String](/docs/game-reflection/components/string) | mission_resource_name |
+| [String](/docs/game-reflection/components/string) | campaign_name |
+| [uint64](/docs/game-reflection/components/uint64) | timestamp |
+| [CampaignId](/docs/game-reflection/classes/campaign_id) | campaign_id |
+| [String](/docs/game-reflection/components/string) | game_version |
+| [int](/docs/game-reflection/enums/int) | outpost_count |
+| [uint64](/docs/game-reflection/components/uint64) | in_game_time_seconds |
+| [bool](/docs/game-reflection/components/bool) | save_from_demo |
+| [uint64](/docs/game-reflection/components/uint64) | save_version |
+| [String](/docs/game-reflection/components/string) | difficulty |
+| Vector< [CampaignMissionExternalContent](/docs/game-reflection/classes/campaign_mission_external_content) > | downloadable_content |
+| [bool](/docs/game-reflection/components/bool) | is_autosave |
+| [String](/docs/game-reflection/components/string) | campaign_type |
+| [String](/docs/game-reflection/components/string) | save_name |
+

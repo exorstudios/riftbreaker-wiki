@@ -9,6 +9,8 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| Vector< [AnimationGraphLayerInstanceDesc](/game-reflection/components/animation_graph_layer_instance_desc.md) > | layer_desc_vec |
+| Vector< [AnimationGraphLayerInstanceDesc](/docs/game-reflection/components/animation_graph_layer_instance_desc) > | layer_desc_vec |
+

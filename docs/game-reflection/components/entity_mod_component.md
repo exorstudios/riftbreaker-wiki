@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [uchar](/game-reflection/enums/uchar.md) | rarity |
-| Vector< [Pair_EntityModType_EntityMod](/game-reflection/classes/pair__entity_mod_type__entity_mod.md) > | entity_mods |
+| [uchar](/docs/game-reflection/enums/uchar) | rarity |
+| Vector< [Pair_EntityModType_EntityMod](/docs/game-reflection/classes/pair__entity_mod_type__entity_mod) > | entity_mods |
+

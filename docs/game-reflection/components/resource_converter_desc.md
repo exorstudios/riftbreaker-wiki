@@ -9,12 +9,14 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [bool](/game-reflection/components/bool.md) | one_vein_mode |
-| Vector< [GameplayResource](/game-reflection/classes/gameplay_resource.md) > | in |
-| [float](/game-reflection/components/float.md) | reset_interval |
-| [uint](/game-reflection/components/uint.md) | priority |
-| Vector< [GameplayResource](/game-reflection/classes/gameplay_resource.md) > | out |
-| [ushort](/game-reflection/enums/ushort.md) | effectiveness |
-| [float](/game-reflection/components/float.md) | update_interval |
+| [bool](/docs/game-reflection/components/bool) | one_vein_mode |
+| Vector< [GameplayResource](/docs/game-reflection/classes/gameplay_resource) > | in |
+| [float](/docs/game-reflection/components/float) | reset_interval |
+| [uint](/docs/game-reflection/components/uint) | priority |
+| Vector< [GameplayResource](/docs/game-reflection/classes/gameplay_resource) > | out |
+| [ushort](/docs/game-reflection/enums/ushort) | effectiveness |
+| [float](/docs/game-reflection/components/float) | update_interval |
+

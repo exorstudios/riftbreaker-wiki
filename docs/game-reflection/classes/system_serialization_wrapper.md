@@ -9,6 +9,8 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [System1](/game-reflection/components/system1.md) | system |
+| [System1](/docs/game-reflection/components/system1) | system |
+

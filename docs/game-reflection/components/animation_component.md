@@ -9,6 +9,8 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| Vector< [AnimationState](/game-reflection/classes/animation_state.md) > | active_animations |
+| Vector< [AnimationState](/docs/game-reflection/classes/animation_state) > | active_animations |
+

@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| Vector< [String](/game-reflection/components/string.md) > | edges |
-| [Vector2](/game-reflection/classes/vector2.md) | offset |
+| Vector< [String](/docs/game-reflection/components/string) > | edges |
+| [Vector2](/docs/game-reflection/classes/vector2) | offset |
+

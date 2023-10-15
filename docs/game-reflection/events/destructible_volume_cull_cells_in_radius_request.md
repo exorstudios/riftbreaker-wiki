@@ -5,11 +5,13 @@ has_children: false
 parent: Event
 grand_parent: Game Reflection
 ---
-# DestructibleVolumeCullCellsInRadiusRequest( ![ EntityEventBase ](/game-reflection/events/entity_event_base.md) )
+# DestructibleVolumeCullCellsInRadiusRequest( [ EntityEventBase ](/docs/game-reflection/events/entity_event_base) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [float](/game-reflection/components/float.md) | Radius |
-| [Entity](/game-reflection/classes/entity.md) | Entity |
+| [float](/docs/game-reflection/components/float) | Radius |
+| [Entity](/docs/game-reflection/classes/entity) | Entity |
+

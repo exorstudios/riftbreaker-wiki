@@ -5,10 +5,12 @@ has_children: false
 parent: Component
 grand_parent: Game Reflection
 ---
-# RotateBoneToTargetComponent( ![ RotateToTargetComponent ](/game-reflection/components/rotate_to_target_component.md) )
+# RotateBoneToTargetComponent( [ RotateToTargetComponent ](/docs/game-reflection/components/rotate_to_target_component) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [IdString](/game-reflection/components/id_string.md) | bone_name |
+| [IdString](/docs/game-reflection/components/id_string) | bone_name |
+

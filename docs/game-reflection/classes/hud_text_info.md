@@ -9,9 +9,11 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [float](/game-reflection/components/float.md) | timer |
-| [float](/game-reflection/components/float.md) | angle |
-| [float](/game-reflection/components/float.md) | max_timer |
-| [String](/game-reflection/components/string.md) | timer_string |
+| [float](/docs/game-reflection/components/float) | timer |
+| [float](/docs/game-reflection/components/float) | angle |
+| [float](/docs/game-reflection/components/float) | max_timer |
+| [String](/docs/game-reflection/components/string) | timer_string |
+

@@ -5,16 +5,18 @@ has_children: false
 parent: Class
 grand_parent: Game Reflection
 ---
-# GuiMovieDef( ![ GuiDef ](/game-reflection/classes/gui_def.md) )
+# GuiMovieDef( [ GuiDef ](/docs/game-reflection/classes/gui_def) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [String](/game-reflection/components/string.md) | material |
-| [float](/game-reflection/components/float.md) | audio_gain |
-| [float](/game-reflection/components/float.md) | decoder_priority |
-| [bool](/game-reflection/components/bool.md) | repeat |
-| [bool](/game-reflection/components/bool.md) | start_paused |
-| [bool](/game-reflection/components/bool.md) | mem_stream |
-| [uint](/game-reflection/components/uint.md) | precached_frames |
+| [String](/docs/game-reflection/components/string) | material |
+| [float](/docs/game-reflection/components/float) | audio_gain |
+| [float](/docs/game-reflection/components/float) | decoder_priority |
+| [bool](/docs/game-reflection/components/bool) | repeat |
+| [bool](/docs/game-reflection/components/bool) | start_paused |
+| [bool](/docs/game-reflection/components/bool) | mem_stream |
+| [uint](/docs/game-reflection/components/uint) | precached_frames |
+

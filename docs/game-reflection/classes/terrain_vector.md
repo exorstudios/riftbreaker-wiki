@@ -9,8 +9,10 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [ushort](/game-reflection/enums/ushort.md) | z |
-| [ushort](/game-reflection/enums/ushort.md) | x |
-| [ushort](/game-reflection/enums/ushort.md) | y |
+| [ushort](/docs/game-reflection/enums/ushort) | z |
+| [ushort](/docs/game-reflection/enums/ushort) | x |
+| [ushort](/docs/game-reflection/enums/ushort) | y |
+

@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [int](/game-reflection/enums/int.md) | chain_update_treshold |
-| [bool](/game-reflection/components/bool.md) | destroy_on_update |
+| [int](/docs/game-reflection/enums/int) | chain_update_treshold |
+| [bool](/docs/game-reflection/components/bool) | destroy_on_update |
+

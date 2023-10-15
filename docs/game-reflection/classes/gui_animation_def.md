@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [String](/game-reflection/components/string.md) | name |
-| Vector< [GuiAnimationFrame](/game-reflection/classes/gui_animation_frame.md) > | frames |
+| [String](/docs/game-reflection/components/string) | name |
+| Vector< [GuiAnimationFrame](/docs/game-reflection/classes/gui_animation_frame) > | frames |
+

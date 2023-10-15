@@ -9,6 +9,8 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [CampaignState1](/game-reflection/components/campaign_state1.md) | campaign_state |
+| [CampaignState1](/docs/game-reflection/components/campaign_state1) | campaign_state |
+

@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [Entity](/game-reflection/classes/entity.md) | value |
-| [uint](/game-reflection/components/uint.md) | key |
+| [Entity](/docs/game-reflection/classes/entity) | value |
+| [uint](/docs/game-reflection/components/uint) | key |
+

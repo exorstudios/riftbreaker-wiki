@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [float](/game-reflection/components/float.md) | time_passed |
-| [float](/game-reflection/components/float.md) | time_interval |
+| [float](/docs/game-reflection/components/float) | time_passed |
+| [float](/docs/game-reflection/components/float) | time_interval |
+

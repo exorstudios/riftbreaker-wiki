@@ -9,9 +9,11 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [Entity](/game-reflection/classes/entity.md) | parent |
-| [IdString](/game-reflection/components/id_string.md) | blueprint |
-| [int](/game-reflection/enums/int.md) | type |
-| [StringHash](/game-reflection/classes/string_hash.md) | attachment |
+| [Entity](/docs/game-reflection/classes/entity) | parent |
+| [IdString](/docs/game-reflection/components/id_string) | blueprint |
+| [int](/docs/game-reflection/enums/int) | type |
+| [StringHash](/docs/game-reflection/classes/string_hash) | attachment |
+

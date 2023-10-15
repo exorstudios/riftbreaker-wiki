@@ -9,15 +9,17 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [float](/game-reflection/components/float.md) | spike_damage_delay |
-| [float](/game-reflection/components/float.md) | search_range |
-| [uint](/game-reflection/components/uint.md) | creator |
-| [IdString](/game-reflection/components/id_string.md) | spike_effect |
-| [float](/game-reflection/components/float.md) | spike_range |
-| [uint64](/game-reflection/components/uint64.md) | type_mask |
-| [uint](/game-reflection/components/uint.md) | spike_count |
-| [uint](/game-reflection/components/uint.md) | owner |
-| [float](/game-reflection/components/float.md) | spike_speed |
-| [DamagePattern](/game-reflection/classes/damage_pattern.md) | DamagePattern |
+| [float](/docs/game-reflection/components/float) | spike_damage_delay |
+| [float](/docs/game-reflection/components/float) | search_range |
+| [uint](/docs/game-reflection/components/uint) | creator |
+| [IdString](/docs/game-reflection/components/id_string) | spike_effect |
+| [float](/docs/game-reflection/components/float) | spike_range |
+| [uint64](/docs/game-reflection/components/uint64) | type_mask |
+| [uint](/docs/game-reflection/components/uint) | spike_count |
+| [uint](/docs/game-reflection/components/uint) | owner |
+| [float](/docs/game-reflection/components/float) | spike_speed |
+| [DamagePattern](/docs/game-reflection/classes/damage_pattern) | DamagePattern |
+

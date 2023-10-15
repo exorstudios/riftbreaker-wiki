@@ -9,11 +9,13 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [float](/game-reflection/components/float.md) | in_radius |
-| [uint64](/game-reflection/components/uint64.md) | target_type |
-| [bool](/game-reflection/components/bool.md) | pick_random |
-| [bool](/game-reflection/components/bool.md) | random_timer_at_start |
-| [Timer](/game-reflection/classes/timer.md) | timer |
-| [IdString](/game-reflection/components/id_string.md) | tag |
+| [float](/docs/game-reflection/components/float) | in_radius |
+| [uint64](/docs/game-reflection/components/uint64) | target_type |
+| [bool](/docs/game-reflection/components/bool) | pick_random |
+| [bool](/docs/game-reflection/components/bool) | random_timer_at_start |
+| [Timer](/docs/game-reflection/classes/timer) | timer |
+| [IdString](/docs/game-reflection/components/id_string) | tag |
+

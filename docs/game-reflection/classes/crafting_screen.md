@@ -9,6 +9,8 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| Vector< [float](/game-reflection/components/float.md) > | crafting_data |
+| Vector< [float](/docs/game-reflection/components/float) > | crafting_data |
+

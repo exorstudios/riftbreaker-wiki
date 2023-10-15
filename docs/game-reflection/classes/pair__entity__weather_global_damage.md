@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [WeatherGlobalDamage](/game-reflection/classes/weather_global_damage.md) | value |
-| [Entity](/game-reflection/classes/entity.md) | key |
+| [WeatherGlobalDamage](/docs/game-reflection/classes/weather_global_damage) | value |
+| [Entity](/docs/game-reflection/classes/entity) | key |
+

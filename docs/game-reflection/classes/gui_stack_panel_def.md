@@ -5,11 +5,13 @@ has_children: false
 parent: Class
 grand_parent: Game Reflection
 ---
-# GuiStackPanelDef( ![ GuiDef ](/game-reflection/classes/gui_def.md) )
+# GuiStackPanelDef( [ GuiDef ](/docs/game-reflection/classes/gui_def) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [GuiReferenceDef](/game-reflection/classes/gui_reference_def.md) | template_reference |
-| [uchar](/game-reflection/enums/uchar.md) | stack_type |
+| [GuiReferenceDef](/docs/game-reflection/classes/gui_reference_def) | template_reference |
+| [uchar](/docs/game-reflection/enums/uchar) | stack_type |
+

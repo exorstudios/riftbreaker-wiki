@@ -9,9 +9,11 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [uint](/game-reflection/components/uint.md) | user_flags |
-| [uint](/game-reflection/components/uint.md) | dummy |
-| [uint](/game-reflection/components/uint.md) | flags |
-| [uint](/game-reflection/components/uint.md) | visibility_mask |
+| [uint](/docs/game-reflection/components/uint) | user_flags |
+| [uint](/docs/game-reflection/components/uint) | dummy |
+| [uint](/docs/game-reflection/components/uint) | flags |
+| [uint](/docs/game-reflection/components/uint) | visibility_mask |
+

@@ -9,6 +9,8 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [Timer](/game-reflection/classes/timer.md) | timer |
+| [Timer](/docs/game-reflection/classes/timer) | timer |
+

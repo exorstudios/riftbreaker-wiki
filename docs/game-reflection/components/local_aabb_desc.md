@@ -9,6 +9,8 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [Aabb](/game-reflection/components/aabb.md) | local_aabb |
+| [Aabb](/docs/game-reflection/components/aabb) | local_aabb |
+

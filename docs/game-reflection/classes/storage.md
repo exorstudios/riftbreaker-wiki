@@ -9,12 +9,14 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [float](/game-reflection/components/float.md) | distribution_radius |
-| [float](/game-reflection/components/float.md) | max |
-| [bool](/game-reflection/components/bool.md) | long_range_connect |
-| [uchar](/game-reflection/enums/uchar.md) | group |
-| [GameplayResourceDefHolder](/game-reflection/components/gameplay_resource_def_holder.md) | resource |
-| [String](/game-reflection/components/string.md) | subgroup |
-| Vector< [String](/game-reflection/components/string.md) > | attachment |
+| [float](/docs/game-reflection/components/float) | distribution_radius |
+| [float](/docs/game-reflection/components/float) | max |
+| [bool](/docs/game-reflection/components/bool) | long_range_connect |
+| [uchar](/docs/game-reflection/enums/uchar) | group |
+| [GameplayResourceDefHolder](/docs/game-reflection/components/gameplay_resource_def_holder) | resource |
+| [String](/docs/game-reflection/components/string) | subgroup |
+| Vector< [String](/docs/game-reflection/components/string) > | attachment |
+

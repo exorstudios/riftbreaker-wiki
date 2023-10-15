@@ -9,8 +9,10 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| Vector< [MainMenuButtonInfo](/game-reflection/classes/main_menu_button_info.md) > | items |
-| [String](/game-reflection/components/string.md) | title |
-| [String](/game-reflection/components/string.md) | name |
+| Vector< [MainMenuButtonInfo](/docs/game-reflection/classes/main_menu_button_info) > | items |
+| [String](/docs/game-reflection/components/string) | title |
+| [String](/docs/game-reflection/components/string) | name |
+

@@ -9,13 +9,15 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [int](/game-reflection/enums/int.md) | required_discovery_lvl |
-| [String](/game-reflection/components/string.md) | resource |
-| [int](/game-reflection/enums/int.md) | max_spawned_volumes |
-| [float](/game-reflection/components/float.md) | max_resources |
-| [float](/game-reflection/components/float.md) | min_resources |
-| [bool](/game-reflection/components/bool.md) | is_infinite |
-| [int](/game-reflection/enums/int.md) | min_spawned_volumes |
-| [float](/game-reflection/components/float.md) | harvest_duration |
+| [int](/docs/game-reflection/enums/int) | required_discovery_lvl |
+| [String](/docs/game-reflection/components/string) | resource |
+| [int](/docs/game-reflection/enums/int) | max_spawned_volumes |
+| [float](/docs/game-reflection/components/float) | max_resources |
+| [float](/docs/game-reflection/components/float) | min_resources |
+| [bool](/docs/game-reflection/components/bool) | is_infinite |
+| [int](/docs/game-reflection/enums/int) | min_spawned_volumes |
+| [float](/docs/game-reflection/components/float) | harvest_duration |
+

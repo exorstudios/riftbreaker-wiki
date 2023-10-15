@@ -9,9 +9,11 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [Entity](/game-reflection/classes/entity.md) | effect_ent |
-| [uchar](/game-reflection/enums/uchar.md) | state |
-| [IdString](/game-reflection/components/id_string.md) | sound_name |
-| [float](/game-reflection/components/float.md) | delay |
+| [Entity](/docs/game-reflection/classes/entity) | effect_ent |
+| [uchar](/docs/game-reflection/enums/uchar) | state |
+| [IdString](/docs/game-reflection/components/id_string) | sound_name |
+| [float](/docs/game-reflection/components/float) | delay |
+

@@ -5,12 +5,14 @@ has_children: false
 parent: Event
 grand_parent: Game Reflection
 ---
-# HudTimerResetRequest( ![ EntityEventBase ](/game-reflection/events/entity_event_base.md) )
+# HudTimerResetRequest( [ EntityEventBase ](/docs/game-reflection/events/entity_event_base) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [float](/game-reflection/components/float.md) | Timer |
-| [String](/game-reflection/components/string.md) | Label |
-| [Entity](/game-reflection/classes/entity.md) | Entity |
+| [float](/docs/game-reflection/components/float) | Timer |
+| [String](/docs/game-reflection/components/string) | Label |
+| [Entity](/docs/game-reflection/classes/entity) | Entity |
+

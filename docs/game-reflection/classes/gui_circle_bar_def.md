@@ -5,10 +5,12 @@ has_children: false
 parent: Class
 grand_parent: Game Reflection
 ---
-# GuiCircleBarDef( ![ GuiImageDef ](/game-reflection/classes/gui_image_def.md) )
+# GuiCircleBarDef( [ GuiImageDef ](/docs/game-reflection/classes/gui_image_def) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [float](/game-reflection/components/float.md) | angle |
+| [float](/docs/game-reflection/components/float) | angle |
+

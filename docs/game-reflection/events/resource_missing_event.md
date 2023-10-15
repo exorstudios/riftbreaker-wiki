@@ -5,13 +5,15 @@ has_children: false
 parent: Event
 grand_parent: Game Reflection
 ---
-# ResourceMissingEvent( ![ EntityEventBase ](/game-reflection/events/entity_event_base.md) )
+# ResourceMissingEvent( [ EntityEventBase ](/docs/game-reflection/events/entity_event_base) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [String](/game-reflection/components/string.md) | Family |
-| [bool](/game-reflection/components/bool.md) | Negative |
-| [Entity](/game-reflection/classes/entity.md) | Entity |
-| [String](/game-reflection/components/string.md) | Resource |
+| [String](/docs/game-reflection/components/string) | Family |
+| [bool](/docs/game-reflection/components/bool) | Negative |
+| [Entity](/docs/game-reflection/classes/entity) | Entity |
+| [String](/docs/game-reflection/components/string) | Resource |
+

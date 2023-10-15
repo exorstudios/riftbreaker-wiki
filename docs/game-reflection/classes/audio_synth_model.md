@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [bool](/game-reflection/components/bool.md) | dirty |
-| Vector< [Pair_String_float](/game-reflection/classes/pair__string_float.md) > | db |
+| [bool](/docs/game-reflection/components/bool) | dirty |
+| Vector< [Pair_String_float](/docs/game-reflection/classes/pair__string_float) > | db |
+

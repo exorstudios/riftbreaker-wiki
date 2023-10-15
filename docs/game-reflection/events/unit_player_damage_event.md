@@ -5,14 +5,16 @@ has_children: false
 parent: Event
 grand_parent: Game Reflection
 ---
-# UnitPlayerDamageEvent( ![ EntityEventBase ](/game-reflection/events/entity_event_base.md) )
+# UnitPlayerDamageEvent( [ EntityEventBase ](/docs/game-reflection/events/entity_event_base) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [String](/game-reflection/components/string.md) | CreatorBlueprint |
-| [String](/game-reflection/components/string.md) | EntityBlueprint |
-| [float](/game-reflection/components/float.md) | DamageValue |
-| [String](/game-reflection/components/string.md) | DamageType |
-| [Entity](/game-reflection/classes/entity.md) | Entity |
+| [String](/docs/game-reflection/components/string) | CreatorBlueprint |
+| [String](/docs/game-reflection/components/string) | EntityBlueprint |
+| [float](/docs/game-reflection/components/float) | DamageValue |
+| [String](/docs/game-reflection/components/string) | DamageType |
+| [Entity](/docs/game-reflection/classes/entity) | Entity |
+

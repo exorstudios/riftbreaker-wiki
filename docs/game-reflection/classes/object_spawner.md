@@ -9,16 +9,18 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [ObjectSpawnRange](/game-reflection/classes/object_spawn_range.md) | spawn_instances_minmax |
-| [float](/game-reflection/components/float.md) | spawn_density |
-| Vector< [Pair_String_float](/game-reflection/classes/pair__string_float.md) > | spawn_max_distance_from_pools |
-| [String](/game-reflection/components/string.md) | spawn_group |
-| [bool](/game-reflection/components/bool.md) | spawn_required |
-| [ObjectSpawnRange](/game-reflection/classes/object_spawn_range.md) | spawn_minmax_distance_from_edge |
-| [bool](/game-reflection/components/bool.md) | ignore_excluded_cells_check |
-| Vector< [ObjectSpawn](/game-reflection/classes/object_spawn.md) > | spawn_blueprints |
-| [String](/game-reflection/components/string.md) | spawn_team |
-| Vector< [String](/game-reflection/components/string.md) > | spawn_pool |
-| Vector< [Pair_String_float](/game-reflection/classes/pair__string_float.md) > | spawn_min_distance_from_pools |
+| [ObjectSpawnRange](/docs/game-reflection/classes/object_spawn_range) | spawn_instances_minmax |
+| [float](/docs/game-reflection/components/float) | spawn_density |
+| Vector< [Pair_String_float](/docs/game-reflection/classes/pair__string_float) > | spawn_max_distance_from_pools |
+| [String](/docs/game-reflection/components/string) | spawn_group |
+| [bool](/docs/game-reflection/components/bool) | spawn_required |
+| [ObjectSpawnRange](/docs/game-reflection/classes/object_spawn_range) | spawn_minmax_distance_from_edge |
+| [bool](/docs/game-reflection/components/bool) | ignore_excluded_cells_check |
+| Vector< [ObjectSpawn](/docs/game-reflection/classes/object_spawn) > | spawn_blueprints |
+| [String](/docs/game-reflection/components/string) | spawn_team |
+| Vector< [String](/docs/game-reflection/components/string) > | spawn_pool |
+| Vector< [Pair_String_float](/docs/game-reflection/classes/pair__string_float) > | spawn_min_distance_from_pools |
+

@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [bool](/game-reflection/components/bool.md) | IsHidden |
-| Vector< [String](/game-reflection/components/string.md) > | Awards |
+| [bool](/docs/game-reflection/components/bool) | IsHidden |
+| Vector< [String](/docs/game-reflection/components/string) > | Awards |
+

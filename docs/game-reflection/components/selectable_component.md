@@ -9,11 +9,13 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [String](/game-reflection/components/string.md) | description |
-| [bool](/game-reflection/components/bool.md) | can_activate |
-| [String](/game-reflection/components/string.md) | content |
-| [String](/game-reflection/components/string.md) | large_icon_material |
-| [Entity](/game-reflection/classes/entity.md) | info_entity |
-| [String](/game-reflection/components/string.md) | icon_material |
+| [String](/docs/game-reflection/components/string) | description |
+| [bool](/docs/game-reflection/components/bool) | can_activate |
+| [String](/docs/game-reflection/components/string) | content |
+| [String](/docs/game-reflection/components/string) | large_icon_material |
+| [Entity](/docs/game-reflection/classes/entity) | info_entity |
+| [String](/docs/game-reflection/components/string) | icon_material |
+

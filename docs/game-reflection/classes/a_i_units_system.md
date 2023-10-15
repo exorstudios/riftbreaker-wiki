@@ -5,13 +5,15 @@ has_children: false
 parent: Class
 grand_parent: Game Reflection
 ---
-# AIUnitsSystem( ![ System ](/game-reflection/classes/system.md) )
+# AIUnitsSystem( [ System ](/docs/game-reflection/classes/system) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [uint](/game-reflection/components/uint.md) | group_counter |
-| [String](/game-reflection/components/string.md) | pack_ver |
-| Vector< [Pair_String_AIUnitsGroup](/game-reflection/classes/pair__string__a_i_units_group.md) > | units_groups |
-| [int](/game-reflection/enums/int.md) | all_units_states_as_group |
+| [uint](/docs/game-reflection/components/uint) | group_counter |
+| [String](/docs/game-reflection/components/string) | pack_ver |
+| Vector< [Pair_String_AIUnitsGroup](/docs/game-reflection/classes/pair__string__a_i_units_group) > | units_groups |
+| [int](/docs/game-reflection/enums/int) | all_units_states_as_group |
+

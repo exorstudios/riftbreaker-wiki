@@ -9,13 +9,15 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [ushort](/game-reflection/enums/ushort.md) | packed_size |
-| [float](/game-reflection/components/float.md) | chance |
-| [ushort](/game-reflection/enums/ushort.md) | max_amount |
-| [String](/game-reflection/components/string.md) | blueprint |
-| [Database](/game-reflection/components/database.md) | database |
-| [String](/game-reflection/components/string.md) | condition_value |
-| [int](/game-reflection/enums/int.md) | condition_type |
-| [ushort](/game-reflection/enums/ushort.md) | min_amount |
+| [ushort](/docs/game-reflection/enums/ushort) | packed_size |
+| [float](/docs/game-reflection/components/float) | chance |
+| [ushort](/docs/game-reflection/enums/ushort) | max_amount |
+| [String](/docs/game-reflection/components/string) | blueprint |
+| [Database](/docs/game-reflection/components/database) | database |
+| [String](/docs/game-reflection/components/string) | condition_value |
+| [int](/docs/game-reflection/enums/int) | condition_type |
+| [ushort](/docs/game-reflection/enums/ushort) | min_amount |
+

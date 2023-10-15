@@ -9,6 +9,8 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| Vector< [EquipmentSlot](/game-reflection/classes/equipment_slot.md) > | slots |
+| Vector< [EquipmentSlot](/docs/game-reflection/classes/equipment_slot) > | slots |
+

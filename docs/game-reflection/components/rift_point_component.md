@@ -9,9 +9,11 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [String](/game-reflection/components/string.md) | name |
-| [bool](/game-reflection/components/bool.md) | active |
-| [String](/game-reflection/components/string.md) | type |
-| [int](/game-reflection/enums/int.md) | use_count |
+| [String](/docs/game-reflection/components/string) | name |
+| [bool](/docs/game-reflection/components/bool) | active |
+| [String](/docs/game-reflection/components/string) | type |
+| [int](/docs/game-reflection/enums/int) | use_count |
+

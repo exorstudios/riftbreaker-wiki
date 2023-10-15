@@ -9,13 +9,15 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [String](/game-reflection/components/string.md) | description |
-| [float](/game-reflection/components/float.md) | scannable_chance |
-| [String](/game-reflection/components/string.md) | name |
-| [FamiliarityLevel](/game-reflection/classes/familiarity_level.md) | increment_template |
-| [float](/game-reflection/components/float.md) | specimen_chance |
-| [String](/game-reflection/components/string.md) | category |
-| Vector< [FamiliarityLevel](/game-reflection/classes/familiarity_level.md) > | familiarity_levels |
-| Vector< [SubSpecies](/game-reflection/classes/sub_species.md) > | subspecies_vec |
+| [String](/docs/game-reflection/components/string) | description |
+| [float](/docs/game-reflection/components/float) | scannable_chance |
+| [String](/docs/game-reflection/components/string) | name |
+| [FamiliarityLevel](/docs/game-reflection/classes/familiarity_level) | increment_template |
+| [float](/docs/game-reflection/components/float) | specimen_chance |
+| [String](/docs/game-reflection/components/string) | category |
+| Vector< [FamiliarityLevel](/docs/game-reflection/classes/familiarity_level) > | familiarity_levels |
+| Vector< [SubSpecies](/docs/game-reflection/classes/sub_species) > | subspecies_vec |
+

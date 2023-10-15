@@ -9,11 +9,13 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [Entity](/game-reflection/classes/entity.md) | entity |
-| Vector< [RelevantEvent](/game-reflection/classes/relevant_event.md) > | relevant_events |
-| [EntityTemplate](/game-reflection/classes/entity_template.md) | updated_components |
-| Vector< [TypeHash](/game-reflection/enums/type_hash.md) > | removed_components |
-| Vector< [TypeAny](/game-reflection/components/type_any.md) > | replication_events |
-| Vector< [TypeHash](/game-reflection/enums/type_hash.md) > | created_components |
+| [Entity](/docs/game-reflection/classes/entity) | entity |
+| Vector< [RelevantEvent](/docs/game-reflection/classes/relevant_event) > | relevant_events |
+| [EntityTemplate](/docs/game-reflection/classes/entity_template) | updated_components |
+| Vector< [TypeHash](/docs/game-reflection/enums/type_hash) > | removed_components |
+| Vector< [TypeAny](/docs/game-reflection/components/type_any) > | replication_events |
+| Vector< [TypeHash](/docs/game-reflection/enums/type_hash) > | created_components |
+

@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [String](/game-reflection/components/string.md) | weapon_list |
-| [bool](/game-reflection/components/bool.md) | positive |
+| [String](/docs/game-reflection/components/string) | weapon_list |
+| [bool](/docs/game-reflection/components/bool) | positive |
+

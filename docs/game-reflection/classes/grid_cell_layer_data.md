@@ -9,6 +9,8 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| Vector< [CellLayerInfo](/game-reflection/classes/cell_layer_info.md) > | layers |
+| Vector< [CellLayerInfo](/docs/game-reflection/classes/cell_layer_info) > | layers |
+

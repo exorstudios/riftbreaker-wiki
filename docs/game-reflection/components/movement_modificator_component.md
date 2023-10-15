@@ -9,9 +9,11 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [float](/game-reflection/components/float.md) | deacceleration |
-| [float](/game-reflection/components/float.md) | acceleration |
-| [float](/game-reflection/components/float.md) | max_speed |
-| [Entity](/game-reflection/classes/entity.md) | target |
+| [float](/docs/game-reflection/components/float) | deacceleration |
+| [float](/docs/game-reflection/components/float) | acceleration |
+| [float](/docs/game-reflection/components/float) | max_speed |
+| [Entity](/docs/game-reflection/classes/entity) | target |
+

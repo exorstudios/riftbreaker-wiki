@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [ModifiableValue](/game-reflection/classes/modifiable_value.md) | value |
-| [int](/game-reflection/enums/int.md) | key |
+| [ModifiableValue](/docs/game-reflection/classes/modifiable_value) | value |
+| [int](/docs/game-reflection/enums/int) | key |
+

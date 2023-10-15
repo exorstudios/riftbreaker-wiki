@@ -9,8 +9,10 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [uint](/game-reflection/components/uint.md) | message_id |
-| [uint](/game-reflection/components/uint.md) | fragment_count |
-| [ushort](/game-reflection/enums/ushort.md) | pckId |
+| [uint](/docs/game-reflection/components/uint) | message_id |
+| [uint](/docs/game-reflection/components/uint) | fragment_count |
+| [ushort](/docs/game-reflection/enums/ushort) | pckId |
+

@@ -9,11 +9,13 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [float](/game-reflection/components/float.md) | ammo_speed |
-| [float](/game-reflection/components/float.md) | ammo_homing |
-| [float](/game-reflection/components/float.md) | ammo_angle_speed |
-| [float](/game-reflection/components/float.md) | ammo_cluster |
-| [float](/game-reflection/components/float.md) | ammo_auto_aim |
-| [float](/game-reflection/components/float.md) | ammo_spread |
+| [float](/docs/game-reflection/components/float) | ammo_speed |
+| [float](/docs/game-reflection/components/float) | ammo_homing |
+| [float](/docs/game-reflection/components/float) | ammo_angle_speed |
+| [float](/docs/game-reflection/components/float) | ammo_cluster |
+| [float](/docs/game-reflection/components/float) | ammo_auto_aim |
+| [float](/docs/game-reflection/components/float) | ammo_spread |
+

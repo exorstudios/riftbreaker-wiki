@@ -9,11 +9,13 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [float](/game-reflection/components/float.md) | height |
-| [ResourceHolderBase](/game-reflection/components/resource_holder_base.md) | terrain_type |
-| [uint](/game-reflection/components/uint.md) | index |
-| [GridCellLayerData](/game-reflection/classes/grid_cell_layer_data.md) | user_data |
-| [bool](/game-reflection/components/bool.md) | is_blocked |
-| [uint](/game-reflection/components/uint.md) | space_idx |
+| [float](/docs/game-reflection/components/float) | height |
+| [ResourceHolderBase](/docs/game-reflection/components/resource_holder_base) | terrain_type |
+| [uint](/docs/game-reflection/components/uint) | index |
+| [GridCellLayerData](/docs/game-reflection/classes/grid_cell_layer_data) | user_data |
+| [bool](/docs/game-reflection/components/bool) | is_blocked |
+| [uint](/docs/game-reflection/components/uint) | space_idx |
+

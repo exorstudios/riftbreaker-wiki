@@ -9,13 +9,15 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [bool](/game-reflection/components/bool.md) | recreate_component |
-| [IdString](/game-reflection/components/id_string.md) | slot |
-| [float](/game-reflection/components/float.md) | radius |
-| [bool](/game-reflection/components/bool.md) | remove_entity |
-| [String](/game-reflection/components/string.md) | item |
-| [bool](/game-reflection/components/bool.md) | remove_component |
-| [bool](/game-reflection/components/bool.md) | enabled |
-| [uint](/game-reflection/components/uint.md) | item_count |
+| [bool](/docs/game-reflection/components/bool) | recreate_component |
+| [IdString](/docs/game-reflection/components/id_string) | slot |
+| [float](/docs/game-reflection/components/float) | radius |
+| [bool](/docs/game-reflection/components/bool) | remove_entity |
+| [String](/docs/game-reflection/components/string) | item |
+| [bool](/docs/game-reflection/components/bool) | remove_component |
+| [bool](/docs/game-reflection/components/bool) | enabled |
+| [uint](/docs/game-reflection/components/uint) | item_count |
+

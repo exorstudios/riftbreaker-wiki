@@ -9,52 +9,54 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [String](/game-reflection/components/string.md) | season_only |
-| [bool](/game-reflection/components/bool.md) | instant_build |
-| [bool](/game-reflection/components/bool.md) | rotate_info |
-| [ResourceBasket](/game-reflection/classes/resource_basket.md) | build_cost |
-| [uchar](/game-reflection/enums/uchar.md) | mission_mode |
-| [bool](/game-reflection/components/bool.md) | build_on_water |
-| [String](/game-reflection/components/string.md) | description |
-| [String](/game-reflection/components/string.md) | upgrade |
-| [String](/game-reflection/components/string.md) | localization_id |
-| [bool](/game-reflection/components/bool.md) | buildable |
-| [bool](/game-reflection/components/bool.md) | block_rotation |
-| [String](/game-reflection/components/string.md) | building_mode |
-| [int](/game-reflection/enums/int.md) | condition |
-| [String](/game-reflection/components/string.md) | name |
-| [String](/game-reflection/components/string.md) | menu_icon |
-| [String](/game-reflection/components/string.md) | require |
-| [bool](/game-reflection/components/bool.md) | is_global |
-| [bool](/game-reflection/components/bool.md) | pipe_mode |
-| [float](/game-reflection/components/float.md) | order |
-| Vector< [Pair_ushort_Vector_String](/game-reflection/classes/pair_ushort__vector__string.md) > | connect |
-| [String](/game-reflection/components/string.md) | ghost_bp |
-| [bool](/game-reflection/components/bool.md) | difficulty_cost_apply |
-| [uchar](/game-reflection/enums/uchar.md) | level |
-| [String](/game-reflection/components/string.md) | radius_name |
-| Vector< [String](/game-reflection/components/string.md) > | resource_requirement |
-| [String](/game-reflection/components/string.md) | bp |
-| [IdString](/game-reflection/components/id_string.md) | category |
-| [String](/game-reflection/components/string.md) | menu_action |
-| Vector< [StringHash](/game-reflection/classes/string_hash.md) > | exclude_terrain_types |
-| [String](/game-reflection/components/string.md) | condition_value |
-| [int](/game-reflection/enums/int.md) | map_limit |
-| [IdString](/game-reflection/components/id_string.md) | type |
-| [uchar](/game-reflection/enums/uchar.md) | going_green_state |
-| [bool](/game-reflection/components/bool.md) | check_connect |
-| Vector< [BuildingCostInfo](/game-reflection/classes/building_cost_info.md) > | costs |
-| [String](/game-reflection/components/string.md) | limit_name |
-| Vector< [StringHash](/game-reflection/classes/string_hash.md) > | overrides |
-| [String](/game-reflection/components/string.md) | min_radius_effect |
-| [float](/game-reflection/components/float.md) | min_radius |
-| [bool](/game-reflection/components/bool.md) | line_connector |
-| [String](/game-reflection/components/string.md) | building_group |
-| [ResourceBasket](/game-reflection/classes/resource_basket.md) | cost |
-| [uint](/game-reflection/components/uint.md) | limit |
-| [bool](/game-reflection/components/bool.md) | is_shortcut_bindable |
-| [bool](/game-reflection/components/bool.md) | sellable |
-| Vector< [StringHash](/game-reflection/classes/string_hash.md) > | erase_type |
-| [bool](/game-reflection/components/bool.md) | disableable |
+| [String](/docs/game-reflection/components/string) | season_only |
+| [bool](/docs/game-reflection/components/bool) | instant_build |
+| [bool](/docs/game-reflection/components/bool) | rotate_info |
+| [ResourceBasket](/docs/game-reflection/classes/resource_basket) | build_cost |
+| [uchar](/docs/game-reflection/enums/uchar) | mission_mode |
+| [bool](/docs/game-reflection/components/bool) | build_on_water |
+| [String](/docs/game-reflection/components/string) | description |
+| [String](/docs/game-reflection/components/string) | upgrade |
+| [String](/docs/game-reflection/components/string) | localization_id |
+| [bool](/docs/game-reflection/components/bool) | buildable |
+| [bool](/docs/game-reflection/components/bool) | block_rotation |
+| [String](/docs/game-reflection/components/string) | building_mode |
+| [int](/docs/game-reflection/enums/int) | condition |
+| [String](/docs/game-reflection/components/string) | name |
+| [String](/docs/game-reflection/components/string) | menu_icon |
+| [String](/docs/game-reflection/components/string) | require |
+| [bool](/docs/game-reflection/components/bool) | is_global |
+| [bool](/docs/game-reflection/components/bool) | pipe_mode |
+| [float](/docs/game-reflection/components/float) | order |
+| Vector< [Pair_ushort_Vector_String](/docs/game-reflection/classes/pair_ushort__vector__string) > | connect |
+| [String](/docs/game-reflection/components/string) | ghost_bp |
+| [bool](/docs/game-reflection/components/bool) | difficulty_cost_apply |
+| [uchar](/docs/game-reflection/enums/uchar) | level |
+| [String](/docs/game-reflection/components/string) | radius_name |
+| Vector< [String](/docs/game-reflection/components/string) > | resource_requirement |
+| [String](/docs/game-reflection/components/string) | bp |
+| [IdString](/docs/game-reflection/components/id_string) | category |
+| [String](/docs/game-reflection/components/string) | menu_action |
+| Vector< [StringHash](/docs/game-reflection/classes/string_hash) > | exclude_terrain_types |
+| [String](/docs/game-reflection/components/string) | condition_value |
+| [int](/docs/game-reflection/enums/int) | map_limit |
+| [IdString](/docs/game-reflection/components/id_string) | type |
+| [uchar](/docs/game-reflection/enums/uchar) | going_green_state |
+| [bool](/docs/game-reflection/components/bool) | check_connect |
+| Vector< [BuildingCostInfo](/docs/game-reflection/classes/building_cost_info) > | costs |
+| [String](/docs/game-reflection/components/string) | limit_name |
+| Vector< [StringHash](/docs/game-reflection/classes/string_hash) > | overrides |
+| [String](/docs/game-reflection/components/string) | min_radius_effect |
+| [float](/docs/game-reflection/components/float) | min_radius |
+| [bool](/docs/game-reflection/components/bool) | line_connector |
+| [String](/docs/game-reflection/components/string) | building_group |
+| [ResourceBasket](/docs/game-reflection/classes/resource_basket) | cost |
+| [uint](/docs/game-reflection/components/uint) | limit |
+| [bool](/docs/game-reflection/components/bool) | is_shortcut_bindable |
+| [bool](/docs/game-reflection/components/bool) | sellable |
+| Vector< [StringHash](/docs/game-reflection/classes/string_hash) > | erase_type |
+| [bool](/docs/game-reflection/components/bool) | disableable |
+

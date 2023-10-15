@@ -5,11 +5,13 @@ has_children: false
 parent: Class
 grand_parent: Game Reflection
 ---
-# FaunaSoundSystem( ![ System ](/game-reflection/classes/system.md) )
+# FaunaSoundSystem( [ System ](/docs/game-reflection/classes/system) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [Vector3](/game-reflection/classes/vector3.md) | ears_pos |
-| Vector< [ReferenceCleanUpRequest](/game-reflection/classes/reference_clean_up_request.md) > | reference_clean_up_request_vec |
+| [Vector3](/docs/game-reflection/classes/vector3) | ears_pos |
+| Vector< [ReferenceCleanUpRequest](/docs/game-reflection/classes/reference_clean_up_request) > | reference_clean_up_request_vec |
+

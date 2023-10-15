@@ -9,8 +9,10 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [uchar](/game-reflection/enums/uchar.md) | size_mode_x |
-| [uchar](/game-reflection/enums/uchar.md) | size_mode_y |
-| [uchar](/game-reflection/enums/uchar.md) | interpolation_mode |
+| [uchar](/docs/game-reflection/enums/uchar) | size_mode_x |
+| [uchar](/docs/game-reflection/enums/uchar) | size_mode_y |
+| [uchar](/docs/game-reflection/enums/uchar) | interpolation_mode |
+

@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| Vector< [ContainerLootGroupItem](/game-reflection/classes/container_loot_group_item.md) > | items |
-| [uchar](/game-reflection/enums/uchar.md) | rarity |
+| Vector< [ContainerLootGroupItem](/docs/game-reflection/classes/container_loot_group_item) > | items |
+| [uchar](/docs/game-reflection/enums/uchar) | rarity |
+

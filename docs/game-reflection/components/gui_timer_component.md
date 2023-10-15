@@ -9,10 +9,12 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [String](/game-reflection/components/string.md) | material |
-| [bool](/game-reflection/components/bool.md) | manual |
-| [bool](/game-reflection/components/bool.md) | remove_at_end |
-| [bool](/game-reflection/components/bool.md) | paused |
-| [Timer](/game-reflection/classes/timer.md) | timer |
+| [String](/docs/game-reflection/components/string) | material |
+| [bool](/docs/game-reflection/components/bool) | manual |
+| [bool](/docs/game-reflection/components/bool) | remove_at_end |
+| [bool](/docs/game-reflection/components/bool) | paused |
+| [Timer](/docs/game-reflection/classes/timer) | timer |
+

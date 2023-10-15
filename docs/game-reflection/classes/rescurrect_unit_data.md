@@ -9,9 +9,11 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [Entity](/game-reflection/classes/entity.md) | entity |
-| [IdString](/game-reflection/components/id_string.md) | spawn_effect |
-| [float](/game-reflection/components/float.md) | timer |
-| [IdString](/game-reflection/components/id_string.md) | remove_effect |
+| [Entity](/docs/game-reflection/classes/entity) | entity |
+| [IdString](/docs/game-reflection/components/id_string) | spawn_effect |
+| [float](/docs/game-reflection/components/float) | timer |
+| [IdString](/docs/game-reflection/components/id_string) | remove_effect |
+

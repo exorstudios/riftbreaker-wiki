@@ -9,9 +9,11 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [float](/game-reflection/components/float.md) | stun_value |
-| [float](/game-reflection/components/float.md) | interval |
-| [float](/game-reflection/components/float.md) | value |
-| [IdString](/game-reflection/components/id_string.md) | type |
+| [float](/docs/game-reflection/components/float) | stun_value |
+| [float](/docs/game-reflection/components/float) | interval |
+| [float](/docs/game-reflection/components/float) | value |
+| [IdString](/docs/game-reflection/components/id_string) | type |
+

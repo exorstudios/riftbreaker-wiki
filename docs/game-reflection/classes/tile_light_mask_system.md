@@ -9,8 +9,10 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [bool](/game-reflection/components/bool.md) | is_enabled |
-| [Entity](/game-reflection/classes/entity.md) | camera_ent |
-| [Entity](/game-reflection/classes/entity.md) | light_ent |
+| [bool](/docs/game-reflection/components/bool) | is_enabled |
+| [Entity](/docs/game-reflection/classes/entity) | camera_ent |
+| [Entity](/docs/game-reflection/classes/entity) | light_ent |
+

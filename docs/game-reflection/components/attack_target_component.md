@@ -9,12 +9,14 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [bool](/game-reflection/components/bool.md) | is_loop |
-| [bool](/game-reflection/components/bool.md) | is_attacking |
-| [String](/game-reflection/components/string.md) | db_attack_entry |
-| Vector< [String](/game-reflection/components/string.md) > | attack_name_vec |
-| [String](/game-reflection/components/string.md) | attack_name |
-| [bool](/game-reflection/components/bool.md) | is_finished |
-| [String](/game-reflection/components/string.md) | tag |
+| [bool](/docs/game-reflection/components/bool) | is_loop |
+| [bool](/docs/game-reflection/components/bool) | is_attacking |
+| [String](/docs/game-reflection/components/string) | db_attack_entry |
+| Vector< [String](/docs/game-reflection/components/string) > | attack_name_vec |
+| [String](/docs/game-reflection/components/string) | attack_name |
+| [bool](/docs/game-reflection/components/bool) | is_finished |
+| [String](/docs/game-reflection/components/string) | tag |
+

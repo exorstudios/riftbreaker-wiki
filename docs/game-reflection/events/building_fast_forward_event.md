@@ -5,11 +5,13 @@ has_children: false
 parent: Event
 grand_parent: Game Reflection
 ---
-# BuildingFastForwardEvent( ![ EntityEventBase ](/game-reflection/events/entity_event_base.md) )
+# BuildingFastForwardEvent( [ EntityEventBase ](/docs/game-reflection/events/entity_event_base) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [float](/game-reflection/components/float.md) | DeltaTime |
-| [Entity](/game-reflection/classes/entity.md) | Entity |
+| [float](/docs/game-reflection/components/float) | DeltaTime |
+| [Entity](/docs/game-reflection/classes/entity) | Entity |
+

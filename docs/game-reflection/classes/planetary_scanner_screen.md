@@ -9,8 +9,10 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [String](/game-reflection/components/string.md) | coords |
-| [bool](/game-reflection/components/bool.md) | blocked |
-| [String](/game-reflection/components/string.md) | portal_blocked |
+| [String](/docs/game-reflection/components/string) | coords |
+| [bool](/docs/game-reflection/components/bool) | blocked |
+| [String](/docs/game-reflection/components/string) | portal_blocked |
+

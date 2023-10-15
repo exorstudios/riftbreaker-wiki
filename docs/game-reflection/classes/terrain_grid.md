@@ -9,12 +9,14 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| Vector< [TerrainCell](/game-reflection/classes/terrain_cell.md) > | cells |
-| Vector< [uint64](/game-reflection/components/uint64.md) > | height |
-| [Vector3](/game-reflection/classes/vector3.md) | minimum |
-| [uint](/game-reflection/components/uint.md) | space_idx |
-| [Aabb](/game-reflection/components/aabb.md) | size |
-| Vector< [uint64](/game-reflection/components/uint64.md) > | width |
-| [uint64](/game-reflection/components/uint64.md) | cell_size |
+| Vector< [TerrainCell](/docs/game-reflection/classes/terrain_cell) > | cells |
+| Vector< [uint64](/docs/game-reflection/components/uint64) > | height |
+| [Vector3](/docs/game-reflection/classes/vector3) | minimum |
+| [uint](/docs/game-reflection/components/uint) | space_idx |
+| [Aabb](/docs/game-reflection/components/aabb) | size |
+| Vector< [uint64](/docs/game-reflection/components/uint64) > | width |
+| [uint64](/docs/game-reflection/components/uint64) | cell_size |
+

@@ -9,12 +9,14 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [Timer](/game-reflection/classes/timer.md) | cooldown |
-| [float](/game-reflection/components/float.md) | regeneration |
-| [Entity](/game-reflection/classes/entity.md) | regeneration_ent |
-| [float](/game-reflection/components/float.md) | regeneration_cooldown |
-| [float](/game-reflection/components/float.md) | regeneration_timer |
-| [IdString](/game-reflection/components/id_string.md) | regeneration_end_effect |
-| [IdString](/game-reflection/components/id_string.md) | regeneration_effect |
+| [Timer](/docs/game-reflection/classes/timer) | cooldown |
+| [float](/docs/game-reflection/components/float) | regeneration |
+| [Entity](/docs/game-reflection/classes/entity) | regeneration_ent |
+| [float](/docs/game-reflection/components/float) | regeneration_cooldown |
+| [float](/docs/game-reflection/components/float) | regeneration_timer |
+| [IdString](/docs/game-reflection/components/id_string) | regeneration_end_effect |
+| [IdString](/docs/game-reflection/components/id_string) | regeneration_effect |
+

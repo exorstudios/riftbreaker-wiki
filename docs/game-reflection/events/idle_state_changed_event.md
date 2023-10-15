@@ -5,11 +5,13 @@ has_children: false
 parent: Event
 grand_parent: Game Reflection
 ---
-# IdleStateChangedEvent( ![ EntityEventBase ](/game-reflection/events/entity_event_base.md) )
+# IdleStateChangedEvent( [ EntityEventBase ](/docs/game-reflection/events/entity_event_base) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [int](/game-reflection/enums/int.md) | Idle |
-| [Entity](/game-reflection/classes/entity.md) | Entity |
+| [int](/docs/game-reflection/enums/int) | Idle |
+| [Entity](/docs/game-reflection/classes/entity) | Entity |
+

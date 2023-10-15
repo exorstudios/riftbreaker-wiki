@@ -5,12 +5,14 @@ has_children: false
 parent: Class
 grand_parent: Game Reflection
 ---
-# WaveGround( ![ LuaBehaviourNode ](/game-reflection/classes/lua_behaviour_node.md) )
+# WaveGround( [ LuaBehaviourNode ](/docs/game-reflection/classes/lua_behaviour_node) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [WaveDesc](/game-reflection/components/wave_desc.md) | wave_desc |
-| Vector< [Entity](/game-reflection/classes/entity.md) > | wave_entities |
-| [Entity](/game-reflection/classes/entity.md) | wave_entity |
+| [WaveDesc](/docs/game-reflection/components/wave_desc) | wave_desc |
+| Vector< [Entity](/docs/game-reflection/classes/entity) > | wave_entities |
+| [Entity](/docs/game-reflection/classes/entity) | wave_entity |
+

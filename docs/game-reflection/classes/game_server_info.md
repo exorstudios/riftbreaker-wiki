@@ -9,8 +9,10 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [String](/game-reflection/components/string.md) | biome_name |
-| [String](/game-reflection/components/string.md) | mission_name |
-| [bool](/game-reflection/components/bool.md) | has_headquarters |
+| [String](/docs/game-reflection/components/string) | biome_name |
+| [String](/docs/game-reflection/components/string) | mission_name |
+| [bool](/docs/game-reflection/components/bool) | has_headquarters |
+

@@ -9,6 +9,8 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [GridSpatialCoords](/game-reflection/classes/grid_spatial_coords.md) | coords |
+| [GridSpatialCoords](/docs/game-reflection/classes/grid_spatial_coords) | coords |
+

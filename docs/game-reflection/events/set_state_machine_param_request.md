@@ -5,12 +5,14 @@ has_children: false
 parent: Event
 grand_parent: Game Reflection
 ---
-# SetStateMachineParamRequest( ![ EntityEventBase ](/game-reflection/events/entity_event_base.md) )
+# SetStateMachineParamRequest( [ EntityEventBase ](/docs/game-reflection/events/entity_event_base) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [String](/game-reflection/components/string.md) | Param |
-| [int](/game-reflection/enums/int.md) | Value |
-| [Entity](/game-reflection/classes/entity.md) | Entity |
+| [String](/docs/game-reflection/components/string) | Param |
+| [int](/docs/game-reflection/enums/int) | Value |
+| [Entity](/docs/game-reflection/classes/entity) | Entity |
+

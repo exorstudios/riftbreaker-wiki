@@ -9,9 +9,11 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [ResourceAccount](/game-reflection/classes/resource_account.md) | connection_account |
-| Vector< [uint](/game-reflection/components/uint.md) > | indexes |
-| Vector< [uint64](/game-reflection/components/uint64.md) > | inputs |
-| Vector< [uint64](/game-reflection/components/uint64.md) > | outputs |
+| [ResourceAccount](/docs/game-reflection/classes/resource_account) | connection_account |
+| Vector< [uint](/docs/game-reflection/components/uint) > | indexes |
+| Vector< [uint64](/docs/game-reflection/components/uint64) > | inputs |
+| Vector< [uint64](/docs/game-reflection/components/uint64) > | outputs |
+

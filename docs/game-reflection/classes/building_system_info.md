@@ -9,14 +9,16 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| Vector< [Entity](/game-reflection/classes/entity.md) > | to_init |
-| [ModifiableValue](/game-reflection/classes/modifiable_value.md) | wind_power_base |
-| [float](/game-reflection/components/float.md) | solar_power_factor |
-| Vector< [BuildingInProgressInfo](/game-reflection/classes/building_in_progress_info.md) > | in_progress |
-| Vector< [Entity](/game-reflection/classes/entity.md) > | to_fix_rotation |
-| [float](/game-reflection/components/float.md) | wind_power_factor |
-| [float](/game-reflection/components/float.md) | geothermal_power_factor |
-| [int](/game-reflection/enums/int.md) | version |
-| [ModifiableValue](/game-reflection/classes/modifiable_value.md) | solar_power_base |
+| Vector< [Entity](/docs/game-reflection/classes/entity) > | to_init |
+| [ModifiableValue](/docs/game-reflection/classes/modifiable_value) | wind_power_base |
+| [float](/docs/game-reflection/components/float) | solar_power_factor |
+| Vector< [BuildingInProgressInfo](/docs/game-reflection/classes/building_in_progress_info) > | in_progress |
+| Vector< [Entity](/docs/game-reflection/classes/entity) > | to_fix_rotation |
+| [float](/docs/game-reflection/components/float) | wind_power_factor |
+| [float](/docs/game-reflection/components/float) | geothermal_power_factor |
+| [int](/docs/game-reflection/enums/int) | version |
+| [ModifiableValue](/docs/game-reflection/classes/modifiable_value) | solar_power_base |
+

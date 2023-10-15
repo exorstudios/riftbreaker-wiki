@@ -9,11 +9,13 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [float](/game-reflection/components/float.md) | time_to_hatch |
-| [float](/game-reflection/components/float.md) | hatch_timer |
-| [bool](/game-reflection/components/bool.md) | freeze_hatch |
-| [IdString](/game-reflection/components/id_string.md) | blueprint |
-| [Entity](/game-reflection/classes/entity.md) | spawner_entity |
-| [IdString](/game-reflection/components/id_string.md) | unit_state_spawn |
+| [float](/docs/game-reflection/components/float) | time_to_hatch |
+| [float](/docs/game-reflection/components/float) | hatch_timer |
+| [bool](/docs/game-reflection/components/bool) | freeze_hatch |
+| [IdString](/docs/game-reflection/components/id_string) | blueprint |
+| [Entity](/docs/game-reflection/classes/entity) | spawner_entity |
+| [IdString](/docs/game-reflection/components/id_string) | unit_state_spawn |
+

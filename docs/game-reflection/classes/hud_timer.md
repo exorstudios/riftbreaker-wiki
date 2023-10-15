@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [String](/game-reflection/components/string.md) | label |
-| [String](/game-reflection/components/string.md) | timer_string |
+| [String](/docs/game-reflection/components/string) | label |
+| [String](/docs/game-reflection/components/string) | timer_string |
+

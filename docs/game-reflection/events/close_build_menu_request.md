@@ -5,12 +5,14 @@ has_children: false
 parent: Event
 grand_parent: Game Reflection
 ---
-# CloseBuildMenuRequest( ![ EntityEventBase ](/game-reflection/events/entity_event_base.md) )
+# CloseBuildMenuRequest( [ EntityEventBase ](/docs/game-reflection/events/entity_event_base) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [uint](/game-reflection/components/uint.md) | PlayerId |
-| [bool](/game-reflection/components/bool.md) | FullExit |
-| [Entity](/game-reflection/classes/entity.md) | Entity |
+| [uint](/docs/game-reflection/components/uint) | PlayerId |
+| [bool](/docs/game-reflection/components/bool) | FullExit |
+| [Entity](/docs/game-reflection/classes/entity) | Entity |
+

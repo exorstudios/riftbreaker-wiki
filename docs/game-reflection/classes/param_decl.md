@@ -9,8 +9,10 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [IdString](/game-reflection/components/id_string.md) | param_name |
-| [int](/game-reflection/enums/int.md) | data_type |
-| [bool](/game-reflection/components/bool.md) | is_const |
+| [IdString](/docs/game-reflection/components/id_string) | param_name |
+| [int](/docs/game-reflection/enums/int) | data_type |
+| [bool](/docs/game-reflection/components/bool) | is_const |
+

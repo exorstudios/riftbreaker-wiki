@@ -5,12 +5,14 @@ has_children: false
 parent: Event
 grand_parent: Game Reflection
 ---
-# ResourceDiscoveredEvent( ![ EntityEventBase ](/game-reflection/events/entity_event_base.md) )
+# ResourceDiscoveredEvent( [ EntityEventBase ](/docs/game-reflection/events/entity_event_base) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [float](/game-reflection/components/float.md) | ResourceAmount |
-| [String](/game-reflection/components/string.md) | ResourceName |
-| [Entity](/game-reflection/classes/entity.md) | Entity |
+| [float](/docs/game-reflection/components/float) | ResourceAmount |
+| [String](/docs/game-reflection/components/string) | ResourceName |
+| [Entity](/docs/game-reflection/classes/entity) | Entity |
+

@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [float](/game-reflection/components/float.md) | keep_height_speed |
-| [float](/game-reflection/components/float.md) | dynamic_height |
+| [float](/docs/game-reflection/components/float) | keep_height_speed |
+| [float](/docs/game-reflection/components/float) | dynamic_height |
+

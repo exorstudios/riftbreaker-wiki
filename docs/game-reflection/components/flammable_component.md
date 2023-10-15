@@ -9,13 +9,15 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [float](/game-reflection/components/float.md) | burned_recovery_time |
-| [float](/game-reflection/components/float.md) | fire_spread_radius |
-| [float](/game-reflection/components/float.md) | burned_ember_time |
-| [float](/game-reflection/components/float.md) | fire_spread_interval |
-| [float](/game-reflection/components/float.md) | burned_min_glow |
-| [bool](/game-reflection/components/bool.md) | disable_light_fade_out |
-| [float](/game-reflection/components/float.md) | fire_probability |
-| [float](/game-reflection/components/float.md) | burning_time |
+| [float](/docs/game-reflection/components/float) | burned_recovery_time |
+| [float](/docs/game-reflection/components/float) | fire_spread_radius |
+| [float](/docs/game-reflection/components/float) | burned_ember_time |
+| [float](/docs/game-reflection/components/float) | fire_spread_interval |
+| [float](/docs/game-reflection/components/float) | burned_min_glow |
+| [bool](/docs/game-reflection/components/bool) | disable_light_fade_out |
+| [float](/docs/game-reflection/components/float) | fire_probability |
+| [float](/docs/game-reflection/components/float) | burning_time |
+

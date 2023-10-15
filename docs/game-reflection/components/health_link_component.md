@@ -9,8 +9,10 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| Vector< [Pair_intEntity](/game-reflection/classes/pair_int_entity.md) > | links |
-| Vector< [Pair_intEntity](/game-reflection/classes/pair_int_entity.md) > | to_add |
-| Vector< [Entity](/game-reflection/classes/entity.md) > | to_remove |
+| Vector< [Pair_intEntity](/docs/game-reflection/classes/pair_int_entity) > | links |
+| Vector< [Pair_intEntity](/docs/game-reflection/classes/pair_int_entity) > | to_add |
+| Vector< [Entity](/docs/game-reflection/classes/entity) > | to_remove |
+

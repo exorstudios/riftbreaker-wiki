@@ -5,10 +5,12 @@ has_children: false
 parent: Class
 grand_parent: Game Reflection
 ---
-# IsActiveSystem( ![ System ](/game-reflection/classes/system.md) )
+# IsActiveSystem( [ System ](/docs/game-reflection/classes/system) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| Vector< [Entity](/game-reflection/classes/entity.md) > | active_entities |
+| Vector< [Entity](/docs/game-reflection/classes/entity) > | active_entities |
+

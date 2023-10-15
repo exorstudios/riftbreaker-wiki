@@ -9,8 +9,10 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [float](/game-reflection/components/float.md) | amount |
-| [String](/game-reflection/components/string.md) | resource |
-| [float](/game-reflection/components/float.md) | count |
+| [float](/docs/game-reflection/components/float) | amount |
+| [String](/docs/game-reflection/components/string) | resource |
+| [float](/docs/game-reflection/components/float) | count |
+

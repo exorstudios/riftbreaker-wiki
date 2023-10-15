@@ -9,12 +9,14 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [int](/game-reflection/enums/int.md) | mode |
-| [Entity](/game-reflection/classes/entity.md) | max_radius_ent |
-| [IdString](/game-reflection/components/id_string.md) | min_radius_blueprint |
-| [Entity](/game-reflection/classes/entity.md) | min_radius_ent |
-| [float](/game-reflection/components/float.md) | min_radius |
-| [float](/game-reflection/components/float.md) | max_radius |
-| [IdString](/game-reflection/components/id_string.md) | max_radius_blueprint |
+| [int](/docs/game-reflection/enums/int) | mode |
+| [Entity](/docs/game-reflection/classes/entity) | max_radius_ent |
+| [IdString](/docs/game-reflection/components/id_string) | min_radius_blueprint |
+| [Entity](/docs/game-reflection/classes/entity) | min_radius_ent |
+| [float](/docs/game-reflection/components/float) | min_radius |
+| [float](/docs/game-reflection/components/float) | max_radius |
+| [IdString](/docs/game-reflection/components/id_string) | max_radius_blueprint |
+

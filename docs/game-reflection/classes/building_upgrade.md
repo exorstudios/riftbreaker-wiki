@@ -9,14 +9,16 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [bool](/game-reflection/components/bool.md) | is_new |
-| [String](/game-reflection/components/string.md) | name |
-| [bool](/game-reflection/components/bool.md) | can_not_afford |
-| [bool](/game-reflection/components/bool.md) | extra_highlight |
-| [int](/game-reflection/enums/int.md) | level |
-| [bool](/game-reflection/components/bool.md) | is_enabled |
-| [bool](/game-reflection/components/bool.md) | is_active |
-| [String](/game-reflection/components/string.md) | disabled_icon_material |
-| [String](/game-reflection/components/string.md) | icon_material |
+| [bool](/docs/game-reflection/components/bool) | is_new |
+| [String](/docs/game-reflection/components/string) | name |
+| [bool](/docs/game-reflection/components/bool) | can_not_afford |
+| [bool](/docs/game-reflection/components/bool) | extra_highlight |
+| [int](/docs/game-reflection/enums/int) | level |
+| [bool](/docs/game-reflection/components/bool) | is_enabled |
+| [bool](/docs/game-reflection/components/bool) | is_active |
+| [String](/docs/game-reflection/components/string) | disabled_icon_material |
+| [String](/docs/game-reflection/components/string) | icon_material |
+

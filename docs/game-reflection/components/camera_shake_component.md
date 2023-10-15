@@ -9,12 +9,14 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [float](/game-reflection/components/float.md) | frequency |
-| [float](/game-reflection/components/float.md) | radius |
-| [IdString](/game-reflection/components/id_string.md) | group |
-| [float](/game-reflection/components/float.md) | falloff_radius |
-| [float](/game-reflection/components/float.md) | time |
-| [float](/game-reflection/components/float.md) | duration |
-| [float](/game-reflection/components/float.md) | power |
+| [float](/docs/game-reflection/components/float) | frequency |
+| [float](/docs/game-reflection/components/float) | radius |
+| [IdString](/docs/game-reflection/components/id_string) | group |
+| [float](/docs/game-reflection/components/float) | falloff_radius |
+| [float](/docs/game-reflection/components/float) | time |
+| [float](/docs/game-reflection/components/float) | duration |
+| [float](/docs/game-reflection/components/float) | power |
+

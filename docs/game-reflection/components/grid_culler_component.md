@@ -9,10 +9,12 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [Vector3](/game-reflection/classes/vector3.md) | last_pos |
-| Vector< [uint](/game-reflection/components/uint.md) > | indexes |
-| Vector< [Entity](/game-reflection/classes/entity.md) > | terrain_cell_entities |
-| [uint](/game-reflection/components/uint.md) | type |
-| Vector< [PhysicsShape](/game-reflection/classes/physics_shape.md) > | Shapes |
+| [Vector3](/docs/game-reflection/classes/vector3) | last_pos |
+| Vector< [uint](/docs/game-reflection/components/uint) > | indexes |
+| Vector< [Entity](/docs/game-reflection/classes/entity) > | terrain_cell_entities |
+| [uint](/docs/game-reflection/components/uint) | type |
+| Vector< [PhysicsShape](/docs/game-reflection/classes/physics_shape) > | Shapes |
+

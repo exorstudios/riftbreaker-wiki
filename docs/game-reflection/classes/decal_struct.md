@@ -9,14 +9,16 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| Vector< [Vector3](/game-reflection/classes/vector3.md) > | forward |
-| Vector< [Vector3](/game-reflection/classes/vector3.md) > | pos |
-| [Vector3](/game-reflection/classes/vector3.md) | normal |
-| [float](/game-reflection/components/float.md) | max_dist |
-| [IdString](/game-reflection/components/id_string.md) | bp |
-| Vector< [Pair_Rayuint](/game-reflection/classes/pair__rayuint.md) > | rays |
-| [Vector3](/game-reflection/classes/vector3.md) | scale |
-| [float](/game-reflection/components/float.md) | min_dist |
-| [Entity](/game-reflection/classes/entity.md) | ent |
+| Vector< [Vector3](/docs/game-reflection/classes/vector3) > | forward |
+| Vector< [Vector3](/docs/game-reflection/classes/vector3) > | pos |
+| [Vector3](/docs/game-reflection/classes/vector3) | normal |
+| [float](/docs/game-reflection/components/float) | max_dist |
+| [IdString](/docs/game-reflection/components/id_string) | bp |
+| Vector< [Pair_Rayuint](/docs/game-reflection/classes/pair__rayuint) > | rays |
+| [Vector3](/docs/game-reflection/classes/vector3) | scale |
+| [float](/docs/game-reflection/components/float) | min_dist |
+| [Entity](/docs/game-reflection/classes/entity) | ent |
+

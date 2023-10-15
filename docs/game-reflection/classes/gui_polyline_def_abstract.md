@@ -9,8 +9,10 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [uchar](/game-reflection/enums/uchar.md) | line_type |
-| Vector< [Vector2](/game-reflection/classes/vector2.md) > | points |
-| [float](/game-reflection/components/float.md) | width |
+| [uchar](/docs/game-reflection/enums/uchar) | line_type |
+| Vector< [Vector2](/docs/game-reflection/classes/vector2) > | points |
+| [float](/docs/game-reflection/components/float) | width |
+

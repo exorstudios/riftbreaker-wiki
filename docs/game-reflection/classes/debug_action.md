@@ -9,8 +9,10 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [String](/game-reflection/components/string.md) | localization |
-| [bool](/game-reflection/components/bool.md) | filter_match |
-| [uint64](/game-reflection/components/uint64.md) | count |
+| [String](/docs/game-reflection/components/string) | localization |
+| [bool](/docs/game-reflection/components/bool) | filter_match |
+| [uint64](/docs/game-reflection/components/uint64) | count |
+

@@ -9,8 +9,10 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [Vector3](/game-reflection/classes/vector3.md) | origin |
-| [uint](/game-reflection/components/uint.md) | graph_cost |
-| [uint](/game-reflection/components/uint.md) | type |
+| [Vector3](/docs/game-reflection/classes/vector3) | origin |
+| [uint](/docs/game-reflection/components/uint) | graph_cost |
+| [uint](/docs/game-reflection/components/uint) | type |
+

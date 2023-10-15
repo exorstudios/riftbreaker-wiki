@@ -5,12 +5,14 @@ has_children: false
 parent: Event
 grand_parent: Game Reflection
 ---
-# AddAccelerationModifierRequest( ![ EntityEventBase ](/game-reflection/events/entity_event_base.md) )
+# AddAccelerationModifierRequest( [ EntityEventBase ](/docs/game-reflection/events/entity_event_base) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [IdString](/game-reflection/components/id_string.md) | ModifierName |
-| [float](/game-reflection/components/float.md) | ModifierValue |
-| [Entity](/game-reflection/classes/entity.md) | Entity |
+| [IdString](/docs/game-reflection/components/id_string) | ModifierName |
+| [float](/docs/game-reflection/components/float) | ModifierValue |
+| [Entity](/docs/game-reflection/classes/entity) | Entity |
+

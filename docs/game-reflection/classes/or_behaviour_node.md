@@ -5,11 +5,13 @@ has_children: false
 parent: Class
 grand_parent: Game Reflection
 ---
-# OrBehaviourNode( ![ FlowGraphNode ](/game-reflection/classes/flow_graph_node.md) )
+# OrBehaviourNode( [ FlowGraphNode ](/docs/game-reflection/classes/flow_graph_node) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [bool](/game-reflection/components/bool.md) | activated |
-| [bool](/game-reflection/components/bool.md) | activate_once |
+| [bool](/docs/game-reflection/components/bool) | activated |
+| [bool](/docs/game-reflection/components/bool) | activate_once |
+

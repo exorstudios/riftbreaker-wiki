@@ -9,13 +9,15 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [IdString](/game-reflection/components/id_string.md) | name |
-| [bool](/game-reflection/components/bool.md) | always_kill |
-| [IdString](/game-reflection/components/id_string.md) | group |
-| [float](/game-reflection/components/float.md) | damage_amount |
-| [uint64](/game-reflection/components/uint64.md) | type |
-| [uint](/game-reflection/components/uint.md) | team |
-| [uint](/game-reflection/components/uint.md) | collision |
-| Vector< [PhysicsShape](/game-reflection/classes/physics_shape.md) > | Shapes |
+| [IdString](/docs/game-reflection/components/id_string) | name |
+| [bool](/docs/game-reflection/components/bool) | always_kill |
+| [IdString](/docs/game-reflection/components/id_string) | group |
+| [float](/docs/game-reflection/components/float) | damage_amount |
+| [uint64](/docs/game-reflection/components/uint64) | type |
+| [uint](/docs/game-reflection/components/uint) | team |
+| [uint](/docs/game-reflection/components/uint) | collision |
+| Vector< [PhysicsShape](/docs/game-reflection/classes/physics_shape) > | Shapes |
+

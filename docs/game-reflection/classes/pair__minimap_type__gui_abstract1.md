@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [GuiAbstract1](/game-reflection/components/gui_abstract1.md) | value |
-| [uchar](/game-reflection/enums/uchar.md) | key |
+| [GuiAbstract1](/docs/game-reflection/components/gui_abstract1) | value |
+| [uchar](/docs/game-reflection/enums/uchar) | key |
+

@@ -9,11 +9,13 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [uchar](/game-reflection/enums/uchar.md) | function_type |
-| [uchar](/game-reflection/enums/uchar.md) | rarity |
-| [IdString](/game-reflection/components/id_string.md) | damage_type |
-| [float](/game-reflection/components/float.md) | value |
-| [uchar](/game-reflection/enums/uchar.md) | stat_type |
-| [uchar](/game-reflection/enums/uchar.md) | value_type |
+| [uchar](/docs/game-reflection/enums/uchar) | function_type |
+| [uchar](/docs/game-reflection/enums/uchar) | rarity |
+| [IdString](/docs/game-reflection/components/id_string) | damage_type |
+| [float](/docs/game-reflection/components/float) | value |
+| [uchar](/docs/game-reflection/enums/uchar) | stat_type |
+| [uchar](/docs/game-reflection/enums/uchar) | value_type |
+

@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [GuiScriptCommandDef2](/game-reflection/components/gui_script_command_def2.md) | cmd |
-| Vector< [GuiScriptNodeDef](/game-reflection/classes/gui_script_node_def.md) > | children |
+| [GuiScriptCommandDef2](/docs/game-reflection/components/gui_script_command_def2) | cmd |
+| Vector< [GuiScriptNodeDef](/docs/game-reflection/classes/gui_script_node_def) > | children |
+

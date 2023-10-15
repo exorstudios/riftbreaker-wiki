@@ -5,12 +5,14 @@ has_children: false
 parent: Class
 grand_parent: Game Reflection
 ---
-# AnimationGraphLayer( ![ AnimationStateMachineNode ](/game-reflection/classes/animation_state_machine_node.md) )
+# AnimationGraphLayer( [ AnimationStateMachineNode ](/docs/game-reflection/classes/animation_state_machine_node) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [String](/game-reflection/components/string.md) | name |
-| [int](/game-reflection/enums/int.md) | blend_type |
-| [String](/game-reflection/components/string.md) | bone_group |
+| [String](/docs/game-reflection/components/string) | name |
+| [int](/docs/game-reflection/enums/int) | blend_type |
+| [String](/docs/game-reflection/components/string) | bone_group |
+

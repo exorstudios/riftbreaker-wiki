@@ -9,12 +9,14 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [IdString](/game-reflection/components/id_string.md) | blueprint |
-| [Timer](/game-reflection/classes/timer.md) | delay_timer |
-| [Timer](/game-reflection/classes/timer.md) | delay_group_timer |
-| [float](/game-reflection/components/float.md) | delay |
-| [float](/game-reflection/components/float.md) | delay_group |
-| [int](/game-reflection/enums/int.md) | count |
-| [uint64](/game-reflection/components/uint64.md) | units_in_one_spawn |
+| [IdString](/docs/game-reflection/components/id_string) | blueprint |
+| [Timer](/docs/game-reflection/classes/timer) | delay_timer |
+| [Timer](/docs/game-reflection/classes/timer) | delay_group_timer |
+| [float](/docs/game-reflection/components/float) | delay |
+| [float](/docs/game-reflection/components/float) | delay_group |
+| [int](/docs/game-reflection/enums/int) | count |
+| [uint64](/docs/game-reflection/components/uint64) | units_in_one_spawn |
+

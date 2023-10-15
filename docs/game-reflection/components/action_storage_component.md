@@ -9,11 +9,13 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [bool](/game-reflection/components/bool.md) | build_mode_blocked |
-| [Vector2](/game-reflection/classes/vector2.md) | last_cursor_pos |
-| [Vector3](/game-reflection/classes/vector3.md) | point |
-| [float](/game-reflection/components/float.md) | last_up_down |
-| [float](/game-reflection/components/float.md) | last_left_right |
-| [Vector3](/game-reflection/classes/vector3.md) | last_dir |
+| [bool](/docs/game-reflection/components/bool) | build_mode_blocked |
+| [Vector2](/docs/game-reflection/classes/vector2) | last_cursor_pos |
+| [Vector3](/docs/game-reflection/classes/vector3) | point |
+| [float](/docs/game-reflection/components/float) | last_up_down |
+| [float](/docs/game-reflection/components/float) | last_left_right |
+| [Vector3](/docs/game-reflection/classes/vector3) | last_dir |
+

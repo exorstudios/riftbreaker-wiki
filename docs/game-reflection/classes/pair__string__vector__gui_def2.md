@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| Vector< [GuiDef](/game-reflection/classes/gui_def.md) > | value |
-| [String](/game-reflection/components/string.md) | key |
+| Vector< [GuiDef](/docs/game-reflection/classes/gui_def) > | value |
+| [String](/docs/game-reflection/components/string) | key |
+

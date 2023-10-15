@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [float](/game-reflection/components/float.md) | value |
-| [GameplayResourceDefHolder](/game-reflection/components/gameplay_resource_def_holder.md) | key |
+| [float](/docs/game-reflection/components/float) | value |
+| [GameplayResourceDefHolder](/docs/game-reflection/components/gameplay_resource_def_holder) | key |
+

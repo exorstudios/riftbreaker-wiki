@@ -9,9 +9,11 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [uint](/game-reflection/components/uint.md) | search_to_spawn_radius |
-| [uint](/game-reflection/components/uint.md) | spawn_rate |
-| Vector< [CreatureVolume](/game-reflection/classes/creature_volume.md) > | species |
-| [uint](/game-reflection/components/uint.md) | max_count |
+| [uint](/docs/game-reflection/components/uint) | search_to_spawn_radius |
+| [uint](/docs/game-reflection/components/uint) | spawn_rate |
+| Vector< [CreatureVolume](/docs/game-reflection/classes/creature_volume) > | species |
+| [uint](/docs/game-reflection/components/uint) | max_count |
+

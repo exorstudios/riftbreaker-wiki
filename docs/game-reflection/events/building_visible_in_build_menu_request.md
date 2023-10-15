@@ -5,12 +5,14 @@ has_children: false
 parent: Event
 grand_parent: Game Reflection
 ---
-# BuildingVisibleInBuildMenuRequest( ![ EntityEventBase ](/game-reflection/events/entity_event_base.md) )
+# BuildingVisibleInBuildMenuRequest( [ EntityEventBase ](/docs/game-reflection/events/entity_event_base) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [String](/game-reflection/components/string.md) | BuildingName |
-| [bool](/game-reflection/components/bool.md) | Status |
-| [Entity](/game-reflection/classes/entity.md) | Entity |
+| [String](/docs/game-reflection/components/string) | BuildingName |
+| [bool](/docs/game-reflection/components/bool) | Status |
+| [Entity](/docs/game-reflection/classes/entity) | Entity |
+

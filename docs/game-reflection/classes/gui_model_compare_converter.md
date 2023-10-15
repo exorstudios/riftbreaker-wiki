@@ -5,11 +5,13 @@ has_children: false
 parent: Class
 grand_parent: Game Reflection
 ---
-# GuiModelCompareConverter( ![ GuiModelConverter ](/game-reflection/classes/gui_model_converter.md) )
+# GuiModelCompareConverter( [ GuiModelConverter ](/docs/game-reflection/classes/gui_model_converter) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [String](/game-reflection/components/string.md) | ref_value |
-| [uchar](/game-reflection/enums/uchar.md) | compare_operator |
+| [String](/docs/game-reflection/components/string) | ref_value |
+| [uchar](/docs/game-reflection/enums/uchar) | compare_operator |
+

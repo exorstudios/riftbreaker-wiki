@@ -5,13 +5,15 @@ has_children: false
 parent: Class
 grand_parent: Game Reflection
 ---
-# LightQuadraticAffector( ![ AffectorLambda ](/game-reflection/classes/affector_lambda.md) )
+# LightQuadraticAffector( [ AffectorLambda ](/docs/game-reflection/classes/affector_lambda) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [float](/game-reflection/components/float.md) | end |
-| [float](/game-reflection/components/float.md) | start |
-| [float](/game-reflection/components/float.md) | timer |
-| [float](/game-reflection/components/float.md) | duration |
+| [float](/docs/game-reflection/components/float) | end |
+| [float](/docs/game-reflection/components/float) | start |
+| [float](/docs/game-reflection/components/float) | timer |
+| [float](/docs/game-reflection/components/float) | duration |
+

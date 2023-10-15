@@ -9,8 +9,10 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [Timer](/game-reflection/classes/timer.md) | timer |
-| [IdString](/game-reflection/components/id_string.md) | tag |
-| [Degree](/game-reflection/classes/degree.md) | angle |
+| [Timer](/docs/game-reflection/classes/timer) | timer |
+| [IdString](/docs/game-reflection/components/id_string) | tag |
+| [Degree](/docs/game-reflection/classes/degree) | angle |
+

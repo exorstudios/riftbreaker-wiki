@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [int64](/game-reflection/components/int64.md) | logic_time |
-| [float](/game-reflection/components/float.md) | logic_dt |
+| [int64](/docs/game-reflection/components/int64) | logic_time |
+| [float](/docs/game-reflection/components/float) | logic_dt |
+

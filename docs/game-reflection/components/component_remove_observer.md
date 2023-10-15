@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [uint64](/game-reflection/components/uint64.md) | component_id |
-| Vector< [Entity](/game-reflection/classes/entity.md) > | entities_remove_vec |
+| [uint64](/docs/game-reflection/components/uint64) | component_id |
+| Vector< [Entity](/docs/game-reflection/classes/entity) > | entities_remove_vec |
+

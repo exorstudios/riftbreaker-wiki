@@ -5,10 +5,12 @@ has_children: false
 parent: Class
 grand_parent: Game Reflection
 ---
-# BuildingLayer( ![ CellLayer ](/game-reflection/classes/cell_layer.md) )
+# BuildingLayer( [ CellLayer ](/docs/game-reflection/classes/cell_layer) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [StringHash](/game-reflection/classes/string_hash.md) | building |
+| [StringHash](/docs/game-reflection/classes/string_hash) | building |
+

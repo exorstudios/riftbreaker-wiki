@@ -9,12 +9,14 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [String](/game-reflection/components/string.md) | environment |
-| [float](/game-reflection/components/float.md) | sun_roll |
-| [float](/game-reflection/components/float.md) | specular_intensity |
-| [String](/game-reflection/components/string.md) | specular |
-| [String](/game-reflection/components/string.md) | diffuse |
-| [float](/game-reflection/components/float.md) | sun_yaw |
-| [float](/game-reflection/components/float.md) | diffuse_intensity |
+| [String](/docs/game-reflection/components/string) | environment |
+| [float](/docs/game-reflection/components/float) | sun_roll |
+| [float](/docs/game-reflection/components/float) | specular_intensity |
+| [String](/docs/game-reflection/components/string) | specular |
+| [String](/docs/game-reflection/components/string) | diffuse |
+| [float](/docs/game-reflection/components/float) | sun_yaw |
+| [float](/docs/game-reflection/components/float) | diffuse_intensity |
+

@@ -5,11 +5,13 @@ has_children: false
 parent: Class
 grand_parent: Game Reflection
 ---
-# AnimationEvalNode( ![ AnimationStateNode ](/game-reflection/classes/animation_state_node.md) )
+# AnimationEvalNode( [ AnimationStateNode ](/docs/game-reflection/classes/animation_state_node) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| Vector< [EvalNodeDependency](/game-reflection/classes/eval_node_dependency.md) > | dependency_vec |
-| [ushort](/game-reflection/enums/ushort.md) | id |
+| Vector< [EvalNodeDependency](/docs/game-reflection/classes/eval_node_dependency) > | dependency_vec |
+| [ushort](/docs/game-reflection/enums/ushort) | id |
+

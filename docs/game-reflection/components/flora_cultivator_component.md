@@ -9,6 +9,8 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [PrefabVariantInstance](/game-reflection/classes/prefab_variant_instance.md) | prefab |
+| [PrefabVariantInstance](/docs/game-reflection/classes/prefab_variant_instance) | prefab |
+

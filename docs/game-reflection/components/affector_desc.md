@@ -9,6 +9,8 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| Vector< [AffectorLambdaDesc](/game-reflection/components/affector_lambda_desc.md) > | affector_lambda_desc_vec |
+| Vector< [AffectorLambdaDesc](/docs/game-reflection/components/affector_lambda_desc) > | affector_lambda_desc_vec |
+

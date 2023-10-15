@@ -9,15 +9,17 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [uint](/game-reflection/components/uint.md) | button_click_counter |
-| Vector< [MeleeDamageRequest](/game-reflection/classes/melee_damage_request.md) > | damage_request_vec |
-| [float](/game-reflection/components/float.md) | affector_time |
-| [float](/game-reflection/components/float.md) | affector_power |
-| [Entity](/game-reflection/classes/entity.md) | entity |
-| [EntityBlueprintHolder](/game-reflection/components/entity_blueprint_holder.md) | blueprint |
-| Vector< [MeleeAttackRequest](/game-reflection/classes/melee_attack_request.md) > | attack_request_vec |
-| [Entity](/game-reflection/classes/entity.md) | owner |
-| [bool](/game-reflection/components/bool.md) | button_holded |
-| [World1](/game-reflection/components/world1.md) | world |
+| [uint](/docs/game-reflection/components/uint) | button_click_counter |
+| Vector< [MeleeDamageRequest](/docs/game-reflection/classes/melee_damage_request) > | damage_request_vec |
+| [float](/docs/game-reflection/components/float) | affector_time |
+| [float](/docs/game-reflection/components/float) | affector_power |
+| [Entity](/docs/game-reflection/classes/entity) | entity |
+| [EntityBlueprintHolder](/docs/game-reflection/components/entity_blueprint_holder) | blueprint |
+| Vector< [MeleeAttackRequest](/docs/game-reflection/classes/melee_attack_request) > | attack_request_vec |
+| [Entity](/docs/game-reflection/classes/entity) | owner |
+| [bool](/docs/game-reflection/components/bool) | button_holded |
+| [World1](/docs/game-reflection/components/world1) | world |
+

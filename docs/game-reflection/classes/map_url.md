@@ -9,12 +9,14 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [int](/game-reflection/enums/int.md) | counter |
-| Vector< [Vector3](/game-reflection/classes/vector3.md) > | mamap_coords |
-| [bool](/game-reflection/components/bool.md) | save |
-| [String](/game-reflection/components/string.md) | resource_name |
-| [int](/game-reflection/enums/int.md) | status |
-| [String](/game-reflection/components/string.md) | save_path |
-| [String](/game-reflection/components/string.md) | mission_name |
+| [int](/docs/game-reflection/enums/int) | counter |
+| Vector< [Vector3](/docs/game-reflection/classes/vector3) > | mamap_coords |
+| [bool](/docs/game-reflection/components/bool) | save |
+| [String](/docs/game-reflection/components/string) | resource_name |
+| [int](/docs/game-reflection/enums/int) | status |
+| [String](/docs/game-reflection/components/string) | save_path |
+| [String](/docs/game-reflection/components/string) | mission_name |
+

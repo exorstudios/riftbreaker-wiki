@@ -9,8 +9,10 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [Database](/game-reflection/components/database.md) | db |
-| [int](/game-reflection/enums/int.md) | type |
-| [int64](/game-reflection/components/int64.md) | time_stamp |
+| [Database](/docs/game-reflection/components/database) | db |
+| [int](/docs/game-reflection/enums/int) | type |
+| [int64](/docs/game-reflection/components/int64) | time_stamp |
+

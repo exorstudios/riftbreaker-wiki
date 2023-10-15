@@ -9,9 +9,11 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [Vector3](/game-reflection/classes/vector3.md) | Origin |
-| [float](/game-reflection/components/float.md) | Radius |
-| [bool](/game-reflection/components/bool.md) | DisbandGroup |
-| [IdString](/game-reflection/components/id_string.md) | State |
+| [Vector3](/docs/game-reflection/classes/vector3) | Origin |
+| [float](/docs/game-reflection/components/float) | Radius |
+| [bool](/docs/game-reflection/components/bool) | DisbandGroup |
+| [IdString](/docs/game-reflection/components/id_string) | State |
+

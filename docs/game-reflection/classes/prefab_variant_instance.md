@@ -9,8 +9,10 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [Transform](/game-reflection/classes/transform.md) | transform |
-| [IdString](/game-reflection/components/id_string.md) | variant |
-| [ResourceHandle_TileablePrefab](/game-reflection/components/resource_handle__tileable_prefab.md) | prefab |
+| [Transform](/docs/game-reflection/classes/transform) | transform |
+| [IdString](/docs/game-reflection/components/id_string) | variant |
+| [ResourceHandle_TileablePrefab](/docs/game-reflection/components/resource_handle__tileable_prefab) | prefab |
+

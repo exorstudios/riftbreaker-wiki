@@ -5,11 +5,13 @@ has_children: false
 parent: Event
 grand_parent: Game Reflection
 ---
-# DeactivateEquipmentRequest( ![ EntityEventBase ](/game-reflection/events/entity_event_base.md) )
+# DeactivateEquipmentRequest( [ EntityEventBase ](/docs/game-reflection/events/entity_event_base) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [Entity](/game-reflection/classes/entity.md) | Owner |
-| [bool](/game-reflection/components/bool.md) | Forced |
+| [Entity](/docs/game-reflection/classes/entity) | Owner |
+| [bool](/docs/game-reflection/components/bool) | Forced |
+

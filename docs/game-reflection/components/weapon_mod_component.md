@@ -9,6 +9,8 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [WeaponModData](/game-reflection/classes/weapon_mod_data.md) | mod_data |
+| [WeaponModData](/docs/game-reflection/classes/weapon_mod_data) | mod_data |
+

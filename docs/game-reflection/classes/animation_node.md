@@ -9,6 +9,8 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [AnimationNodeMetaData4](/game-reflection/components/animation_node_meta_data4.md) | metadata |
+| [AnimationNodeMetaData4](/docs/game-reflection/components/animation_node_meta_data4) | metadata |
+

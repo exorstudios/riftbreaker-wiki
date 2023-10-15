@@ -9,6 +9,8 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [SimpleMovement4](/game-reflection/components/simple_movement4.md) | movement |
+| [SimpleMovement4](/docs/game-reflection/components/simple_movement4) | movement |
+

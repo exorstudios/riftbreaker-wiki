@@ -9,12 +9,14 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [bool](/game-reflection/components/bool.md) | initialized |
-| [float](/game-reflection/components/float.md) | geothermal_power |
-| [String](/game-reflection/components/string.md) | id |
-| [float](/game-reflection/components/float.md) | wind_power |
-| [LogicTimer](/game-reflection/classes/logic_timer.md) | timer |
-| [float](/game-reflection/components/float.md) | solar_power |
-| [String](/game-reflection/components/string.md) | global_effect |
+| [bool](/docs/game-reflection/components/bool) | initialized |
+| [float](/docs/game-reflection/components/float) | geothermal_power |
+| [String](/docs/game-reflection/components/string) | id |
+| [float](/docs/game-reflection/components/float) | wind_power |
+| [LogicTimer](/docs/game-reflection/classes/logic_timer) | timer |
+| [float](/docs/game-reflection/components/float) | solar_power |
+| [String](/docs/game-reflection/components/string) | global_effect |
+

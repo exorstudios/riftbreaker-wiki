@@ -9,11 +9,13 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [float](/game-reflection/components/float.md) | max_angular_speed |
-| [float](/game-reflection/components/float.md) | yaw_speed |
-| [float](/game-reflection/components/float.md) | max_linear_speed |
-| [uchar](/game-reflection/enums/uchar.md) | free_look_mode |
-| [float](/game-reflection/components/float.md) | linear_speed |
-| [float](/game-reflection/components/float.md) | pitch_speed |
+| [float](/docs/game-reflection/components/float) | max_angular_speed |
+| [float](/docs/game-reflection/components/float) | yaw_speed |
+| [float](/docs/game-reflection/components/float) | max_linear_speed |
+| [uchar](/docs/game-reflection/enums/uchar) | free_look_mode |
+| [float](/docs/game-reflection/components/float) | linear_speed |
+| [float](/docs/game-reflection/components/float) | pitch_speed |
+

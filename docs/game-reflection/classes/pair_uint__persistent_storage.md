@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [PersistentStorage](/game-reflection/classes/persistent_storage.md) | value |
-| [uint](/game-reflection/components/uint.md) | key |
+| [PersistentStorage](/docs/game-reflection/classes/persistent_storage) | value |
+| [uint](/docs/game-reflection/components/uint) | key |
+

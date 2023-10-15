@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [String](/game-reflection/components/string.md) | target_blueprint |
-| [String](/game-reflection/components/string.md) | creator_blueprint |
+| [String](/docs/game-reflection/components/string) | target_blueprint |
+| [String](/docs/game-reflection/components/string) | creator_blueprint |
+

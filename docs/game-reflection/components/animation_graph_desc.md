@@ -9,8 +9,10 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [IdString](/game-reflection/components/id_string.md) | animation_graph_name |
-| [AnimationGraphInstanceDesc](/game-reflection/components/animation_graph_instance_desc.md) | instance_desc |
-| [IdString](/game-reflection/components/id_string.md) | group_name |
+| [IdString](/docs/game-reflection/components/id_string) | animation_graph_name |
+| [AnimationGraphInstanceDesc](/docs/game-reflection/components/animation_graph_instance_desc) | instance_desc |
+| [IdString](/docs/game-reflection/components/id_string) | group_name |
+

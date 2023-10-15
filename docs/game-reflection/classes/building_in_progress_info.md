@@ -9,9 +9,11 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [bool](/game-reflection/components/bool.md) | upgrading |
-| [Entity](/game-reflection/classes/entity.md) | building |
-| [Timer](/game-reflection/classes/timer.md) | timer |
-| [bool](/game-reflection/components/bool.md) | started |
+| [bool](/docs/game-reflection/components/bool) | upgrading |
+| [Entity](/docs/game-reflection/classes/entity) | building |
+| [Timer](/docs/game-reflection/classes/timer) | timer |
+| [bool](/docs/game-reflection/components/bool) | started |
+

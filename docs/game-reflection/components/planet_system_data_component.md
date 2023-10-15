@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| Vector< [Pair_String_Vector_Vector3](/game-reflection/classes/pair__string__vector__vector3.md) > | biom_to_position |
-| Vector< [Pair_uint_String](/game-reflection/classes/pair_uint__string.md) > | color_to_biome |
+| Vector< [Pair_String_Vector_Vector3](/docs/game-reflection/classes/pair__string__vector__vector3) > | biom_to_position |
+| Vector< [Pair_uint_String](/docs/game-reflection/classes/pair_uint__string) > | color_to_biome |
+

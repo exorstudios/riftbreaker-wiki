@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| Vector< [TypeAny](/game-reflection/components/type_any.md) > | replication_events |
-| [uint](/game-reflection/components/uint.md) | revision |
+| Vector< [TypeAny](/docs/game-reflection/components/type_any) > | replication_events |
+| [uint](/docs/game-reflection/components/uint) | revision |
+

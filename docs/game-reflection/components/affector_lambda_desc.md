@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [bool](/game-reflection/components/bool.md) | remove_on_completition |
-| [AffectorLambda4](/game-reflection/components/affector_lambda4.md) | affector_lambda |
+| [bool](/docs/game-reflection/components/bool) | remove_on_completition |
+| [AffectorLambda4](/docs/game-reflection/components/affector_lambda4) | affector_lambda |
+

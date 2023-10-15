@@ -5,14 +5,16 @@ has_children: false
 parent: Class
 grand_parent: Game Reflection
 ---
-# DebugSpawnUnit( ![ DebugAction ](/game-reflection/classes/debug_action.md) )
+# DebugSpawnUnit( [ DebugAction ](/docs/game-reflection/classes/debug_action) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [String](/game-reflection/components/string.md) | blueprint |
-| [String](/game-reflection/components/string.md) | selected_spawn_type |
-| [String](/game-reflection/components/string.md) | localization |
-| Vector< [String](/game-reflection/components/string.md) > | spawn_type |
-| [float](/game-reflection/components/float.md) | spawn_radius |
+| [String](/docs/game-reflection/components/string) | blueprint |
+| [String](/docs/game-reflection/components/string) | selected_spawn_type |
+| [String](/docs/game-reflection/components/string) | localization |
+| Vector< [String](/docs/game-reflection/components/string) > | spawn_type |
+| [float](/docs/game-reflection/components/float) | spawn_radius |
+

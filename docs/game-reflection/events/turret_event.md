@@ -5,13 +5,15 @@ has_children: false
 parent: Event
 grand_parent: Game Reflection
 ---
-# TurretEvent( ![ EntityEventBase ](/game-reflection/events/entity_event_base.md) )
+# TurretEvent( [ EntityEventBase ](/docs/game-reflection/events/entity_event_base) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [Entity](/game-reflection/classes/entity.md) | TurretEntity |
-| [Entity](/game-reflection/classes/entity.md) | TargetEntity |
-| [uchar](/game-reflection/enums/uchar.md) | TurretStatus |
-| [IdString](/game-reflection/components/id_string.md) | TurretName |
+| [Entity](/docs/game-reflection/classes/entity) | TurretEntity |
+| [Entity](/docs/game-reflection/classes/entity) | TargetEntity |
+| [uchar](/docs/game-reflection/enums/uchar) | TurretStatus |
+| [IdString](/docs/game-reflection/components/id_string) | TurretName |
+

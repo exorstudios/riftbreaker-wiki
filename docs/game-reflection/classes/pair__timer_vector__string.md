@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| Vector< [String](/game-reflection/components/string.md) > | second |
-| [Timer](/game-reflection/classes/timer.md) | first |
+| Vector< [String](/docs/game-reflection/components/string) > | second |
+| [Timer](/docs/game-reflection/classes/timer) | first |
+

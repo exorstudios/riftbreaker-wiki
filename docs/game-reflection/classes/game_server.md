@@ -9,14 +9,16 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [String](/game-reflection/components/string.md) | address |
-| [uint64](/game-reflection/components/uint64.md) | players |
-| [String](/game-reflection/components/string.md) | name |
-| [String](/game-reflection/components/string.md) | build |
-| [String](/game-reflection/components/string.md) | server_data |
-| [String](/game-reflection/components/string.md) | project |
-| [String](/game-reflection/components/string.md) | identity |
-| [uint64](/game-reflection/components/uint64.md) | max_players |
-| [String](/game-reflection/components/string.md) | application |
+| [String](/docs/game-reflection/components/string) | address |
+| [uint64](/docs/game-reflection/components/uint64) | players |
+| [String](/docs/game-reflection/components/string) | name |
+| [String](/docs/game-reflection/components/string) | build |
+| [String](/docs/game-reflection/components/string) | server_data |
+| [String](/docs/game-reflection/components/string) | project |
+| [String](/docs/game-reflection/components/string) | identity |
+| [uint64](/docs/game-reflection/components/uint64) | max_players |
+| [String](/docs/game-reflection/components/string) | application |
+

@@ -9,10 +9,12 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [float](/game-reflection/components/float.md) | volume_aggressive_distance |
-| [float](/game-reflection/components/float.md) | volume_respawn_time |
-| [float](/game-reflection/components/float.md) | volume_non_aggressive_distance |
-| [String](/game-reflection/components/string.md) | species_name |
-| Vector< [Creature](/game-reflection/classes/creature.md) > | creatures |
+| [float](/docs/game-reflection/components/float) | volume_aggressive_distance |
+| [float](/docs/game-reflection/components/float) | volume_respawn_time |
+| [float](/docs/game-reflection/components/float) | volume_non_aggressive_distance |
+| [String](/docs/game-reflection/components/string) | species_name |
+| Vector< [Creature](/docs/game-reflection/classes/creature) > | creatures |
+

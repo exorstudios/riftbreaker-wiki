@@ -5,9 +5,11 @@ has_children: false
 parent: Component
 grand_parent: Game Reflection
 ---
-# EnergyLayerComponent( ![ RefCounterComponent ](/game-reflection/components/ref_counter_component.md) )
+# EnergyLayerComponent( [ RefCounterComponent ](/docs/game-reflection/components/ref_counter_component) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
+

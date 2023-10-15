@@ -9,12 +9,14 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [String](/game-reflection/components/string.md) | localization_id |
-| [int](/game-reflection/enums/int.md) | can_afford |
-| [bool](/game-reflection/components/bool.md) | allow_overflow |
-| Vector< [float](/game-reflection/components/float.md) > | resource_value_bar |
-| [String](/game-reflection/components/string.md) | resource_value |
-| [String](/game-reflection/components/string.md) | bigger_icon |
-| [String](/game-reflection/components/string.md) | icon |
+| [String](/docs/game-reflection/components/string) | localization_id |
+| [int](/docs/game-reflection/enums/int) | can_afford |
+| [bool](/docs/game-reflection/components/bool) | allow_overflow |
+| Vector< [float](/docs/game-reflection/components/float) > | resource_value_bar |
+| [String](/docs/game-reflection/components/string) | resource_value |
+| [String](/docs/game-reflection/components/string) | bigger_icon |
+| [String](/docs/game-reflection/components/string) | icon |
+

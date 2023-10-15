@@ -9,9 +9,11 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [String](/game-reflection/components/string.md) | material |
-| [String](/game-reflection/components/string.md) | tips |
-| [bool](/game-reflection/components/bool.md) | top_visible |
-| [bool](/game-reflection/components/bool.md) | fade_in |
+| [String](/docs/game-reflection/components/string) | material |
+| [String](/docs/game-reflection/components/string) | tips |
+| [bool](/docs/game-reflection/components/bool) | top_visible |
+| [bool](/docs/game-reflection/components/bool) | fade_in |
+

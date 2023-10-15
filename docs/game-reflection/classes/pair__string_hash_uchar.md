@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [uchar](/game-reflection/enums/uchar.md) | value |
-| [StringHash](/game-reflection/classes/string_hash.md) | key |
+| [uchar](/docs/game-reflection/enums/uchar) | value |
+| [StringHash](/docs/game-reflection/classes/string_hash) | key |
+

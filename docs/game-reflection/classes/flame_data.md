@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [bool](/game-reflection/components/bool.md) | initialized |
-| Vector< [FlameBox](/game-reflection/classes/flame_box.md) > | flame_boxes |
+| [bool](/docs/game-reflection/components/bool) | initialized |
+| Vector< [FlameBox](/docs/game-reflection/classes/flame_box) > | flame_boxes |
+

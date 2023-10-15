@@ -9,9 +9,11 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [String](/game-reflection/components/string.md) | name |
-| [String](/game-reflection/components/string.md) | group |
-| [StringHash](/game-reflection/classes/string_hash.md) | group_hash |
-| [StringHash](/game-reflection/classes/string_hash.md) | name_hash |
+| [String](/docs/game-reflection/components/string) | name |
+| [String](/docs/game-reflection/components/string) | group |
+| [StringHash](/docs/game-reflection/classes/string_hash) | group_hash |
+| [StringHash](/docs/game-reflection/classes/string_hash) | name_hash |
+

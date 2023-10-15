@@ -5,14 +5,16 @@ has_children: false
 parent: Event
 grand_parent: Game Reflection
 ---
-# SpawnEffectRequest( ![ EntityEventBase ](/game-reflection/events/entity_event_base.md) )
+# SpawnEffectRequest( [ EntityEventBase ](/docs/game-reflection/events/entity_event_base) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [Transform](/game-reflection/classes/transform.md) | Transform |
-| [float](/game-reflection/components/float.md) | Delay |
-| [StringHash](/game-reflection/classes/string_hash.md) | Attachment |
-| [IdString](/game-reflection/components/id_string.md) | Blueprint |
-| [Entity](/game-reflection/classes/entity.md) | Entity |
+| [Transform](/docs/game-reflection/classes/transform) | Transform |
+| [float](/docs/game-reflection/components/float) | Delay |
+| [StringHash](/docs/game-reflection/classes/string_hash) | Attachment |
+| [IdString](/docs/game-reflection/components/id_string) | Blueprint |
+| [Entity](/docs/game-reflection/classes/entity) | Entity |
+

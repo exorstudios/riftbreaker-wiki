@@ -9,8 +9,10 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [float](/game-reflection/components/float.md) | radius |
-| [Vector3](/game-reflection/classes/vector3.md) | origin |
-| [Entity](/game-reflection/classes/entity.md) | summon_effect |
+| [float](/docs/game-reflection/components/float) | radius |
+| [Vector3](/docs/game-reflection/classes/vector3) | origin |
+| [Entity](/docs/game-reflection/classes/entity) | summon_effect |
+

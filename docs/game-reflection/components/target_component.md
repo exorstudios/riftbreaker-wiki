@@ -9,6 +9,8 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| Vector< [TargetData](/game-reflection/classes/target_data.md) > | target_data_vec |
+| Vector< [TargetData](/docs/game-reflection/classes/target_data) > | target_data_vec |
+

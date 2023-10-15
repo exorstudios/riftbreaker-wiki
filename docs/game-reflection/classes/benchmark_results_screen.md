@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [String](/game-reflection/components/string.md) | benchmark_name |
-| [String](/game-reflection/components/string.md) | loading_time |
+| [String](/docs/game-reflection/components/string) | benchmark_name |
+| [String](/docs/game-reflection/components/string) | loading_time |
+

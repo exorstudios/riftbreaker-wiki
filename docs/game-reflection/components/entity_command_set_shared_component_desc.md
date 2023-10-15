@@ -9,8 +9,10 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [Entity](/game-reflection/classes/entity.md) | entity |
-| [TypeAny](/game-reflection/components/type_any.md) | shared_component |
-| [SharedComponentHash](/game-reflection/components/shared_component_hash.md) | shared_component_hash |
+| [Entity](/docs/game-reflection/classes/entity) | entity |
+| [TypeAny](/docs/game-reflection/components/type_any) | shared_component |
+| [SharedComponentHash](/docs/game-reflection/components/shared_component_hash) | shared_component_hash |
+

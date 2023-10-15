@@ -9,6 +9,8 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [LuaScriptHolder](/game-reflection/components/lua_script_holder.md) | script |
+| [LuaScriptHolder](/docs/game-reflection/components/lua_script_holder) | script |
+

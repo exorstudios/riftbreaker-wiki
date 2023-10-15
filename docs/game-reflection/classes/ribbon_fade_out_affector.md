@@ -5,11 +5,13 @@ has_children: false
 parent: Class
 grand_parent: Game Reflection
 ---
-# RibbonFadeOutAffector( ![ AffectorLambda ](/game-reflection/classes/affector_lambda.md) )
+# RibbonFadeOutAffector( [ AffectorLambda ](/docs/game-reflection/classes/affector_lambda) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [float](/game-reflection/components/float.md) | deadline |
-| [float](/game-reflection/components/float.md) | timer |
+| [float](/docs/game-reflection/components/float) | deadline |
+| [float](/docs/game-reflection/components/float) | timer |
+

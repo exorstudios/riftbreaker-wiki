@@ -5,17 +5,19 @@ has_children: false
 parent: Class
 grand_parent: Game Reflection
 ---
-# LuaState( ![ State ](/game-reflection/classes/state.md) )
+# LuaState( [ State ](/docs/game-reflection/classes/state) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [StateFunction](/game-reflection/classes/state_function.md) | on_execute |
-| [StateFunction](/game-reflection/classes/state_function.md) | on_exit |
-| [bool](/game-reflection/components/bool.md) | has_duration_limit |
-| [Timer](/game-reflection/classes/timer.md) | update_inverval |
-| [StateFunction](/game-reflection/classes/state_function.md) | on_enter |
-| [LuaObject](/game-reflection/classes/lua_object.md) | context |
-| [uint](/game-reflection/components/uint.md) | state_id |
-| [Timer](/game-reflection/classes/timer.md) | duration |
+| [StateFunction](/docs/game-reflection/classes/state_function) | on_execute |
+| [StateFunction](/docs/game-reflection/classes/state_function) | on_exit |
+| [bool](/docs/game-reflection/components/bool) | has_duration_limit |
+| [Timer](/docs/game-reflection/classes/timer) | update_inverval |
+| [StateFunction](/docs/game-reflection/classes/state_function) | on_enter |
+| [LuaObject](/docs/game-reflection/classes/lua_object) | context |
+| [uint](/docs/game-reflection/components/uint) | state_id |
+| [Timer](/docs/game-reflection/classes/timer) | duration |
+

@@ -5,14 +5,16 @@ has_children: false
 parent: Class
 grand_parent: Game Reflection
 ---
-# GuiTooltip( ![ GuiReferenceDef ](/game-reflection/classes/gui_reference_def.md) )
+# GuiTooltip( [ GuiReferenceDef ](/docs/game-reflection/classes/gui_reference_def) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [String](/game-reflection/components/string.md) | attachment_path |
-| [String](/game-reflection/components/string.md) | gui_id |
-| [bool](/game-reflection/components/bool.md) | fit_to_screen |
-| [String](/game-reflection/components/string.md) | template |
-| [int](/game-reflection/enums/int.md) | placement_mode |
+| [String](/docs/game-reflection/components/string) | attachment_path |
+| [String](/docs/game-reflection/components/string) | gui_id |
+| [bool](/docs/game-reflection/components/bool) | fit_to_screen |
+| [String](/docs/game-reflection/components/string) | template |
+| [int](/docs/game-reflection/enums/int) | placement_mode |
+

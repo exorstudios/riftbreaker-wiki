@@ -9,6 +9,7 @@ grand_parent: Game Reflection
 Description 
 
 ## Enum values
+
 | Name | Value |
 |:-------------|:--------------|
 | VET_FLOAT1 | 0 |
@@ -29,3 +30,4 @@ Description
 | VET_HALF_FLOAT4 | 15 |
 | VET_FIXED_11_11_10N | 16 |
 | VET_BYTE4N | 17 |
+

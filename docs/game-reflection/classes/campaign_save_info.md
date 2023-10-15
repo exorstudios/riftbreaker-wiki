@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| Vector< [String](/game-reflection/components/string.md) > | saves |
-| [CampaignId](/game-reflection/classes/campaign_id.md) | campaign_id |
+| Vector< [String](/docs/game-reflection/components/string) > | saves |
+| [CampaignId](/docs/game-reflection/classes/campaign_id) | campaign_id |
+

@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [String](/game-reflection/components/string.md) | callback |
-| [uint64](/game-reflection/components/uint64.md) | handle |
+| [String](/docs/game-reflection/components/string) | callback |
+| [uint64](/docs/game-reflection/components/uint64) | handle |
+

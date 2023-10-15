@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [Transform](/game-reflection/classes/transform.md) | transform |
-| [short](/game-reflection/components/short.md) | bone_handle |
+| [Transform](/docs/game-reflection/classes/transform) | transform |
+| [short](/docs/game-reflection/components/short) | bone_handle |
+

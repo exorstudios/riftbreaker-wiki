@@ -5,12 +5,14 @@ has_children: false
 parent: Event
 grand_parent: Game Reflection
 ---
-# OperateHudByMaskRequest( ![ EntityEventBase ](/game-reflection/events/entity_event_base.md) )
+# OperateHudByMaskRequest( [ EntityEventBase ](/docs/game-reflection/events/entity_event_base) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [bool](/game-reflection/components/bool.md) | Visible |
-| Vector< [String](/game-reflection/components/string.md) > | Huds |
-| [Entity](/game-reflection/classes/entity.md) | Entity |
+| [bool](/docs/game-reflection/components/bool) | Visible |
+| Vector< [String](/docs/game-reflection/components/string) > | Huds |
+| [Entity](/docs/game-reflection/classes/entity) | Entity |
+

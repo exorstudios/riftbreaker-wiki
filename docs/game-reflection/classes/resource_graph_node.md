@@ -9,8 +9,10 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [uint](/game-reflection/components/uint.md) | energy_graph |
-| [bool](/game-reflection/components/bool.md) | lines_created |
-| Vector< [uint](/game-reflection/components/uint.md) > | graphs |
+| [uint](/docs/game-reflection/components/uint) | energy_graph |
+| [bool](/docs/game-reflection/components/bool) | lines_created |
+| Vector< [uint](/docs/game-reflection/components/uint) > | graphs |
+

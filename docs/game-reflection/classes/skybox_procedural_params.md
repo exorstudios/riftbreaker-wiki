@@ -9,13 +9,15 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [Vector4](/game-reflection/classes/vector4.md) | sky_tint_color |
-| [Vector3](/game-reflection/classes/vector3.md) | light_direction |
-| [float](/game-reflection/components/float.md) | clouds |
-| [Vector4](/game-reflection/classes/vector4.md) | light_color |
-| [float](/game-reflection/components/float.md) | sun_size |
-| [float](/game-reflection/components/float.md) | time |
-| [float](/game-reflection/components/float.md) | sun_convergence |
-| [float](/game-reflection/components/float.md) | atmosphere_thickness |
+| [Vector4](/docs/game-reflection/classes/vector4) | sky_tint_color |
+| [Vector3](/docs/game-reflection/classes/vector3) | light_direction |
+| [float](/docs/game-reflection/components/float) | clouds |
+| [Vector4](/docs/game-reflection/classes/vector4) | light_color |
+| [float](/docs/game-reflection/components/float) | sun_size |
+| [float](/docs/game-reflection/components/float) | time |
+| [float](/docs/game-reflection/components/float) | sun_convergence |
+| [float](/docs/game-reflection/components/float) | atmosphere_thickness |
+

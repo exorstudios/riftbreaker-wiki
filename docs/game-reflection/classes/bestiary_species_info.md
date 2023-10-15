@@ -9,9 +9,11 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [bool](/game-reflection/components/bool.md) | is_new |
-| [String](/game-reflection/components/string.md) | species_name |
-| [bool](/game-reflection/components/bool.md) | enabled |
-| [String](/game-reflection/components/string.md) | species_icon |
+| [bool](/docs/game-reflection/components/bool) | is_new |
+| [String](/docs/game-reflection/components/string) | species_name |
+| [bool](/docs/game-reflection/components/bool) | enabled |
+| [String](/docs/game-reflection/components/string) | species_icon |
+

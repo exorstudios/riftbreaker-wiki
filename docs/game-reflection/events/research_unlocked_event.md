@@ -5,14 +5,16 @@ has_children: false
 parent: Event
 grand_parent: Game Reflection
 ---
-# ResearchUnlockedEvent( ![ EntityEventBase ](/game-reflection/events/entity_event_base.md) )
+# ResearchUnlockedEvent( [ EntityEventBase ](/docs/game-reflection/events/entity_event_base) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [String](/game-reflection/components/string.md) | Name |
-| [TeamId](/game-reflection/classes/team_id.md) | TeamId |
-| [bool](/game-reflection/components/bool.md) | EmptyCosts |
-| [Entity](/game-reflection/classes/entity.md) | Entity |
-| Vector< [ResearchAward](/game-reflection/classes/research_award.md) > | Awards |
+| [String](/docs/game-reflection/components/string) | Name |
+| [TeamId](/docs/game-reflection/classes/team_id) | TeamId |
+| [bool](/docs/game-reflection/components/bool) | EmptyCosts |
+| [Entity](/docs/game-reflection/classes/entity) | Entity |
+| Vector< [ResearchAward](/docs/game-reflection/classes/research_award) > | Awards |
+

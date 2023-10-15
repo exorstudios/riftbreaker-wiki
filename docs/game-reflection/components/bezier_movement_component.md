@@ -9,16 +9,18 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| Vector< [float](/game-reflection/components/float.md) > | curve_length |
-| [uint64](/game-reflection/components/uint64.md) | current_curve_idx |
-| [float](/game-reflection/components/float.md) | current_curve_interp |
-| [bool](/game-reflection/components/bool.md) | calculate_dir |
-| [TransformBezierPath](/game-reflection/classes/transform_bezier_path.md) | bezier_path |
-| [bool](/game-reflection/components/bool.md) | moving |
-| [float](/game-reflection/components/float.md) | current_curve_distance |
-| [float](/game-reflection/components/float.md) | max_speed |
-| [float](/game-reflection/components/float.md) | speed |
-| [bool](/game-reflection/components/bool.md) | looped |
-| [float](/game-reflection/components/float.md) | start_speed |
+| Vector< [float](/docs/game-reflection/components/float) > | curve_length |
+| [uint64](/docs/game-reflection/components/uint64) | current_curve_idx |
+| [float](/docs/game-reflection/components/float) | current_curve_interp |
+| [bool](/docs/game-reflection/components/bool) | calculate_dir |
+| [TransformBezierPath](/docs/game-reflection/classes/transform_bezier_path) | bezier_path |
+| [bool](/docs/game-reflection/components/bool) | moving |
+| [float](/docs/game-reflection/components/float) | current_curve_distance |
+| [float](/docs/game-reflection/components/float) | max_speed |
+| [float](/docs/game-reflection/components/float) | speed |
+| [bool](/docs/game-reflection/components/bool) | looped |
+| [float](/docs/game-reflection/components/float) | start_speed |
+

@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| Vector< [Entity](/game-reflection/classes/entity.md) > | value |
-| [Entity](/game-reflection/classes/entity.md) | key |
+| Vector< [Entity](/docs/game-reflection/classes/entity) > | value |
+| [Entity](/docs/game-reflection/classes/entity) | key |
+

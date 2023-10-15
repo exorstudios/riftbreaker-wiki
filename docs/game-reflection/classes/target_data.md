@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [float](/game-reflection/components/float.md) | distance |
-| [IdString](/game-reflection/components/id_string.md) | tag |
+| [float](/docs/game-reflection/components/float) | distance |
+| [IdString](/docs/game-reflection/components/id_string) | tag |
+

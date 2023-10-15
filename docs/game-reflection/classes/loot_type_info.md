@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [float](/game-reflection/components/float.md) | chance |
-| [ushort](/game-reflection/enums/ushort.md) | spawn_ratio |
+| [float](/docs/game-reflection/components/float) | chance |
+| [ushort](/docs/game-reflection/enums/ushort) | spawn_ratio |
+

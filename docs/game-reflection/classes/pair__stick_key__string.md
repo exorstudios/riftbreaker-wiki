@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [String](/game-reflection/components/string.md) | value |
-| [StickKey](/game-reflection/classes/stick_key.md) | key |
+| [String](/docs/game-reflection/components/string) | value |
+| [StickKey](/docs/game-reflection/classes/stick_key) | key |
+

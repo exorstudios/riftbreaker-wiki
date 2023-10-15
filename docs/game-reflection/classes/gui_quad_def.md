@@ -5,14 +5,16 @@ has_children: false
 parent: Class
 grand_parent: Game Reflection
 ---
-# GuiQuadDef( ![ GuiItemNoTextureDef ](/game-reflection/classes/gui_item_no_texture_def.md) )
+# GuiQuadDef( [ GuiItemNoTextureDef ](/docs/game-reflection/classes/gui_item_no_texture_def) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [float](/game-reflection/components/float.md) | border_width |
-| [float](/game-reflection/components/float.md) | corner_radius |
-| [uchar](/game-reflection/enums/uchar.md) | corner_cut |
-| [Vector3](/game-reflection/classes/vector3.md) | border_color |
-| [float](/game-reflection/components/float.md) | border_alpha |
+| [float](/docs/game-reflection/components/float) | border_width |
+| [float](/docs/game-reflection/components/float) | corner_radius |
+| [uchar](/docs/game-reflection/enums/uchar) | corner_cut |
+| [Vector3](/docs/game-reflection/classes/vector3) | border_color |
+| [float](/docs/game-reflection/components/float) | border_alpha |
+

@@ -9,11 +9,13 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [float](/game-reflection/components/float.md) | dst_shake_power |
-| [Vector3](/game-reflection/classes/vector3.md) | src_direction |
-| [float](/game-reflection/components/float.md) | interpolation_time |
-| [float](/game-reflection/components/float.md) | src_shake_power |
-| [float](/game-reflection/components/float.md) | cumulated_time |
-| [Vector3](/game-reflection/classes/vector3.md) | dst_direction |
+| [float](/docs/game-reflection/components/float) | dst_shake_power |
+| [Vector3](/docs/game-reflection/classes/vector3) | src_direction |
+| [float](/docs/game-reflection/components/float) | interpolation_time |
+| [float](/docs/game-reflection/components/float) | src_shake_power |
+| [float](/docs/game-reflection/components/float) | cumulated_time |
+| [Vector3](/docs/game-reflection/classes/vector3) | dst_direction |
+

@@ -9,9 +9,11 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [String](/game-reflection/components/string.md) | material |
-| [bool](/game-reflection/components/bool.md) | healing |
-| Vector< [float](/game-reflection/components/float.md) > | data |
-| [String](/game-reflection/components/string.md) | label |
+| [String](/docs/game-reflection/components/string) | material |
+| [bool](/docs/game-reflection/components/bool) | healing |
+| Vector< [float](/docs/game-reflection/components/float) > | data |
+| [String](/docs/game-reflection/components/string) | label |
+

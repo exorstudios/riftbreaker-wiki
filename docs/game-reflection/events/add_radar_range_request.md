@@ -5,12 +5,14 @@ has_children: false
 parent: Event
 grand_parent: Game Reflection
 ---
-# AddRadarRangeRequest( ![ EntityEventBase ](/game-reflection/events/entity_event_base.md) )
+# AddRadarRangeRequest( [ EntityEventBase ](/docs/game-reflection/events/entity_event_base) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [Entity](/game-reflection/classes/entity.md) | Radar |
-| [float](/game-reflection/components/float.md) | Range |
-| [Entity](/game-reflection/classes/entity.md) | Entity |
+| [Entity](/docs/game-reflection/classes/entity) | Radar |
+| [float](/docs/game-reflection/components/float) | Range |
+| [Entity](/docs/game-reflection/classes/entity) | Entity |
+

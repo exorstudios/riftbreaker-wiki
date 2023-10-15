@@ -9,13 +9,15 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [IdString](/game-reflection/components/id_string.md) | name |
-| [IdString](/game-reflection/components/id_string.md) | attack_effect |
-| [bool](/game-reflection/components/bool.md) | hit_on_end |
-| [float](/game-reflection/components/float.md) | damage_factor |
-| [IdString](/game-reflection/components/id_string.md) | anim_name |
-| [IdString](/game-reflection/components/id_string.md) | damage_effect |
-| [IdString](/game-reflection/components/id_string.md) | attachment |
-| [MeleeAmmoDef](/game-reflection/classes/melee_ammo_def.md) | ammo_definition |
+| [IdString](/docs/game-reflection/components/id_string) | name |
+| [IdString](/docs/game-reflection/components/id_string) | attack_effect |
+| [bool](/docs/game-reflection/components/bool) | hit_on_end |
+| [float](/docs/game-reflection/components/float) | damage_factor |
+| [IdString](/docs/game-reflection/components/id_string) | anim_name |
+| [IdString](/docs/game-reflection/components/id_string) | damage_effect |
+| [IdString](/docs/game-reflection/components/id_string) | attachment |
+| [MeleeAmmoDef](/docs/game-reflection/classes/melee_ammo_def) | ammo_definition |
+

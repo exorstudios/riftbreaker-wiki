@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| Vector< [TableKVP](/game-reflection/classes/table_k_v_p.md) > | value |
-| [int](/game-reflection/enums/int.md) | key |
+| Vector< [TableKVP](/docs/game-reflection/classes/table_k_v_p) > | value |
+| [int](/docs/game-reflection/enums/int) | key |
+

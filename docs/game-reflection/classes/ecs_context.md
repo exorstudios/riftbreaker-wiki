@@ -9,6 +9,8 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| Vector< [TypeAny](/game-reflection/components/type_any.md) > | variable_set |
+| Vector< [TypeAny](/docs/game-reflection/components/type_any) > | variable_set |
+

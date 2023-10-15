@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [int](/game-reflection/enums/int.md) | max |
-| [int](/game-reflection/enums/int.md) | min |
+| [int](/docs/game-reflection/enums/int) | max |
+| [int](/docs/game-reflection/enums/int) | min |
+

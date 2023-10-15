@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [String](/game-reflection/components/string.md) | campaign_name |
-| [uint](/game-reflection/components/uint.md) | timestamp |
+| [String](/docs/game-reflection/components/string) | campaign_name |
+| [uint](/docs/game-reflection/components/uint) | timestamp |
+

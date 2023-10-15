@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [EntityMod](/game-reflection/classes/entity_mod.md) | value |
-| [int](/game-reflection/enums/int.md) | key |
+| [EntityMod](/docs/game-reflection/classes/entity_mod) | value |
+| [int](/docs/game-reflection/enums/int) | key |
+

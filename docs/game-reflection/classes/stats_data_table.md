@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [String](/game-reflection/components/string.md) | header |
-| Vector< [StatRow](/game-reflection/classes/stat_row.md) > | data |
+| [String](/docs/game-reflection/components/string) | header |
+| Vector< [StatRow](/docs/game-reflection/classes/stat_row) > | data |
+

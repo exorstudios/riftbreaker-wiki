@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [GuiSubTabDef](/game-reflection/classes/gui_sub_tab_def.md) | value |
-| [IdString](/game-reflection/components/id_string.md) | key |
+| [GuiSubTabDef](/docs/game-reflection/classes/gui_sub_tab_def) | value |
+| [IdString](/docs/game-reflection/components/id_string) | key |
+

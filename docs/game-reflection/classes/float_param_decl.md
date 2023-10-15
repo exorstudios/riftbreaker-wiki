@@ -5,12 +5,14 @@ has_children: false
 parent: Class
 grand_parent: Game Reflection
 ---
-# FloatParamDecl( ![ ParamDecl ](/game-reflection/classes/param_decl.md) )
+# FloatParamDecl( [ ParamDecl ](/docs/game-reflection/classes/param_decl) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [float](/game-reflection/components/float.md) | max |
-| [float](/game-reflection/components/float.md) | min |
-| [float](/game-reflection/components/float.md) | default |
+| [float](/docs/game-reflection/components/float) | max |
+| [float](/docs/game-reflection/components/float) | min |
+| [float](/docs/game-reflection/components/float) | default |
+

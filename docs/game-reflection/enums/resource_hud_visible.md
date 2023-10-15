@@ -9,6 +9,7 @@ grand_parent: Game Reflection
 Description 
 
 ## Enum values
+
 | Name | Value |
 |:-------------|:--------------|
 |  | 0 |
@@ -16,3 +17,4 @@ Description
 | never | 3 |
 | always | 1 |
 | always_short | 4 |
+

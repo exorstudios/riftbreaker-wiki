@@ -5,12 +5,14 @@ has_children: false
 parent: Event
 grand_parent: Game Reflection
 ---
-# MissionStatusChangedEvent( ![ EntityEventBase ](/game-reflection/events/entity_event_base.md) )
+# MissionStatusChangedEvent( [ EntityEventBase ](/docs/game-reflection/events/entity_event_base) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [String](/game-reflection/components/string.md) | MissionName |
-| [int](/game-reflection/enums/int.md) | Status |
-| [Entity](/game-reflection/classes/entity.md) | Entity |
+| [String](/docs/game-reflection/components/string) | MissionName |
+| [int](/docs/game-reflection/enums/int) | Status |
+| [Entity](/docs/game-reflection/classes/entity) | Entity |
+

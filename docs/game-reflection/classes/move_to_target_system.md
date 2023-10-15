@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| Vector< [Entity](/game-reflection/classes/entity.md) > | removed_move_to_target |
-| Vector< [Entity](/game-reflection/classes/entity.md) > | created_move_to_target |
+| Vector< [Entity](/docs/game-reflection/classes/entity) > | removed_move_to_target |
+| Vector< [Entity](/docs/game-reflection/classes/entity) > | created_move_to_target |
+

@@ -9,14 +9,16 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [float](/game-reflection/components/float.md) | max_time |
-| [IdString](/game-reflection/components/id_string.md) | continuous_effect |
-| [String](/game-reflection/components/string.md) | param_name |
-| [HighLevelLinear2DSpline](/game-reflection/components/high_level_linear2_d_spline.md) | acceleration_function |
-| [bool](/game-reflection/components/bool.md) | block_aiming_dir |
-| [ModifiableValue](/game-reflection/classes/modifiable_value.md) | max_speed |
-| [float](/game-reflection/components/float.md) | timer |
-| [bool](/game-reflection/components/bool.md) | disable_unit_collision |
-| [IdString](/game-reflection/components/id_string.md) | start_effect |
+| [float](/docs/game-reflection/components/float) | max_time |
+| [IdString](/docs/game-reflection/components/id_string) | continuous_effect |
+| [String](/docs/game-reflection/components/string) | param_name |
+| [HighLevelLinear2DSpline](/docs/game-reflection/components/high_level_linear2_d_spline) | acceleration_function |
+| [bool](/docs/game-reflection/components/bool) | block_aiming_dir |
+| [ModifiableValue](/docs/game-reflection/classes/modifiable_value) | max_speed |
+| [float](/docs/game-reflection/components/float) | timer |
+| [bool](/docs/game-reflection/components/bool) | disable_unit_collision |
+| [IdString](/docs/game-reflection/components/id_string) | start_effect |
+

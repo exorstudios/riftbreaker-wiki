@@ -9,8 +9,10 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [int](/game-reflection/enums/int.md) | dst_slot |
-| [int](/game-reflection/enums/int.md) | src_slot |
-| [short](/game-reflection/components/short.md) | src_node_idx |
+| [int](/docs/game-reflection/enums/int) | dst_slot |
+| [int](/docs/game-reflection/enums/int) | src_slot |
+| [short](/docs/game-reflection/components/short) | src_node_idx |
+

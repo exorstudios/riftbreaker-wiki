@@ -9,8 +9,10 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [StringHash](/game-reflection/classes/string_hash.md) | chain_destination |
-| [StringHash](/game-reflection/classes/string_hash.md) | chain_data |
-| [StringHash](/game-reflection/classes/string_hash.md) | chain_handle |
+| [StringHash](/docs/game-reflection/classes/string_hash) | chain_destination |
+| [StringHash](/docs/game-reflection/classes/string_hash) | chain_data |
+| [StringHash](/docs/game-reflection/classes/string_hash) | chain_handle |
+

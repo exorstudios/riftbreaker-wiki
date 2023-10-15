@@ -9,15 +9,17 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [uint64](/game-reflection/components/uint64.md) | killed_units_count |
-| [String](/game-reflection/components/string.md) | label_name |
-| [uint64](/game-reflection/components/uint64.md) | next_label_iter |
-| [uint64](/game-reflection/components/uint64.md) | labels_percentage_use |
-| [uint64](/game-reflection/components/uint64.md) | max_wave_units |
-| [WaveDesc](/game-reflection/components/wave_desc.md) | desc |
-| [Timer](/game-reflection/classes/timer.md) | delay_timer |
-| [uint64](/game-reflection/components/uint64.md) | spawned_units_count |
-| Vector< [String](/game-reflection/components/string.md) > | labels |
-| [uint64](/game-reflection/components/uint64.md) | curr_index |
+| [uint64](/docs/game-reflection/components/uint64) | killed_units_count |
+| [String](/docs/game-reflection/components/string) | label_name |
+| [uint64](/docs/game-reflection/components/uint64) | next_label_iter |
+| [uint64](/docs/game-reflection/components/uint64) | labels_percentage_use |
+| [uint64](/docs/game-reflection/components/uint64) | max_wave_units |
+| [WaveDesc](/docs/game-reflection/components/wave_desc) | desc |
+| [Timer](/docs/game-reflection/classes/timer) | delay_timer |
+| [uint64](/docs/game-reflection/components/uint64) | spawned_units_count |
+| Vector< [String](/docs/game-reflection/components/string) > | labels |
+| [uint64](/docs/game-reflection/components/uint64) | curr_index |
+

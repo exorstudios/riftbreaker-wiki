@@ -9,9 +9,11 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [bool](/game-reflection/components/bool.md) | is_mod |
-| [IdString](/game-reflection/components/id_string.md) | damage_type |
-| [float](/game-reflection/components/float.md) | value |
-| [uchar](/game-reflection/enums/uchar.md) | type |
+| [bool](/docs/game-reflection/components/bool) | is_mod |
+| [IdString](/docs/game-reflection/components/id_string) | damage_type |
+| [float](/docs/game-reflection/components/float) | value |
+| [uchar](/docs/game-reflection/enums/uchar) | type |
+

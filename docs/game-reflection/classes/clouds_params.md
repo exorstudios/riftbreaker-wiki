@@ -9,9 +9,11 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [Vector2](/game-reflection/classes/vector2.md) | clouds_speed |
-| [String](/game-reflection/components/string.md) | clouds_noise |
-| [float](/game-reflection/components/float.md) | clouds_density |
-| [float](/game-reflection/components/float.md) | clouds_opacity |
+| [Vector2](/docs/game-reflection/classes/vector2) | clouds_speed |
+| [String](/docs/game-reflection/components/string) | clouds_noise |
+| [float](/docs/game-reflection/components/float) | clouds_density |
+| [float](/docs/game-reflection/components/float) | clouds_opacity |
+

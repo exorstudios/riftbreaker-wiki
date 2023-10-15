@@ -9,41 +9,43 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [uint64](/game-reflection/components/uint64.md) | colliding_type |
-| Vector< [LaserHitEffect](/game-reflection/classes/laser_hit_effect.md) > | beam_hit_effects |
-| [uint](/game-reflection/components/uint.md) | collision_block |
-| [float](/game-reflection/components/float.md) | damage_factor_decrease |
-| [IdString](/game-reflection/components/id_string.md) | on_water_hit_effect |
-| [IdString](/game-reflection/components/id_string.md) | ring_bp |
-| [uint](/game-reflection/components/uint.md) | max_hits |
-| [float](/game-reflection/components/float.md) | desired_damage_factor |
-| [float](/game-reflection/components/float.md) | damage_max_beam_scale |
-| [uint](/game-reflection/components/uint.md) | current_target |
-| [IdString](/game-reflection/components/id_string.md) | on_world_hit_effect |
-| [uint](/game-reflection/components/uint.md) | creator |
-| Vector< [Entity](/game-reflection/classes/entity.md) > | ring_entities |
-| [float](/game-reflection/components/float.md) | damage_factor_max |
-| [bool](/game-reflection/components/bool.md) | is_visible_only |
-| [float](/game-reflection/components/float.md) | damage_factor_increase |
-| [uint](/game-reflection/components/uint.md) | collision_3d |
-| [float](/game-reflection/components/float.md) | diameter |
-| [uint](/game-reflection/components/uint.md) | collision_user_mask |
-| [uint](/game-reflection/components/uint.md) | last_target |
-| [float](/game-reflection/components/float.md) | current_damage_factor |
-| [IdString](/game-reflection/components/id_string.md) | on_enemy_hit_effect |
-| [IdString](/game-reflection/components/id_string.md) | on_resisted_hit_effect |
-| Vector< [LaserHitRequest](/game-reflection/classes/laser_hit_request.md) > | beam_hit_requests |
-| [float](/game-reflection/components/float.md) | timer |
-| [uint](/game-reflection/components/uint.md) | owner |
-| [float](/game-reflection/components/float.md) | damage_max_beam_glow |
-| [DamagePattern](/game-reflection/classes/damage_pattern.md) | DamagePattern |
-| [uchar](/game-reflection/enums/uchar.md) | friendly_fire |
-| [PriorityTypeMask](/game-reflection/classes/priority_type_mask.md) | damage_factor_exclude |
-| [IdString](/game-reflection/components/id_string.md) | on_shield_hit_effect |
-| [uint64](/game-reflection/components/uint64.md) | non_blocking_type |
-| [bool](/game-reflection/components/bool.md) | only_blocking_effect |
-| [bool](/game-reflection/components/bool.md) | skip_update |
-| [float](/game-reflection/components/float.md) | range |
-| [IdString](/game-reflection/components/id_string.md) | on_reflected_hit_effect |
+| [uint64](/docs/game-reflection/components/uint64) | colliding_type |
+| Vector< [LaserHitEffect](/docs/game-reflection/classes/laser_hit_effect) > | beam_hit_effects |
+| [uint](/docs/game-reflection/components/uint) | collision_block |
+| [float](/docs/game-reflection/components/float) | damage_factor_decrease |
+| [IdString](/docs/game-reflection/components/id_string) | on_water_hit_effect |
+| [IdString](/docs/game-reflection/components/id_string) | ring_bp |
+| [uint](/docs/game-reflection/components/uint) | max_hits |
+| [float](/docs/game-reflection/components/float) | desired_damage_factor |
+| [float](/docs/game-reflection/components/float) | damage_max_beam_scale |
+| [uint](/docs/game-reflection/components/uint) | current_target |
+| [IdString](/docs/game-reflection/components/id_string) | on_world_hit_effect |
+| [uint](/docs/game-reflection/components/uint) | creator |
+| Vector< [Entity](/docs/game-reflection/classes/entity) > | ring_entities |
+| [float](/docs/game-reflection/components/float) | damage_factor_max |
+| [bool](/docs/game-reflection/components/bool) | is_visible_only |
+| [float](/docs/game-reflection/components/float) | damage_factor_increase |
+| [uint](/docs/game-reflection/components/uint) | collision_3d |
+| [float](/docs/game-reflection/components/float) | diameter |
+| [uint](/docs/game-reflection/components/uint) | collision_user_mask |
+| [uint](/docs/game-reflection/components/uint) | last_target |
+| [float](/docs/game-reflection/components/float) | current_damage_factor |
+| [IdString](/docs/game-reflection/components/id_string) | on_enemy_hit_effect |
+| [IdString](/docs/game-reflection/components/id_string) | on_resisted_hit_effect |
+| Vector< [LaserHitRequest](/docs/game-reflection/classes/laser_hit_request) > | beam_hit_requests |
+| [float](/docs/game-reflection/components/float) | timer |
+| [uint](/docs/game-reflection/components/uint) | owner |
+| [float](/docs/game-reflection/components/float) | damage_max_beam_glow |
+| [DamagePattern](/docs/game-reflection/classes/damage_pattern) | DamagePattern |
+| [uchar](/docs/game-reflection/enums/uchar) | friendly_fire |
+| [PriorityTypeMask](/docs/game-reflection/classes/priority_type_mask) | damage_factor_exclude |
+| [IdString](/docs/game-reflection/components/id_string) | on_shield_hit_effect |
+| [uint64](/docs/game-reflection/components/uint64) | non_blocking_type |
+| [bool](/docs/game-reflection/components/bool) | only_blocking_effect |
+| [bool](/docs/game-reflection/components/bool) | skip_update |
+| [float](/docs/game-reflection/components/float) | range |
+| [IdString](/docs/game-reflection/components/id_string) | on_reflected_hit_effect |
+

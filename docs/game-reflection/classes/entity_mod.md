@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [float](/game-reflection/components/float.md) | mod_value |
-| [int](/game-reflection/enums/int.md) | mod_func |
+| [float](/docs/game-reflection/components/float) | mod_value |
+| [int](/docs/game-reflection/enums/int) | mod_func |
+

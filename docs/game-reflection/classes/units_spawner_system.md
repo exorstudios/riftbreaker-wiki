@@ -5,10 +5,12 @@ has_children: false
 parent: Class
 grand_parent: Game Reflection
 ---
-# UnitsSpawnerSystem( ![ System ](/game-reflection/classes/system.md) )
+# UnitsSpawnerSystem( [ System ](/docs/game-reflection/classes/system) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| Vector< [Entity](/game-reflection/classes/entity.md) > | entity_spawn_spots |
+| Vector< [Entity](/docs/game-reflection/classes/entity) > | entity_spawn_spots |
+

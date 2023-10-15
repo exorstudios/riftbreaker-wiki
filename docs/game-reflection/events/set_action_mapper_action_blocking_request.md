@@ -5,13 +5,15 @@ has_children: false
 parent: Event
 grand_parent: Game Reflection
 ---
-# SetActionMapperActionBlockingRequest( ![ EntityEventBase ](/game-reflection/events/entity_event_base.md) )
+# SetActionMapperActionBlockingRequest( [ EntityEventBase ](/docs/game-reflection/events/entity_event_base) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [String](/game-reflection/components/string.md) | Action |
-| [bool](/game-reflection/components/bool.md) | Blocking |
-| [String](/game-reflection/components/string.md) | MapperName |
-| [Entity](/game-reflection/classes/entity.md) | Entity |
+| [String](/docs/game-reflection/components/string) | Action |
+| [bool](/docs/game-reflection/components/bool) | Blocking |
+| [String](/docs/game-reflection/components/string) | MapperName |
+| [Entity](/docs/game-reflection/classes/entity) | Entity |
+

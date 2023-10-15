@@ -9,8 +9,10 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [String](/game-reflection/components/string.md) | current_mission |
-| Vector< [MapUrl](/game-reflection/classes/map_url.md) > | missions |
-| Vector< [MapUrl](/game-reflection/classes/map_url.md) > | removed_missions |
+| [String](/docs/game-reflection/components/string) | current_mission |
+| Vector< [MapUrl](/docs/game-reflection/classes/map_url) > | missions |
+| Vector< [MapUrl](/docs/game-reflection/classes/map_url) > | removed_missions |
+

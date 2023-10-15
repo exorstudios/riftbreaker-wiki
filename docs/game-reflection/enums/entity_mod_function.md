@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Enum values
+
 | Name | Value |
 |:-------------|:--------------|
 | flat | 0 |
 | pct | 1 |
+

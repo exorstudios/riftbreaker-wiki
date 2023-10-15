@@ -9,7 +9,9 @@ grand_parent: Game Reflection
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| Vector< [String](/game-reflection/components/string.md) > | unlocked_items |
-| Vector< [String](/game-reflection/components/string.md) > | unlocked_buildings |
+| Vector< [String](/docs/game-reflection/components/string) > | unlocked_items |
+| Vector< [String](/docs/game-reflection/components/string) > | unlocked_buildings |
+

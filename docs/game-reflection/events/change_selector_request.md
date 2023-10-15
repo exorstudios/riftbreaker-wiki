@@ -5,12 +5,14 @@ has_children: false
 parent: Event
 grand_parent: Game Reflection
 ---
-# ChangeSelectorRequest( ![ EntityEventBase ](/game-reflection/events/entity_event_base.md) )
+# ChangeSelectorRequest( [ EntityEventBase ](/docs/game-reflection/events/entity_event_base) )
 Description 
 
 ## Fields
+
 | Type | Name |
 |:-------------|:--------------|
-| [String](/game-reflection/components/string.md) | GhostBlueprint |
-| [String](/game-reflection/components/string.md) | Blueprint |
-| [Entity](/game-reflection/classes/entity.md) | Entity |
+| [String](/docs/game-reflection/components/string) | GhostBlueprint |
+| [String](/docs/game-reflection/components/string) | Blueprint |
+| [Entity](/docs/game-reflection/classes/entity) | Entity |
+
