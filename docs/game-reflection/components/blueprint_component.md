@@ -10,5 +10,5 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [ResourceHandle_EntityBlueprint](game-reflection/components/resource_handle__entity_blueprint.md) | blueprint |
+|:-------------|:--------------|
+| [ResourceHandle_EntityBlueprint](/game-reflection/components/resource_handle__entity_blueprint.md) | blueprint |

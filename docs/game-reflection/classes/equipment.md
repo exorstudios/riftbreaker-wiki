@@ -10,5 +10,5 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| Vector< [EquipmentSlot](game-reflection/classes/equipment_slot.md) > | slots |
+|:-------------|:--------------|
+| Vector< [EquipmentSlot](/game-reflection/classes/equipment_slot.md) > | slots |

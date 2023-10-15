@@ -10,7 +10,7 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [int](game-reflection/enums/int.md) | axis |
-| [int](game-reflection/enums/int.md) | stick_no |
-| [String](game-reflection/components/string.md) | action |
+|:-------------|:--------------|
+| [int](/game-reflection/enums/int.md) | axis |
+| [int](/game-reflection/enums/int.md) | stick_no |
+| [String](/game-reflection/components/string.md) | action |

@@ -10,7 +10,7 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [uchar](game-reflection/enums/uchar.md) | frequency |
-| [uchar](game-reflection/enums/uchar.md) | amplitude |
-| [uchar](game-reflection/enums/uchar.md) | position |
+|:-------------|:--------------|
+| [uchar](/game-reflection/enums/uchar.md) | frequency |
+| [uchar](/game-reflection/enums/uchar.md) | amplitude |
+| [uchar](/game-reflection/enums/uchar.md) | position |

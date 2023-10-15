@@ -10,9 +10,9 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [Entity](game-reflection/classes/entity.md) | entity |
-| [int](game-reflection/enums/int.md) | radius |
-| [int](game-reflection/enums/int.md) | max_radius |
-| [int](game-reflection/enums/int.md) | energy_radius |
-| [int](game-reflection/enums/int.md) | emissive_radius |
+|:-------------|:--------------|
+| [Entity](/game-reflection/classes/entity.md) | entity |
+| [int](/game-reflection/enums/int.md) | radius |
+| [int](/game-reflection/enums/int.md) | max_radius |
+| [int](/game-reflection/enums/int.md) | energy_radius |
+| [int](/game-reflection/enums/int.md) | emissive_radius |

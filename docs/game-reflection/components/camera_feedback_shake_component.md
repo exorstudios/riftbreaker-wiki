@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [float](game-reflection/components/float.md) | duration |
-| [float](game-reflection/components/float.md) | power |
+|:-------------|:--------------|
+| [float](/game-reflection/components/float.md) | duration |
+| [float](/game-reflection/components/float.md) | power |

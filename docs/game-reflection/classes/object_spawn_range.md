@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [int](game-reflection/enums/int.md) | max |
-| [int](game-reflection/enums/int.md) | min |
+|:-------------|:--------------|
+| [int](/game-reflection/enums/int.md) | max |
+| [int](/game-reflection/enums/int.md) | min |

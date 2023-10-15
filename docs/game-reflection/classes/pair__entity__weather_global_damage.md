@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [WeatherGlobalDamage](game-reflection/classes/weather_global_damage.md) | value |
-| [Entity](game-reflection/classes/entity.md) | key |
+|:-------------|:--------------|
+| [WeatherGlobalDamage](/game-reflection/classes/weather_global_damage.md) | value |
+| [Entity](/game-reflection/classes/entity.md) | key |

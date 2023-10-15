@@ -10,5 +10,5 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| Vector< [Pair_EntityStateMachineComponent](game-reflection/components/pair__entity_state_machine_component.md) > | removed_state_machine_vec |
+|:-------------|:--------------|
+| Vector< [Pair_EntityStateMachineComponent](/game-reflection/components/pair__entity_state_machine_component.md) > | removed_state_machine_vec |

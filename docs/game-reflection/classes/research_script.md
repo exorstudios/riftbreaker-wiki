@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [String](game-reflection/components/string.md) | script_name |
-| [Database](game-reflection/components/database.md) | script_database |
+|:-------------|:--------------|
+| [String](/game-reflection/components/string.md) | script_name |
+| [Database](/game-reflection/components/database.md) | script_database |

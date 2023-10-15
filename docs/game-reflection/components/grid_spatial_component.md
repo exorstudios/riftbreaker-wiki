@@ -10,5 +10,5 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [GridSpatialCoords](game-reflection/classes/grid_spatial_coords.md) | coords |
+|:-------------|:--------------|
+| [GridSpatialCoords](/game-reflection/classes/grid_spatial_coords.md) | coords |

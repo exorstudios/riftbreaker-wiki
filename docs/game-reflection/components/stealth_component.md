@@ -10,5 +10,5 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [uint](game-reflection/components/uint.md) | counter |
+|:-------------|:--------------|
+| [uint](/game-reflection/components/uint.md) | counter |

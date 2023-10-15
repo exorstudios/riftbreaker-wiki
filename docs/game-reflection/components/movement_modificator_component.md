@@ -10,8 +10,8 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [float](game-reflection/components/float.md) | deacceleration |
-| [float](game-reflection/components/float.md) | acceleration |
-| [float](game-reflection/components/float.md) | max_speed |
-| [Entity](game-reflection/classes/entity.md) | target |
+|:-------------|:--------------|
+| [float](/game-reflection/components/float.md) | deacceleration |
+| [float](/game-reflection/components/float.md) | acceleration |
+| [float](/game-reflection/components/float.md) | max_speed |
+| [Entity](/game-reflection/classes/entity.md) | target |

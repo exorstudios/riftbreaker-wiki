@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [Timer](game-reflection/classes/timer.md) | decay_timer |
-| [Vector3](game-reflection/classes/vector3.md) | bending_force |
+|:-------------|:--------------|
+| [Timer](/game-reflection/classes/timer.md) | decay_timer |
+| [Vector3](/game-reflection/classes/vector3.md) | bending_force |

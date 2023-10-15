@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| Vector< [InfluenceTask](game-reflection/classes/influence_task.md) > | queue |
-| [int](game-reflection/enums/int.md) | current_task |
+|:-------------|:--------------|
+| Vector< [InfluenceTask](/game-reflection/classes/influence_task.md) > | queue |
+| [int](/game-reflection/enums/int.md) | current_task |

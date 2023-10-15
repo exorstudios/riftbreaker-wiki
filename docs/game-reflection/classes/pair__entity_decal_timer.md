@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [DecalTimer](game-reflection/classes/decal_timer.md) | second |
-| [Entity](game-reflection/classes/entity.md) | first |
+|:-------------|:--------------|
+| [DecalTimer](/game-reflection/classes/decal_timer.md) | second |
+| [Entity](/game-reflection/classes/entity.md) | first |

@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [HudResourceChangeStruct](game-reflection/classes/hud_resource_change_struct.md) | value |
-| [Pair_StringHashuint](game-reflection/classes/pair__string_hashuint.md) | key |
+|:-------------|:--------------|
+| [HudResourceChangeStruct](/game-reflection/classes/hud_resource_change_struct.md) | value |
+| [Pair_StringHashuint](/game-reflection/classes/pair__string_hashuint.md) | key |

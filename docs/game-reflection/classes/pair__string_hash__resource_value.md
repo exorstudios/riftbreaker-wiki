@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [ResourceValue](game-reflection/classes/resource_value.md) | value |
-| [StringHash](game-reflection/classes/string_hash.md) | key |
+|:-------------|:--------------|
+| [ResourceValue](/game-reflection/classes/resource_value.md) | value |
+| [StringHash](/game-reflection/classes/string_hash.md) | key |

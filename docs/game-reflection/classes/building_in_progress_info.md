@@ -10,8 +10,8 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [bool](game-reflection/components/bool.md) | upgrading |
-| [Entity](game-reflection/classes/entity.md) | building |
-| [Timer](game-reflection/classes/timer.md) | timer |
-| [bool](game-reflection/components/bool.md) | started |
+|:-------------|:--------------|
+| [bool](/game-reflection/components/bool.md) | upgrading |
+| [Entity](/game-reflection/classes/entity.md) | building |
+| [Timer](/game-reflection/classes/timer.md) | timer |
+| [bool](/game-reflection/components/bool.md) | started |

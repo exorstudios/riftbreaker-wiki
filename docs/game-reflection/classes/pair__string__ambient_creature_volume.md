@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [AmbientCreatureVolume](game-reflection/classes/ambient_creature_volume.md) | value |
-| [String](game-reflection/components/string.md) | key |
+|:-------------|:--------------|
+| [AmbientCreatureVolume](/game-reflection/classes/ambient_creature_volume.md) | value |
+| [String](/game-reflection/components/string.md) | key |

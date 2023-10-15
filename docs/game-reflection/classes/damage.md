@@ -10,7 +10,7 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [float](game-reflection/components/float.md) | value |
-| [IdString](game-reflection/components/id_string.md) | type |
-| [bool](game-reflection/components/bool.md) | mod |
+|:-------------|:--------------|
+| [float](/game-reflection/components/float.md) | value |
+| [IdString](/game-reflection/components/id_string.md) | type |
+| [bool](/game-reflection/components/bool.md) | mod |

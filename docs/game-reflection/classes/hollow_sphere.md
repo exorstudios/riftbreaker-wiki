@@ -10,7 +10,7 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [float](game-reflection/components/float.md) | r_min |
-| [Vector3](game-reflection/classes/vector3.md) | center |
-| [float](game-reflection/components/float.md) | r_max |
+|:-------------|:--------------|
+| [float](/game-reflection/components/float.md) | r_min |
+| [Vector3](/game-reflection/classes/vector3.md) | center |
+| [float](/game-reflection/components/float.md) | r_max |

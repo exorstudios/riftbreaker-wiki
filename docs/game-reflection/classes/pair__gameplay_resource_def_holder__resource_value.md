@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [ResourceValue](game-reflection/classes/resource_value.md) | value |
-| [GameplayResourceDefHolder](game-reflection/components/gameplay_resource_def_holder.md) | key |
+|:-------------|:--------------|
+| [ResourceValue](/game-reflection/classes/resource_value.md) | value |
+| [GameplayResourceDefHolder](/game-reflection/components/gameplay_resource_def_holder.md) | key |

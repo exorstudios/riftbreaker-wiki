@@ -10,7 +10,7 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [StringHash](game-reflection/classes/string_hash.md) | chain_destination |
-| [StringHash](game-reflection/classes/string_hash.md) | chain_data |
-| [StringHash](game-reflection/classes/string_hash.md) | chain_handle |
+|:-------------|:--------------|
+| [StringHash](/game-reflection/classes/string_hash.md) | chain_destination |
+| [StringHash](/game-reflection/classes/string_hash.md) | chain_data |
+| [StringHash](/game-reflection/classes/string_hash.md) | chain_handle |

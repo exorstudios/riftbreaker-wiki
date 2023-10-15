@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [Entity](game-reflection/classes/entity.md) | value |
-| [StringHash](game-reflection/classes/string_hash.md) | key |
+|:-------------|:--------------|
+| [Entity](/game-reflection/classes/entity.md) | value |
+| [StringHash](/game-reflection/classes/string_hash.md) | key |

@@ -10,8 +10,8 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| Vector< [StringHash](game-reflection/classes/string_hash.md) > | volume |
-| [VertexBlend](game-reflection/classes/vertex_blend.md) | blend |
-| [float](game-reflection/components/float.md) | height |
-| Vector< [StringHash](game-reflection/classes/string_hash.md) > | prefab |
+|:-------------|:--------------|
+| Vector< [StringHash](/game-reflection/classes/string_hash.md) > | volume |
+| [VertexBlend](/game-reflection/classes/vertex_blend.md) | blend |
+| [float](/game-reflection/components/float.md) | height |
+| Vector< [StringHash](/game-reflection/classes/string_hash.md) > | prefab |

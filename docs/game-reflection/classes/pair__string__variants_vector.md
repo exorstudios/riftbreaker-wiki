@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [VariantsVector](game-reflection/classes/variants_vector.md) | value |
-| [String](game-reflection/components/string.md) | key |
+|:-------------|:--------------|
+| [VariantsVector](/game-reflection/classes/variants_vector.md) | value |
+| [String](/game-reflection/components/string.md) | key |

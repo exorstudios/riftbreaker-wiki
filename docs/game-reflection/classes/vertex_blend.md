@@ -10,5 +10,5 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| Vector< [Pair_IdString_float](game-reflection/classes/pair__id_string_float.md) > | materials |
+|:-------------|:--------------|
+| Vector< [Pair_IdString_float](/game-reflection/classes/pair__id_string_float.md) > | materials |

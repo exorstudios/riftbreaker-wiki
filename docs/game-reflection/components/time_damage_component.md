@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [bool](game-reflection/components/bool.md) | is_burning |
-| Vector< [TimeDamageData](game-reflection/classes/time_damage_data.md) > | time_damage_vec |
+|:-------------|:--------------|
+| [bool](/game-reflection/components/bool.md) | is_burning |
+| Vector< [TimeDamageData](/game-reflection/classes/time_damage_data.md) > | time_damage_vec |

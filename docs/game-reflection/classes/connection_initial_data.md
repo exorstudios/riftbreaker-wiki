@@ -10,5 +10,5 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [bool](game-reflection/components/bool.md) | headless |
+|:-------------|:--------------|
+| [bool](/game-reflection/components/bool.md) | headless |

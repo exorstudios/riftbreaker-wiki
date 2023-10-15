@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [String](game-reflection/components/string.md) | value |
-| [TeamId](game-reflection/classes/team_id.md) | key |
+|:-------------|:--------------|
+| [String](/game-reflection/components/string.md) | value |
+| [TeamId](/game-reflection/classes/team_id.md) | key |

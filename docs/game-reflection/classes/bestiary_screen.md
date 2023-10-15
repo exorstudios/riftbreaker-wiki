@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [bool](game-reflection/components/bool.md) | enabled |
-| [String](game-reflection/components/string.md) | current_category |
+|:-------------|:--------------|
+| [bool](/game-reflection/components/bool.md) | enabled |
+| [String](/game-reflection/components/string.md) | current_category |

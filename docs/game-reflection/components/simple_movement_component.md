@@ -10,5 +10,5 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [SimpleMovement4](game-reflection/components/simple_movement4.md) | movement |
+|:-------------|:--------------|
+| [SimpleMovement4](/game-reflection/components/simple_movement4.md) | movement |

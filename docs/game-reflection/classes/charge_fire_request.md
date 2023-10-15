@@ -10,7 +10,7 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [Transform](game-reflection/classes/transform.md) | transform |
-| [float](game-reflection/components/float.md) | delay |
-| [uint](game-reflection/components/uint.md) | charge_idx |
+|:-------------|:--------------|
+| [Transform](/game-reflection/classes/transform.md) | transform |
+| [float](/game-reflection/components/float.md) | delay |
+| [uint](/game-reflection/components/uint.md) | charge_idx |

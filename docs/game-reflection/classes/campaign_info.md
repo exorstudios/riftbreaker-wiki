@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [String](game-reflection/components/string.md) | preview_material |
-| [String](game-reflection/components/string.md) | mission_name |
+|:-------------|:--------------|
+| [String](/game-reflection/components/string.md) | preview_material |
+| [String](/game-reflection/components/string.md) | mission_name |

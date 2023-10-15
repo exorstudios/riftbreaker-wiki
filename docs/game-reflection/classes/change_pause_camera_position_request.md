@@ -10,5 +10,5 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [String](game-reflection/components/string.md) | Id |
+|:-------------|:--------------|
+| [String](/game-reflection/components/string.md) | Id |

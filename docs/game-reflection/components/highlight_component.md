@@ -10,11 +10,11 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [int](game-reflection/enums/int.md) | mode |
-| [float](game-reflection/components/float.md) | current_time |
-| [float](game-reflection/components/float.md) | last_damage |
-| [float](game-reflection/components/float.md) | flash_time |
-| [float](game-reflection/components/float.md) | factor |
-| Vector< [float](game-reflection/components/float.md) > | hits |
-| [float](game-reflection/components/float.md) | last_hit_time |
+|:-------------|:--------------|
+| [int](/game-reflection/enums/int.md) | mode |
+| [float](/game-reflection/components/float.md) | current_time |
+| [float](/game-reflection/components/float.md) | last_damage |
+| [float](/game-reflection/components/float.md) | flash_time |
+| [float](/game-reflection/components/float.md) | factor |
+| Vector< [float](/game-reflection/components/float.md) > | hits |
+| [float](/game-reflection/components/float.md) | last_hit_time |

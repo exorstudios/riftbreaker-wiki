@@ -10,5 +10,5 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [LinearEcs](game-reflection/components/linear_ecs.md) | components |
+|:-------------|:--------------|
+| [LinearEcs](/game-reflection/components/linear_ecs.md) | components |

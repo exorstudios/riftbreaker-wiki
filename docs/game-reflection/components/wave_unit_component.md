@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [Entity](game-reflection/classes/entity.md) | wave_entity |
-| [int](game-reflection/enums/int.md) | state |
+|:-------------|:--------------|
+| [Entity](/game-reflection/classes/entity.md) | wave_entity |
+| [int](/game-reflection/enums/int.md) | state |

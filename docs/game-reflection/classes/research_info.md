@@ -10,7 +10,7 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [String](game-reflection/components/string.md) | research_tree_name |
-| [uint64](game-reflection/components/uint64.md) | tree_version |
-| [String](game-reflection/components/string.md) | tools_version |
+|:-------------|:--------------|
+| [String](/game-reflection/components/string.md) | research_tree_name |
+| [uint64](/game-reflection/components/uint64.md) | tree_version |
+| [String](/game-reflection/components/string.md) | tools_version |

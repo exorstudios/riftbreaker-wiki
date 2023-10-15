@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [Entity](game-reflection/classes/entity.md) | parent |
-| [Entity](game-reflection/classes/entity.md) | sfx_ent |
+|:-------------|:--------------|
+| [Entity](/game-reflection/classes/entity.md) | parent |
+| [Entity](/game-reflection/classes/entity.md) | sfx_ent |

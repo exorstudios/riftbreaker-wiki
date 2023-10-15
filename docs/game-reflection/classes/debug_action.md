@@ -10,7 +10,7 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [String](game-reflection/components/string.md) | localization |
-| [bool](game-reflection/components/bool.md) | filter_match |
-| [uint64](game-reflection/components/uint64.md) | count |
+|:-------------|:--------------|
+| [String](/game-reflection/components/string.md) | localization |
+| [bool](/game-reflection/components/bool.md) | filter_match |
+| [uint64](/game-reflection/components/uint64.md) | count |

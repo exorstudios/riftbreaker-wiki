@@ -10,7 +10,7 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [String](game-reflection/components/string.md) | gui_id |
-| [float](game-reflection/components/float.md) | extended_duration |
-| [String](game-reflection/components/string.md) | sound_name |
+|:-------------|:--------------|
+| [String](/game-reflection/components/string.md) | gui_id |
+| [float](/game-reflection/components/float.md) | extended_duration |
+| [String](/game-reflection/components/string.md) | sound_name |

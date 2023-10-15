@@ -10,7 +10,7 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [uchar](game-reflection/enums/uchar.md) | size_mode_x |
-| [uchar](game-reflection/enums/uchar.md) | size_mode_y |
-| [uchar](game-reflection/enums/uchar.md) | interpolation_mode |
+|:-------------|:--------------|
+| [uchar](/game-reflection/enums/uchar.md) | size_mode_x |
+| [uchar](/game-reflection/enums/uchar.md) | size_mode_y |
+| [uchar](/game-reflection/enums/uchar.md) | interpolation_mode |

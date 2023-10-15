@@ -10,5 +10,5 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| Vector< [Pair_String_KeyActionMapDiff](game-reflection/classes/pair__string__key_action_map_diff.md) > | user_action_map_diff |
+|:-------------|:--------------|
+| Vector< [Pair_String_KeyActionMapDiff](/game-reflection/classes/pair__string__key_action_map_diff.md) > | user_action_map_diff |

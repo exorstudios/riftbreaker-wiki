@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [GuiSubTabDef](game-reflection/classes/gui_sub_tab_def.md) | value |
-| [IdString](game-reflection/components/id_string.md) | key |
+|:-------------|:--------------|
+| [GuiSubTabDef](/game-reflection/classes/gui_sub_tab_def.md) | value |
+| [IdString](/game-reflection/components/id_string.md) | key |

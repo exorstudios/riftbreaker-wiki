@@ -10,5 +10,5 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [int64](game-reflection/components/int64.md) | value |
+|:-------------|:--------------|
+| [int64](/game-reflection/components/int64.md) | value |

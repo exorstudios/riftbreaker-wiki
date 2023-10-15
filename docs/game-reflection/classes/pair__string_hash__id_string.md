@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [IdString](game-reflection/components/id_string.md) | value |
-| [StringHash](game-reflection/classes/string_hash.md) | key |
+|:-------------|:--------------|
+| [IdString](/game-reflection/components/id_string.md) | value |
+| [StringHash](/game-reflection/classes/string_hash.md) | key |

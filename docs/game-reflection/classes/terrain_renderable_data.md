@@ -10,5 +10,5 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| Vector< [TerrainRenderableRegion](game-reflection/classes/terrain_renderable_region.md) > | regions |
+|:-------------|:--------------|
+| Vector< [TerrainRenderableRegion](/game-reflection/classes/terrain_renderable_region.md) > | regions |

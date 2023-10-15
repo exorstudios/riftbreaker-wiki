@@ -10,7 +10,7 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [Timer](game-reflection/classes/timer.md) | timer |
-| [IdString](game-reflection/components/id_string.md) | tag |
-| [Degree](game-reflection/classes/degree.md) | angle |
+|:-------------|:--------------|
+| [Timer](/game-reflection/classes/timer.md) | timer |
+| [IdString](/game-reflection/components/id_string.md) | tag |
+| [Degree](/game-reflection/classes/degree.md) | angle |

@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [short](game-reflection/components/short.md) | type |
-| Vector< [Vector2](game-reflection/classes/vector2.md) > | points |
+|:-------------|:--------------|
+| [short](/game-reflection/components/short.md) | type |
+| Vector< [Vector2](/game-reflection/classes/vector2.md) > | points |

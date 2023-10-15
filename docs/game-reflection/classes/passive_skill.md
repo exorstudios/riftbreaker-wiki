@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [Entity](game-reflection/classes/entity.md) | entity |
-| [int](game-reflection/enums/int.md) | counter |
+|:-------------|:--------------|
+| [Entity](/game-reflection/classes/entity.md) | entity |
+| [int](/game-reflection/enums/int.md) | counter |

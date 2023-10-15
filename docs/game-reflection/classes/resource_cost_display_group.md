@@ -10,5 +10,5 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [String](game-reflection/components/string.md) | header_label |
+|:-------------|:--------------|
+| [String](/game-reflection/components/string.md) | header_label |

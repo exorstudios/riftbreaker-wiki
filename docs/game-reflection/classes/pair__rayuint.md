@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [uint](game-reflection/components/uint.md) | second |
-| [Ray](game-reflection/classes/ray.md) | first |
+|:-------------|:--------------|
+| [uint](/game-reflection/components/uint.md) | second |
+| [Ray](/game-reflection/classes/ray.md) | first |

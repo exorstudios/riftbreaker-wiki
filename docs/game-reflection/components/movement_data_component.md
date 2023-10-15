@@ -10,7 +10,7 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [ModifiableValue](game-reflection/classes/modifiable_value.md) | deacceleration |
-| [ModifiableValue](game-reflection/classes/modifiable_value.md) | acceleration |
-| [ModifiableValue](game-reflection/classes/modifiable_value.md) | max_speed |
+|:-------------|:--------------|
+| [ModifiableValue](/game-reflection/classes/modifiable_value.md) | deacceleration |
+| [ModifiableValue](/game-reflection/classes/modifiable_value.md) | acceleration |
+| [ModifiableValue](/game-reflection/classes/modifiable_value.md) | max_speed |

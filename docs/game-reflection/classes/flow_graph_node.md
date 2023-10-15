@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [String](game-reflection/components/string.md) | self_id |
-| [bool](game-reflection/components/bool.md) | finished |
+|:-------------|:--------------|
+| [String](/game-reflection/components/string.md) | self_id |
+| [bool](/game-reflection/components/bool.md) | finished |

@@ -10,8 +10,8 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [Entity](game-reflection/classes/entity.md) | effect_ent |
-| [uchar](game-reflection/enums/uchar.md) | state |
-| [IdString](game-reflection/components/id_string.md) | sound_name |
-| [float](game-reflection/components/float.md) | delay |
+|:-------------|:--------------|
+| [Entity](/game-reflection/classes/entity.md) | effect_ent |
+| [uchar](/game-reflection/enums/uchar.md) | state |
+| [IdString](/game-reflection/components/id_string.md) | sound_name |
+| [float](/game-reflection/components/float.md) | delay |

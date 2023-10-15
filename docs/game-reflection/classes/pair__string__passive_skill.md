@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [PassiveSkill](game-reflection/classes/passive_skill.md) | value |
-| [String](game-reflection/components/string.md) | key |
+|:-------------|:--------------|
+| [PassiveSkill](/game-reflection/classes/passive_skill.md) | value |
+| [String](/game-reflection/components/string.md) | key |

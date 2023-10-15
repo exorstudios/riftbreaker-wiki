@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| Vector< [String](game-reflection/components/string.md) > | pool_names |
-| [Aabb](game-reflection/components/aabb.md) | bounds |
+|:-------------|:--------------|
+| Vector< [String](/game-reflection/components/string.md) > | pool_names |
+| [Aabb](/game-reflection/components/aabb.md) | bounds |

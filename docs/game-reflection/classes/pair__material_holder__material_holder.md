@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [MaterialHolder](game-reflection/components/material_holder.md) | value |
-| [MaterialHolder](game-reflection/components/material_holder.md) | key |
+|:-------------|:--------------|
+| [MaterialHolder](/game-reflection/components/material_holder.md) | value |
+| [MaterialHolder](/game-reflection/components/material_holder.md) | key |

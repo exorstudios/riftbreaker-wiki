@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| Vector< [Pair_StringHash_EntityMod](game-reflection/classes/pair__string_hash__entity_mod.md) > | value |
-| [int](game-reflection/enums/int.md) | key |
+|:-------------|:--------------|
+| Vector< [Pair_StringHash_EntityMod](/game-reflection/classes/pair__string_hash__entity_mod.md) > | value |
+| [int](/game-reflection/enums/int.md) | key |

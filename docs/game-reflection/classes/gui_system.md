@@ -10,5 +10,5 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [uchar](game-reflection/enums/uchar.md) | current_controller_type |
+|:-------------|:--------------|
+| [uchar](/game-reflection/enums/uchar.md) | current_controller_type |

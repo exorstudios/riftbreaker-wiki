@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [TileSpawnRule](game-reflection/classes/tile_spawn_rule.md) | second |
-| [String](game-reflection/components/string.md) | first |
+|:-------------|:--------------|
+| [TileSpawnRule](/game-reflection/classes/tile_spawn_rule.md) | second |
+| [String](/game-reflection/components/string.md) | first |

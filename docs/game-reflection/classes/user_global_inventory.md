@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| Vector< [String](game-reflection/components/string.md) > | unlocked_items |
-| Vector< [String](game-reflection/components/string.md) > | unlocked_buildings |
+|:-------------|:--------------|
+| Vector< [String](/game-reflection/components/string.md) > | unlocked_items |
+| Vector< [String](/game-reflection/components/string.md) > | unlocked_buildings |

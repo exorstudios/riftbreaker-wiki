@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [String](game-reflection/components/string.md) | culling_type |
-| [Aabb](game-reflection/components/aabb.md) | bounds |
+|:-------------|:--------------|
+| [String](/game-reflection/components/string.md) | culling_type |
+| [Aabb](/game-reflection/components/aabb.md) | bounds |

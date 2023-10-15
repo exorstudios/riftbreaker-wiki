@@ -10,5 +10,5 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [ResourceBasket](game-reflection/classes/resource_basket.md) | resources |
+|:-------------|:--------------|
+| [ResourceBasket](/game-reflection/classes/resource_basket.md) | resources |

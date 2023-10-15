@@ -10,5 +10,5 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [Database](game-reflection/components/database.md) | database |
+|:-------------|:--------------|
+| [Database](/game-reflection/components/database.md) | database |

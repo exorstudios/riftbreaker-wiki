@@ -10,5 +10,5 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| Vector< [JournalEntry](game-reflection/classes/journal_entry.md) > | data |
+|:-------------|:--------------|
+| Vector< [JournalEntry](/game-reflection/classes/journal_entry.md) > | data |

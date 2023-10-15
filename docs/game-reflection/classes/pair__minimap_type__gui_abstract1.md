@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [GuiAbstract1](game-reflection/components/gui_abstract1.md) | value |
-| [uchar](game-reflection/enums/uchar.md) | key |
+|:-------------|:--------------|
+| [GuiAbstract1](/game-reflection/components/gui_abstract1.md) | value |
+| [uchar](/game-reflection/enums/uchar.md) | key |

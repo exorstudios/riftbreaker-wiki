@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [IdString](game-reflection/components/id_string.md) | effect |
-| [uint](game-reflection/components/uint.md) | ent |
+|:-------------|:--------------|
+| [IdString](/game-reflection/components/id_string.md) | effect |
+| [uint](/game-reflection/components/uint.md) | ent |

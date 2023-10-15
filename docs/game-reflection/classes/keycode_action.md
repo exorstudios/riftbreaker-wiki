@@ -10,7 +10,7 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [int](game-reflection/enums/int.md) | key_code |
-| [float](game-reflection/components/float.md) | value |
-| [String](game-reflection/components/string.md) | action |
+|:-------------|:--------------|
+| [int](/game-reflection/enums/int.md) | key_code |
+| [float](/game-reflection/components/float.md) | value |
+| [String](/game-reflection/components/string.md) | action |

@@ -10,5 +10,5 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [uint](game-reflection/components/uint.md) | energy_level |
+|:-------------|:--------------|
+| [uint](/game-reflection/components/uint.md) | energy_level |

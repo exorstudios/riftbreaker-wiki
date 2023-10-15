@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [int](game-reflection/enums/int.md) | reference_counter |
-| [uint](game-reflection/components/uint.md) | instance_hash |
+|:-------------|:--------------|
+| [int](/game-reflection/enums/int.md) | reference_counter |
+| [uint](/game-reflection/components/uint.md) | instance_hash |

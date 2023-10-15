@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [bool](game-reflection/components/bool.md) | initialized |
-| Vector< [FlameBox](game-reflection/classes/flame_box.md) > | flame_boxes |
+|:-------------|:--------------|
+| [bool](/game-reflection/components/bool.md) | initialized |
+| Vector< [FlameBox](/game-reflection/classes/flame_box.md) > | flame_boxes |

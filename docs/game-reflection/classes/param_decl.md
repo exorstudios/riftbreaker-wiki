@@ -10,7 +10,7 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [IdString](game-reflection/components/id_string.md) | param_name |
-| [int](game-reflection/enums/int.md) | data_type |
-| [bool](game-reflection/components/bool.md) | is_const |
+|:-------------|:--------------|
+| [IdString](/game-reflection/components/id_string.md) | param_name |
+| [int](/game-reflection/enums/int.md) | data_type |
+| [bool](/game-reflection/components/bool.md) | is_const |

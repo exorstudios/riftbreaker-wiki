@@ -10,5 +10,5 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [Timer](game-reflection/classes/timer.md) | recovery_delay |
+|:-------------|:--------------|
+| [Timer](/game-reflection/classes/timer.md) | recovery_delay |

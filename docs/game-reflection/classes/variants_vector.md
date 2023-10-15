@@ -10,5 +10,5 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| Vector< [String](game-reflection/components/string.md) > | variants |
+|:-------------|:--------------|
+| Vector< [String](/game-reflection/components/string.md) > | variants |

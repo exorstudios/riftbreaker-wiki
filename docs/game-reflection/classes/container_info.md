@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [uint](game-reflection/components/uint.md) | types_to_select |
-| Vector< [ContainerLootType](game-reflection/classes/container_loot_type.md) > | container_loot_types |
+|:-------------|:--------------|
+| [uint](/game-reflection/components/uint.md) | types_to_select |
+| Vector< [ContainerLootType](/game-reflection/classes/container_loot_type.md) > | container_loot_types |

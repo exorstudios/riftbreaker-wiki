@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| Vector< [TableKVP](game-reflection/classes/table_k_v_p.md) > | value |
-| [int](game-reflection/enums/int.md) | key |
+|:-------------|:--------------|
+| Vector< [TableKVP](/game-reflection/classes/table_k_v_p.md) > | value |
+| [int](/game-reflection/enums/int.md) | key |

@@ -10,7 +10,7 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [Quaternion](game-reflection/classes/quaternion.md) | orientation |
-| [Vector3](game-reflection/classes/vector3.md) | scale |
-| [Vector3](game-reflection/classes/vector3.md) | position |
+|:-------------|:--------------|
+| [Quaternion](/game-reflection/classes/quaternion.md) | orientation |
+| [Vector3](/game-reflection/classes/vector3.md) | scale |
+| [Vector3](/game-reflection/classes/vector3.md) | position |

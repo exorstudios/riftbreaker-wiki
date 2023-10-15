@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [Entity](game-reflection/classes/entity.md) | owner |
-| [float](game-reflection/components/float.md) | delay |
+|:-------------|:--------------|
+| [Entity](/game-reflection/classes/entity.md) | owner |
+| [float](/game-reflection/components/float.md) | delay |

@@ -10,7 +10,7 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [uchar](game-reflection/enums/uchar.md) | collision_group_id |
-| [String](game-reflection/components/string.md) | skeleton_prefix |
-| Vector< [String](game-reflection/components/string.md) > | excluded_collisions |
+|:-------------|:--------------|
+| [uchar](/game-reflection/enums/uchar.md) | collision_group_id |
+| [String](/game-reflection/components/string.md) | skeleton_prefix |
+| Vector< [String](/game-reflection/components/string.md) > | excluded_collisions |

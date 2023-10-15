@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [CachedDestroyPattern2](game-reflection/components/cached_destroy_pattern2.md) | value |
-| [IdString](game-reflection/components/id_string.md) | key |
+|:-------------|:--------------|
+| [CachedDestroyPattern2](/game-reflection/components/cached_destroy_pattern2.md) | value |
+| [IdString](/game-reflection/components/id_string.md) | key |

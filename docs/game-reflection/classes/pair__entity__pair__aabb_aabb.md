@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [Pair_AabbAabb](game-reflection/classes/pair__aabb_aabb.md) | value |
-| [Entity](game-reflection/classes/entity.md) | key |
+|:-------------|:--------------|
+| [Pair_AabbAabb](/game-reflection/classes/pair__aabb_aabb.md) | value |
+| [Entity](/game-reflection/classes/entity.md) | key |

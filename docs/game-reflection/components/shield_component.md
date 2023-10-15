@@ -10,9 +10,9 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [uchar](game-reflection/enums/uchar.md) | mode |
-| Vector< [Entity](game-reflection/classes/entity.md) > | owners |
-| [String](game-reflection/components/string.md) | highlight_material |
-| [uchar](game-reflection/enums/uchar.md) | priority |
-| [uchar](game-reflection/enums/uchar.md) | owner |
+|:-------------|:--------------|
+| [uchar](/game-reflection/enums/uchar.md) | mode |
+| Vector< [Entity](/game-reflection/classes/entity.md) > | owners |
+| [String](/game-reflection/components/string.md) | highlight_material |
+| [uchar](/game-reflection/enums/uchar.md) | priority |
+| [uchar](/game-reflection/enums/uchar.md) | owner |

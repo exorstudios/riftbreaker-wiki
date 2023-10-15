@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [String](game-reflection/components/string.md) | campaign_name |
-| [uint](game-reflection/components/uint.md) | timestamp |
+|:-------------|:--------------|
+| [String](/game-reflection/components/string.md) | campaign_name |
+| [uint](/game-reflection/components/uint.md) | timestamp |

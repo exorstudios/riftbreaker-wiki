@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| Vector< [uint](game-reflection/components/uint.md) > | second |
-| [Entity](game-reflection/classes/entity.md) | first |
+|:-------------|:--------------|
+| Vector< [uint](/game-reflection/components/uint.md) > | second |
+| [Entity](/game-reflection/classes/entity.md) | first |

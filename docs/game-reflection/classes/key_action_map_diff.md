@@ -10,8 +10,8 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| Vector< [StickAction](game-reflection/classes/stick_action.md) > | added_stick_actions |
-| Vector< [KeycodeAction](game-reflection/classes/keycode_action.md) > | added |
-| Vector< [StickAction](game-reflection/classes/stick_action.md) > | removed_stick_actions |
-| Vector< [KeycodeAction](game-reflection/classes/keycode_action.md) > | removed |
+|:-------------|:--------------|
+| Vector< [StickAction](/game-reflection/classes/stick_action.md) > | added_stick_actions |
+| Vector< [KeycodeAction](/game-reflection/classes/keycode_action.md) > | added |
+| Vector< [StickAction](/game-reflection/classes/stick_action.md) > | removed_stick_actions |
+| Vector< [KeycodeAction](/game-reflection/classes/keycode_action.md) > | removed |

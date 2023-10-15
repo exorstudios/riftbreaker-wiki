@@ -10,5 +10,5 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| Vector< [float](game-reflection/components/float.md) > | crafting_data |
+|:-------------|:--------------|
+| Vector< [float](/game-reflection/components/float.md) > | crafting_data |

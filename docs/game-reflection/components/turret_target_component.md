@@ -10,5 +10,5 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [Vector3](game-reflection/classes/vector3.md) | target_pos |
+|:-------------|:--------------|
+| [Vector3](/game-reflection/classes/vector3.md) | target_pos |

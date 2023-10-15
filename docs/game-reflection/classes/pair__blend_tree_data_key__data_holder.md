@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [DataHolder](game-reflection/classes/data_holder.md) | value |
-| [BlendTreeDataKey](game-reflection/classes/blend_tree_data_key.md) | key |
+|:-------------|:--------------|
+| [DataHolder](/game-reflection/classes/data_holder.md) | value |
+| [BlendTreeDataKey](/game-reflection/classes/blend_tree_data_key.md) | key |

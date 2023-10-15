@@ -10,5 +10,5 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| Vector< [EffectInstance](game-reflection/classes/effect_instance.md) > | effects |
+|:-------------|:--------------|
+| Vector< [EffectInstance](/game-reflection/classes/effect_instance.md) > | effects |

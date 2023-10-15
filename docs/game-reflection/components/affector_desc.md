@@ -10,5 +10,5 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| Vector< [AffectorLambdaDesc](game-reflection/components/affector_lambda_desc.md) > | affector_lambda_desc_vec |
+|:-------------|:--------------|
+| Vector< [AffectorLambdaDesc](/game-reflection/components/affector_lambda_desc.md) > | affector_lambda_desc_vec |

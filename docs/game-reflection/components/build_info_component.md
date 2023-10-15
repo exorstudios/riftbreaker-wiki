@@ -10,5 +10,5 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [BuildInfo](game-reflection/classes/build_info.md) | build_info |
+|:-------------|:--------------|
+| [BuildInfo](/game-reflection/classes/build_info.md) | build_info |

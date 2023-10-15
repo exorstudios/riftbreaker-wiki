@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [LootTypeInfo](game-reflection/classes/loot_type_info.md) | value |
-| [String](game-reflection/components/string.md) | key |
+|:-------------|:--------------|
+| [LootTypeInfo](/game-reflection/classes/loot_type_info.md) | value |
+| [String](/game-reflection/components/string.md) | key |

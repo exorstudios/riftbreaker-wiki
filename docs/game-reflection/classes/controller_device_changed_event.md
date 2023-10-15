@@ -10,5 +10,5 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [uchar](game-reflection/enums/uchar.md) | CurrentDevice |
+|:-------------|:--------------|
+| [uchar](/game-reflection/enums/uchar.md) | CurrentDevice |

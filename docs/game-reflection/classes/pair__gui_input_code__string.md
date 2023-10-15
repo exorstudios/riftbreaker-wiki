@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [String](game-reflection/components/string.md) | value |
-| [uchar](game-reflection/enums/uchar.md) | key |
+|:-------------|:--------------|
+| [String](/game-reflection/components/string.md) | value |
+| [uchar](/game-reflection/enums/uchar.md) | key |

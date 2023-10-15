@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [float](game-reflection/components/float.md) | value |
-| [Entity](game-reflection/classes/entity.md) | key |
+|:-------------|:--------------|
+| [float](/game-reflection/components/float.md) | value |
+| [Entity](/game-reflection/classes/entity.md) | key |

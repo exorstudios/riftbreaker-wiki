@@ -10,7 +10,7 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [float](game-reflection/components/float.md) | radius |
-| Vector< [Entity](game-reflection/classes/entity.md) > | marked_cells |
-| [Vector3](game-reflection/classes/vector3.md) | marked_position |
+|:-------------|:--------------|
+| [float](/game-reflection/components/float.md) | radius |
+| Vector< [Entity](/game-reflection/classes/entity.md) > | marked_cells |
+| [Vector3](/game-reflection/classes/vector3.md) | marked_position |

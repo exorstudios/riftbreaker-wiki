@@ -10,8 +10,8 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [uint](game-reflection/components/uint.md) | EntityId |
-| [uint](game-reflection/components/uint.md) | CostId |
-| Vector< [int](game-reflection/enums/int.md) > | NodesIdx |
-| Vector< [int](game-reflection/enums/int.md) > | AirNodesIdx |
+|:-------------|:--------------|
+| [uint](/game-reflection/components/uint.md) | EntityId |
+| [uint](/game-reflection/components/uint.md) | CostId |
+| Vector< [int](/game-reflection/enums/int.md) > | NodesIdx |
+| Vector< [int](/game-reflection/enums/int.md) > | AirNodesIdx |

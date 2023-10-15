@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [LogicTimer](game-reflection/classes/logic_timer.md) | value |
-| [InfoLevelMap](game-reflection/classes/info_level_map.md) | key |
+|:-------------|:--------------|
+| [LogicTimer](/game-reflection/classes/logic_timer.md) | value |
+| [InfoLevelMap](/game-reflection/classes/info_level_map.md) | key |

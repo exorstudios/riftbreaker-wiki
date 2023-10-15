@@ -10,7 +10,7 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| Vector< [IdString](game-reflection/components/id_string.md) > | state |
-| Vector< [ParamWithValue](game-reflection/classes/param_with_value.md) > | param_vec |
-| [IdString](game-reflection/components/id_string.md) | event_name |
+|:-------------|:--------------|
+| Vector< [IdString](/game-reflection/components/id_string.md) > | state |
+| Vector< [ParamWithValue](/game-reflection/classes/param_with_value.md) > | param_vec |
+| [IdString](/game-reflection/components/id_string.md) | event_name |

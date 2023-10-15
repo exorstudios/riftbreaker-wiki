@@ -10,7 +10,7 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [ResourceValue](game-reflection/classes/resource_value.md) | add |
-| [ResourceValue](game-reflection/classes/resource_value.md) | amount |
-| [ResourceValue](game-reflection/classes/resource_value.md) | min |
+|:-------------|:--------------|
+| [ResourceValue](/game-reflection/classes/resource_value.md) | add |
+| [ResourceValue](/game-reflection/classes/resource_value.md) | amount |
+| [ResourceValue](/game-reflection/classes/resource_value.md) | min |

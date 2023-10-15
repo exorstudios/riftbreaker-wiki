@@ -10,8 +10,8 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [uint](game-reflection/components/uint.md) | search_to_spawn_radius |
-| [uint](game-reflection/components/uint.md) | spawn_rate |
-| Vector< [CreatureVolume](game-reflection/classes/creature_volume.md) > | species |
-| [uint](game-reflection/components/uint.md) | max_count |
+|:-------------|:--------------|
+| [uint](/game-reflection/components/uint.md) | search_to_spawn_radius |
+| [uint](/game-reflection/components/uint.md) | spawn_rate |
+| Vector< [CreatureVolume](/game-reflection/classes/creature_volume.md) > | species |
+| [uint](/game-reflection/components/uint.md) | max_count |

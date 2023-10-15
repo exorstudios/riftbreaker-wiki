@@ -10,7 +10,7 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [uint](game-reflection/components/uint.md) | event |
-| [StringHash](game-reflection/classes/string_hash.md) | callback |
-| [uint](game-reflection/components/uint.md) | target |
+|:-------------|:--------------|
+| [uint](/game-reflection/components/uint.md) | event |
+| [StringHash](/game-reflection/classes/string_hash.md) | callback |
+| [uint](/game-reflection/components/uint.md) | target |

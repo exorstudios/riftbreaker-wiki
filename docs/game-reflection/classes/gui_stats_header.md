@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [String](game-reflection/components/string.md) | header |
-| [String](game-reflection/components/string.md) | header_value |
+|:-------------|:--------------|
+| [String](/game-reflection/components/string.md) | header |
+| [String](/game-reflection/components/string.md) | header_value |

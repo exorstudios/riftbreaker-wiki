@@ -10,8 +10,8 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [float](game-reflection/components/float.md) | height |
-| [float](game-reflection/components/float.md) | x |
-| [float](game-reflection/components/float.md) | y |
-| [float](game-reflection/components/float.md) | width |
+|:-------------|:--------------|
+| [float](/game-reflection/components/float.md) | height |
+| [float](/game-reflection/components/float.md) | x |
+| [float](/game-reflection/components/float.md) | y |
+| [float](/game-reflection/components/float.md) | width |

@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [Database](game-reflection/components/database.md) | params |
-| [String](game-reflection/components/string.md) | template_name |
+|:-------------|:--------------|
+| [Database](/game-reflection/components/database.md) | params |
+| [String](/game-reflection/components/string.md) | template_name |

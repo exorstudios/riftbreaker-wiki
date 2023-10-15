@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [int](game-reflection/enums/int.md) | path_mode |
-| [TransformBezierPath](game-reflection/classes/transform_bezier_path.md) | bezier_path |
+|:-------------|:--------------|
+| [int](/game-reflection/enums/int.md) | path_mode |
+| [TransformBezierPath](/game-reflection/classes/transform_bezier_path.md) | bezier_path |

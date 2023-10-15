@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [Entity](game-reflection/classes/entity.md) | value |
-| [uint](game-reflection/components/uint.md) | key |
+|:-------------|:--------------|
+| [Entity](/game-reflection/classes/entity.md) | value |
+| [uint](/game-reflection/components/uint.md) | key |

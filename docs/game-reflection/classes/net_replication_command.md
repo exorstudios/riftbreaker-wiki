@@ -10,7 +10,7 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [Entity](game-reflection/classes/entity.md) | entity |
-| [uchar](game-reflection/enums/uchar.md) | type |
-| [uint](game-reflection/components/uint.md) | typehash |
+|:-------------|:--------------|
+| [Entity](/game-reflection/classes/entity.md) | entity |
+| [uchar](/game-reflection/enums/uchar.md) | type |
+| [uint](/game-reflection/components/uint.md) | typehash |

@@ -10,5 +10,5 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| Vector< [CellLayerInfo](game-reflection/classes/cell_layer_info.md) > | layers |
+|:-------------|:--------------|
+| Vector< [CellLayerInfo](/game-reflection/classes/cell_layer_info.md) > | layers |

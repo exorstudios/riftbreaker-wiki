@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [WeatherEntityDamageAccumulator](game-reflection/classes/weather_entity_damage_accumulator.md) | value |
-| [Entity](game-reflection/classes/entity.md) | key |
+|:-------------|:--------------|
+| [WeatherEntityDamageAccumulator](/game-reflection/classes/weather_entity_damage_accumulator.md) | value |
+| [Entity](/game-reflection/classes/entity.md) | key |

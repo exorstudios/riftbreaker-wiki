@@ -10,5 +10,5 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [SpatialNode1](game-reflection/components/spatial_node1.md) | node |
+|:-------------|:--------------|
+| [SpatialNode1](/game-reflection/components/spatial_node1.md) | node |

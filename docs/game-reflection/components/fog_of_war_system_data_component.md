@@ -10,5 +10,5 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| Vector< [Pair_Entity_Pair_Vector3float](game-reflection/classes/pair__entity__pair__vector3float.md) > | persistant_ents |
+|:-------------|:--------------|
+| Vector< [Pair_Entity_Pair_Vector3float](/game-reflection/classes/pair__entity__pair__vector3float.md) > | persistant_ents |

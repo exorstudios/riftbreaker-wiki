@@ -10,5 +10,5 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [uint64](game-reflection/components/uint64.md) | version |
+|:-------------|:--------------|
+| [uint64](/game-reflection/components/uint64.md) | version |

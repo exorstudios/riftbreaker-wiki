@@ -10,7 +10,7 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [float](game-reflection/components/float.md) | radius |
-| [float](game-reflection/components/float.md) | speed |
-| [uint](game-reflection/components/uint.md) | power |
+|:-------------|:--------------|
+| [float](/game-reflection/components/float.md) | radius |
+| [float](/game-reflection/components/float.md) | speed |
+| [uint](/game-reflection/components/uint.md) | power |

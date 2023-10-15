@@ -10,7 +10,7 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [TypeAny](game-reflection/components/type_any.md) | event |
-| [ushort](game-reflection/enums/ushort.md) | event_version |
-| [String](game-reflection/components/string.md) | event_name |
+|:-------------|:--------------|
+| [TypeAny](/game-reflection/components/type_any.md) | event |
+| [ushort](/game-reflection/enums/ushort.md) | event_version |
+| [String](/game-reflection/components/string.md) | event_name |

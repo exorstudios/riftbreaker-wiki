@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [String](game-reflection/components/string.md) | model_field |
-| [GuiModelConverter2](game-reflection/components/gui_model_converter2.md) | converter |
+|:-------------|:--------------|
+| [String](/game-reflection/components/string.md) | model_field |
+| [GuiModelConverter2](/game-reflection/components/gui_model_converter2.md) | converter |

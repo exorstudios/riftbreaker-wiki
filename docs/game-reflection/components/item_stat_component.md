@@ -10,5 +10,5 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| Vector< [ItemStat](game-reflection/classes/item_stat.md) > | stats |
+|:-------------|:--------------|
+| Vector< [ItemStat](/game-reflection/classes/item_stat.md) > | stats |

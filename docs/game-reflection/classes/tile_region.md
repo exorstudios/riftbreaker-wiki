@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| Vector< [String](game-reflection/components/string.md) > | edges |
-| [Vector2](game-reflection/classes/vector2.md) | offset |
+|:-------------|:--------------|
+| Vector< [String](/game-reflection/components/string.md) > | edges |
+| [Vector2](/game-reflection/classes/vector2.md) | offset |

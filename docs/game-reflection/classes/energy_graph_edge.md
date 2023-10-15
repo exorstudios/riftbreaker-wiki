@@ -10,8 +10,8 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| Vector< [Entity](game-reflection/classes/entity.md) > | line |
-| [Entity](game-reflection/classes/entity.md) | ent2 |
-| [Entity](game-reflection/classes/entity.md) | ent1 |
-| [bool](game-reflection/components/bool.md) | dirty |
+|:-------------|:--------------|
+| Vector< [Entity](/game-reflection/classes/entity.md) > | line |
+| [Entity](/game-reflection/classes/entity.md) | ent2 |
+| [Entity](/game-reflection/classes/entity.md) | ent1 |
+| [bool](/game-reflection/components/bool.md) | dirty |

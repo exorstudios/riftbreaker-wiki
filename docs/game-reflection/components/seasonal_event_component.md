@@ -10,5 +10,5 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| Vector< [SeasonalEvent](game-reflection/classes/seasonal_event.md) > | season |
+|:-------------|:--------------|
+| Vector< [SeasonalEvent](/game-reflection/classes/seasonal_event.md) > | season |

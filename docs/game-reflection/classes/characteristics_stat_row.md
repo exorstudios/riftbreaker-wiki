@@ -10,7 +10,7 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [String](game-reflection/components/string.md) | stat_icon |
-| [String](game-reflection/components/string.md) | stat_value |
-| [String](game-reflection/components/string.md) | stat_name |
+|:-------------|:--------------|
+| [String](/game-reflection/components/string.md) | stat_icon |
+| [String](/game-reflection/components/string.md) | stat_value |
+| [String](/game-reflection/components/string.md) | stat_name |

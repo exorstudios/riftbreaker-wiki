@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [CameraShakeState](game-reflection/classes/camera_shake_state.md) | value |
-| [float](game-reflection/components/float.md) | key |
+|:-------------|:--------------|
+| [CameraShakeState](/game-reflection/classes/camera_shake_state.md) | value |
+| [float](/game-reflection/components/float.md) | key |

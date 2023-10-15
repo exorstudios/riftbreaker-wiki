@@ -10,5 +10,5 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| Vector< [Pair_CampaignId_CampaignSaveInfo](game-reflection/classes/pair__campaign_id__campaign_save_info.md) > | campaigns |
+|:-------------|:--------------|
+| Vector< [Pair_CampaignId_CampaignSaveInfo](/game-reflection/classes/pair__campaign_id__campaign_save_info.md) > | campaigns |

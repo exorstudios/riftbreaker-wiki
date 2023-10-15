@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [ModifiableValue](game-reflection/classes/modifiable_value.md) | value |
-| [int](game-reflection/enums/int.md) | key |
+|:-------------|:--------------|
+| [ModifiableValue](/game-reflection/classes/modifiable_value.md) | value |
+| [int](/game-reflection/enums/int.md) | key |

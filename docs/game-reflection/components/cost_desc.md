@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [bool](game-reflection/components/bool.md) | is_unique |
-| Vector< [ResearchCost](game-reflection/classes/research_cost.md) > | account |
+|:-------------|:--------------|
+| [bool](/game-reflection/components/bool.md) | is_unique |
+| Vector< [ResearchCost](/game-reflection/classes/research_cost.md) > | account |

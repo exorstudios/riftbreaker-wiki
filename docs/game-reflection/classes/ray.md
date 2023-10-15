@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [Vector3](game-reflection/classes/vector3.md) | p0 |
-| [Vector3](game-reflection/classes/vector3.md) | d |
+|:-------------|:--------------|
+| [Vector3](/game-reflection/classes/vector3.md) | p0 |
+| [Vector3](/game-reflection/classes/vector3.md) | d |

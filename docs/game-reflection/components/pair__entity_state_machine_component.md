@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [StateMachineComponent](game-reflection/components/state_machine_component.md) | second |
-| [Entity](game-reflection/classes/entity.md) | first |
+|:-------------|:--------------|
+| [StateMachineComponent](/game-reflection/components/state_machine_component.md) | second |
+| [Entity](/game-reflection/classes/entity.md) | first |

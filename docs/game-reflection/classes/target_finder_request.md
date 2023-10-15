@@ -10,8 +10,8 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [bool](game-reflection/components/bool.md) | execute_once |
-| [Timer](game-reflection/classes/timer.md) | timer |
-| [IdString](game-reflection/components/id_string.md) | tag |
-| [TargetFinder2](game-reflection/components/target_finder2.md) | finder |
+|:-------------|:--------------|
+| [bool](/game-reflection/components/bool.md) | execute_once |
+| [Timer](/game-reflection/classes/timer.md) | timer |
+| [IdString](/game-reflection/components/id_string.md) | tag |
+| [TargetFinder2](/game-reflection/components/target_finder2.md) | finder |

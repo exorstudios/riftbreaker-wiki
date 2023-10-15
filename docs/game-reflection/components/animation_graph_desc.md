@@ -10,7 +10,7 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [IdString](game-reflection/components/id_string.md) | animation_graph_name |
-| [AnimationGraphInstanceDesc](game-reflection/components/animation_graph_instance_desc.md) | instance_desc |
-| [IdString](game-reflection/components/id_string.md) | group_name |
+|:-------------|:--------------|
+| [IdString](/game-reflection/components/id_string.md) | animation_graph_name |
+| [AnimationGraphInstanceDesc](/game-reflection/components/animation_graph_instance_desc.md) | instance_desc |
+| [IdString](/game-reflection/components/id_string.md) | group_name |

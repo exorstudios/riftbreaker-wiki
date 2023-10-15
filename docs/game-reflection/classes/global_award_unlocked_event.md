@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [bool](game-reflection/components/bool.md) | IsHidden |
-| Vector< [String](game-reflection/components/string.md) > | Awards |
+|:-------------|:--------------|
+| [bool](/game-reflection/components/bool.md) | IsHidden |
+| Vector< [String](/game-reflection/components/string.md) > | Awards |

@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [bool](game-reflection/components/bool.md) | download_cancel_allowed |
-| [float](game-reflection/components/float.md) | download_progress |
+|:-------------|:--------------|
+| [bool](/game-reflection/components/bool.md) | download_cancel_allowed |
+| [float](/game-reflection/components/float.md) | download_progress |

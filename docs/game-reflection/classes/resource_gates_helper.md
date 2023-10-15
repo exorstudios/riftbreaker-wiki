@@ -10,5 +10,5 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| Vector< [ResourceGraphGate](game-reflection/classes/resource_graph_gate.md) > | gates |
+|:-------------|:--------------|
+| Vector< [ResourceGraphGate](/game-reflection/classes/resource_graph_gate.md) > | gates |

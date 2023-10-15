@@ -10,5 +10,5 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| Vector< [StringHash](game-reflection/classes/string_hash.md) > | resistances |
+|:-------------|:--------------|
+| Vector< [StringHash](/game-reflection/classes/string_hash.md) > | resistances |

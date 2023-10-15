@@ -10,7 +10,7 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [Database](game-reflection/components/database.md) | db |
-| [int](game-reflection/enums/int.md) | type |
-| [int64](game-reflection/components/int64.md) | time_stamp |
+|:-------------|:--------------|
+| [Database](/game-reflection/components/database.md) | db |
+| [int](/game-reflection/enums/int.md) | type |
+| [int64](/game-reflection/components/int64.md) | time_stamp |

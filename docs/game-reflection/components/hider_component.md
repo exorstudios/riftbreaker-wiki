@@ -10,5 +10,5 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [EntityTemplate](game-reflection/classes/entity_template.md) | component_storage |
+|:-------------|:--------------|
+| [EntityTemplate](/game-reflection/classes/entity_template.md) | component_storage |

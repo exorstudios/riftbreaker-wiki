@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [int](game-reflection/enums/int.md) | value |
-| [String](game-reflection/components/string.md) | key |
+|:-------------|:--------------|
+| [int](/game-reflection/enums/int.md) | value |
+| [String](/game-reflection/components/string.md) | key |

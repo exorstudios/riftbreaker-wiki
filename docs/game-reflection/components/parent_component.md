@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [Entity](game-reflection/classes/entity.md) | parent |
-| [String](game-reflection/components/string.md) | attachment |
+|:-------------|:--------------|
+| [Entity](/game-reflection/classes/entity.md) | parent |
+| [String](/game-reflection/components/string.md) | attachment |

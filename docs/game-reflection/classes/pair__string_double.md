@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [double](game-reflection/components/double.md) | value |
-| [String](game-reflection/components/string.md) | key |
+|:-------------|:--------------|
+| [double](/game-reflection/components/double.md) | value |
+| [String](/game-reflection/components/string.md) | key |

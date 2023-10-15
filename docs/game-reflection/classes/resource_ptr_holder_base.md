@@ -10,5 +10,5 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [Resource2](game-reflection/components/resource2.md) | resource |
+|:-------------|:--------------|
+| [Resource2](/game-reflection/components/resource2.md) | resource |

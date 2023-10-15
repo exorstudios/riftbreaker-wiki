@@ -10,7 +10,7 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [IdString](game-reflection/components/id_string.md) | material_id |
-| [IdString](game-reflection/components/id_string.md) | mesh_id |
-| [StringHash](game-reflection/classes/string_hash.md) | attachment |
+|:-------------|:--------------|
+| [IdString](/game-reflection/components/id_string.md) | material_id |
+| [IdString](/game-reflection/components/id_string.md) | mesh_id |
+| [StringHash](/game-reflection/classes/string_hash.md) | attachment |

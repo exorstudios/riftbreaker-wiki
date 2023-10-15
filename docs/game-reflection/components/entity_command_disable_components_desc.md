@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [Entity](game-reflection/classes/entity.md) | entity |
-| Vector< [String](game-reflection/components/string.md) > | components_to_enable |
+|:-------------|:--------------|
+| [Entity](/game-reflection/classes/entity.md) | entity |
+| Vector< [String](/game-reflection/components/string.md) > | components_to_enable |

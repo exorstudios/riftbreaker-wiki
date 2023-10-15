@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [String](game-reflection/components/string.md) | benchmark_name |
-| [String](game-reflection/components/string.md) | loading_time |
+|:-------------|:--------------|
+| [String](/game-reflection/components/string.md) | benchmark_name |
+| [String](/game-reflection/components/string.md) | loading_time |

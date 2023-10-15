@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [String](game-reflection/components/string.md) | target_blueprint |
-| [String](game-reflection/components/string.md) | creator_blueprint |
+|:-------------|:--------------|
+| [String](/game-reflection/components/string.md) | target_blueprint |
+| [String](/game-reflection/components/string.md) | creator_blueprint |

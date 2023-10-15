@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [GuiScriptDef2](game-reflection/components/gui_script_def2.md) | value |
-| [IdString](game-reflection/components/id_string.md) | key |
+|:-------------|:--------------|
+| [GuiScriptDef2](/game-reflection/components/gui_script_def2.md) | value |
+| [IdString](/game-reflection/components/id_string.md) | key |

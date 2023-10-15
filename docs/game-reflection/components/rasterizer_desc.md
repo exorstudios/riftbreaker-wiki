@@ -10,8 +10,8 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [int](game-reflection/enums/int.md) | CullMode |
-| [float](game-reflection/components/float.md) | DepthBias |
-| [int](game-reflection/enums/int.md) | FillMode |
-| [float](game-reflection/components/float.md) | SlopeScaledDepthBias |
+|:-------------|:--------------|
+| [int](/game-reflection/enums/int.md) | CullMode |
+| [float](/game-reflection/components/float.md) | DepthBias |
+| [int](/game-reflection/enums/int.md) | FillMode |
+| [float](/game-reflection/components/float.md) | SlopeScaledDepthBias |

@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| Vector< [KeyActionInfo](game-reflection/classes/key_action_info.md) > | value |
-| [int](game-reflection/enums/int.md) | key |
+|:-------------|:--------------|
+| Vector< [KeyActionInfo](/game-reflection/classes/key_action_info.md) > | value |
+| [int](/game-reflection/enums/int.md) | key |

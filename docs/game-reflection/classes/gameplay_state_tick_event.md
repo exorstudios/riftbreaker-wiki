@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [float](game-reflection/components/float.md) | LogicDt |
-| [float](game-reflection/components/float.md) | RealDt |
+|:-------------|:--------------|
+| [float](/game-reflection/components/float.md) | LogicDt |
+| [float](/game-reflection/components/float.md) | RealDt |

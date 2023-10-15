@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [uint](game-reflection/components/uint.md) | player_id |
-| [PlayerReferenceType](game-reflection/classes/player_reference_type.md) | reference_type |
+|:-------------|:--------------|
+| [uint](/game-reflection/components/uint.md) | player_id |
+| [PlayerReferenceType](/game-reflection/classes/player_reference_type.md) | reference_type |

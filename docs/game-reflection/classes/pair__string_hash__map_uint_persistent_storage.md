@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| Vector< [Pair_uint_PersistentStorage](game-reflection/classes/pair_uint__persistent_storage.md) > | value |
-| [StringHash](game-reflection/classes/string_hash.md) | key |
+|:-------------|:--------------|
+| Vector< [Pair_uint_PersistentStorage](/game-reflection/classes/pair_uint__persistent_storage.md) > | value |
+| [StringHash](/game-reflection/classes/string_hash.md) | key |

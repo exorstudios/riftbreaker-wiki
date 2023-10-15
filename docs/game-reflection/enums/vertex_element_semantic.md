@@ -10,7 +10,7 @@ Description
 
 ## Enum values
 | Name | Value |
-|:------------ - | : -------------- |
+|:-------------|:--------------|
 | VES_POSITION | 1 |
 | VES_BLEND_WEIGHTS | 2 |
 | VES_BLEND_INDICES | 3 |

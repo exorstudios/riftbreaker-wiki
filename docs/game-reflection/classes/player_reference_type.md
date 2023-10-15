@@ -10,5 +10,5 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [int](game-reflection/enums/int.md) | internal_enum |
+|:-------------|:--------------|
+| [int](/game-reflection/enums/int.md) | internal_enum |

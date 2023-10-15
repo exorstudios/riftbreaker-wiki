@@ -10,8 +10,8 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [String](game-reflection/components/string.md) | avg |
-| [String](game-reflection/components/string.md) | name |
-| [String](game-reflection/components/string.md) | max |
-| [String](game-reflection/components/string.md) | min |
+|:-------------|:--------------|
+| [String](/game-reflection/components/string.md) | avg |
+| [String](/game-reflection/components/string.md) | name |
+| [String](/game-reflection/components/string.md) | max |
+| [String](/game-reflection/components/string.md) | min |

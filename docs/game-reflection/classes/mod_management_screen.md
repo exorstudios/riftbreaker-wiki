@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [bool](game-reflection/components/bool.md) | restart_required |
-| [ExternalContentQueue](game-reflection/classes/external_content_queue.md) | action_queue |
+|:-------------|:--------------|
+| [bool](/game-reflection/components/bool.md) | restart_required |
+| [ExternalContentQueue](/game-reflection/classes/external_content_queue.md) | action_queue |

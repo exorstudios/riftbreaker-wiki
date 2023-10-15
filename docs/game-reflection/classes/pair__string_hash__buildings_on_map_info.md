@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [BuildingsOnMapInfo](game-reflection/classes/buildings_on_map_info.md) | value |
-| [StringHash](game-reflection/classes/string_hash.md) | key |
+|:-------------|:--------------|
+| [BuildingsOnMapInfo](/game-reflection/classes/buildings_on_map_info.md) | value |
+| [StringHash](/game-reflection/classes/string_hash.md) | key |

@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [float](game-reflection/components/float.md) | distance |
-| [IdString](game-reflection/components/id_string.md) | tag |
+|:-------------|:--------------|
+| [float](/game-reflection/components/float.md) | distance |
+| [IdString](/game-reflection/components/id_string.md) | tag |

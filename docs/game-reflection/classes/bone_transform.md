@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [Transform](game-reflection/classes/transform.md) | transform |
-| [short](game-reflection/components/short.md) | bone_handle |
+|:-------------|:--------------|
+| [Transform](/game-reflection/classes/transform.md) | transform |
+| [short](/game-reflection/components/short.md) | bone_handle |

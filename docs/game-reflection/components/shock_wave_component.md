@@ -10,8 +10,8 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [bool](game-reflection/components/bool.md) | unlimited |
-| [float](game-reflection/components/float.md) | radius |
-| [float](game-reflection/components/float.md) | speed |
-| [uint](game-reflection/components/uint.md) | power |
+|:-------------|:--------------|
+| [bool](/game-reflection/components/bool.md) | unlimited |
+| [float](/game-reflection/components/float.md) | radius |
+| [float](/game-reflection/components/float.md) | speed |
+| [uint](/game-reflection/components/uint.md) | power |

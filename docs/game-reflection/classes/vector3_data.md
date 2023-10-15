@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [Vector3](game-reflection/classes/vector3.md) | value |
-| [String](game-reflection/components/string.md) | key |
+|:-------------|:--------------|
+| [Vector3](/game-reflection/classes/vector3.md) | value |
+| [String](/game-reflection/components/string.md) | key |

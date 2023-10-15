@@ -10,7 +10,7 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [bool](game-reflection/components/bool.md) | blocking |
-| [float](game-reflection/components/float.md) | distance |
-| [IdString](game-reflection/components/id_string.md) | effect |
+|:-------------|:--------------|
+| [bool](/game-reflection/components/bool.md) | blocking |
+| [float](/game-reflection/components/float.md) | distance |
+| [IdString](/game-reflection/components/id_string.md) | effect |

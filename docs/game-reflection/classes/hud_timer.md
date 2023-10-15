@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [String](game-reflection/components/string.md) | label |
-| [String](game-reflection/components/string.md) | timer_string |
+|:-------------|:--------------|
+| [String](/game-reflection/components/string.md) | label |
+| [String](/game-reflection/components/string.md) | timer_string |

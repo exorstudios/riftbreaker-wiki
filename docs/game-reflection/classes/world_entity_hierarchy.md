@@ -10,5 +10,5 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [int](game-reflection/enums/int.md) | dummy |
+|:-------------|:--------------|
+| [int](/game-reflection/enums/int.md) | dummy |

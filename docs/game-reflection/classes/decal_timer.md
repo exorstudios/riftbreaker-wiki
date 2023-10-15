@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [float](game-reflection/components/float.md) | current_time |
-| [float](game-reflection/components/float.md) | timer |
+|:-------------|:--------------|
+| [float](/game-reflection/components/float.md) | current_time |
+| [float](/game-reflection/components/float.md) | timer |

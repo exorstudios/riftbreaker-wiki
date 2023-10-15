@@ -10,5 +10,5 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| Vector< [BezierCurve](game-reflection/classes/bezier_curve.md) > | curves |
+|:-------------|:--------------|
+| Vector< [BezierCurve](/game-reflection/classes/bezier_curve.md) > | curves |

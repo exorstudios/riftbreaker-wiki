@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [String](game-reflection/components/string.md) | blueprint |
-| [bool](game-reflection/components/bool.md) | is_visible |
+|:-------------|:--------------|
+| [String](/game-reflection/components/string.md) | blueprint |
+| [bool](/game-reflection/components/bool.md) | is_visible |

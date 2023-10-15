@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [float](game-reflection/components/float.md) | bending_power |
-| [float](game-reflection/components/float.md) | bending_radius |
+|:-------------|:--------------|
+| [float](/game-reflection/components/float.md) | bending_power |
+| [float](/game-reflection/components/float.md) | bending_radius |

@@ -10,5 +10,5 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [Timer](game-reflection/classes/timer.md) | timer |
+|:-------------|:--------------|
+| [Timer](/game-reflection/classes/timer.md) | timer |

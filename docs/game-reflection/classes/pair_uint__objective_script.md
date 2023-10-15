@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [ObjectiveScript](game-reflection/classes/objective_script.md) | value |
-| [uint](game-reflection/components/uint.md) | key |
+|:-------------|:--------------|
+| [ObjectiveScript](/game-reflection/classes/objective_script.md) | value |
+| [uint](/game-reflection/components/uint.md) | key |

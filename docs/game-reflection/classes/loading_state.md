@@ -10,8 +10,8 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [String](game-reflection/components/string.md) | material |
-| [String](game-reflection/components/string.md) | tips |
-| [bool](game-reflection/components/bool.md) | top_visible |
-| [bool](game-reflection/components/bool.md) | fade_in |
+|:-------------|:--------------|
+| [String](/game-reflection/components/string.md) | material |
+| [String](/game-reflection/components/string.md) | tips |
+| [bool](/game-reflection/components/bool.md) | top_visible |
+| [bool](/game-reflection/components/bool.md) | fade_in |

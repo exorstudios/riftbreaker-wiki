@@ -10,7 +10,7 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [uint64](game-reflection/components/uint64.md) | data2 |
-| [ushort](game-reflection/enums/ushort.md) | size |
-| [uint64](game-reflection/components/uint64.md) | data1 |
+|:-------------|:--------------|
+| [uint64](/game-reflection/components/uint64.md) | data2 |
+| [ushort](/game-reflection/enums/ushort.md) | size |
+| [uint64](/game-reflection/components/uint64.md) | data1 |

@@ -10,7 +10,7 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| Vector< [uint](game-reflection/components/uint.md) > | player_respawn_queue |
-| Vector< [DestroyRequest](game-reflection/events/destroy_request.md) > | pawn_destroy_queue |
-| [bool](game-reflection/components/bool.md) | scheduled_respawn |
+|:-------------|:--------------|
+| Vector< [uint](/game-reflection/components/uint.md) > | player_respawn_queue |
+| Vector< [DestroyRequest](/game-reflection/events/destroy_request.md) > | pawn_destroy_queue |
+| [bool](/game-reflection/components/bool.md) | scheduled_respawn |

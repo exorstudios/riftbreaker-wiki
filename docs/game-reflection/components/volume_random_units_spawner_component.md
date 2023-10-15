@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| Vector< [String](game-reflection/components/string.md) > | volume_units_type |
-| [bool](game-reflection/components/bool.md) | disabled |
+|:-------------|:--------------|
+| Vector< [String](/game-reflection/components/string.md) > | volume_units_type |
+| [bool](/game-reflection/components/bool.md) | disabled |

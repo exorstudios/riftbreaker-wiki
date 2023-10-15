@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [String](game-reflection/components/string.md) | family |
-| [String](game-reflection/components/string.md) | subspecies |
+|:-------------|:--------------|
+| [String](/game-reflection/components/string.md) | family |
+| [String](/game-reflection/components/string.md) | subspecies |

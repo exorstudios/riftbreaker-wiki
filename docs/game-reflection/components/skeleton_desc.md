@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [IdString](game-reflection/components/id_string.md) | name |
-| Vector< [BoneTransform](game-reflection/classes/bone_transform.md) > | bone_transforms |
+|:-------------|:--------------|
+| [IdString](/game-reflection/components/id_string.md) | name |
+| Vector< [BoneTransform](/game-reflection/classes/bone_transform.md) > | bone_transforms |

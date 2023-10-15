@@ -10,5 +10,5 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [float](game-reflection/components/float.md) | factor |
+|:-------------|:--------------|
+| [float](/game-reflection/components/float.md) | factor |

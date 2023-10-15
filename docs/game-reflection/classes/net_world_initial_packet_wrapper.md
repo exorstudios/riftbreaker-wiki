@@ -10,5 +10,5 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [NetWorldInitialPacket4](game-reflection/components/net_world_initial_packet4.md) | initial_packet |
+|:-------------|:--------------|
+| [NetWorldInitialPacket4](/game-reflection/components/net_world_initial_packet4.md) | initial_packet |

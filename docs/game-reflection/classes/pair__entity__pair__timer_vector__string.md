@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [Pair_TimerVector_String](game-reflection/classes/pair__timer_vector__string.md) | value |
-| [Entity](game-reflection/classes/entity.md) | key |
+|:-------------|:--------------|
+| [Pair_TimerVector_String](/game-reflection/classes/pair__timer_vector__string.md) | value |
+| [Entity](/game-reflection/classes/entity.md) | key |

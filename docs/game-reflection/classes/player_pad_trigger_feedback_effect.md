@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [uchar](game-reflection/enums/uchar.md) | position |
-| [uchar](game-reflection/enums/uchar.md) | strength |
+|:-------------|:--------------|
+| [uchar](/game-reflection/enums/uchar.md) | position |
+| [uchar](/game-reflection/enums/uchar.md) | strength |

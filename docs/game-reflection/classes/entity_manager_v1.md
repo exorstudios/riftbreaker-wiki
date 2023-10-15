@@ -10,9 +10,9 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| Vector< [uchar](game-reflection/enums/uchar.md) > | generations |
-| [uint](game-reflection/components/uint.md) | counter |
-| [uint](game-reflection/components/uint.md) | end_id |
-| Vector< [uint](game-reflection/components/uint.md) > | free_indices |
-| [uint](game-reflection/components/uint.md) | start_id |
+|:-------------|:--------------|
+| Vector< [uchar](/game-reflection/enums/uchar.md) > | generations |
+| [uint](/game-reflection/components/uint.md) | counter |
+| [uint](/game-reflection/components/uint.md) | end_id |
+| Vector< [uint](/game-reflection/components/uint.md) > | free_indices |
+| [uint](/game-reflection/components/uint.md) | start_id |

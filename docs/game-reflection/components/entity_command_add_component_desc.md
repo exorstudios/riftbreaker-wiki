@@ -10,8 +10,8 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [Entity](game-reflection/classes/entity.md) | entity |
-| [String](game-reflection/components/string.md) | component_name |
-| [ushort](game-reflection/enums/ushort.md) | component_version |
-| [Entity](game-reflection/classes/entity.md) | target |
+|:-------------|:--------------|
+| [Entity](/game-reflection/classes/entity.md) | entity |
+| [String](/game-reflection/components/string.md) | component_name |
+| [ushort](/game-reflection/enums/ushort.md) | component_version |
+| [Entity](/game-reflection/classes/entity.md) | target |

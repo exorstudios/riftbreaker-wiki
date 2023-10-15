@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [String](game-reflection/components/string.md) | Group |
-| [IdString](game-reflection/components/id_string.md) | State |
+|:-------------|:--------------|
+| [String](/game-reflection/components/string.md) | Group |
+| [IdString](/game-reflection/components/id_string.md) | State |

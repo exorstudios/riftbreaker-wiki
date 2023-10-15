@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [String](game-reflection/components/string.md) | Name |
-| [uint](game-reflection/components/uint.md) | PlayerId |
+|:-------------|:--------------|
+| [String](/game-reflection/components/string.md) | Name |
+| [uint](/game-reflection/components/uint.md) | PlayerId |

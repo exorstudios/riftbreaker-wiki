@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| Vector< [Pair_CampaignStat_AggregatedStat](game-reflection/classes/pair__campaign_stat__aggregated_stat.md) > | aggregates |
-| Vector< [Pair_CampaignStat_CompoundStat](game-reflection/classes/pair__campaign_stat__compound_stat.md) > | compounds |
+|:-------------|:--------------|
+| Vector< [Pair_CampaignStat_AggregatedStat](/game-reflection/classes/pair__campaign_stat__aggregated_stat.md) > | aggregates |
+| Vector< [Pair_CampaignStat_CompoundStat](/game-reflection/classes/pair__campaign_stat__compound_stat.md) > | compounds |

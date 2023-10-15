@@ -10,7 +10,7 @@ Description
 
 ## Enum values
 | Name | Value |
-|:------------ - | : -------------- |
+|:-------------|:--------------|
 |  | -1 |
 | health | 0 |
 | health_regen | 1 |

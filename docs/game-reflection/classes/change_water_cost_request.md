@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [Entity](game-reflection/classes/entity.md) | Entity |
-| [String](game-reflection/components/string.md) | CostName |
+|:-------------|:--------------|
+| [Entity](/game-reflection/classes/entity.md) | Entity |
+| [String](/game-reflection/components/string.md) | CostName |

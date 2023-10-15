@@ -10,5 +10,5 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [ResourceAccount](game-reflection/classes/resource_account.md) | account |
+|:-------------|:--------------|
+| [ResourceAccount](/game-reflection/classes/resource_account.md) | account |

@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [PlayerInfo](game-reflection/classes/player_info.md) | value |
-| [uint](game-reflection/components/uint.md) | key |
+|:-------------|:--------------|
+| [PlayerInfo](/game-reflection/classes/player_info.md) | value |
+| [uint](/game-reflection/components/uint.md) | key |

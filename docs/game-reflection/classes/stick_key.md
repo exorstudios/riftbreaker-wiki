@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [int](game-reflection/enums/int.md) | axis |
-| [int](game-reflection/enums/int.md) | stick_no |
+|:-------------|:--------------|
+| [int](/game-reflection/enums/int.md) | axis |
+| [int](/game-reflection/enums/int.md) | stick_no |

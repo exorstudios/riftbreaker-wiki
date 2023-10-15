@@ -10,7 +10,7 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [float](game-reflection/components/float.md) | near |
-| [float](game-reflection/components/float.md) | intensity |
-| [float](game-reflection/components/float.md) | penumbra |
+|:-------------|:--------------|
+| [float](/game-reflection/components/float.md) | near |
+| [float](/game-reflection/components/float.md) | intensity |
+| [float](/game-reflection/components/float.md) | penumbra |

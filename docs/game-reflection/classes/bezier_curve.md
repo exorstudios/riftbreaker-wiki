@@ -10,8 +10,8 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [Vector3](game-reflection/classes/vector3.md) | start_handle |
-| [Vector3](game-reflection/classes/vector3.md) | start_point |
-| [Vector3](game-reflection/classes/vector3.md) | end_handle |
-| [Vector3](game-reflection/classes/vector3.md) | end_point |
+|:-------------|:--------------|
+| [Vector3](/game-reflection/classes/vector3.md) | start_handle |
+| [Vector3](/game-reflection/classes/vector3.md) | start_point |
+| [Vector3](/game-reflection/classes/vector3.md) | end_handle |
+| [Vector3](/game-reflection/classes/vector3.md) | end_point |

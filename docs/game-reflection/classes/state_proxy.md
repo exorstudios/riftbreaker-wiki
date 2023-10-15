@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [State1](game-reflection/components/state1.md) | state |
-| [uint](game-reflection/components/uint.md) | id |
+|:-------------|:--------------|
+| [State1](/game-reflection/components/state1.md) | state |
+| [uint](/game-reflection/components/uint.md) | id |

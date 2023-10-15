@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [float](game-reflection/components/float.md) | radius |
-| [Vector3](game-reflection/classes/vector3.md) | origin |
+|:-------------|:--------------|
+| [float](/game-reflection/components/float.md) | radius |
+| [Vector3](/game-reflection/classes/vector3.md) | origin |

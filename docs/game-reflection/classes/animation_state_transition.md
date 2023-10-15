@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [bool](game-reflection/components/bool.md) | authoritativity |
-| [float](game-reflection/components/float.md) | duration |
+|:-------------|:--------------|
+| [bool](/game-reflection/components/bool.md) | authoritativity |
+| [float](/game-reflection/components/float.md) | duration |

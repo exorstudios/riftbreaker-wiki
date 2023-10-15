@@ -10,7 +10,7 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [int](game-reflection/enums/int.md) | type |
-| [Timer](game-reflection/classes/timer.md) | time |
-| [float](game-reflection/components/float.md) | dissolveTime |
+|:-------------|:--------------|
+| [int](/game-reflection/enums/int.md) | type |
+| [Timer](/game-reflection/classes/timer.md) | time |
+| [float](/game-reflection/components/float.md) | dissolveTime |

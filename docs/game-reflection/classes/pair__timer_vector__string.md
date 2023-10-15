@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| Vector< [String](game-reflection/components/string.md) > | second |
-| [Timer](game-reflection/classes/timer.md) | first |
+|:-------------|:--------------|
+| Vector< [String](/game-reflection/components/string.md) > | second |
+| [Timer](/game-reflection/classes/timer.md) | first |

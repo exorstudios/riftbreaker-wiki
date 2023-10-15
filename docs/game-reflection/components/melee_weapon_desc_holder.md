@@ -10,5 +10,5 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [EntityBlueprintHolder](game-reflection/components/entity_blueprint_holder.md) | blueprint_holder |
+|:-------------|:--------------|
+| [EntityBlueprintHolder](/game-reflection/components/entity_blueprint_holder.md) | blueprint_holder |

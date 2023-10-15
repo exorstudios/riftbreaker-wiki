@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [String](game-reflection/components/string.md) | header |
-| Vector< [StatRow](game-reflection/classes/stat_row.md) > | data |
+|:-------------|:--------------|
+| [String](/game-reflection/components/string.md) | header |
+| Vector< [StatRow](/game-reflection/classes/stat_row.md) > | data |

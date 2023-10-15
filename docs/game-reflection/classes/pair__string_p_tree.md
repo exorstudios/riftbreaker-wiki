@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [PTree](game-reflection/classes/p_tree.md) | second |
-| [String](game-reflection/components/string.md) | first |
+|:-------------|:--------------|
+| [PTree](/game-reflection/classes/p_tree.md) | second |
+| [String](/game-reflection/components/string.md) | first |

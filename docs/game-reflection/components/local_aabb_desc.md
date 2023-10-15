@@ -10,5 +10,5 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [Aabb](game-reflection/components/aabb.md) | local_aabb |
+|:-------------|:--------------|
+| [Aabb](/game-reflection/components/aabb.md) | local_aabb |

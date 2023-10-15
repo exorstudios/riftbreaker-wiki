@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [StringHash](game-reflection/classes/string_hash.md) | slot_hash |
-| [uint64](game-reflection/components/uint64.md) | idx |
+|:-------------|:--------------|
+| [StringHash](/game-reflection/classes/string_hash.md) | slot_hash |
+| [uint64](/game-reflection/components/uint64.md) | idx |

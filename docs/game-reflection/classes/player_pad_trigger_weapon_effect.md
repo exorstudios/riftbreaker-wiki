@@ -10,7 +10,7 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [uchar](game-reflection/enums/uchar.md) | end_position |
-| [uchar](game-reflection/enums/uchar.md) | strength |
-| [uchar](game-reflection/enums/uchar.md) | start_position |
+|:-------------|:--------------|
+| [uchar](/game-reflection/enums/uchar.md) | end_position |
+| [uchar](/game-reflection/enums/uchar.md) | strength |
+| [uchar](/game-reflection/enums/uchar.md) | start_position |

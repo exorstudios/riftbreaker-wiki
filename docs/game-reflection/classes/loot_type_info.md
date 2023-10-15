@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [float](game-reflection/components/float.md) | chance |
-| [ushort](game-reflection/enums/ushort.md) | spawn_ratio |
+|:-------------|:--------------|
+| [float](/game-reflection/components/float.md) | chance |
+| [ushort](/game-reflection/enums/ushort.md) | spawn_ratio |

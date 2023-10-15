@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [CompoundStat](game-reflection/classes/compound_stat.md) | value |
-| [int](game-reflection/enums/int.md) | key |
+|:-------------|:--------------|
+| [CompoundStat](/game-reflection/classes/compound_stat.md) | value |
+| [int](/game-reflection/enums/int.md) | key |

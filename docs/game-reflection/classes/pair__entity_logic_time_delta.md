@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [LogicTimeDelta](game-reflection/classes/logic_time_delta.md) | second |
-| [Entity](game-reflection/classes/entity.md) | first |
+|:-------------|:--------------|
+| [LogicTimeDelta](/game-reflection/classes/logic_time_delta.md) | second |
+| [Entity](/game-reflection/classes/entity.md) | first |

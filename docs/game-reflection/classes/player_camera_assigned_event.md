@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [uint](game-reflection/components/uint.md) | PlayerId |
-| [Entity](game-reflection/classes/entity.md) | Camera |
+|:-------------|:--------------|
+| [uint](/game-reflection/components/uint.md) | PlayerId |
+| [Entity](/game-reflection/classes/entity.md) | Camera |

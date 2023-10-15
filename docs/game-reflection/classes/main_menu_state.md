@@ -10,7 +10,7 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| Vector< [MainMenuButtonInfo](game-reflection/classes/main_menu_button_info.md) > | items |
-| [String](game-reflection/components/string.md) | title |
-| [String](game-reflection/components/string.md) | name |
+|:-------------|:--------------|
+| Vector< [MainMenuButtonInfo](/game-reflection/classes/main_menu_button_info.md) > | items |
+| [String](/game-reflection/components/string.md) | title |
+| [String](/game-reflection/components/string.md) | name |

@@ -10,7 +10,7 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [uint64](game-reflection/components/uint64.md) | max_progress |
-| [uint64](game-reflection/components/uint64.md) | progress |
-| [int](game-reflection/enums/int.md) | status |
+|:-------------|:--------------|
+| [uint64](/game-reflection/components/uint64.md) | max_progress |
+| [uint64](/game-reflection/components/uint64.md) | progress |
+| [int](/game-reflection/enums/int.md) | status |

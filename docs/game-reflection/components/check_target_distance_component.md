@@ -10,7 +10,7 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [Timer](game-reflection/classes/timer.md) | timer |
-| [IdString](game-reflection/components/id_string.md) | tag |
-| [float](game-reflection/components/float.md) | angle |
+|:-------------|:--------------|
+| [Timer](/game-reflection/classes/timer.md) | timer |
+| [IdString](/game-reflection/components/id_string.md) | tag |
+| [float](/game-reflection/components/float.md) | angle |

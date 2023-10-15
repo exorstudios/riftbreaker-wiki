@@ -10,10 +10,10 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [float](game-reflection/components/float.md) | ammo_speed |
-| [float](game-reflection/components/float.md) | ammo_homing |
-| [float](game-reflection/components/float.md) | ammo_angle_speed |
-| [float](game-reflection/components/float.md) | ammo_cluster |
-| [float](game-reflection/components/float.md) | ammo_auto_aim |
-| [float](game-reflection/components/float.md) | ammo_spread |
+|:-------------|:--------------|
+| [float](/game-reflection/components/float.md) | ammo_speed |
+| [float](/game-reflection/components/float.md) | ammo_homing |
+| [float](/game-reflection/components/float.md) | ammo_angle_speed |
+| [float](/game-reflection/components/float.md) | ammo_cluster |
+| [float](/game-reflection/components/float.md) | ammo_auto_aim |
+| [float](/game-reflection/components/float.md) | ammo_spread |

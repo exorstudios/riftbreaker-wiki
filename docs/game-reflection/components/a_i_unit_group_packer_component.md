@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| Vector< [Pair_Entity_EntityTemplate](game-reflection/classes/pair__entity__entity_template.md) > | packed_units |
-| [String](game-reflection/components/string.md) | group |
+|:-------------|:--------------|
+| Vector< [Pair_Entity_EntityTemplate](/game-reflection/classes/pair__entity__entity_template.md) > | packed_units |
+| [String](/game-reflection/components/string.md) | group |

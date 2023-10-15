@@ -10,7 +10,7 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| Vector< [ResearchCost](game-reflection/classes/research_cost.md) > | item_costs |
-| [bool](game-reflection/components/bool.md) | is_unique |
-| [ResourceAccount](game-reflection/classes/resource_account.md) | account |
+|:-------------|:--------------|
+| Vector< [ResearchCost](/game-reflection/classes/research_cost.md) > | item_costs |
+| [bool](/game-reflection/components/bool.md) | is_unique |
+| [ResourceAccount](/game-reflection/classes/resource_account.md) | account |

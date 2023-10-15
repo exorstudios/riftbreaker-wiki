@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [uchar](game-reflection/enums/uchar.md) | projection_plane |
-| [Radian](game-reflection/classes/radian.md) | angular_speed |
+|:-------------|:--------------|
+| [uchar](/game-reflection/enums/uchar.md) | projection_plane |
+| [Radian](/game-reflection/classes/radian.md) | angular_speed |

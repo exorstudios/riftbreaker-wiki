@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [KeyActionMapDiff](game-reflection/classes/key_action_map_diff.md) | value |
-| [String](game-reflection/components/string.md) | key |
+|:-------------|:--------------|
+| [KeyActionMapDiff](/game-reflection/classes/key_action_map_diff.md) | value |
+| [String](/game-reflection/components/string.md) | key |

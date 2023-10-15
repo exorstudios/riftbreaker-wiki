@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [uint](game-reflection/components/uint.md) | quest_id |
-| [int](game-reflection/enums/int.md) | type |
+|:-------------|:--------------|
+| [uint](/game-reflection/components/uint.md) | quest_id |
+| [int](/game-reflection/enums/int.md) | type |

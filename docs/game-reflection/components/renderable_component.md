@@ -10,8 +10,8 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [uint](game-reflection/components/uint.md) | user_flags |
-| [uint](game-reflection/components/uint.md) | dummy |
-| [uint](game-reflection/components/uint.md) | flags |
-| [uint](game-reflection/components/uint.md) | visibility_mask |
+|:-------------|:--------------|
+| [uint](/game-reflection/components/uint.md) | user_flags |
+| [uint](/game-reflection/components/uint.md) | dummy |
+| [uint](/game-reflection/components/uint.md) | flags |
+| [uint](/game-reflection/components/uint.md) | visibility_mask |

@@ -10,5 +10,5 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [RenderableCustomParameters](game-reflection/components/renderable_custom_parameters.md) | renderable_custom_parameters |
+|:-------------|:--------------|
+| [RenderableCustomParameters](/game-reflection/components/renderable_custom_parameters.md) | renderable_custom_parameters |

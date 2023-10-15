@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| Vector< [Entity](game-reflection/classes/entity.md) > | trigger_entity_vec |
-| [bool](game-reflection/components/bool.md) | trigger_status |
+|:-------------|:--------------|
+| Vector< [Entity](/game-reflection/classes/entity.md) > | trigger_entity_vec |
+| [bool](/game-reflection/components/bool.md) | trigger_status |

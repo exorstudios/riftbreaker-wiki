@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| Vector< [IdString](game-reflection/components/id_string.md) > | value |
-| [uint](game-reflection/components/uint.md) | key |
+|:-------------|:--------------|
+| Vector< [IdString](/game-reflection/components/id_string.md) > | value |
+| [uint](/game-reflection/components/uint.md) | key |

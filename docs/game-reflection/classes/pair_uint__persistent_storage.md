@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [PersistentStorage](game-reflection/classes/persistent_storage.md) | value |
-| [uint](game-reflection/components/uint.md) | key |
+|:-------------|:--------------|
+| [PersistentStorage](/game-reflection/classes/persistent_storage.md) | value |
+| [uint](/game-reflection/components/uint.md) | key |

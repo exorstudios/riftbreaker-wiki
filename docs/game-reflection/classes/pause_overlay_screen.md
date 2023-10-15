@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [String](game-reflection/components/string.md) | platform |
-| [bool](game-reflection/components/bool.md) | have_new_items |
+|:-------------|:--------------|
+| [String](/game-reflection/components/string.md) | platform |
+| [bool](/game-reflection/components/bool.md) | have_new_items |

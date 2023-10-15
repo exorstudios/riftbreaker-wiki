@@ -10,5 +10,5 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [LuaScriptHolder](game-reflection/components/lua_script_holder.md) | script |
+|:-------------|:--------------|
+| [LuaScriptHolder](/game-reflection/components/lua_script_holder.md) | script |

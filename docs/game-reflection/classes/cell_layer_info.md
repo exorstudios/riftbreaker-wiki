@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [CellLayer4](game-reflection/components/cell_layer4.md) | layer |
-| [uint64](game-reflection/components/uint64.md) | id |
+|:-------------|:--------------|
+| [CellLayer4](/game-reflection/components/cell_layer4.md) | layer |
+| [uint64](/game-reflection/components/uint64.md) | id |

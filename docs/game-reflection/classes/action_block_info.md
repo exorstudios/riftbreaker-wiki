@@ -10,7 +10,7 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [String](game-reflection/components/string.md) | mapper |
-| [bool](game-reflection/components/bool.md) | status |
-| [String](game-reflection/components/string.md) | action |
+|:-------------|:--------------|
+| [String](/game-reflection/components/string.md) | mapper |
+| [bool](/game-reflection/components/bool.md) | status |
+| [String](/game-reflection/components/string.md) | action |

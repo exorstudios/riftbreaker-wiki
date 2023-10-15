@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [String](game-reflection/components/string.md) | name |
-| Vector< [GuiAnimationFrame](game-reflection/classes/gui_animation_frame.md) > | frames |
+|:-------------|:--------------|
+| [String](/game-reflection/components/string.md) | name |
+| Vector< [GuiAnimationFrame](/game-reflection/classes/gui_animation_frame.md) > | frames |

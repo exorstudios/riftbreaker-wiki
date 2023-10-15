@@ -10,5 +10,5 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [int](game-reflection/enums/int.md) | building_system_version |
+|:-------------|:--------------|
+| [int](/game-reflection/enums/int.md) | building_system_version |

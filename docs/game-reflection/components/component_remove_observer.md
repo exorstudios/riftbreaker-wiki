@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [uint64](game-reflection/components/uint64.md) | component_id |
-| Vector< [Entity](game-reflection/classes/entity.md) > | entities_remove_vec |
+|:-------------|:--------------|
+| [uint64](/game-reflection/components/uint64.md) | component_id |
+| Vector< [Entity](/game-reflection/classes/entity.md) > | entities_remove_vec |

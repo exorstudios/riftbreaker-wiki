@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [IdString](game-reflection/components/id_string.md) | blueprint |
-| [bool](game-reflection/components/bool.md) | disabled |
+|:-------------|:--------------|
+| [IdString](/game-reflection/components/id_string.md) | blueprint |
+| [bool](/game-reflection/components/bool.md) | disabled |

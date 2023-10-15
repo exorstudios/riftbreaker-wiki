@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [ModifiableValue](game-reflection/classes/modifiable_value.md) | value |
-| [IdString](game-reflection/components/id_string.md) | key |
+|:-------------|:--------------|
+| [ModifiableValue](/game-reflection/classes/modifiable_value.md) | value |
+| [IdString](/game-reflection/components/id_string.md) | key |

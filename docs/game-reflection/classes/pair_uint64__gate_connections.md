@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [GateConnections](game-reflection/classes/gate_connections.md) | value |
-| [uint64](game-reflection/components/uint64.md) | key |
+|:-------------|:--------------|
+| [GateConnections](/game-reflection/classes/gate_connections.md) | value |
+| [uint64](/game-reflection/components/uint64.md) | key |

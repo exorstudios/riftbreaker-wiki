@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [AIUnitsGroup](game-reflection/classes/a_i_units_group.md) | value |
-| [String](game-reflection/components/string.md) | key |
+|:-------------|:--------------|
+| [AIUnitsGroup](/game-reflection/classes/a_i_units_group.md) | value |
+| [String](/game-reflection/components/string.md) | key |

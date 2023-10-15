@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [float](game-reflection/components/float.md) | Duration |
-| [Color](game-reflection/classes/color.md) | Color |
+|:-------------|:--------------|
+| [float](/game-reflection/components/float.md) | Duration |
+| [Color](/game-reflection/classes/color.md) | Color |

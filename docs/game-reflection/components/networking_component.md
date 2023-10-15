@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [float](game-reflection/components/float.md) | update_frequency |
-| [uchar](game-reflection/enums/uchar.md) | priority |
+|:-------------|:--------------|
+| [float](/game-reflection/components/float.md) | update_frequency |
+| [uchar](/game-reflection/enums/uchar.md) | priority |

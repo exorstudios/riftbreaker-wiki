@@ -10,7 +10,7 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [float](game-reflection/components/float.md) | amount |
-| [String](game-reflection/components/string.md) | resource |
-| [float](game-reflection/components/float.md) | count |
+|:-------------|:--------------|
+| [float](/game-reflection/components/float.md) | amount |
+| [String](/game-reflection/components/string.md) | resource |
+| [float](/game-reflection/components/float.md) | count |

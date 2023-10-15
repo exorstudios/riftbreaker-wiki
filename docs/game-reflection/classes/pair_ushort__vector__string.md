@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| Vector< [String](game-reflection/components/string.md) > | value |
-| [ushort](game-reflection/enums/ushort.md) | key |
+|:-------------|:--------------|
+| Vector< [String](/game-reflection/components/string.md) > | value |
+| [ushort](/game-reflection/enums/ushort.md) | key |

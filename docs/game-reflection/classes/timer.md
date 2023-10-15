@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [float](game-reflection/components/float.md) | timeLimit |
-| [float](game-reflection/components/float.md) | timePassed |
+|:-------------|:--------------|
+| [float](/game-reflection/components/float.md) | timeLimit |
+| [float](/game-reflection/components/float.md) | timePassed |

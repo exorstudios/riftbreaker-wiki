@@ -10,7 +10,7 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [float](game-reflection/components/float.md) | last_value |
-| [float](game-reflection/components/float.md) | max |
-| [float](game-reflection/components/float.md) | min |
+|:-------------|:--------------|
+| [float](/game-reflection/components/float.md) | last_value |
+| [float](/game-reflection/components/float.md) | max |
+| [float](/game-reflection/components/float.md) | min |

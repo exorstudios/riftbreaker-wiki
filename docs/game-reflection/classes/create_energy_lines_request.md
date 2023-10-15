@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [bool](game-reflection/components/bool.md) | CheckEmpty |
-| [Entity](game-reflection/classes/entity.md) | Building |
+|:-------------|:--------------|
+| [bool](/game-reflection/components/bool.md) | CheckEmpty |
+| [Entity](/game-reflection/classes/entity.md) | Building |

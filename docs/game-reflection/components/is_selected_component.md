@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [bool](game-reflection/components/bool.md) | selected |
-| [bool](game-reflection/components/bool.md) | activated |
+|:-------------|:--------------|
+| [bool](/game-reflection/components/bool.md) | selected |
+| [bool](/game-reflection/components/bool.md) | activated |

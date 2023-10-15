@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [DestroyPattern](game-reflection/classes/destroy_pattern.md) | value |
-| [IdString](game-reflection/components/id_string.md) | key |
+|:-------------|:--------------|
+| [DestroyPattern](/game-reflection/classes/destroy_pattern.md) | value |
+| [IdString](/game-reflection/components/id_string.md) | key |

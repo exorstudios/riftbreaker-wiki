@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [TerrainVector](game-reflection/classes/terrain_vector.md) | blend |
-| [TerrainVector](game-reflection/classes/terrain_vector.md) | position |
+|:-------------|:--------------|
+| [TerrainVector](/game-reflection/classes/terrain_vector.md) | blend |
+| [TerrainVector](/game-reflection/classes/terrain_vector.md) | position |

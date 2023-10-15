@@ -10,5 +10,5 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [StringHash](game-reflection/classes/string_hash.md) | name |
+|:-------------|:--------------|
+| [StringHash](/game-reflection/classes/string_hash.md) | name |

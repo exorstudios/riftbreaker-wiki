@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [InfluenceOwnerInfo](game-reflection/classes/influence_owner_info.md) | value |
-| [Entity](game-reflection/classes/entity.md) | key |
+|:-------------|:--------------|
+| [InfluenceOwnerInfo](/game-reflection/classes/influence_owner_info.md) | value |
+| [Entity](/game-reflection/classes/entity.md) | key |

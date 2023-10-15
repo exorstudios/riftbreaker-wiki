@@ -10,8 +10,8 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [float](game-reflection/components/float.md) | end |
-| [Vector4](game-reflection/classes/vector4.md) | color |
-| [float](game-reflection/components/float.md) | start |
-| [float](game-reflection/components/float.md) | density |
+|:-------------|:--------------|
+| [float](/game-reflection/components/float.md) | end |
+| [Vector4](/game-reflection/classes/vector4.md) | color |
+| [float](/game-reflection/components/float.md) | start |
+| [float](/game-reflection/components/float.md) | density |

@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [String](game-reflection/components/string.md) | BuildingName |
-| [bool](game-reflection/components/bool.md) | Enabled |
+|:-------------|:--------------|
+| [String](/game-reflection/components/string.md) | BuildingName |
+| [bool](/game-reflection/components/bool.md) | Enabled |

@@ -10,5 +10,5 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| Vector< [Anim](game-reflection/classes/anim.md) > | animations |
+|:-------------|:--------------|
+| Vector< [Anim](/game-reflection/classes/anim.md) > | animations |

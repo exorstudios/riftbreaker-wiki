@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [GuiBind](game-reflection/classes/gui_bind.md) | value |
-| [String](game-reflection/components/string.md) | key |
+|:-------------|:--------------|
+| [GuiBind](/game-reflection/classes/gui_bind.md) | value |
+| [String](/game-reflection/components/string.md) | key |

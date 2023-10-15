@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [AggregatedStat](game-reflection/classes/aggregated_stat.md) | value |
-| [int](game-reflection/enums/int.md) | key |
+|:-------------|:--------------|
+| [AggregatedStat](/game-reflection/classes/aggregated_stat.md) | value |
+| [int](/game-reflection/enums/int.md) | key |

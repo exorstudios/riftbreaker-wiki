@@ -10,5 +10,5 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [AnimationNodeMetaData4](game-reflection/components/animation_node_meta_data4.md) | metadata |
+|:-------------|:--------------|
+| [AnimationNodeMetaData4](/game-reflection/components/animation_node_meta_data4.md) | metadata |

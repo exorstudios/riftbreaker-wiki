@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [String](game-reflection/components/string.md) | weapon_list |
-| [bool](game-reflection/components/bool.md) | positive |
+|:-------------|:--------------|
+| [String](/game-reflection/components/string.md) | weapon_list |
+| [bool](/game-reflection/components/bool.md) | positive |

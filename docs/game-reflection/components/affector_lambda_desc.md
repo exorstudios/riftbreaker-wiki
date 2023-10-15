@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [bool](game-reflection/components/bool.md) | remove_on_completition |
-| [AffectorLambda4](game-reflection/components/affector_lambda4.md) | affector_lambda |
+|:-------------|:--------------|
+| [bool](/game-reflection/components/bool.md) | remove_on_completition |
+| [AffectorLambda4](/game-reflection/components/affector_lambda4.md) | affector_lambda |

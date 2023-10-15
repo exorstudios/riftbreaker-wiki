@@ -10,5 +10,5 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| Vector< [StringHash](game-reflection/classes/string_hash.md) > | buildings |
+|:-------------|:--------------|
+| Vector< [StringHash](/game-reflection/classes/string_hash.md) > | buildings |

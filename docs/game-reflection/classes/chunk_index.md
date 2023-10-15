@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [short](game-reflection/components/short.md) | x |
-| [short](game-reflection/components/short.md) | y |
+|:-------------|:--------------|
+| [short](/game-reflection/components/short.md) | x |
+| [short](/game-reflection/components/short.md) | y |

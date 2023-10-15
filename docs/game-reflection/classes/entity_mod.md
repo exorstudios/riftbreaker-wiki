@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [float](game-reflection/components/float.md) | mod_value |
-| [int](game-reflection/enums/int.md) | mod_func |
+|:-------------|:--------------|
+| [float](/game-reflection/components/float.md) | mod_value |
+| [int](/game-reflection/enums/int.md) | mod_func |

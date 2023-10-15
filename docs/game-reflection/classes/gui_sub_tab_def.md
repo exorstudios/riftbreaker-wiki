@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [GuiNavGraphDef](game-reflection/classes/gui_nav_graph_def.md) | navigation |
-| [String](game-reflection/components/string.md) | path |
+|:-------------|:--------------|
+| [GuiNavGraphDef](/game-reflection/classes/gui_nav_graph_def.md) | navigation |
+| [String](/game-reflection/components/string.md) | path |

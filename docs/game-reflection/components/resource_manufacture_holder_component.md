@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [GameplayResourceDefHolder](game-reflection/components/gameplay_resource_def_holder.md) | resource |
-| [bool](game-reflection/components/bool.md) | checked |
+|:-------------|:--------------|
+| [GameplayResourceDefHolder](/game-reflection/components/gameplay_resource_def_holder.md) | resource |
+| [bool](/game-reflection/components/bool.md) | checked |

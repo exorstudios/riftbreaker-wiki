@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [TypeAny](game-reflection/components/type_any.md) | event |
-| [uint](game-reflection/components/uint.md) | revision |
+|:-------------|:--------------|
+| [TypeAny](/game-reflection/components/type_any.md) | event |
+| [uint](/game-reflection/components/uint.md) | revision |

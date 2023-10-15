@@ -10,5 +10,5 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [PrefabVariantInstance](game-reflection/classes/prefab_variant_instance.md) | prefab |
+|:-------------|:--------------|
+| [PrefabVariantInstance](/game-reflection/classes/prefab_variant_instance.md) | prefab |

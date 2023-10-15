@@ -10,7 +10,7 @@ Description
 
 ## Enum values
 | Name | Value |
-|:------------ - | : -------------- |
+|:-------------|:--------------|
 | None | 0 |
 | Vertical | 1 |
 | Mirror | 2 |

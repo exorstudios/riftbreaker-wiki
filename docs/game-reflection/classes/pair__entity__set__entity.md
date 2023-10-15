@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| Vector< [Entity](game-reflection/classes/entity.md) > | value |
-| [Entity](game-reflection/classes/entity.md) | key |
+|:-------------|:--------------|
+| Vector< [Entity](/game-reflection/classes/entity.md) > | value |
+| [Entity](/game-reflection/classes/entity.md) | key |

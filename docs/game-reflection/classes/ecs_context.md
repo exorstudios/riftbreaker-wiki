@@ -10,5 +10,5 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| Vector< [TypeAny](game-reflection/components/type_any.md) > | variable_set |
+|:-------------|:--------------|
+| Vector< [TypeAny](/game-reflection/components/type_any.md) > | variable_set |

@@ -10,7 +10,7 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [String](game-reflection/components/string.md) | name |
-| [String](game-reflection/components/string.md) | tooltip_content |
-| [String](game-reflection/components/string.md) | icon |
+|:-------------|:--------------|
+| [String](/game-reflection/components/string.md) | name |
+| [String](/game-reflection/components/string.md) | tooltip_content |
+| [String](/game-reflection/components/string.md) | icon |

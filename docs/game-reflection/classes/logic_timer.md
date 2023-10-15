@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [int64](game-reflection/components/int64.md) | start |
-| [int64](game-reflection/components/int64.md) | limit |
+|:-------------|:--------------|
+| [int64](/game-reflection/components/int64.md) | start |
+| [int64](/game-reflection/components/int64.md) | limit |

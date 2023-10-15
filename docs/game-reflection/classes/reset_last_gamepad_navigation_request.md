@@ -10,5 +10,5 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [int](game-reflection/enums/int.md) | GamepadNavigationInput |
+|:-------------|:--------------|
+| [int](/game-reflection/enums/int.md) | GamepadNavigationInput |

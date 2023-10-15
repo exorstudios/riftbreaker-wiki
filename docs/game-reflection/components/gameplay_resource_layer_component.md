@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [GameplayResourceDefHolder](game-reflection/components/gameplay_resource_def_holder.md) | resource |
-| [Entity](game-reflection/classes/entity.md) | ent |
+|:-------------|:--------------|
+| [GameplayResourceDefHolder](/game-reflection/components/gameplay_resource_def_holder.md) | resource |
+| [Entity](/game-reflection/classes/entity.md) | ent |

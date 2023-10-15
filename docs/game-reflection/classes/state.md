@@ -10,7 +10,7 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [String](game-reflection/components/string.md) | name |
-| [uint](game-reflection/components/uint.md) | id |
-| [int](game-reflection/enums/int.md) | status |
+|:-------------|:--------------|
+| [String](/game-reflection/components/string.md) | name |
+| [uint](/game-reflection/components/uint.md) | id |
+| [int](/game-reflection/enums/int.md) | status |

@@ -10,7 +10,7 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [Vector3](game-reflection/classes/vector3.md) | origin |
-| [uint](game-reflection/components/uint.md) | graph_cost |
-| [uint](game-reflection/components/uint.md) | type |
+|:-------------|:--------------|
+| [Vector3](/game-reflection/classes/vector3.md) | origin |
+| [uint](/game-reflection/components/uint.md) | graph_cost |
+| [uint](/game-reflection/components/uint.md) | type |

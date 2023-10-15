@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [uint](game-reflection/components/uint.md) | type |
-| [float](game-reflection/components/float.md) | time |
+|:-------------|:--------------|
+| [uint](/game-reflection/components/uint.md) | type |
+| [float](/game-reflection/components/float.md) | time |

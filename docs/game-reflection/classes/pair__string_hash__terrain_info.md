@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [TerrainInfo](game-reflection/classes/terrain_info.md) | value |
-| [StringHash](game-reflection/classes/string_hash.md) | key |
+|:-------------|:--------------|
+| [TerrainInfo](/game-reflection/classes/terrain_info.md) | value |
+| [StringHash](/game-reflection/classes/string_hash.md) | key |

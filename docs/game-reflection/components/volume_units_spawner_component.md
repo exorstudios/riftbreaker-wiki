@@ -10,8 +10,8 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [uint64](game-reflection/components/uint64.md) | amount |
-| [IdString](game-reflection/components/id_string.md) | blueprint |
-| [float](game-reflection/components/float.md) | aggressive_distance |
-| [float](game-reflection/components/float.md) | not_aggressive_distance |
+|:-------------|:--------------|
+| [uint64](/game-reflection/components/uint64.md) | amount |
+| [IdString](/game-reflection/components/id_string.md) | blueprint |
+| [float](/game-reflection/components/float.md) | aggressive_distance |
+| [float](/game-reflection/components/float.md) | not_aggressive_distance |

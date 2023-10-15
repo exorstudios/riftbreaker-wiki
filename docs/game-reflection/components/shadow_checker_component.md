@@ -10,5 +10,5 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [bool](game-reflection/components/bool.md) | in_shadow |
+|:-------------|:--------------|
+| [bool](/game-reflection/components/bool.md) | in_shadow |

@@ -10,9 +10,9 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [Database](game-reflection/components/database.md) | action_database |
-| [String](game-reflection/components/string.md) | requirement |
-| [String](game-reflection/components/string.md) | label |
-| [String](game-reflection/components/string.md) | action |
-| [String](game-reflection/components/string.md) | icon |
+|:-------------|:--------------|
+| [Database](/game-reflection/components/database.md) | action_database |
+| [String](/game-reflection/components/string.md) | requirement |
+| [String](/game-reflection/components/string.md) | label |
+| [String](/game-reflection/components/string.md) | action |
+| [String](/game-reflection/components/string.md) | icon |

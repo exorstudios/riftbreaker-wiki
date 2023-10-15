@@ -10,5 +10,5 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| Vector< [Entity](game-reflection/classes/entity.md) > | owners |
+|:-------------|:--------------|
+| Vector< [Entity](/game-reflection/classes/entity.md) > | owners |

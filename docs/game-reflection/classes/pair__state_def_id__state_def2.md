@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [StateDef2](game-reflection/components/state_def2.md) | value |
-| [StateDefId](game-reflection/classes/state_def_id.md) | key |
+|:-------------|:--------------|
+| [StateDef2](/game-reflection/components/state_def2.md) | value |
+| [StateDefId](/game-reflection/classes/state_def_id.md) | key |

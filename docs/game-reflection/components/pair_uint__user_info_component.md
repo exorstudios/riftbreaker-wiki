@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [UserInfoComponent](game-reflection/components/user_info_component.md) | value |
-| [uint](game-reflection/components/uint.md) | key |
+|:-------------|:--------------|
+| [UserInfoComponent](/game-reflection/components/user_info_component.md) | value |
+| [uint](/game-reflection/components/uint.md) | key |

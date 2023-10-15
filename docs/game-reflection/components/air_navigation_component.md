@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [float](game-reflection/components/float.md) | keep_height_speed |
-| [float](game-reflection/components/float.md) | dynamic_height |
+|:-------------|:--------------|
+| [float](/game-reflection/components/float.md) | keep_height_speed |
+| [float](/game-reflection/components/float.md) | dynamic_height |

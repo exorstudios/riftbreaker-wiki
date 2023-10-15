@@ -10,5 +10,5 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [PlayerCollection1](game-reflection/components/player_collection1.md) | player_collection |
+|:-------------|:--------------|
+| [PlayerCollection1](/game-reflection/components/player_collection1.md) | player_collection |

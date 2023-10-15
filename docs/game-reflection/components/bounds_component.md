@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [Aabb](game-reflection/components/aabb.md) | aabb |
-| [Aabb](game-reflection/components/aabb.md) | world_aabb |
+|:-------------|:--------------|
+| [Aabb](/game-reflection/components/aabb.md) | aabb |
+| [Aabb](/game-reflection/components/aabb.md) | world_aabb |

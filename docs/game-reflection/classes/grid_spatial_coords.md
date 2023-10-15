@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [ushort](game-reflection/enums/ushort.md) | v |
-| [ushort](game-reflection/enums/ushort.md) | u |
+|:-------------|:--------------|
+| [ushort](/game-reflection/enums/ushort.md) | v |
+| [ushort](/game-reflection/enums/ushort.md) | u |

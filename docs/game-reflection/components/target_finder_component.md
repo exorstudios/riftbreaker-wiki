@@ -10,5 +10,5 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| Vector< [TargetFinderRequest](game-reflection/classes/target_finder_request.md) > | target_finder_request_vec |
+|:-------------|:--------------|
+| Vector< [TargetFinderRequest](/game-reflection/classes/target_finder_request.md) > | target_finder_request_vec |

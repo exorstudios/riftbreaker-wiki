@@ -10,5 +10,5 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [ComponentRemoveObserver](game-reflection/components/component_remove_observer.md) | removed_observer |
+|:-------------|:--------------|
+| [ComponentRemoveObserver](/game-reflection/components/component_remove_observer.md) | removed_observer |

@@ -10,5 +10,5 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [Entity](game-reflection/classes/entity.md) | owner |
+|:-------------|:--------------|
+| [Entity](/game-reflection/classes/entity.md) | owner |

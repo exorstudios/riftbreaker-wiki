@@ -10,5 +10,5 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| Vector< [Entity](game-reflection/classes/entity.md) > | culling_entities |
+|:-------------|:--------------|
+| Vector< [Entity](/game-reflection/classes/entity.md) > | culling_entities |

@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [LuaEventCallback](game-reflection/classes/lua_event_callback.md) | value |
-| [LuaHandlerKey](game-reflection/classes/lua_handler_key.md) | key |
+|:-------------|:--------------|
+| [LuaEventCallback](/game-reflection/classes/lua_event_callback.md) | value |
+| [LuaHandlerKey](/game-reflection/classes/lua_handler_key.md) | key |

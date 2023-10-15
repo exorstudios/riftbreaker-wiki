@@ -10,5 +10,5 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [BehaviourFlowGraph4](game-reflection/components/behaviour_flow_graph4.md) | campaign_flow |
+|:-------------|:--------------|
+| [BehaviourFlowGraph4](/game-reflection/components/behaviour_flow_graph4.md) | campaign_flow |

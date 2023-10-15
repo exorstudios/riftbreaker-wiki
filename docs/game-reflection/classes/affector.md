@@ -10,5 +10,5 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [AffectorLambda4](game-reflection/components/affector_lambda4.md) | lambda |
+|:-------------|:--------------|
+| [AffectorLambda4](/game-reflection/components/affector_lambda4.md) | lambda |

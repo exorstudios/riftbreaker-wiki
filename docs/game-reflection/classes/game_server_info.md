@@ -10,7 +10,7 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [String](game-reflection/components/string.md) | biome_name |
-| [String](game-reflection/components/string.md) | mission_name |
-| [bool](game-reflection/components/bool.md) | has_headquarters |
+|:-------------|:--------------|
+| [String](/game-reflection/components/string.md) | biome_name |
+| [String](/game-reflection/components/string.md) | mission_name |
+| [bool](/game-reflection/components/bool.md) | has_headquarters |

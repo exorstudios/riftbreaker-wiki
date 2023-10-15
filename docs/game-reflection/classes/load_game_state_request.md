@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [String](game-reflection/components/string.md) | SaveName |
-| [CampaignId](game-reflection/classes/campaign_id.md) | CampaignId |
+|:-------------|:--------------|
+| [String](/game-reflection/components/string.md) | SaveName |
+| [CampaignId](/game-reflection/classes/campaign_id.md) | CampaignId |

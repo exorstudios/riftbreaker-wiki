@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [String](game-reflection/components/string.md) | research_name |
-| [String](game-reflection/components/string.md) | research_category |
+|:-------------|:--------------|
+| [String](/game-reflection/components/string.md) | research_name |
+| [String](/game-reflection/components/string.md) | research_category |

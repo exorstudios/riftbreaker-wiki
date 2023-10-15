@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| Vector< [GuiDef](game-reflection/classes/gui_def.md) > | value |
-| [String](game-reflection/components/string.md) | key |
+|:-------------|:--------------|
+| Vector< [GuiDef](/game-reflection/classes/gui_def.md) > | value |
+| [String](/game-reflection/components/string.md) | key |

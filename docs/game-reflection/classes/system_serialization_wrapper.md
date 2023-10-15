@@ -10,5 +10,5 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [System1](game-reflection/components/system1.md) | system |
+|:-------------|:--------------|
+| [System1](/game-reflection/components/system1.md) | system |

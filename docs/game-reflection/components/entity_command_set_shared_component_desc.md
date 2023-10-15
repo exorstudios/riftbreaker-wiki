@@ -10,7 +10,7 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [Entity](game-reflection/classes/entity.md) | entity |
-| [TypeAny](game-reflection/components/type_any.md) | shared_component |
-| [SharedComponentHash](game-reflection/components/shared_component_hash.md) | shared_component_hash |
+|:-------------|:--------------|
+| [Entity](/game-reflection/classes/entity.md) | entity |
+| [TypeAny](/game-reflection/components/type_any.md) | shared_component |
+| [SharedComponentHash](/game-reflection/components/shared_component_hash.md) | shared_component_hash |

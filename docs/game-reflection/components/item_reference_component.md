@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [IdString](game-reflection/components/id_string.md) | blueprint |
-| [Entity](game-reflection/classes/entity.md) | owner |
+|:-------------|:--------------|
+| [IdString](/game-reflection/components/id_string.md) | blueprint |
+| [Entity](/game-reflection/classes/entity.md) | owner |

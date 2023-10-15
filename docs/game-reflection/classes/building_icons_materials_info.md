@@ -10,7 +10,7 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| Vector< [Pair_String_float](game-reflection/classes/pair__string_float.md) > | materials_timers |
-| [String](game-reflection/components/string.md) | minimap_icon |
-| Vector< [String](game-reflection/components/string.md) > | materials |
+|:-------------|:--------------|
+| Vector< [Pair_String_float](/game-reflection/classes/pair__string_float.md) > | materials_timers |
+| [String](/game-reflection/components/string.md) | minimap_icon |
+| Vector< [String](/game-reflection/components/string.md) > | materials |

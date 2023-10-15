@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [int](game-reflection/enums/int.md) | value |
-| [SubMeshSlotKey](game-reflection/classes/sub_mesh_slot_key.md) | key |
+|:-------------|:--------------|
+| [int](/game-reflection/enums/int.md) | value |
+| [SubMeshSlotKey](/game-reflection/classes/sub_mesh_slot_key.md) | key |

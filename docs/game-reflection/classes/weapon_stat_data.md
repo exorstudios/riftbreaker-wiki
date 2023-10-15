@@ -10,8 +10,8 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [bool](game-reflection/components/bool.md) | is_mod |
-| [IdString](game-reflection/components/id_string.md) | damage_type |
-| [float](game-reflection/components/float.md) | value |
-| [uchar](game-reflection/enums/uchar.md) | type |
+|:-------------|:--------------|
+| [bool](/game-reflection/components/bool.md) | is_mod |
+| [IdString](/game-reflection/components/id_string.md) | damage_type |
+| [float](/game-reflection/components/float.md) | value |
+| [uchar](/game-reflection/enums/uchar.md) | type |

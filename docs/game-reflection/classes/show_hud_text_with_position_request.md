@@ -10,7 +10,7 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [String](game-reflection/components/string.md) | Content |
-| [String](game-reflection/components/string.md) | Id |
-| [Vector2](game-reflection/classes/vector2.md) | OffsetNormalized |
+|:-------------|:--------------|
+| [String](/game-reflection/components/string.md) | Content |
+| [String](/game-reflection/components/string.md) | Id |
+| [Vector2](/game-reflection/classes/vector2.md) | OffsetNormalized |

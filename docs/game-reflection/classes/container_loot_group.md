@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| Vector< [ContainerLootGroupItem](game-reflection/classes/container_loot_group_item.md) > | items |
-| [uchar](game-reflection/enums/uchar.md) | rarity |
+|:-------------|:--------------|
+| Vector< [ContainerLootGroupItem](/game-reflection/classes/container_loot_group_item.md) > | items |
+| [uchar](/game-reflection/enums/uchar.md) | rarity |

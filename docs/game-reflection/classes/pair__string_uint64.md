@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [uint64](game-reflection/components/uint64.md) | value |
-| [String](game-reflection/components/string.md) | key |
+|:-------------|:--------------|
+| [uint64](/game-reflection/components/uint64.md) | value |
+| [String](/game-reflection/components/string.md) | key |

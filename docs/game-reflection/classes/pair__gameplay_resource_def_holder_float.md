@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [float](game-reflection/components/float.md) | value |
-| [GameplayResourceDefHolder](game-reflection/components/gameplay_resource_def_holder.md) | key |
+|:-------------|:--------------|
+| [float](/game-reflection/components/float.md) | value |
+| [GameplayResourceDefHolder](/game-reflection/components/gameplay_resource_def_holder.md) | key |

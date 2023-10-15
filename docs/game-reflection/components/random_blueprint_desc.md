@@ -10,5 +10,5 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| Vector< [Blueprint](game-reflection/classes/blueprint.md) > | Blueprints |
+|:-------------|:--------------|
+| Vector< [Blueprint](/game-reflection/classes/blueprint.md) > | Blueprints |

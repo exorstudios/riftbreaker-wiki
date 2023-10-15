@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| Vector< [EnergyGraphEdge](game-reflection/classes/energy_graph_edge.md) > | value |
-| [Entity](game-reflection/classes/entity.md) | key |
+|:-------------|:--------------|
+| Vector< [EnergyGraphEdge](/game-reflection/classes/energy_graph_edge.md) > | value |
+| [Entity](/game-reflection/classes/entity.md) | key |

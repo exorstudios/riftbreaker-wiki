@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [MissionDef2](game-reflection/components/mission_def2.md) | mission |
-| [BiomeDef2](game-reflection/components/biome_def2.md) | biome |
+|:-------------|:--------------|
+| [MissionDef2](/game-reflection/components/mission_def2.md) | mission |
+| [BiomeDef2](/game-reflection/components/biome_def2.md) | biome |

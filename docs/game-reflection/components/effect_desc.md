@@ -10,5 +10,5 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| Vector< [EffectBase](game-reflection/components/effect_base.md) > | Effects |
+|:-------------|:--------------|
+| Vector< [EffectBase](/game-reflection/components/effect_base.md) > | Effects |

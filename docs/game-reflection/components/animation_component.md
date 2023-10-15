@@ -10,5 +10,5 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| Vector< [AnimationState](game-reflection/classes/animation_state.md) > | active_animations |
+|:-------------|:--------------|
+| Vector< [AnimationState](/game-reflection/classes/animation_state.md) > | active_animations |

@@ -10,7 +10,7 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [uint](game-reflection/components/uint.md) | message_id |
-| [uint](game-reflection/components/uint.md) | fragment_count |
-| [ushort](game-reflection/enums/ushort.md) | pckId |
+|:-------------|:--------------|
+| [uint](/game-reflection/components/uint.md) | message_id |
+| [uint](/game-reflection/components/uint.md) | fragment_count |
+| [ushort](/game-reflection/enums/ushort.md) | pckId |

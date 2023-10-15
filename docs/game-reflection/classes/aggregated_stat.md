@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| Vector< [Pair_String_double](game-reflection/classes/pair__string_double.md) > | values |
-| [double](game-reflection/components/double.md) | total |
+|:-------------|:--------------|
+| Vector< [Pair_String_double](/game-reflection/classes/pair__string_double.md) > | values |
+| [double](/game-reflection/components/double.md) | total |

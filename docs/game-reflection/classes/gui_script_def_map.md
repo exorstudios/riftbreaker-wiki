@@ -10,5 +10,5 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| Vector< [Pair_IdString_GuiScriptDef2](game-reflection/classes/pair__id_string__gui_script_def2.md) > | scripts |
+|:-------------|:--------------|
+| Vector< [Pair_IdString_GuiScriptDef2](/game-reflection/classes/pair__id_string__gui_script_def2.md) > | scripts |

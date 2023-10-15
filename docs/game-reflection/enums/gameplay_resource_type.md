@@ -10,7 +10,7 @@ Description
 
 ## Enum values
 | Name | Value |
-|:------------ - | : -------------- |
+|:-------------|:--------------|
 | global | 0 |
 | local | 1 |
 | energy | 2 |

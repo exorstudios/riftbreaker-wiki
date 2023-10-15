@@ -10,7 +10,7 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [bool](game-reflection/components/bool.md) | streaming |
-| [String](game-reflection/components/string.md) | platform |
-| [String](game-reflection/components/string.md) | campaign_name |
+|:-------------|:--------------|
+| [bool](/game-reflection/components/bool.md) | streaming |
+| [String](/game-reflection/components/string.md) | platform |
+| [String](/game-reflection/components/string.md) | campaign_name |

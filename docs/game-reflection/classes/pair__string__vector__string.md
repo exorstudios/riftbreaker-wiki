@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| Vector< [String](game-reflection/components/string.md) > | value |
-| [String](game-reflection/components/string.md) | key |
+|:-------------|:--------------|
+| Vector< [String](/game-reflection/components/string.md) > | value |
+| [String](/game-reflection/components/string.md) | key |

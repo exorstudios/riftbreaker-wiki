@@ -10,7 +10,7 @@ Description
 
 ## Enum values
 | Name | Value |
-|:------------ - | : -------------- |
+|:-------------|:--------------|
 | Add | 1 |
 | Override | 0 |
 | HalfBlend | 2 |

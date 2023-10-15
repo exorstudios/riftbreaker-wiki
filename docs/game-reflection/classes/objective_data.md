@@ -10,8 +10,8 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [String](game-reflection/components/string.md) | group |
-| [Database4](game-reflection/components/database4.md) | database |
-| [int](game-reflection/enums/int.md) | type |
-| [int](game-reflection/enums/int.md) | status |
+|:-------------|:--------------|
+| [String](/game-reflection/components/string.md) | group |
+| [Database4](/game-reflection/components/database4.md) | database |
+| [int](/game-reflection/enums/int.md) | type |
+| [int](/game-reflection/enums/int.md) | status |

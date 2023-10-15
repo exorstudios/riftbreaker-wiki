@@ -10,5 +10,5 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [TerrainGrid](game-reflection/classes/terrain_grid.md) | grid |
+|:-------------|:--------------|
+| [TerrainGrid](/game-reflection/classes/terrain_grid.md) | grid |

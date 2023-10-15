@@ -10,5 +10,5 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [TeamId](game-reflection/classes/team_id.md) | team |
+|:-------------|:--------------|
+| [TeamId](/game-reflection/classes/team_id.md) | team |

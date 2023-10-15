@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [String](game-reflection/components/string.md) | top_header |
-| [bool](game-reflection/components/bool.md) | empty_stats |
+|:-------------|:--------------|
+| [String](/game-reflection/components/string.md) | top_header |
+| [bool](/game-reflection/components/bool.md) | empty_stats |

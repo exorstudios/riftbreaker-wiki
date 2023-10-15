@@ -10,7 +10,7 @@ Description
 
 ## Enum values
 | Name | Value |
-|:------------ - | : -------------- |
+|:-------------|:--------------|
 | VET_FLOAT1 | 0 |
 | VET_FLOAT2 | 1 |
 | VET_FLOAT3 | 2 |

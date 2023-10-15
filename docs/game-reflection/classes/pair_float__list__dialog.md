@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| Vector< [Dialog](game-reflection/classes/dialog.md) > | value |
-| [float](game-reflection/components/float.md) | key |
+|:-------------|:--------------|
+| Vector< [Dialog](/game-reflection/classes/dialog.md) > | value |
+| [float](/game-reflection/components/float.md) | key |

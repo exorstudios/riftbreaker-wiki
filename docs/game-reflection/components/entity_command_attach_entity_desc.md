@@ -10,7 +10,7 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [Entity](game-reflection/classes/entity.md) | parent |
-| [Entity](game-reflection/classes/entity.md) | entity |
-| [StringHash](game-reflection/classes/string_hash.md) | attachment |
+|:-------------|:--------------|
+| [Entity](/game-reflection/classes/entity.md) | parent |
+| [Entity](/game-reflection/classes/entity.md) | entity |
+| [StringHash](/game-reflection/classes/string_hash.md) | attachment |

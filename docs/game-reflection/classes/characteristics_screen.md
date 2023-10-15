@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| Vector< [CharacteristicsStatRow](game-reflection/classes/characteristics_stat_row.md) > | submodel_left_vector |
-| Vector< [CharacteristicsStatRow](game-reflection/classes/characteristics_stat_row.md) > | submodel_right_vector |
+|:-------------|:--------------|
+| Vector< [CharacteristicsStatRow](/game-reflection/classes/characteristics_stat_row.md) > | submodel_left_vector |
+| Vector< [CharacteristicsStatRow](/game-reflection/classes/characteristics_stat_row.md) > | submodel_right_vector |

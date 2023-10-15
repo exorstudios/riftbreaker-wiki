@@ -10,7 +10,7 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [float](game-reflection/components/float.md) | fire_columns |
-| [float](game-reflection/components/float.md) | fire_rate |
-| [float](game-reflection/components/float.md) | fire_rows |
+|:-------------|:--------------|
+| [float](/game-reflection/components/float.md) | fire_columns |
+| [float](/game-reflection/components/float.md) | fire_rate |
+| [float](/game-reflection/components/float.md) | fire_rows |

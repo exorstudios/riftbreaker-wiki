@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [float](game-reflection/components/float.md) | second |
-| [Vector3](game-reflection/classes/vector3.md) | first |
+|:-------------|:--------------|
+| [float](/game-reflection/components/float.md) | second |
+| [Vector3](/game-reflection/classes/vector3.md) | first |

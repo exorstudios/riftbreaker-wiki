@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [Entity](game-reflection/classes/entity.md) | second |
-| [int](game-reflection/enums/int.md) | first |
+|:-------------|:--------------|
+| [Entity](/game-reflection/classes/entity.md) | second |
+| [int](/game-reflection/enums/int.md) | first |

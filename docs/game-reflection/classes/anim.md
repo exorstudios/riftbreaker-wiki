@@ -10,8 +10,8 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [float](game-reflection/components/float.md) | animFactor |
-| [bool](game-reflection/components/bool.md) | animLoop |
-| [float](game-reflection/components/float.md) | animTime |
-| [String](game-reflection/components/string.md) | animName |
+|:-------------|:--------------|
+| [float](/game-reflection/components/float.md) | animFactor |
+| [bool](/game-reflection/components/bool.md) | animLoop |
+| [float](/game-reflection/components/float.md) | animTime |
+| [String](/game-reflection/components/string.md) | animName |

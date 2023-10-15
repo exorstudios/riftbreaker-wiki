@@ -10,7 +10,7 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [String](game-reflection/components/string.md) | name |
-| [ChunkIndex](game-reflection/classes/chunk_index.md) | index |
-| Vector< [TerrainVertex](game-reflection/classes/terrain_vertex.md) > | vertices |
+|:-------------|:--------------|
+| [String](/game-reflection/components/string.md) | name |
+| [ChunkIndex](/game-reflection/classes/chunk_index.md) | index |
+| Vector< [TerrainVertex](/game-reflection/classes/terrain_vertex.md) > | vertices |

@@ -10,7 +10,7 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [float](game-reflection/components/float.md) | Time |
-| [String](game-reflection/components/string.md) | GuiDef |
-| [String](game-reflection/components/string.md) | Id |
+|:-------------|:--------------|
+| [float](/game-reflection/components/float.md) | Time |
+| [String](/game-reflection/components/string.md) | GuiDef |
+| [String](/game-reflection/components/string.md) | Id |

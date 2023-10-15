@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| Vector< [Entity](game-reflection/classes/entity.md) > | entities |
-| [uint](game-reflection/components/uint.md) | component_type_hash |
+|:-------------|:--------------|
+| Vector< [Entity](/game-reflection/classes/entity.md) > | entities |
+| [uint](/game-reflection/components/uint.md) | component_type_hash |

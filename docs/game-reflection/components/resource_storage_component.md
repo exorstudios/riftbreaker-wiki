@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| Vector< [Storage](game-reflection/classes/storage.md) > | Storages |
-| [bool](game-reflection/components/bool.md) | initialized |
+|:-------------|:--------------|
+| Vector< [Storage](/game-reflection/classes/storage.md) > | Storages |
+| [bool](/game-reflection/components/bool.md) | initialized |

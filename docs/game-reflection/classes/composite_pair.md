@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [String](game-reflection/components/string.md) | name |
-| [CompositeAction2](game-reflection/components/composite_action2.md) | compositeAction |
+|:-------------|:--------------|
+| [String](/game-reflection/components/string.md) | name |
+| [CompositeAction2](/game-reflection/components/composite_action2.md) | compositeAction |

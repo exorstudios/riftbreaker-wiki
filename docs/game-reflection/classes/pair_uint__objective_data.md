@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [ObjectiveData](game-reflection/classes/objective_data.md) | value |
-| [uint](game-reflection/components/uint.md) | key |
+|:-------------|:--------------|
+| [ObjectiveData](/game-reflection/classes/objective_data.md) | value |
+| [uint](/game-reflection/components/uint.md) | key |

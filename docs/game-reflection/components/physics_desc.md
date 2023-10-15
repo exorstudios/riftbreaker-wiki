@@ -10,5 +10,5 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| Vector< [PhysicsObjectDesc](game-reflection/components/physics_object_desc.md) > | objects |
+|:-------------|:--------------|
+| Vector< [PhysicsObjectDesc](/game-reflection/components/physics_object_desc.md) > | objects |

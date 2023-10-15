@@ -10,5 +10,5 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| Vector< [CategoryModel](game-reflection/classes/category_model.md) > | categories |
+|:-------------|:--------------|
+| Vector< [CategoryModel](/game-reflection/classes/category_model.md) > | categories |

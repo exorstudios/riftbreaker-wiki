@@ -10,8 +10,8 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [uchar](game-reflection/enums/uchar.md) | relation_type |
-| Vector< [Entity](game-reflection/classes/entity.md) > | entities |
-| [uint](game-reflection/components/uint.md) | component_type_hash |
-| [uint](game-reflection/components/uint.md) | target |
+|:-------------|:--------------|
+| [uchar](/game-reflection/enums/uchar.md) | relation_type |
+| Vector< [Entity](/game-reflection/classes/entity.md) > | entities |
+| [uint](/game-reflection/components/uint.md) | component_type_hash |
+| [uint](/game-reflection/components/uint.md) | target |

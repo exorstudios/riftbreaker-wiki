@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| Vector< [MissionObjectSpawn](game-reflection/classes/mission_object_spawn.md) > | value |
-| [String](game-reflection/components/string.md) | key |
+|:-------------|:--------------|
+| Vector< [MissionObjectSpawn](/game-reflection/classes/mission_object_spawn.md) > | value |
+| [String](/game-reflection/components/string.md) | key |

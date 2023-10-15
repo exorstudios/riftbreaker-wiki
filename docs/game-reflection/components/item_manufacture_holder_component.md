@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [bool](game-reflection/components/bool.md) | blocked |
-| [String](game-reflection/components/string.md) | item |
+|:-------------|:--------------|
+| [bool](/game-reflection/components/bool.md) | blocked |
+| [String](/game-reflection/components/string.md) | item |

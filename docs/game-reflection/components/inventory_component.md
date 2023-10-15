@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [Inventory4](game-reflection/components/inventory4.md) | inventory |
-| [Entity](game-reflection/classes/entity.md) | reference_entity |
+|:-------------|:--------------|
+| [Inventory4](/game-reflection/components/inventory4.md) | inventory |
+| [Entity](/game-reflection/classes/entity.md) | reference_entity |

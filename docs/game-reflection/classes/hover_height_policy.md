@@ -10,7 +10,7 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [float](game-reflection/components/float.md) | hover_height |
-| [float](game-reflection/components/float.md) | hover_min_height |
-| [uint](game-reflection/components/uint.md) | hover_physics_mask |
+|:-------------|:--------------|
+| [float](/game-reflection/components/float.md) | hover_height |
+| [float](/game-reflection/components/float.md) | hover_min_height |
+| [uint](/game-reflection/components/uint.md) | hover_physics_mask |

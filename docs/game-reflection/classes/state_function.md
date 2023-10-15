@@ -10,5 +10,5 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [String](game-reflection/components/string.md) | callback_name |
+|:-------------|:--------------|
+| [String](/game-reflection/components/string.md) | callback_name |

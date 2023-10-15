@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [Vector3](game-reflection/classes/vector3.md) | second |
-| [Entity](game-reflection/classes/entity.md) | first |
+|:-------------|:--------------|
+| [Vector3](/game-reflection/classes/vector3.md) | second |
+| [Entity](/game-reflection/classes/entity.md) | first |

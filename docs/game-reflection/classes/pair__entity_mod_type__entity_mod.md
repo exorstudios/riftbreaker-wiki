@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [EntityMod](game-reflection/classes/entity_mod.md) | value |
-| [int](game-reflection/enums/int.md) | key |
+|:-------------|:--------------|
+| [EntityMod](/game-reflection/classes/entity_mod.md) | value |
+| [int](/game-reflection/enums/int.md) | key |

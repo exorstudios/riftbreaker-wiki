@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [uint](game-reflection/components/uint.md) | value |
-| [InfoLevelMap](game-reflection/classes/info_level_map.md) | key |
+|:-------------|:--------------|
+| [uint](/game-reflection/components/uint.md) | value |
+| [InfoLevelMap](/game-reflection/classes/info_level_map.md) | key |

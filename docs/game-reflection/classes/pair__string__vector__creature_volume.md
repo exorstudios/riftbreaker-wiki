@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| Vector< [CreatureVolume](game-reflection/classes/creature_volume.md) > | value |
-| [String](game-reflection/components/string.md) | key |
+|:-------------|:--------------|
+| Vector< [CreatureVolume](/game-reflection/classes/creature_volume.md) > | value |
+| [String](/game-reflection/components/string.md) | key |

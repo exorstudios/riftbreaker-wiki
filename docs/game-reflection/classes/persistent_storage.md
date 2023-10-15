@@ -10,7 +10,7 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [ResourceBasket](game-reflection/classes/resource_basket.md) | outcome |
-| [ResourceBasket](game-reflection/classes/resource_basket.md) | income |
-| [ResourceAccount](game-reflection/classes/resource_account.md) | storage |
+|:-------------|:--------------|
+| [ResourceBasket](/game-reflection/classes/resource_basket.md) | outcome |
+| [ResourceBasket](/game-reflection/classes/resource_basket.md) | income |
+| [ResourceAccount](/game-reflection/classes/resource_account.md) | storage |

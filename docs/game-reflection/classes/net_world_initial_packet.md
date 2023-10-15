@@ -10,5 +10,5 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [uint](game-reflection/components/uint.md) | player_id |
+|:-------------|:--------------|
+| [uint](/game-reflection/components/uint.md) | player_id |

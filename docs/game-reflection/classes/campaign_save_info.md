@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| Vector< [String](game-reflection/components/string.md) > | saves |
-| [CampaignId](game-reflection/classes/campaign_id.md) | campaign_id |
+|:-------------|:--------------|
+| Vector< [String](/game-reflection/components/string.md) > | saves |
+| [CampaignId](/game-reflection/classes/campaign_id.md) | campaign_id |

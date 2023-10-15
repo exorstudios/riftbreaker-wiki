@@ -10,7 +10,7 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [Random](game-reflection/components/random.md) | random |
-| Vector< [DamageRequestData](game-reflection/classes/damage_request_data.md) > | requests |
-| [ComponentObserver](game-reflection/components/component_observer.md) | burning_observer |
+|:-------------|:--------------|
+| [Random](/game-reflection/components/random.md) | random |
+| Vector< [DamageRequestData](/game-reflection/classes/damage_request_data.md) > | requests |
+| [ComponentObserver](/game-reflection/components/component_observer.md) | burning_observer |

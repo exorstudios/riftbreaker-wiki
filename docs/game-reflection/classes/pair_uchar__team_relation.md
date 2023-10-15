@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [TeamRelation](game-reflection/classes/team_relation.md) | value |
-| [uchar](game-reflection/enums/uchar.md) | key |
+|:-------------|:--------------|
+| [TeamRelation](/game-reflection/classes/team_relation.md) | value |
+| [uchar](/game-reflection/enums/uchar.md) | key |

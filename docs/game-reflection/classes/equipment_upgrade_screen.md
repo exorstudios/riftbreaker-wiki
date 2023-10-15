@@ -10,5 +10,5 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| Vector< [StatsDataTable](game-reflection/classes/stats_data_table.md) > | statistics |
+|:-------------|:--------------|
+| Vector< [StatsDataTable](/game-reflection/classes/stats_data_table.md) > | statistics |

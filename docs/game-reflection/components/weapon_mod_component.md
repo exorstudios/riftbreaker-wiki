@@ -10,5 +10,5 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [WeaponModData](game-reflection/classes/weapon_mod_data.md) | mod_data |
+|:-------------|:--------------|
+| [WeaponModData](/game-reflection/classes/weapon_mod_data.md) | mod_data |

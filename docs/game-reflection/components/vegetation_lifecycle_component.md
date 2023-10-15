@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [int](game-reflection/enums/int.md) | chain_update_treshold |
-| [bool](game-reflection/components/bool.md) | destroy_on_update |
+|:-------------|:--------------|
+| [int](/game-reflection/enums/int.md) | chain_update_treshold |
+| [bool](/game-reflection/components/bool.md) | destroy_on_update |

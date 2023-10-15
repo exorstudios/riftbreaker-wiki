@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [EntityTemplate](game-reflection/classes/entity_template.md) | value |
-| [Entity](game-reflection/classes/entity.md) | key |
+|:-------------|:--------------|
+| [EntityTemplate](/game-reflection/classes/entity_template.md) | value |
+| [Entity](/game-reflection/classes/entity.md) | key |

@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| Vector< [Pair_StringHash_uint](game-reflection/classes/pair__string_hash_uint.md) > | value |
-| [StringHash](game-reflection/classes/string_hash.md) | key |
+|:-------------|:--------------|
+| Vector< [Pair_StringHash_uint](/game-reflection/classes/pair__string_hash_uint.md) > | value |
+| [StringHash](/game-reflection/classes/string_hash.md) | key |

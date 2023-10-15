@@ -10,11 +10,11 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [bool](game-reflection/components/bool.md) | is_loop |
-| [bool](game-reflection/components/bool.md) | is_attacking |
-| [String](game-reflection/components/string.md) | db_attack_entry |
-| Vector< [String](game-reflection/components/string.md) > | attack_name_vec |
-| [String](game-reflection/components/string.md) | attack_name |
-| [bool](game-reflection/components/bool.md) | is_finished |
-| [String](game-reflection/components/string.md) | tag |
+|:-------------|:--------------|
+| [bool](/game-reflection/components/bool.md) | is_loop |
+| [bool](/game-reflection/components/bool.md) | is_attacking |
+| [String](/game-reflection/components/string.md) | db_attack_entry |
+| Vector< [String](/game-reflection/components/string.md) > | attack_name_vec |
+| [String](/game-reflection/components/string.md) | attack_name |
+| [bool](/game-reflection/components/bool.md) | is_finished |
+| [String](/game-reflection/components/string.md) | tag |

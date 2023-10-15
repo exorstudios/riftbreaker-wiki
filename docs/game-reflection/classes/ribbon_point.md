@@ -10,7 +10,7 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [float](game-reflection/components/float.md) | alpha |
-| [float](game-reflection/components/float.md) | distance |
-| [Vector3](game-reflection/classes/vector3.md) | point |
+|:-------------|:--------------|
+| [float](/game-reflection/components/float.md) | alpha |
+| [float](/game-reflection/components/float.md) | distance |
+| [Vector3](/game-reflection/classes/vector3.md) | point |

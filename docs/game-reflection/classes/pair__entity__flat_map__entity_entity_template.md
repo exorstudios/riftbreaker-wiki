@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| Vector< [Pair_Entity_EntityTemplate](game-reflection/classes/pair__entity__entity_template.md) > | value |
-| [Entity](game-reflection/classes/entity.md) | key |
+|:-------------|:--------------|
+| Vector< [Pair_Entity_EntityTemplate](/game-reflection/classes/pair__entity__entity_template.md) > | value |
+| [Entity](/game-reflection/classes/entity.md) | key |

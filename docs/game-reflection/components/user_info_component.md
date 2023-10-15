@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [String](game-reflection/components/string.md) | sking_blueprint |
-| [int](game-reflection/enums/int.md) | ping |
+|:-------------|:--------------|
+| [String](/game-reflection/components/string.md) | sking_blueprint |
+| [int](/game-reflection/enums/int.md) | ping |

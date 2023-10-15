@@ -10,7 +10,7 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [int](game-reflection/enums/int.md) | dst_slot |
-| [int](game-reflection/enums/int.md) | src_slot |
-| [short](game-reflection/components/short.md) | src_node_idx |
+|:-------------|:--------------|
+| [int](/game-reflection/enums/int.md) | dst_slot |
+| [int](/game-reflection/enums/int.md) | src_slot |
+| [short](/game-reflection/components/short.md) | src_node_idx |

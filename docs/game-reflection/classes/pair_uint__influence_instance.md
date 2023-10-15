@@ -10,6 +10,6 @@ Description
 
 ## Fields
 | Type | Name |
-|:------------ - | : -------------- |
-| [InfluenceInstance](game-reflection/classes/influence_instance.md) | value |
-| [uint](game-reflection/components/uint.md) | key |
+|:-------------|:--------------|
+| [InfluenceInstance](/game-reflection/classes/influence_instance.md) | value |
+| [uint](/game-reflection/components/uint.md) | key |
