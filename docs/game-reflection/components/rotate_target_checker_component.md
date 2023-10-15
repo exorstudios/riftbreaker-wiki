@@ -11,9 +11,9 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [Timer](/docs/game-reflection/classes/timer) | timer |
-| [IdString](/docs/game-reflection/components/id_string) | tag |
-| [Degree](/docs/game-reflection/classes/degree) | angle |
-| [float](/docs/game-reflection/components/float) | refresh_rate |
+|:----------|:--------------|
+| [Timer](/riftbreaker-wiki/docs/game-reflection/classes/timer/) | timer |
+| [IdString](/riftbreaker-wiki/docs/game-reflection/components/id_string/) | tag |
+| [Degree](/riftbreaker-wiki/docs/game-reflection/classes/degree/) | angle |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | refresh_rate |
 

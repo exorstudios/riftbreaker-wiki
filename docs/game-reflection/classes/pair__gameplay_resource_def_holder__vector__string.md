@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| Vector< [String](/docs/game-reflection/components/string) > | value |
-| [GameplayResourceDefHolder](/docs/game-reflection/components/gameplay_resource_def_holder) | key |
+|:----------|:--------------|
+| Vector< [String](/riftbreaker-wiki/docs/game-reflection/components/string/) > | value |
+| [GameplayResourceDefHolder](/riftbreaker-wiki/docs/game-reflection/components/gameplay_resource_def_holder/) | key |
 

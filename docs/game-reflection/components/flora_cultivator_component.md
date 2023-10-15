@@ -11,6 +11,6 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [PrefabVariantInstance](/docs/game-reflection/classes/prefab_variant_instance) | prefab |
+|:----------|:--------------|
+| [PrefabVariantInstance](/riftbreaker-wiki/docs/game-reflection/classes/prefab_variant_instance/) | prefab |
 

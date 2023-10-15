@@ -11,9 +11,9 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [bool](/docs/game-reflection/components/bool) | is_new |
-| [String](/docs/game-reflection/components/string) | species_name |
-| [bool](/docs/game-reflection/components/bool) | enabled |
-| [String](/docs/game-reflection/components/string) | species_icon |
+|:----------|:--------------|
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | is_new |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | species_name |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | enabled |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | species_icon |
 

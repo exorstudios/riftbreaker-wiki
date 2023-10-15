@@ -5,15 +5,15 @@ has_children: false
 parent: Class
 grand_parent: Game Reflection
 ---
-# GuiBarDef( [ GuiImageDef ](/docs/game-reflection/classes/gui_image_def) )
+# GuiBarDef( [ GuiImageDef ](/riftbreaker-wiki/docs/game-reflection/classes/gui_image_def/) )
 Description 
 
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [uchar](/docs/game-reflection/enums/uchar) | direction |
-| [uchar](/docs/game-reflection/enums/uchar) | behavior |
-| [String](/docs/game-reflection/components/string) | rawData |
-| [uchar](/docs/game-reflection/enums/uchar) | material_type |
+|:----------|:--------------|
+| [uchar](/riftbreaker-wiki/docs/game-reflection/enums/uchar/) | direction |
+| [uchar](/riftbreaker-wiki/docs/game-reflection/enums/uchar/) | behavior |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | rawData |
+| [uchar](/riftbreaker-wiki/docs/game-reflection/enums/uchar/) | material_type |
 

@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [TerrainVector](/docs/game-reflection/classes/terrain_vector) | blend |
-| [TerrainVector](/docs/game-reflection/classes/terrain_vector) | position |
+|:----------|:--------------|
+| [TerrainVector](/riftbreaker-wiki/docs/game-reflection/classes/terrain_vector/) | blend |
+| [TerrainVector](/riftbreaker-wiki/docs/game-reflection/classes/terrain_vector/) | position |
 

@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [float](/docs/game-reflection/components/float) | duration |
-| [float](/docs/game-reflection/components/float) | power |
+|:----------|:--------------|
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | duration |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | power |
 

@@ -11,9 +11,9 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [String](/docs/game-reflection/components/string) | value |
-| [Vector2](/docs/game-reflection/classes/vector2) | scale |
-| [String](/docs/game-reflection/components/string) | label |
-| [String](/docs/game-reflection/components/string) | icon |
+|:----------|:--------------|
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | value |
+| [Vector2](/riftbreaker-wiki/docs/game-reflection/classes/vector2/) | scale |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | label |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | icon |
 

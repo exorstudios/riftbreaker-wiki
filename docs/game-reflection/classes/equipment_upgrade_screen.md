@@ -11,6 +11,6 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| Vector< [StatsDataTable](/docs/game-reflection/classes/stats_data_table) > | statistics |
+|:----------|:--------------|
+| Vector< [StatsDataTable](/riftbreaker-wiki/docs/game-reflection/classes/stats_data_table/) > | statistics |
 

@@ -11,8 +11,8 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| Vector< [Pair_String_float](/docs/game-reflection/classes/pair__string_float) > | materials_timers |
-| [String](/docs/game-reflection/components/string) | minimap_icon |
-| Vector< [String](/docs/game-reflection/components/string) > | materials |
+|:----------|:--------------|
+| Vector< [Pair_String_float](/riftbreaker-wiki/docs/game-reflection/classes/pair__string_float/) > | materials_timers |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | minimap_icon |
+| Vector< [String](/riftbreaker-wiki/docs/game-reflection/components/string/) > | materials |
 

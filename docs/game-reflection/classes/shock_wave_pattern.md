@@ -11,8 +11,8 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [float](/docs/game-reflection/components/float) | radius |
-| [float](/docs/game-reflection/components/float) | speed |
-| [uint](/docs/game-reflection/components/uint) | power |
+|:----------|:--------------|
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | radius |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | speed |
+| [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | power |
 

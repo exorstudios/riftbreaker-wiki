@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [IdString](/docs/game-reflection/components/id_string) | blueprint |
-| [bool](/docs/game-reflection/components/bool) | disabled |
+|:----------|:--------------|
+| [IdString](/riftbreaker-wiki/docs/game-reflection/components/id_string/) | blueprint |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | disabled |
 

@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [Entity](/docs/game-reflection/classes/entity) | parent |
-| [Entity](/docs/game-reflection/classes/entity) | effect |
+|:----------|:--------------|
+| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | parent |
+| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | effect |
 

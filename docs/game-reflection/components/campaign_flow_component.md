@@ -11,6 +11,6 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [BehaviourFlowGraph4](/docs/game-reflection/components/behaviour_flow_graph4) | campaign_flow |
+|:----------|:--------------|
+| [BehaviourFlowGraph4](/riftbreaker-wiki/docs/game-reflection/components/behaviour_flow_graph4/) | campaign_flow |
 

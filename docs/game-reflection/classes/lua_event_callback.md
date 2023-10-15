@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [String](/docs/game-reflection/components/string) | callback |
-| [uint64](/docs/game-reflection/components/uint64) | handle |
+|:----------|:--------------|
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | callback |
+| [uint64](/riftbreaker-wiki/docs/game-reflection/components/uint64/) | handle |
 

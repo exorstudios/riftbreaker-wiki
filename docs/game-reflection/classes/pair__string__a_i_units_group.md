@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [AIUnitsGroup](/docs/game-reflection/classes/a_i_units_group) | value |
-| [String](/docs/game-reflection/components/string) | key |
+|:----------|:--------------|
+| [AIUnitsGroup](/riftbreaker-wiki/docs/game-reflection/classes/a_i_units_group/) | value |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | key |
 

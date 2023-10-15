@@ -11,8 +11,8 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [int](/docs/game-reflection/enums/int) | v |
-| [int](/docs/game-reflection/enums/int) | u |
-| [int](/docs/game-reflection/enums/int) | w |
+|:----------|:--------------|
+| [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | v |
+| [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | u |
+| [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | w |
 

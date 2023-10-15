@@ -11,16 +11,16 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [uchar](/docs/game-reflection/enums/uchar) | mode |
-| [float](/docs/game-reflection/components/float) | idle_progress |
-| [uchar](/docs/game-reflection/enums/uchar) | weapon_type |
-| [float](/docs/game-reflection/components/float) | target_change_timer |
-| [Entity](/docs/game-reflection/classes/entity) | custom_target |
-| [float](/docs/game-reflection/components/float) | cooldown_timer |
-| [Entity](/docs/game-reflection/classes/entity) | target |
-| [TurretFlamerData](/docs/game-reflection/classes/turret_flamer_data) | flamer_data |
-| [uchar](/docs/game-reflection/enums/uchar) | status |
-| [bool](/docs/game-reflection/components/bool) | see_invisible |
-| [bool](/docs/game-reflection/components/bool) | cooldown_working |
+|:----------|:--------------|
+| [uchar](/riftbreaker-wiki/docs/game-reflection/enums/uchar/) | mode |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | idle_progress |
+| [uchar](/riftbreaker-wiki/docs/game-reflection/enums/uchar/) | weapon_type |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | target_change_timer |
+| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | custom_target |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | cooldown_timer |
+| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | target |
+| [TurretFlamerData](/riftbreaker-wiki/docs/game-reflection/classes/turret_flamer_data/) | flamer_data |
+| [uchar](/riftbreaker-wiki/docs/game-reflection/enums/uchar/) | status |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | see_invisible |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | cooldown_working |
 

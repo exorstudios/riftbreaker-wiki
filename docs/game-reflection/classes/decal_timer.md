@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [float](/docs/game-reflection/components/float) | current_time |
-| [float](/docs/game-reflection/components/float) | timer |
+|:----------|:--------------|
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | current_time |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | timer |
 

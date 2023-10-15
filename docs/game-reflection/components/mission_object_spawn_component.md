@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| Vector< [String](/docs/game-reflection/components/string) > | pool_names |
-| [Aabb](/docs/game-reflection/components/aabb) | bounds |
+|:----------|:--------------|
+| Vector< [String](/riftbreaker-wiki/docs/game-reflection/components/string/) > | pool_names |
+| [Aabb](/riftbreaker-wiki/docs/game-reflection/components/aabb/) | bounds |
 

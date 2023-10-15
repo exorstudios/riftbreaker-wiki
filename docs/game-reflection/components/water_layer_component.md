@@ -11,6 +11,6 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [float](/docs/game-reflection/components/float) | water_height |
+|:----------|:--------------|
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | water_height |
 

@@ -11,8 +11,8 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [String](/docs/game-reflection/components/string) | description |
-| [uchar](/docs/game-reflection/enums/uchar) | rarity |
-| [String](/docs/game-reflection/components/string) | icon |
+|:----------|:--------------|
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | description |
+| [uchar](/riftbreaker-wiki/docs/game-reflection/enums/uchar/) | rarity |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | icon |
 

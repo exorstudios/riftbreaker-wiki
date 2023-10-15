@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| Vector< [Pair_float_List_Dialog](/docs/game-reflection/classes/pair_float__list__dialog) > | dialogs_map |
-| Vector< [Dialog](/docs/game-reflection/classes/dialog) > | current_dialog |
+|:----------|:--------------|
+| Vector< [Pair_float_List_Dialog](/riftbreaker-wiki/docs/game-reflection/classes/pair_float__list__dialog/) > | dialogs_map |
+| Vector< [Dialog](/riftbreaker-wiki/docs/game-reflection/classes/dialog/) > | current_dialog |
 

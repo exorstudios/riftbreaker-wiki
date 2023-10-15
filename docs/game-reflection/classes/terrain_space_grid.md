@@ -11,11 +11,11 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| Vector< [TerrainSpace](/docs/game-reflection/classes/terrain_space) > | cells |
-| Vector< [uint64](/docs/game-reflection/components/uint64) > | height |
-| [Vector3](/docs/game-reflection/classes/vector3) | minimum |
-| [Aabb](/docs/game-reflection/components/aabb) | size |
-| Vector< [uint64](/docs/game-reflection/components/uint64) > | width |
-| [uint64](/docs/game-reflection/components/uint64) | cell_size |
+|:----------|:--------------|
+| Vector< [TerrainSpace](/riftbreaker-wiki/docs/game-reflection/classes/terrain_space/) > | cells |
+| Vector< [uint64](/riftbreaker-wiki/docs/game-reflection/components/uint64/) > | height |
+| [Vector3](/riftbreaker-wiki/docs/game-reflection/classes/vector3/) | minimum |
+| [Aabb](/riftbreaker-wiki/docs/game-reflection/components/aabb/) | size |
+| Vector< [uint64](/riftbreaker-wiki/docs/game-reflection/components/uint64/) > | width |
+| [uint64](/riftbreaker-wiki/docs/game-reflection/components/uint64/) | cell_size |
 

@@ -5,13 +5,13 @@ has_children: false
 parent: Class
 grand_parent: Game Reflection
 ---
-# StringParamDecl( [ ParamDecl ](/docs/game-reflection/classes/param_decl) )
+# StringParamDecl( [ ParamDecl ](/riftbreaker-wiki/docs/game-reflection/classes/param_decl/) )
 Description 
 
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| Vector< [String](/docs/game-reflection/components/string) > | items |
-| [String](/docs/game-reflection/components/string) | default |
+|:----------|:--------------|
+| Vector< [String](/riftbreaker-wiki/docs/game-reflection/components/string/) > | items |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | default |
 

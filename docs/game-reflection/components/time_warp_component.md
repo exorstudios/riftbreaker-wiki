@@ -11,16 +11,16 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [float](/docs/game-reflection/components/float) | time_factor |
-| [float](/docs/game-reflection/components/float) | fade_in_time |
-| [float](/docs/game-reflection/components/float) | bloom_scale |
-| [float](/docs/game-reflection/components/float) | contrast |
-| [float](/docs/game-reflection/components/float) | fade_out_time |
-| [float](/docs/game-reflection/components/float) | brightness |
-| [float](/docs/game-reflection/components/float) | red_tone |
-| [float](/docs/game-reflection/components/float) | desaturation |
-| [float](/docs/game-reflection/components/float) | timer |
-| [float](/docs/game-reflection/components/float) | delay |
-| [float](/docs/game-reflection/components/float) | duration |
+|:----------|:--------------|
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | time_factor |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | fade_in_time |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | bloom_scale |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | contrast |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | fade_out_time |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | brightness |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | red_tone |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | desaturation |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | timer |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | delay |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | duration |
 

@@ -11,10 +11,10 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [IdString](/docs/game-reflection/components/id_string) | name |
-| [EntityTemplate](/docs/game-reflection/classes/entity_template) | entity_template |
-| [uchar](/docs/game-reflection/enums/uchar) | priority |
-| [EntityTemplate](/docs/game-reflection/classes/entity_template) | hidden_components |
-| Vector< [float](/docs/game-reflection/components/float) > | duration |
+|:----------|:--------------|
+| [IdString](/riftbreaker-wiki/docs/game-reflection/components/id_string/) | name |
+| [EntityTemplate](/riftbreaker-wiki/docs/game-reflection/classes/entity_template/) | entity_template |
+| [uchar](/riftbreaker-wiki/docs/game-reflection/enums/uchar/) | priority |
+| [EntityTemplate](/riftbreaker-wiki/docs/game-reflection/classes/entity_template/) | hidden_components |
+| Vector< [float](/riftbreaker-wiki/docs/game-reflection/components/float/) > | duration |
 

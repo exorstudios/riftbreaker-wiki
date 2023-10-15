@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| Vector< [String](/docs/game-reflection/components/string) > | volume_units_type |
-| [bool](/docs/game-reflection/components/bool) | disabled |
+|:----------|:--------------|
+| Vector< [String](/riftbreaker-wiki/docs/game-reflection/components/string/) > | volume_units_type |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | disabled |
 

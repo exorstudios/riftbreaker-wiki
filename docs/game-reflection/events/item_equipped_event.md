@@ -5,14 +5,14 @@ has_children: false
 parent: Event
 grand_parent: Game Reflection
 ---
-# ItemEquippedEvent( [ EntityEventBase ](/docs/game-reflection/events/entity_event_base) )
+# ItemEquippedEvent( [ EntityEventBase ](/riftbreaker-wiki/docs/game-reflection/events/entity_event_base/) )
 Description 
 
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [String](/docs/game-reflection/components/string) | Slot |
-| [Entity](/docs/game-reflection/classes/entity) | Item |
-| [Entity](/docs/game-reflection/classes/entity) | Entity |
+|:----------|:--------------|
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | Slot |
+| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Item |
+| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
 

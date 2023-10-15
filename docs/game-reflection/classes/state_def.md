@@ -11,12 +11,12 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [EntityTemplate](/docs/game-reflection/classes/entity_template) | components |
-| [StateDefId](/docs/game-reflection/classes/state_def_id) | state_name |
-| [float](/docs/game-reflection/components/float) | max_event_timer |
-| [float](/docs/game-reflection/components/float) | min_event_timer |
-| [uchar](/docs/game-reflection/enums/uchar) | type |
-| Vector< [EventTransition](/docs/game-reflection/classes/event_transition) > | transitions |
-| [EntityTemplate](/docs/game-reflection/classes/entity_template) | events |
+|:----------|:--------------|
+| [EntityTemplate](/riftbreaker-wiki/docs/game-reflection/classes/entity_template/) | components |
+| [StateDefId](/riftbreaker-wiki/docs/game-reflection/classes/state_def_id/) | state_name |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | max_event_timer |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | min_event_timer |
+| [uchar](/riftbreaker-wiki/docs/game-reflection/enums/uchar/) | type |
+| Vector< [EventTransition](/riftbreaker-wiki/docs/game-reflection/classes/event_transition/) > | transitions |
+| [EntityTemplate](/riftbreaker-wiki/docs/game-reflection/classes/entity_template/) | events |
 

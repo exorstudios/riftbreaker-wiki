@@ -11,6 +11,6 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| Vector< [Pair_StringHash_ResourceValue](/docs/game-reflection/classes/pair__string_hash__resource_value) > | resource |
+|:----------|:--------------|
+| Vector< [Pair_StringHash_ResourceValue](/riftbreaker-wiki/docs/game-reflection/classes/pair__string_hash__resource_value/) > | resource |
 

@@ -11,6 +11,6 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [bool](/docs/game-reflection/components/bool) | in_shadow |
+|:----------|:--------------|
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | in_shadow |
 

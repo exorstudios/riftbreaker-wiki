@@ -11,6 +11,6 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| Vector< [Pair_LuaHandlerKey_LuaEventCallback](/docs/game-reflection/classes/pair__lua_handler_key__lua_event_callback) > | handlers |
+|:----------|:--------------|
+| Vector< [Pair_LuaHandlerKey_LuaEventCallback](/riftbreaker-wiki/docs/game-reflection/classes/pair__lua_handler_key__lua_event_callback/) > | handlers |
 

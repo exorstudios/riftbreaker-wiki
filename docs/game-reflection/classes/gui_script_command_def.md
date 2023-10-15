@@ -11,6 +11,6 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [IdString](/docs/game-reflection/components/id_string) | type |
+|:----------|:--------------|
+| [IdString](/riftbreaker-wiki/docs/game-reflection/components/id_string/) | type |
 

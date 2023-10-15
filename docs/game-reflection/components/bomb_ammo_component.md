@@ -11,12 +11,12 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [uchar](/docs/game-reflection/enums/uchar) | hit_effect_scale |
-| [uint](/docs/game-reflection/components/uint) | creator |
-| [float](/docs/game-reflection/components/float) | explosion_delay |
-| [IdString](/docs/game-reflection/components/id_string) | explosion_effect |
-| [uint](/docs/game-reflection/components/uint) | owner |
-| [ShockWavePattern](/docs/game-reflection/classes/shock_wave_pattern) | ShockWavePattern |
-| [DamagePattern](/docs/game-reflection/classes/damage_pattern) | DamagePattern |
+|:----------|:--------------|
+| [uchar](/riftbreaker-wiki/docs/game-reflection/enums/uchar/) | hit_effect_scale |
+| [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | creator |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | explosion_delay |
+| [IdString](/riftbreaker-wiki/docs/game-reflection/components/id_string/) | explosion_effect |
+| [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | owner |
+| [ShockWavePattern](/riftbreaker-wiki/docs/game-reflection/classes/shock_wave_pattern/) | ShockWavePattern |
+| [DamagePattern](/riftbreaker-wiki/docs/game-reflection/classes/damage_pattern/) | DamagePattern |
 

@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| Vector< [String](/docs/game-reflection/components/string) > | second |
-| [Timer](/docs/game-reflection/classes/timer) | first |
+|:----------|:--------------|
+| Vector< [String](/riftbreaker-wiki/docs/game-reflection/components/string/) > | second |
+| [Timer](/riftbreaker-wiki/docs/game-reflection/classes/timer/) | first |
 

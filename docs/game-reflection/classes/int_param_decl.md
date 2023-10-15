@@ -5,14 +5,14 @@ has_children: false
 parent: Class
 grand_parent: Game Reflection
 ---
-# IntParamDecl( [ ParamDecl ](/docs/game-reflection/classes/param_decl) )
+# IntParamDecl( [ ParamDecl ](/riftbreaker-wiki/docs/game-reflection/classes/param_decl/) )
 Description 
 
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [int](/docs/game-reflection/enums/int) | max |
-| [int](/docs/game-reflection/enums/int) | min |
-| [int](/docs/game-reflection/enums/int) | default |
+|:----------|:--------------|
+| [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | max |
+| [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | min |
+| [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | default |
 

@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [PlayerInfo](/docs/game-reflection/classes/player_info) | value |
-| [uint](/docs/game-reflection/components/uint) | key |
+|:----------|:--------------|
+| [PlayerInfo](/riftbreaker-wiki/docs/game-reflection/classes/player_info/) | value |
+| [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | key |
 

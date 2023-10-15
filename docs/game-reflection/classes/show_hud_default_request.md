@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [String](/docs/game-reflection/components/string) | GuiDef |
-| [String](/docs/game-reflection/components/string) | Id |
+|:----------|:--------------|
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | GuiDef |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | Id |
 

@@ -11,9 +11,9 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [IdString](/docs/game-reflection/components/id_string) | summon_bp |
-| [Vector3](/docs/game-reflection/classes/vector3) | origin |
-| [Entity](/docs/game-reflection/classes/entity) | summoner_entity |
-| [float](/docs/game-reflection/components/float) | timer |
+|:----------|:--------------|
+| [IdString](/riftbreaker-wiki/docs/game-reflection/components/id_string/) | summon_bp |
+| [Vector3](/riftbreaker-wiki/docs/game-reflection/classes/vector3/) | origin |
+| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | summoner_entity |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | timer |
 

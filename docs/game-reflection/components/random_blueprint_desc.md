@@ -11,6 +11,6 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| Vector< [Blueprint](/docs/game-reflection/classes/blueprint) > | Blueprints |
+|:----------|:--------------|
+| Vector< [Blueprint](/riftbreaker-wiki/docs/game-reflection/classes/blueprint/) > | Blueprints |
 

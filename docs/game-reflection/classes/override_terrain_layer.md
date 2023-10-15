@@ -5,12 +5,12 @@ has_children: false
 parent: Class
 grand_parent: Game Reflection
 ---
-# OverrideTerrainLayer( [ CellLayer ](/docs/game-reflection/classes/cell_layer) )
+# OverrideTerrainLayer( [ CellLayer ](/riftbreaker-wiki/docs/game-reflection/classes/cell_layer/) )
 Description 
 
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| Vector< [TerrainTypeHolder](/docs/game-reflection/components/terrain_type_holder) > | terrain_overrides |
+|:----------|:--------------|
+| Vector< [TerrainTypeHolder](/riftbreaker-wiki/docs/game-reflection/components/terrain_type_holder/) > | terrain_overrides |
 

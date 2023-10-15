@@ -11,10 +11,10 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [bool](/docs/game-reflection/components/bool) | is_paused |
-| [float](/docs/game-reflection/components/float) | anim_speed |
-| [String](/docs/game-reflection/components/string) | name |
-| [bool](/docs/game-reflection/components/bool) | is_looped |
-| [float](/docs/game-reflection/components/float) | elapsed_time |
+|:----------|:--------------|
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | is_paused |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | anim_speed |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | name |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | is_looped |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | elapsed_time |
 

@@ -11,9 +11,9 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [uint](/docs/game-reflection/components/uint) | search_to_spawn_radius |
-| [uint](/docs/game-reflection/components/uint) | spawn_rate |
-| Vector< [CreatureVolume](/docs/game-reflection/classes/creature_volume) > | species |
-| [uint](/docs/game-reflection/components/uint) | max_count |
+|:----------|:--------------|
+| [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | search_to_spawn_radius |
+| [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | spawn_rate |
+| Vector< [CreatureVolume](/riftbreaker-wiki/docs/game-reflection/classes/creature_volume/) > | species |
+| [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | max_count |
 

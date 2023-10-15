@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [float](/docs/game-reflection/components/float) | bending_power |
-| [float](/docs/game-reflection/components/float) | bending_radius |
+|:----------|:--------------|
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | bending_power |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | bending_radius |
 

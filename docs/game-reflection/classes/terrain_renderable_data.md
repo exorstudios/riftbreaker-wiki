@@ -11,6 +11,6 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| Vector< [TerrainRenderableRegion](/docs/game-reflection/classes/terrain_renderable_region) > | regions |
+|:----------|:--------------|
+| Vector< [TerrainRenderableRegion](/riftbreaker-wiki/docs/game-reflection/classes/terrain_renderable_region/) > | regions |
 

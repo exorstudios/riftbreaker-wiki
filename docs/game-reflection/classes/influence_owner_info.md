@@ -11,8 +11,8 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [uint](/docs/game-reflection/components/uint) | radius |
-| [float](/docs/game-reflection/components/float) | creation_time_step |
-| [float](/docs/game-reflection/components/float) | remove_time_step |
+|:----------|:--------------|
+| [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | radius |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | creation_time_step |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | remove_time_step |
 

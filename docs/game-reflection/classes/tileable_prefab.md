@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [String](/docs/game-reflection/components/string) | culling_type |
-| [Aabb](/docs/game-reflection/components/aabb) | bounds |
+|:----------|:--------------|
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | culling_type |
+| [Aabb](/riftbreaker-wiki/docs/game-reflection/components/aabb/) | bounds |
 

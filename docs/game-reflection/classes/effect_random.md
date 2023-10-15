@@ -5,12 +5,12 @@ has_children: false
 parent: Class
 grand_parent: Game Reflection
 ---
-# EffectRandom( [ EffectBase ](/docs/game-reflection/classes/effect_base) )
+# EffectRandom( [ EffectBase ](/riftbreaker-wiki/docs/game-reflection/classes/effect_base/) )
 Description 
 
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| Vector< [Effect](/docs/game-reflection/classes/effect) > | Effects |
+|:----------|:--------------|
+| Vector< [Effect](/riftbreaker-wiki/docs/game-reflection/classes/effect/) > | Effects |
 

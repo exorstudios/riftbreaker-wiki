@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [float](/docs/game-reflection/components/float) | keep_height_speed |
-| [float](/docs/game-reflection/components/float) | dynamic_height |
+|:----------|:--------------|
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | keep_height_speed |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | dynamic_height |
 

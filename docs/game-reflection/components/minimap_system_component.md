@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| Vector< [Pair_StringHash_Entity](/docs/game-reflection/classes/pair__string_hash__entity) > | layers |
-| [int](/docs/game-reflection/enums/int) | interferences |
+|:----------|:--------------|
+| Vector< [Pair_StringHash_Entity](/riftbreaker-wiki/docs/game-reflection/classes/pair__string_hash__entity/) > | layers |
+| [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | interferences |
 

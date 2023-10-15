@@ -11,8 +11,8 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [String](/docs/game-reflection/components/string) | name |
-| [String](/docs/game-reflection/components/string) | tooltip_content |
-| [String](/docs/game-reflection/components/string) | icon |
+|:----------|:--------------|
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | name |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | tooltip_content |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | icon |
 

@@ -11,6 +11,6 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| Vector< [float](/docs/game-reflection/components/float) > | crafting_data |
+|:----------|:--------------|
+| Vector< [float](/riftbreaker-wiki/docs/game-reflection/components/float/) > | crafting_data |
 

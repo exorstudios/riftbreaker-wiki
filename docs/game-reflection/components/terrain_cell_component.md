@@ -11,6 +11,6 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [Vector3](/docs/game-reflection/classes/vector3) | origin |
+|:----------|:--------------|
+| [Vector3](/riftbreaker-wiki/docs/game-reflection/classes/vector3/) | origin |
 

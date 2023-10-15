@@ -11,11 +11,11 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [bool](/docs/game-reflection/components/bool) | save_mode |
-| [bool](/docs/game-reflection/components/bool) | main_menu |
-| [bool](/docs/game-reflection/components/bool) | load_available |
-| [String](/docs/game-reflection/components/string) | category_name |
-| [bool](/docs/game-reflection/components/bool) | disable_delete_button |
-| [bool](/docs/game-reflection/components/bool) | campaign_selected |
+|:----------|:--------------|
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | save_mode |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | main_menu |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | load_available |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | category_name |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | disable_delete_button |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | campaign_selected |
 

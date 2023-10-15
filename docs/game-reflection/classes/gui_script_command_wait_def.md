@@ -5,12 +5,12 @@ has_children: false
 parent: Class
 grand_parent: Game Reflection
 ---
-# GuiScriptCommandWaitDef( [ GuiScriptCommandDef ](/docs/game-reflection/classes/gui_script_command_def) )
+# GuiScriptCommandWaitDef( [ GuiScriptCommandDef ](/riftbreaker-wiki/docs/game-reflection/classes/gui_script_command_def/) )
 Description 
 
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [float](/docs/game-reflection/components/float) | seconds |
+|:----------|:--------------|
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | seconds |
 

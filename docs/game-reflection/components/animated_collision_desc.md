@@ -11,8 +11,8 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [uchar](/docs/game-reflection/enums/uchar) | collision_group_id |
-| [String](/docs/game-reflection/components/string) | skeleton_prefix |
-| Vector< [String](/docs/game-reflection/components/string) > | excluded_collisions |
+|:----------|:--------------|
+| [uchar](/riftbreaker-wiki/docs/game-reflection/enums/uchar/) | collision_group_id |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | skeleton_prefix |
+| Vector< [String](/riftbreaker-wiki/docs/game-reflection/components/string/) > | excluded_collisions |
 

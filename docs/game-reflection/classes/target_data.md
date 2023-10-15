@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [float](/docs/game-reflection/components/float) | distance |
-| [IdString](/docs/game-reflection/components/id_string) | tag |
+|:----------|:--------------|
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | distance |
+| [IdString](/riftbreaker-wiki/docs/game-reflection/components/id_string/) | tag |
 

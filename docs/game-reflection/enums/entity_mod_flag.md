@@ -11,7 +11,7 @@ Description
 ## Enum values
 
 | Name | Value |
-|:-------------|:--------------|
+|:----------|:--------------|
 | base | 0 |
 | random | 1 |
 

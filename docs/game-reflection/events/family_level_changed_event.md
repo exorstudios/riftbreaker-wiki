@@ -5,15 +5,15 @@ has_children: false
 parent: Event
 grand_parent: Game Reflection
 ---
-# FamilyLevelChangedEvent( [ EntityEventBase ](/docs/game-reflection/events/entity_event_base) )
+# FamilyLevelChangedEvent( [ EntityEventBase ](/riftbreaker-wiki/docs/game-reflection/events/entity_event_base/) )
 Description 
 
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [String](/docs/game-reflection/components/string) | Subspecies |
-| [String](/docs/game-reflection/components/string) | FamilyName |
-| [uint](/docs/game-reflection/components/uint) | InfoLevel |
-| [Entity](/docs/game-reflection/classes/entity) | Entity |
+|:----------|:--------------|
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | Subspecies |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | FamilyName |
+| [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | InfoLevel |
+| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
 

@@ -11,6 +11,6 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| Vector< [AffectorLambdaDesc](/docs/game-reflection/components/affector_lambda_desc) > | affector_lambda_desc_vec |
+|:----------|:--------------|
+| Vector< [AffectorLambdaDesc](/riftbreaker-wiki/docs/game-reflection/components/affector_lambda_desc/) > | affector_lambda_desc_vec |
 

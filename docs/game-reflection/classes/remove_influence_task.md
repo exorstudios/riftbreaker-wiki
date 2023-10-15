@@ -5,14 +5,14 @@ has_children: false
 parent: Class
 grand_parent: Game Reflection
 ---
-# RemoveInfluenceTask( [ InfluenceTask ](/docs/game-reflection/classes/influence_task) )
+# RemoveInfluenceTask( [ InfluenceTask ](/riftbreaker-wiki/docs/game-reflection/classes/influence_task/) )
 Description 
 
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [bool](/docs/game-reflection/components/bool) | is_initialized |
-| [float](/docs/game-reflection/components/float) | timer |
-| [bool](/docs/game-reflection/components/bool) | is_remover |
+|:----------|:--------------|
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | is_initialized |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | timer |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | is_remover |
 

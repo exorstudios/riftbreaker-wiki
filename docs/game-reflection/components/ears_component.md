@@ -11,8 +11,8 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [bool](/docs/game-reflection/components/bool) | active |
-| [bool](/docs/game-reflection/components/bool) | alwaysForward |
-| [Vector3](/docs/game-reflection/classes/vector3) | lastPos |
+|:----------|:--------------|
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | active |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | alwaysForward |
+| [Vector3](/riftbreaker-wiki/docs/game-reflection/classes/vector3/) | lastPos |
 

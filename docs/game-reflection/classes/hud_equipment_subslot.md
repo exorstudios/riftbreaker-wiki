@@ -11,9 +11,9 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [int](/docs/game-reflection/enums/int) | ammo |
-| [Vector4](/docs/game-reflection/classes/vector4) | color |
-| [String](/docs/game-reflection/components/string) | ammo_string |
-| [String](/docs/game-reflection/components/string) | icon |
+|:----------|:--------------|
+| [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | ammo |
+| [Vector4](/riftbreaker-wiki/docs/game-reflection/classes/vector4/) | color |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | ammo_string |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | icon |
 

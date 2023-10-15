@@ -11,6 +11,6 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| Vector< [StringHash](/docs/game-reflection/classes/string_hash) > | resistances |
+|:----------|:--------------|
+| Vector< [StringHash](/riftbreaker-wiki/docs/game-reflection/classes/string_hash/) > | resistances |
 

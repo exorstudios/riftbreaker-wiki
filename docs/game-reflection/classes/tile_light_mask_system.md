@@ -11,8 +11,8 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [bool](/docs/game-reflection/components/bool) | is_enabled |
-| [Entity](/docs/game-reflection/classes/entity) | camera_ent |
-| [Entity](/docs/game-reflection/classes/entity) | light_ent |
+|:----------|:--------------|
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | is_enabled |
+| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | camera_ent |
+| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | light_ent |
 

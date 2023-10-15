@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [GuiScriptNodeDef](/docs/game-reflection/classes/gui_script_node_def) | script |
-| [IdString](/docs/game-reflection/components/id_string) | event_name |
+|:----------|:--------------|
+| [GuiScriptNodeDef](/riftbreaker-wiki/docs/game-reflection/classes/gui_script_node_def/) | script |
+| [IdString](/riftbreaker-wiki/docs/game-reflection/components/id_string/) | event_name |
 

@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [String](/docs/game-reflection/components/string) | name |
-| [CompositeAction2](/docs/game-reflection/components/composite_action2) | compositeAction |
+|:----------|:--------------|
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | name |
+| [CompositeAction2](/riftbreaker-wiki/docs/game-reflection/components/composite_action2/) | compositeAction |
 

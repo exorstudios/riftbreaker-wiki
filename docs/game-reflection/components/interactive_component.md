@@ -11,13 +11,13 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [bool](/docs/game-reflection/components/bool) | recreate_component |
-| [IdString](/docs/game-reflection/components/id_string) | slot |
-| [float](/docs/game-reflection/components/float) | radius |
-| [bool](/docs/game-reflection/components/bool) | remove_entity |
-| [String](/docs/game-reflection/components/string) | item |
-| [bool](/docs/game-reflection/components/bool) | remove_component |
-| [bool](/docs/game-reflection/components/bool) | enabled |
-| [uint](/docs/game-reflection/components/uint) | item_count |
+|:----------|:--------------|
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | recreate_component |
+| [IdString](/riftbreaker-wiki/docs/game-reflection/components/id_string/) | slot |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | radius |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | remove_entity |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | item |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | remove_component |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | enabled |
+| [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | item_count |
 

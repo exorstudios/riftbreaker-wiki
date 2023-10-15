@@ -11,8 +11,8 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| Vector< [uint](/docs/game-reflection/components/uint) > | player_respawn_queue |
-| Vector< [DestroyRequest](/docs/game-reflection/events/destroy_request) > | pawn_destroy_queue |
-| [bool](/docs/game-reflection/components/bool) | scheduled_respawn |
+|:----------|:--------------|
+| Vector< [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) > | player_respawn_queue |
+| Vector< [DestroyRequest](/riftbreaker-wiki/docs/game-reflection/events/destroy_request/) > | pawn_destroy_queue |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | scheduled_respawn |
 

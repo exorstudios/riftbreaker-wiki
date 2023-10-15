@@ -11,8 +11,8 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [Entity](/docs/game-reflection/classes/entity) | entity |
-| [uchar](/docs/game-reflection/enums/uchar) | type |
-| [uint](/docs/game-reflection/components/uint) | typehash |
+|:----------|:--------------|
+| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | entity |
+| [uchar](/riftbreaker-wiki/docs/game-reflection/enums/uchar/) | type |
+| [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | typehash |
 

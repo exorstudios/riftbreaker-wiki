@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [int](/docs/game-reflection/enums/int) | value |
-| [SubMeshSlotKey](/docs/game-reflection/classes/sub_mesh_slot_key) | key |
+|:----------|:--------------|
+| [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | value |
+| [SubMeshSlotKey](/riftbreaker-wiki/docs/game-reflection/classes/sub_mesh_slot_key/) | key |
 

@@ -11,9 +11,9 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [float](/docs/game-reflection/components/float) | water_level |
-| [float](/docs/game-reflection/components/float) | damping_linear |
-| [bool](/docs/game-reflection/components/bool) | enabled |
-| [float](/docs/game-reflection/components/float) | damping_angular |
+|:----------|:--------------|
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | water_level |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | damping_linear |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | enabled |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | damping_angular |
 

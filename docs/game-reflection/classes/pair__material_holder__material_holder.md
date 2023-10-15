@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [MaterialHolder](/docs/game-reflection/components/material_holder) | value |
-| [MaterialHolder](/docs/game-reflection/components/material_holder) | key |
+|:----------|:--------------|
+| [MaterialHolder](/riftbreaker-wiki/docs/game-reflection/components/material_holder/) | value |
+| [MaterialHolder](/riftbreaker-wiki/docs/game-reflection/components/material_holder/) | key |
 

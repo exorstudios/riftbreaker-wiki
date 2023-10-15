@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [float](/docs/game-reflection/components/float) | value |
-| [GameplayResourceDefHolder](/docs/game-reflection/components/gameplay_resource_def_holder) | key |
+|:----------|:--------------|
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | value |
+| [GameplayResourceDefHolder](/riftbreaker-wiki/docs/game-reflection/components/gameplay_resource_def_holder/) | key |
 

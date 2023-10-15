@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| Vector< [ContainerLootGroupItem](/docs/game-reflection/classes/container_loot_group_item) > | items |
-| [uchar](/docs/game-reflection/enums/uchar) | rarity |
+|:----------|:--------------|
+| Vector< [ContainerLootGroupItem](/riftbreaker-wiki/docs/game-reflection/classes/container_loot_group_item/) > | items |
+| [uchar](/riftbreaker-wiki/docs/game-reflection/enums/uchar/) | rarity |
 

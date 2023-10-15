@@ -11,8 +11,8 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [float](/docs/game-reflection/components/float) | fire_columns |
-| [float](/docs/game-reflection/components/float) | fire_rate |
-| [float](/docs/game-reflection/components/float) | fire_rows |
+|:----------|:--------------|
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | fire_columns |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | fire_rate |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | fire_rows |
 

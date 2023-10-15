@@ -11,6 +11,6 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| Vector< [EffectBase](/docs/game-reflection/components/effect_base) > | Effects |
+|:----------|:--------------|
+| Vector< [EffectBase](/riftbreaker-wiki/docs/game-reflection/components/effect_base/) > | Effects |
 

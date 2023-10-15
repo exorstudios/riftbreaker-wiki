@@ -11,9 +11,9 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [float](/docs/game-reflection/components/float) | max_health |
-| [float](/docs/game-reflection/components/float) | health |
-| [int](/docs/game-reflection/enums/int) | status |
-| [uint](/docs/game-reflection/components/uint) | immortal_counter |
+|:----------|:--------------|
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | max_health |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | health |
+| [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | status |
+| [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | immortal_counter |
 

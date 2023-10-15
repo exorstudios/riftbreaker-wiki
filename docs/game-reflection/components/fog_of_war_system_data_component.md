@@ -11,6 +11,6 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| Vector< [Pair_Entity_Pair_Vector3float](/docs/game-reflection/classes/pair__entity__pair__vector3float) > | persistant_ents |
+|:----------|:--------------|
+| Vector< [Pair_Entity_Pair_Vector3float](/riftbreaker-wiki/docs/game-reflection/classes/pair__entity__pair__vector3float/) > | persistant_ents |
 

@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [Entity](/docs/game-reflection/classes/entity) | entity |
-| [int](/docs/game-reflection/enums/int) | counter |
+|:----------|:--------------|
+| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | entity |
+| [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | counter |
 

@@ -5,16 +5,16 @@ has_children: false
 parent: Class
 grand_parent: Game Reflection
 ---
-# BoxPrimitive( [ Primitive ](/docs/game-reflection/classes/primitive) )
+# BoxPrimitive( [ Primitive ](/riftbreaker-wiki/docs/game-reflection/classes/primitive/) )
 Description 
 
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [Vector4](/docs/game-reflection/classes/vector4) | lineColor |
-| [Quaternion](/docs/game-reflection/classes/quaternion) | orient |
-| [Vector3](/docs/game-reflection/classes/vector3) | position |
-| [Vector4](/docs/game-reflection/classes/vector4) | solidColor |
-| [Vector3](/docs/game-reflection/classes/vector3) | extent |
+|:----------|:--------------|
+| [Vector4](/riftbreaker-wiki/docs/game-reflection/classes/vector4/) | lineColor |
+| [Quaternion](/riftbreaker-wiki/docs/game-reflection/classes/quaternion/) | orient |
+| [Vector3](/riftbreaker-wiki/docs/game-reflection/classes/vector3/) | position |
+| [Vector4](/riftbreaker-wiki/docs/game-reflection/classes/vector4/) | solidColor |
+| [Vector3](/riftbreaker-wiki/docs/game-reflection/classes/vector3/) | extent |
 

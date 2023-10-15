@@ -11,6 +11,6 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [LuaScriptHolder](/docs/game-reflection/components/lua_script_holder) | script |
+|:----------|:--------------|
+| [LuaScriptHolder](/riftbreaker-wiki/docs/game-reflection/components/lua_script_holder/) | script |
 

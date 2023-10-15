@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| Vector< [Entity](/docs/game-reflection/classes/entity) > | trigger_entity_vec |
-| [bool](/docs/game-reflection/components/bool) | trigger_status |
+|:----------|:--------------|
+| Vector< [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) > | trigger_entity_vec |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | trigger_status |
 

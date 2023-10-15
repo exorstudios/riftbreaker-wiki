@@ -11,6 +11,6 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| Vector< [ItemStat](/docs/game-reflection/classes/item_stat) > | stats |
+|:----------|:--------------|
+| Vector< [ItemStat](/riftbreaker-wiki/docs/game-reflection/classes/item_stat/) > | stats |
 

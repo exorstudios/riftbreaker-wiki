@@ -11,10 +11,10 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [bool](/docs/game-reflection/components/bool) | is_discovered |
-| [bool](/docs/game-reflection/components/bool) | auto_reveal |
-| [Database](/docs/game-reflection/components/database) | database |
-| [int](/docs/game-reflection/enums/int) | lvl |
-| [String](/docs/game-reflection/components/string) | bp |
+|:----------|:--------------|
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | is_discovered |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | auto_reveal |
+| [Database](/riftbreaker-wiki/docs/game-reflection/components/database/) | database |
+| [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | lvl |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | bp |
 

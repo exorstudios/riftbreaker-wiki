@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| Vector< [StringHash](/docs/game-reflection/classes/string_hash) > | value |
-| [String](/docs/game-reflection/components/string) | key |
+|:----------|:--------------|
+| Vector< [StringHash](/riftbreaker-wiki/docs/game-reflection/classes/string_hash/) > | value |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | key |
 

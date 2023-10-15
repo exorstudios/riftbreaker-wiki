@@ -11,8 +11,8 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [bool](/docs/game-reflection/components/bool) | warning |
-| [String](/docs/game-reflection/components/string) | warning_content |
-| [String](/docs/game-reflection/components/string) | augments_header |
+|:----------|:--------------|
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | warning |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | warning_content |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | augments_header |
 

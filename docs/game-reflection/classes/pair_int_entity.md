@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [Entity](/docs/game-reflection/classes/entity) | second |
-| [int](/docs/game-reflection/enums/int) | first |
+|:----------|:--------------|
+| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | second |
+| [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | first |
 

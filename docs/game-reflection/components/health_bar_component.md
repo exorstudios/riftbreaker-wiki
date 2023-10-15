@@ -11,18 +11,18 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [String](/docs/game-reflection/components/string) | material |
-| [int](/docs/game-reflection/enums/int) | mode |
-| [float](/docs/game-reflection/components/float) | last_health |
-| Vector< [float](/docs/game-reflection/components/float) > | data |
-| [String](/docs/game-reflection/components/string) | shield_material |
-| [float](/docs/game-reflection/components/float) | last_shield |
-| [int](/docs/game-reflection/enums/int) | type |
-| [Entity](/docs/game-reflection/classes/entity) | shield_ent |
-| [float](/docs/game-reflection/components/float) | last_shield_damage_timer |
-| [float](/docs/game-reflection/components/float) | last_damage_timer |
-| Vector< [float](/docs/game-reflection/components/float) > | shield_data |
-| [IdString](/docs/game-reflection/components/id_string) | attachment |
-| [Entity](/docs/game-reflection/classes/entity) | healthbar_ent |
+|:----------|:--------------|
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | material |
+| [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | mode |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | last_health |
+| Vector< [float](/riftbreaker-wiki/docs/game-reflection/components/float/) > | data |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | shield_material |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | last_shield |
+| [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | type |
+| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | shield_ent |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | last_shield_damage_timer |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | last_damage_timer |
+| Vector< [float](/riftbreaker-wiki/docs/game-reflection/components/float/) > | shield_data |
+| [IdString](/riftbreaker-wiki/docs/game-reflection/components/id_string/) | attachment |
+| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | healthbar_ent |
 

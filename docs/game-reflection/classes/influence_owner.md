@@ -11,10 +11,10 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [Entity](/docs/game-reflection/classes/entity) | entity |
-| [int](/docs/game-reflection/enums/int) | radius |
-| [int](/docs/game-reflection/enums/int) | max_radius |
-| [int](/docs/game-reflection/enums/int) | energy_radius |
-| [int](/docs/game-reflection/enums/int) | emissive_radius |
+|:----------|:--------------|
+| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | entity |
+| [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | radius |
+| [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | max_radius |
+| [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | energy_radius |
+| [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | emissive_radius |
 

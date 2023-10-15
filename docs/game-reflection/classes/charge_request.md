@@ -11,11 +11,11 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [float](/docs/game-reflection/components/float) | time_end |
-| [uchar](/docs/game-reflection/enums/uchar) | state |
-| [float](/docs/game-reflection/components/float) | time_start |
-| Vector< [Entity](/docs/game-reflection/classes/entity) > | charging_entities |
-| [uint](/docs/game-reflection/components/uint) | charge_idx |
-| [float](/docs/game-reflection/components/float) | charge_time |
+|:----------|:--------------|
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | time_end |
+| [uchar](/riftbreaker-wiki/docs/game-reflection/enums/uchar/) | state |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | time_start |
+| Vector< [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) > | charging_entities |
+| [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | charge_idx |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | charge_time |
 

@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [StateDef2](/docs/game-reflection/components/state_def2) | value |
-| [StateDefId](/docs/game-reflection/classes/state_def_id) | key |
+|:----------|:--------------|
+| [StateDef2](/riftbreaker-wiki/docs/game-reflection/components/state_def2/) | value |
+| [StateDefId](/riftbreaker-wiki/docs/game-reflection/classes/state_def_id/) | key |
 

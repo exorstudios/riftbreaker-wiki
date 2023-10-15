@@ -11,6 +11,6 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [WeaponModData](/docs/game-reflection/classes/weapon_mod_data) | mod_data |
+|:----------|:--------------|
+| [WeaponModData](/riftbreaker-wiki/docs/game-reflection/classes/weapon_mod_data/) | mod_data |
 

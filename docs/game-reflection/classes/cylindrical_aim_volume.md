@@ -5,14 +5,14 @@ has_children: false
 parent: Class
 grand_parent: Game Reflection
 ---
-# CylindricalAimVolume( [ AimVolume ](/docs/game-reflection/classes/aim_volume) )
+# CylindricalAimVolume( [ AimVolume ](/riftbreaker-wiki/docs/game-reflection/classes/aim_volume/) )
 Description 
 
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [float](/docs/game-reflection/components/float) | range_max |
-| [float](/docs/game-reflection/components/float) | aiming_range |
-| [float](/docs/game-reflection/components/float) | range_min |
+|:----------|:--------------|
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | range_max |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | aiming_range |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | range_min |
 

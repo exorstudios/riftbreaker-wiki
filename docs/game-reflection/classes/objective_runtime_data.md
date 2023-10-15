@@ -11,8 +11,8 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| Vector< [Pair_uint_ObjectiveScript](/docs/game-reflection/classes/pair_uint__objective_script) > | objective_scripts |
-| [World1](/docs/game-reflection/components/world1) | world |
-| Vector< [uint](/docs/game-reflection/components/uint) > | to_remove |
+|:----------|:--------------|
+| Vector< [Pair_uint_ObjectiveScript](/riftbreaker-wiki/docs/game-reflection/classes/pair_uint__objective_script/) > | objective_scripts |
+| [World1](/riftbreaker-wiki/docs/game-reflection/components/world1/) | world |
+| Vector< [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) > | to_remove |
 

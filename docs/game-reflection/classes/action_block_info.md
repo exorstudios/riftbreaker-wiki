@@ -11,8 +11,8 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [String](/docs/game-reflection/components/string) | mapper |
-| [bool](/docs/game-reflection/components/bool) | status |
-| [String](/docs/game-reflection/components/string) | action |
+|:----------|:--------------|
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | mapper |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | status |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | action |
 

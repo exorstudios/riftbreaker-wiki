@@ -11,11 +11,11 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [IdString](/docs/game-reflection/components/id_string) | weather_sound |
-| [int](/docs/game-reflection/enums/int) | time_of_day |
-| [IdString](/docs/game-reflection/components/id_string) | weather_haptic |
-| [IdString](/docs/game-reflection/components/id_string) | weather_effect |
-| [IdString](/docs/game-reflection/components/id_string) | weather_wind |
-| [int](/docs/game-reflection/enums/int) | weather_type |
+|:----------|:--------------|
+| [IdString](/riftbreaker-wiki/docs/game-reflection/components/id_string/) | weather_sound |
+| [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | time_of_day |
+| [IdString](/riftbreaker-wiki/docs/game-reflection/components/id_string/) | weather_haptic |
+| [IdString](/riftbreaker-wiki/docs/game-reflection/components/id_string/) | weather_effect |
+| [IdString](/riftbreaker-wiki/docs/game-reflection/components/id_string/) | weather_wind |
+| [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | weather_type |
 

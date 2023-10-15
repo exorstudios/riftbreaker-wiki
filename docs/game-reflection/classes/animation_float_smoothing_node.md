@@ -5,12 +5,12 @@ has_children: false
 parent: Class
 grand_parent: Game Reflection
 ---
-# AnimationFloatSmoothingNode( [ AnimationEvalNode ](/docs/game-reflection/classes/animation_eval_node) )
+# AnimationFloatSmoothingNode( [ AnimationEvalNode ](/riftbreaker-wiki/docs/game-reflection/classes/animation_eval_node/) )
 Description 
 
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [float](/docs/game-reflection/components/float) | smoothing |
+|:----------|:--------------|
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | smoothing |
 

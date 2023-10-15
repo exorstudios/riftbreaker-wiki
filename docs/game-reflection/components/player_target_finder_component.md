@@ -11,9 +11,9 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [float](/docs/game-reflection/components/float) | in_radius |
-| [bool](/docs/game-reflection/components/bool) | random_timer_at_start |
-| [Timer](/docs/game-reflection/classes/timer) | timer |
-| [IdString](/docs/game-reflection/components/id_string) | tag |
+|:----------|:--------------|
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | in_radius |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | random_timer_at_start |
+| [Timer](/riftbreaker-wiki/docs/game-reflection/classes/timer/) | timer |
+| [IdString](/riftbreaker-wiki/docs/game-reflection/components/id_string/) | tag |
 

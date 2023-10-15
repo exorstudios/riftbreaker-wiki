@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [Entity](/docs/game-reflection/classes/entity) | entity |
-| [Vector3](/docs/game-reflection/classes/vector3) | position |
+|:----------|:--------------|
+| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | entity |
+| [Vector3](/riftbreaker-wiki/docs/game-reflection/classes/vector3/) | position |
 

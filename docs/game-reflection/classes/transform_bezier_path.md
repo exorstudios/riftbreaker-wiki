@@ -11,6 +11,6 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| Vector< [TransformBezierCurve](/docs/game-reflection/classes/transform_bezier_curve) > | curves |
+|:----------|:--------------|
+| Vector< [TransformBezierCurve](/riftbreaker-wiki/docs/game-reflection/classes/transform_bezier_curve/) > | curves |
 

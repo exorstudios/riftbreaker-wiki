@@ -11,12 +11,12 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [bool](/docs/game-reflection/components/bool) | one_vein_mode |
-| Vector< [GameplayResource](/docs/game-reflection/classes/gameplay_resource) > | in |
-| [float](/docs/game-reflection/components/float) | reset_interval |
-| [uint](/docs/game-reflection/components/uint) | priority |
-| Vector< [GameplayResource](/docs/game-reflection/classes/gameplay_resource) > | out |
-| [ushort](/docs/game-reflection/enums/ushort) | effectiveness |
-| [float](/docs/game-reflection/components/float) | update_interval |
+|:----------|:--------------|
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | one_vein_mode |
+| Vector< [GameplayResource](/riftbreaker-wiki/docs/game-reflection/classes/gameplay_resource/) > | in |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | reset_interval |
+| [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | priority |
+| Vector< [GameplayResource](/riftbreaker-wiki/docs/game-reflection/classes/gameplay_resource/) > | out |
+| [ushort](/riftbreaker-wiki/docs/game-reflection/enums/ushort/) | effectiveness |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | update_interval |
 

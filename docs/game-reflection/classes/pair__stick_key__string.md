@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [String](/docs/game-reflection/components/string) | value |
-| [StickKey](/docs/game-reflection/classes/stick_key) | key |
+|:----------|:--------------|
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | value |
+| [StickKey](/riftbreaker-wiki/docs/game-reflection/classes/stick_key/) | key |
 

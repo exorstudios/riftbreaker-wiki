@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [Entity](/docs/game-reflection/classes/entity) | entity |
-| [String](/docs/game-reflection/components/string) | component_name |
+|:----------|:--------------|
+| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | entity |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | component_name |
 

@@ -11,9 +11,9 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [float](/docs/game-reflection/components/float) | end |
-| [Vector4](/docs/game-reflection/classes/vector4) | color |
-| [float](/docs/game-reflection/components/float) | start |
-| [float](/docs/game-reflection/components/float) | density |
+|:----------|:--------------|
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | end |
+| [Vector4](/riftbreaker-wiki/docs/game-reflection/classes/vector4/) | color |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | start |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | density |
 

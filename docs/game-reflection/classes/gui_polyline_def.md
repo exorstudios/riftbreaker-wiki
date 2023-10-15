@@ -5,13 +5,13 @@ has_children: false
 parent: Class
 grand_parent: Game Reflection
 ---
-# GuiPolylineDef( [ GuiImageDef ](/docs/game-reflection/classes/gui_image_def) )
+# GuiPolylineDef( [ GuiImageDef ](/riftbreaker-wiki/docs/game-reflection/classes/gui_image_def/) )
 Description 
 
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [bool](/docs/game-reflection/components/bool) | texture_strech |
-| [GuiPolylineDefAbstract](/docs/game-reflection/classes/gui_polyline_def_abstract) | polyline |
+|:----------|:--------------|
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | texture_strech |
+| [GuiPolylineDefAbstract](/riftbreaker-wiki/docs/game-reflection/classes/gui_polyline_def_abstract/) | polyline |
 

@@ -11,11 +11,11 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [float](/docs/game-reflection/components/float) | drop_increase |
-| [float](/docs/game-reflection/components/float) | damage_increase |
-| [uint](/docs/game-reflection/components/uint) | level |
-| [uint64](/docs/game-reflection/components/uint64) | samples |
-| [ushort](/docs/game-reflection/enums/ushort) | display |
-| Vector< [String](/docs/game-reflection/components/string) > | global_unlock |
+|:----------|:--------------|
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | drop_increase |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | damage_increase |
+| [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | level |
+| [uint64](/riftbreaker-wiki/docs/game-reflection/components/uint64/) | samples |
+| [ushort](/riftbreaker-wiki/docs/game-reflection/enums/ushort/) | display |
+| Vector< [String](/riftbreaker-wiki/docs/game-reflection/components/string/) > | global_unlock |
 

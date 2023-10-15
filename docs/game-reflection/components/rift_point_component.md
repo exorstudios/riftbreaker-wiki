@@ -11,9 +11,9 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [String](/docs/game-reflection/components/string) | name |
-| [bool](/docs/game-reflection/components/bool) | active |
-| [String](/docs/game-reflection/components/string) | type |
-| [int](/docs/game-reflection/enums/int) | use_count |
+|:----------|:--------------|
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | name |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | active |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | type |
+| [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | use_count |
 

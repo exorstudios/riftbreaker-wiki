@@ -11,6 +11,6 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| Vector< [TargetFinderRequest](/docs/game-reflection/classes/target_finder_request) > | target_finder_request_vec |
+|:----------|:--------------|
+| Vector< [TargetFinderRequest](/riftbreaker-wiki/docs/game-reflection/classes/target_finder_request/) > | target_finder_request_vec |
 

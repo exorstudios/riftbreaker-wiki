@@ -5,12 +5,12 @@ has_children: false
 parent: Class
 grand_parent: Game Reflection
 ---
-# TeamTriggerFilter( [ TriggerFilter ](/docs/game-reflection/classes/trigger_filter) )
+# TeamTriggerFilter( [ TriggerFilter ](/riftbreaker-wiki/docs/game-reflection/classes/trigger_filter/) )
 Description 
 
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [uint](/docs/game-reflection/components/uint) | team |
+|:----------|:--------------|
+| [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | team |
 

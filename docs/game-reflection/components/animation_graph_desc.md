@@ -11,8 +11,8 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [IdString](/docs/game-reflection/components/id_string) | animation_graph_name |
-| [AnimationGraphInstanceDesc](/docs/game-reflection/components/animation_graph_instance_desc) | instance_desc |
-| [IdString](/docs/game-reflection/components/id_string) | group_name |
+|:----------|:--------------|
+| [IdString](/riftbreaker-wiki/docs/game-reflection/components/id_string/) | animation_graph_name |
+| [AnimationGraphInstanceDesc](/riftbreaker-wiki/docs/game-reflection/components/animation_graph_instance_desc/) | instance_desc |
+| [IdString](/riftbreaker-wiki/docs/game-reflection/components/id_string/) | group_name |
 

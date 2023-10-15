@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [String](/docs/game-reflection/components/string) | sking_blueprint |
-| [int](/docs/game-reflection/enums/int) | ping |
+|:----------|:--------------|
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | sking_blueprint |
+| [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | ping |
 

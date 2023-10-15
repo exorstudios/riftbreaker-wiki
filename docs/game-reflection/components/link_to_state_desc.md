@@ -11,6 +11,6 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [StateDefId](/docs/game-reflection/classes/state_def_id) | state_hash |
+|:----------|:--------------|
+| [StateDefId](/riftbreaker-wiki/docs/game-reflection/classes/state_def_id/) | state_hash |
 

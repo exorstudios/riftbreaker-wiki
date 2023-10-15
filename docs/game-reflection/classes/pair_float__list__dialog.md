@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| Vector< [Dialog](/docs/game-reflection/classes/dialog) > | value |
-| [float](/docs/game-reflection/components/float) | key |
+|:----------|:--------------|
+| Vector< [Dialog](/riftbreaker-wiki/docs/game-reflection/classes/dialog/) > | value |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | key |
 

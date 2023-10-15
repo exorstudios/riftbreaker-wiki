@@ -11,6 +11,6 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [uchar](/docs/game-reflection/enums/uchar) | CurrentDevice |
+|:----------|:--------------|
+| [uchar](/riftbreaker-wiki/docs/game-reflection/enums/uchar/) | CurrentDevice |
 

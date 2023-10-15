@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| Vector< [IdString](/docs/game-reflection/components/id_string) > | value |
-| [uint](/docs/game-reflection/components/uint) | key |
+|:----------|:--------------|
+| Vector< [IdString](/riftbreaker-wiki/docs/game-reflection/components/id_string/) > | value |
+| [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | key |
 

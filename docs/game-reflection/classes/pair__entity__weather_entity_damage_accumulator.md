@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [WeatherEntityDamageAccumulator](/docs/game-reflection/classes/weather_entity_damage_accumulator) | value |
-| [Entity](/docs/game-reflection/classes/entity) | key |
+|:----------|:--------------|
+| [WeatherEntityDamageAccumulator](/riftbreaker-wiki/docs/game-reflection/classes/weather_entity_damage_accumulator/) | value |
+| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | key |
 

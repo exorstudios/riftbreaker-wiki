@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [ushort](/docs/game-reflection/enums/ushort) | v |
-| [ushort](/docs/game-reflection/enums/ushort) | u |
+|:----------|:--------------|
+| [ushort](/riftbreaker-wiki/docs/game-reflection/enums/ushort/) | v |
+| [ushort](/riftbreaker-wiki/docs/game-reflection/enums/ushort/) | u |
 

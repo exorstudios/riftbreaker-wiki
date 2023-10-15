@@ -11,11 +11,11 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [float](/docs/game-reflection/components/float) | event_threshold |
-| [float](/docs/game-reflection/components/float) | deacceleration |
-| [float](/docs/game-reflection/components/float) | acceleration |
-| [float](/docs/game-reflection/components/float) | max_speed |
-| [String](/docs/game-reflection/components/string) | tag |
-| [float](/docs/game-reflection/components/float) | current_speed |
+|:----------|:--------------|
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | event_threshold |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | deacceleration |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | acceleration |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | max_speed |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | tag |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | current_speed |
 

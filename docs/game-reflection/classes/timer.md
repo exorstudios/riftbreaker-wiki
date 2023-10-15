@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [float](/docs/game-reflection/components/float) | timeLimit |
-| [float](/docs/game-reflection/components/float) | timePassed |
+|:----------|:--------------|
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | timeLimit |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | timePassed |
 

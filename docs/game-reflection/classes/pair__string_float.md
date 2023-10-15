@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [float](/docs/game-reflection/components/float) | value |
-| [String](/docs/game-reflection/components/string) | key |
+|:----------|:--------------|
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | value |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | key |
 

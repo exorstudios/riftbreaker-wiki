@@ -11,10 +11,10 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [String](/docs/game-reflection/components/string) | name |
-| [String](/docs/game-reflection/components/string) | objective_icon |
-| [String](/docs/game-reflection/components/string) | blueprint |
-| [Vector4](/docs/game-reflection/classes/vector4) | color |
-| [String](/docs/game-reflection/components/string) | minimap_icon |
+|:----------|:--------------|
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | name |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | objective_icon |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | blueprint |
+| [Vector4](/riftbreaker-wiki/docs/game-reflection/classes/vector4/) | color |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | minimap_icon |
 

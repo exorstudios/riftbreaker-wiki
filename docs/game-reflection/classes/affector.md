@@ -11,6 +11,6 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [AffectorLambda4](/docs/game-reflection/components/affector_lambda4) | lambda |
+|:----------|:--------------|
+| [AffectorLambda4](/riftbreaker-wiki/docs/game-reflection/components/affector_lambda4/) | lambda |
 

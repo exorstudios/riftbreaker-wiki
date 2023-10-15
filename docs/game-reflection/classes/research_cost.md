@@ -11,8 +11,8 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [float](/docs/game-reflection/components/float) | amount |
-| [String](/docs/game-reflection/components/string) | resource |
-| [float](/docs/game-reflection/components/float) | count |
+|:----------|:--------------|
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | amount |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | resource |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | count |
 

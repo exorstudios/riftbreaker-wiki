@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [uint](/docs/game-reflection/components/uint) | type |
-| [float](/docs/game-reflection/components/float) | time |
+|:----------|:--------------|
+| [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | type |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | time |
 

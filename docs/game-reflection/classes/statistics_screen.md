@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [String](/docs/game-reflection/components/string) | top_header |
-| [bool](/docs/game-reflection/components/bool) | empty_stats |
+|:----------|:--------------|
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | top_header |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | empty_stats |
 

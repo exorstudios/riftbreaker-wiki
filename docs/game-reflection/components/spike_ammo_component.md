@@ -11,15 +11,15 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [float](/docs/game-reflection/components/float) | spike_damage_delay |
-| [float](/docs/game-reflection/components/float) | search_range |
-| [uint](/docs/game-reflection/components/uint) | creator |
-| [IdString](/docs/game-reflection/components/id_string) | spike_effect |
-| [float](/docs/game-reflection/components/float) | spike_range |
-| [uint64](/docs/game-reflection/components/uint64) | type_mask |
-| [uint](/docs/game-reflection/components/uint) | spike_count |
-| [uint](/docs/game-reflection/components/uint) | owner |
-| [float](/docs/game-reflection/components/float) | spike_speed |
-| [DamagePattern](/docs/game-reflection/classes/damage_pattern) | DamagePattern |
+|:----------|:--------------|
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | spike_damage_delay |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | search_range |
+| [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | creator |
+| [IdString](/riftbreaker-wiki/docs/game-reflection/components/id_string/) | spike_effect |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | spike_range |
+| [uint64](/riftbreaker-wiki/docs/game-reflection/components/uint64/) | type_mask |
+| [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | spike_count |
+| [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | owner |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | spike_speed |
+| [DamagePattern](/riftbreaker-wiki/docs/game-reflection/classes/damage_pattern/) | DamagePattern |
 

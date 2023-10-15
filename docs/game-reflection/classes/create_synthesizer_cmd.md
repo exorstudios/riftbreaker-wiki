@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [IdString](/docs/game-reflection/components/id_string) | sound |
-| [AudioBufferCallbackAbstract2](/docs/game-reflection/components/audio_buffer_callback_abstract2) | buffer_callback |
+|:----------|:--------------|
+| [IdString](/riftbreaker-wiki/docs/game-reflection/components/id_string/) | sound |
+| [AudioBufferCallbackAbstract2](/riftbreaker-wiki/docs/game-reflection/components/audio_buffer_callback_abstract2/) | buffer_callback |
 

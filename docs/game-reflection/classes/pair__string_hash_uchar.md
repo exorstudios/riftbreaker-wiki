@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [uchar](/docs/game-reflection/enums/uchar) | value |
-| [StringHash](/docs/game-reflection/classes/string_hash) | key |
+|:----------|:--------------|
+| [uchar](/riftbreaker-wiki/docs/game-reflection/enums/uchar/) | value |
+| [StringHash](/riftbreaker-wiki/docs/game-reflection/classes/string_hash/) | key |
 

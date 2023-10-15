@@ -11,8 +11,8 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [String](/docs/game-reflection/components/string) | ScreenName |
-| [int](/docs/game-reflection/enums/int) | WorldType |
-| [bool](/docs/game-reflection/components/bool) | InGame |
+|:----------|:--------------|
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | ScreenName |
+| [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | WorldType |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | InGame |
 

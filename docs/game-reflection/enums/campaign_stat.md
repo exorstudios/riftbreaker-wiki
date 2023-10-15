@@ -11,7 +11,7 @@ Description
 ## Enum values
 
 | Name | Value |
-|:-------------|:--------------|
+|:----------|:--------------|
 | PlaytimeElapsed | 0 |
 | ResourceProduced | 1 |
 | ResourceConsumed | 2 |

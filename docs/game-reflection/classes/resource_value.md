@@ -11,6 +11,6 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [int64](/docs/game-reflection/components/int64) | value |
+|:----------|:--------------|
+| [int64](/riftbreaker-wiki/docs/game-reflection/components/int64/) | value |
 

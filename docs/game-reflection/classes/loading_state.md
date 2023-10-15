@@ -11,9 +11,9 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [String](/docs/game-reflection/components/string) | material |
-| [String](/docs/game-reflection/components/string) | tips |
-| [bool](/docs/game-reflection/components/bool) | top_visible |
-| [bool](/docs/game-reflection/components/bool) | fade_in |
+|:----------|:--------------|
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | material |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | tips |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | top_visible |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | fade_in |
 

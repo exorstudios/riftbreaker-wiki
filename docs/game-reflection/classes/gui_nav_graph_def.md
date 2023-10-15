@@ -11,8 +11,8 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [String](/docs/game-reflection/components/string) | default_node |
-| [EdgeMap](/docs/game-reflection/classes/edge_map) | edges |
-| Vector< [GuiNavNodeDef](/docs/game-reflection/classes/gui_nav_node_def) > | nodes |
+|:----------|:--------------|
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | default_node |
+| [EdgeMap](/riftbreaker-wiki/docs/game-reflection/classes/edge_map/) | edges |
+| Vector< [GuiNavNodeDef](/riftbreaker-wiki/docs/game-reflection/classes/gui_nav_node_def/) > | nodes |
 

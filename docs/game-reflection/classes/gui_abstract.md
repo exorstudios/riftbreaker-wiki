@@ -11,8 +11,8 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [uchar](/docs/game-reflection/enums/uchar) | size_mode_x |
-| [uchar](/docs/game-reflection/enums/uchar) | size_mode_y |
-| [uchar](/docs/game-reflection/enums/uchar) | interpolation_mode |
+|:----------|:--------------|
+| [uchar](/riftbreaker-wiki/docs/game-reflection/enums/uchar/) | size_mode_x |
+| [uchar](/riftbreaker-wiki/docs/game-reflection/enums/uchar/) | size_mode_y |
+| [uchar](/riftbreaker-wiki/docs/game-reflection/enums/uchar/) | interpolation_mode |
 

@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [float](/docs/game-reflection/components/float) | update_frequency |
-| [uchar](/docs/game-reflection/enums/uchar) | priority |
+|:----------|:--------------|
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | update_frequency |
+| [uchar](/riftbreaker-wiki/docs/game-reflection/enums/uchar/) | priority |
 

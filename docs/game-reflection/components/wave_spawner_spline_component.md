@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [int](/docs/game-reflection/enums/int) | path_mode |
-| [TransformBezierPath](/docs/game-reflection/classes/transform_bezier_path) | bezier_path |
+|:----------|:--------------|
+| [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | path_mode |
+| [TransformBezierPath](/riftbreaker-wiki/docs/game-reflection/classes/transform_bezier_path/) | bezier_path |
 

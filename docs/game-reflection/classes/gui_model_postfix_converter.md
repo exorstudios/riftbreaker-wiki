@@ -5,13 +5,13 @@ has_children: false
 parent: Class
 grand_parent: Game Reflection
 ---
-# GuiModelPostfixConverter( [ GuiModelConverter ](/docs/game-reflection/classes/gui_model_converter) )
+# GuiModelPostfixConverter( [ GuiModelConverter ](/riftbreaker-wiki/docs/game-reflection/classes/gui_model_converter/) )
 Description 
 
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [String](/docs/game-reflection/components/string) | postfix |
-| [String](/docs/game-reflection/components/string) | prefix |
+|:----------|:--------------|
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | postfix |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | prefix |
 

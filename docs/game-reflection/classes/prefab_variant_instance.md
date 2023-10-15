@@ -11,8 +11,8 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [Transform](/docs/game-reflection/classes/transform) | transform |
-| [IdString](/docs/game-reflection/components/id_string) | variant |
-| [ResourceHandle_TileablePrefab](/docs/game-reflection/components/resource_handle__tileable_prefab) | prefab |
+|:----------|:--------------|
+| [Transform](/riftbreaker-wiki/docs/game-reflection/classes/transform/) | transform |
+| [IdString](/riftbreaker-wiki/docs/game-reflection/components/id_string/) | variant |
+| [ResourceHandle_TileablePrefab](/riftbreaker-wiki/docs/game-reflection/components/resource_handle__tileable_prefab/) | prefab |
 

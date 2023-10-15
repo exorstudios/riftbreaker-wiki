@@ -11,6 +11,6 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [EntityCommandBuffer4](/docs/game-reflection/components/entity_command_buffer4) | command_buffer |
+|:----------|:--------------|
+| [EntityCommandBuffer4](/riftbreaker-wiki/docs/game-reflection/components/entity_command_buffer4/) | command_buffer |
 

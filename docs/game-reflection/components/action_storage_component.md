@@ -11,11 +11,11 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [bool](/docs/game-reflection/components/bool) | build_mode_blocked |
-| [Vector2](/docs/game-reflection/classes/vector2) | last_cursor_pos |
-| [Vector3](/docs/game-reflection/classes/vector3) | point |
-| [float](/docs/game-reflection/components/float) | last_up_down |
-| [float](/docs/game-reflection/components/float) | last_left_right |
-| [Vector3](/docs/game-reflection/classes/vector3) | last_dir |
+|:----------|:--------------|
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | build_mode_blocked |
+| [Vector2](/riftbreaker-wiki/docs/game-reflection/classes/vector2/) | last_cursor_pos |
+| [Vector3](/riftbreaker-wiki/docs/game-reflection/classes/vector3/) | point |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | last_up_down |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | last_left_right |
+| [Vector3](/riftbreaker-wiki/docs/game-reflection/classes/vector3/) | last_dir |
 

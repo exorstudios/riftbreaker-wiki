@@ -11,14 +11,14 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [bool](/docs/game-reflection/components/bool) | footstep_effect |
-| [uint](/docs/game-reflection/components/uint) | last_terrain_cell |
-| [uint64](/docs/game-reflection/components/uint64) | last_terrain_hash |
-| [String](/docs/game-reflection/components/string) | name |
-| [bool](/docs/game-reflection/components/bool) | map_interference |
-| Vector< [Entity](/docs/game-reflection/classes/entity) > | triggers |
-| Vector< [TerrainTypeHolder](/docs/game-reflection/components/terrain_type_holder) > | terrain |
-| [Entity](/docs/game-reflection/classes/entity) | last_terrain_cell_entity |
-| [bool](/docs/game-reflection/components/bool) | origin_mode |
+|:----------|:--------------|
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | footstep_effect |
+| [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | last_terrain_cell |
+| [uint64](/riftbreaker-wiki/docs/game-reflection/components/uint64/) | last_terrain_hash |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | name |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | map_interference |
+| Vector< [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) > | triggers |
+| Vector< [TerrainTypeHolder](/riftbreaker-wiki/docs/game-reflection/components/terrain_type_holder/) > | terrain |
+| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | last_terrain_cell_entity |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | origin_mode |
 

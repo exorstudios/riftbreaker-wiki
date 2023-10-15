@@ -11,9 +11,9 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| Vector< [Pair_String_String](/docs/game-reflection/classes/pair__string__string) > | up |
-| Vector< [Pair_String_String](/docs/game-reflection/classes/pair__string__string) > | right |
-| Vector< [Pair_String_String](/docs/game-reflection/classes/pair__string__string) > | down |
-| Vector< [Pair_String_String](/docs/game-reflection/classes/pair__string__string) > | left |
+|:----------|:--------------|
+| Vector< [Pair_String_String](/riftbreaker-wiki/docs/game-reflection/classes/pair__string__string/) > | up |
+| Vector< [Pair_String_String](/riftbreaker-wiki/docs/game-reflection/classes/pair__string__string/) > | right |
+| Vector< [Pair_String_String](/riftbreaker-wiki/docs/game-reflection/classes/pair__string__string/) > | down |
+| Vector< [Pair_String_String](/riftbreaker-wiki/docs/game-reflection/classes/pair__string__string/) > | left |
 

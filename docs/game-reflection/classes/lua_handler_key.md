@@ -11,8 +11,8 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [uint](/docs/game-reflection/components/uint) | event |
-| [StringHash](/docs/game-reflection/classes/string_hash) | callback |
-| [uint](/docs/game-reflection/components/uint) | target |
+|:----------|:--------------|
+| [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | event |
+| [StringHash](/riftbreaker-wiki/docs/game-reflection/classes/string_hash/) | callback |
+| [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | target |
 

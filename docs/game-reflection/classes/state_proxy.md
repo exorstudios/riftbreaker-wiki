@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [State1](/docs/game-reflection/components/state1) | state |
-| [uint](/docs/game-reflection/components/uint) | id |
+|:----------|:--------------|
+| [State1](/riftbreaker-wiki/docs/game-reflection/components/state1/) | state |
+| [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | id |
 

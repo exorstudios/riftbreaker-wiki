@@ -11,6 +11,6 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [RenderableCustomParameters](/docs/game-reflection/components/renderable_custom_parameters) | renderable_custom_parameters |
+|:----------|:--------------|
+| [RenderableCustomParameters](/riftbreaker-wiki/docs/game-reflection/components/renderable_custom_parameters/) | renderable_custom_parameters |
 

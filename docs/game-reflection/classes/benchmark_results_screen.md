@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [String](/docs/game-reflection/components/string) | benchmark_name |
-| [String](/docs/game-reflection/components/string) | loading_time |
+|:----------|:--------------|
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | benchmark_name |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | loading_time |
 

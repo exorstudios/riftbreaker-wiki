@@ -5,13 +5,13 @@ has_children: false
 parent: Class
 grand_parent: Game Reflection
 ---
-# BehaviourNode( [ FlowGraphNode ](/docs/game-reflection/classes/flow_graph_node) )
+# BehaviourNode( [ FlowGraphNode ](/riftbreaker-wiki/docs/game-reflection/classes/flow_graph_node/) )
 Description 
 
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [Entity](/docs/game-reflection/classes/entity) | entity |
-| [bool](/docs/game-reflection/components/bool) | initialized |
+|:----------|:--------------|
+| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | entity |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | initialized |
 

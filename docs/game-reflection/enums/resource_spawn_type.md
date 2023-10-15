@@ -11,7 +11,7 @@ Description
 ## Enum values
 
 | Name | Value |
-|:-------------|:--------------|
+|:----------|:--------------|
 |  | 0 |
 | deposit | 1 |
 | liquid_volume | 2 |

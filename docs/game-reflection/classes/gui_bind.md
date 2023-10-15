@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [String](/docs/game-reflection/components/string) | model_field |
-| [GuiModelConverter2](/docs/game-reflection/components/gui_model_converter2) | converter |
+|:----------|:--------------|
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | model_field |
+| [GuiModelConverter2](/riftbreaker-wiki/docs/game-reflection/components/gui_model_converter2/) | converter |
 

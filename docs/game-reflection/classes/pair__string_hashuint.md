@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [uint](/docs/game-reflection/components/uint) | second |
-| [StringHash](/docs/game-reflection/classes/string_hash) | first |
+|:----------|:--------------|
+| [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | second |
+| [StringHash](/riftbreaker-wiki/docs/game-reflection/classes/string_hash/) | first |
 

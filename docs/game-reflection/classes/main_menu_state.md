@@ -11,8 +11,8 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| Vector< [MainMenuButtonInfo](/docs/game-reflection/classes/main_menu_button_info) > | items |
-| [String](/docs/game-reflection/components/string) | title |
-| [String](/docs/game-reflection/components/string) | name |
+|:----------|:--------------|
+| Vector< [MainMenuButtonInfo](/riftbreaker-wiki/docs/game-reflection/classes/main_menu_button_info/) > | items |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | title |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | name |
 

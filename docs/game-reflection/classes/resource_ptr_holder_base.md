@@ -11,6 +11,6 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [Resource2](/docs/game-reflection/components/resource2) | resource |
+|:----------|:--------------|
+| [Resource2](/riftbreaker-wiki/docs/game-reflection/components/resource2/) | resource |
 

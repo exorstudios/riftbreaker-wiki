@@ -11,9 +11,9 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [Entity](/docs/game-reflection/classes/entity) | entity |
-| [String](/docs/game-reflection/components/string) | component_name |
-| [TypeAny](/docs/game-reflection/components/type_any) | component |
-| [ushort](/docs/game-reflection/enums/ushort) | component_version |
+|:----------|:--------------|
+| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | entity |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | component_name |
+| [TypeAny](/riftbreaker-wiki/docs/game-reflection/components/type_any/) | component |
+| [ushort](/riftbreaker-wiki/docs/game-reflection/enums/ushort/) | component_version |
 

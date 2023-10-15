@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [int64](/docs/game-reflection/components/int64) | value |
-| [StringHash](/docs/game-reflection/classes/string_hash) | key |
+|:----------|:--------------|
+| [int64](/riftbreaker-wiki/docs/game-reflection/components/int64/) | value |
+| [StringHash](/riftbreaker-wiki/docs/game-reflection/classes/string_hash/) | key |
 

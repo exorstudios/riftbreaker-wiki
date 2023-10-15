@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| Vector< [QueueDialogRequest](/docs/game-reflection/classes/queue_dialog_request) > | value |
-| [float](/docs/game-reflection/components/float) | key |
+|:----------|:--------------|
+| Vector< [QueueDialogRequest](/riftbreaker-wiki/docs/game-reflection/classes/queue_dialog_request/) > | value |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | key |
 

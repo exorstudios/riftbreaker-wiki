@@ -11,6 +11,6 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| Vector< [RibbonBezierCurve](/docs/game-reflection/classes/ribbon_bezier_curve) > | curves |
+|:----------|:--------------|
+| Vector< [RibbonBezierCurve](/riftbreaker-wiki/docs/game-reflection/classes/ribbon_bezier_curve/) > | curves |
 

@@ -11,7 +11,7 @@ Description
 ## Enum values
 
 | Name | Value |
-|:-------------|:--------------|
+|:----------|:--------------|
 |  | 0 |
 | build_menu | 2 |
 | never | 3 |

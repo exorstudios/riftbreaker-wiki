@@ -11,7 +11,7 @@ Description
 ## Enum values
 
 | Name | Value |
-|:-------------|:--------------|
+|:----------|:--------------|
 | IMAGE | 1 |
 | NAME | 2 |
 | DESCRIPTION | 4 |

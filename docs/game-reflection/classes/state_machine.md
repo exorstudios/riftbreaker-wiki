@@ -11,10 +11,10 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| Vector< [Pair_uint_State4](/docs/game-reflection/classes/pair_uint__state4) > | states |
-| [uint](/docs/game-reflection/components/uint) | current_state |
-| [StateProxy](/docs/game-reflection/classes/state_proxy) | exit_state |
-| [StateProxy](/docs/game-reflection/classes/state_proxy) | enter_state |
-| [StateProxy](/docs/game-reflection/classes/state_proxy) | execute_state |
+|:----------|:--------------|
+| Vector< [Pair_uint_State4](/riftbreaker-wiki/docs/game-reflection/classes/pair_uint__state4/) > | states |
+| [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | current_state |
+| [StateProxy](/riftbreaker-wiki/docs/game-reflection/classes/state_proxy/) | exit_state |
+| [StateProxy](/riftbreaker-wiki/docs/game-reflection/classes/state_proxy/) | enter_state |
+| [StateProxy](/riftbreaker-wiki/docs/game-reflection/classes/state_proxy/) | execute_state |
 

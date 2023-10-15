@@ -11,12 +11,12 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [Timer](/docs/game-reflection/classes/timer) | cooldown |
-| [float](/docs/game-reflection/components/float) | regeneration |
-| [Entity](/docs/game-reflection/classes/entity) | regeneration_ent |
-| [float](/docs/game-reflection/components/float) | regeneration_cooldown |
-| [float](/docs/game-reflection/components/float) | regeneration_timer |
-| [IdString](/docs/game-reflection/components/id_string) | regeneration_end_effect |
-| [IdString](/docs/game-reflection/components/id_string) | regeneration_effect |
+|:----------|:--------------|
+| [Timer](/riftbreaker-wiki/docs/game-reflection/classes/timer/) | cooldown |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | regeneration |
+| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | regeneration_ent |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | regeneration_cooldown |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | regeneration_timer |
+| [IdString](/riftbreaker-wiki/docs/game-reflection/components/id_string/) | regeneration_end_effect |
+| [IdString](/riftbreaker-wiki/docs/game-reflection/components/id_string/) | regeneration_effect |
 

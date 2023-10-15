@@ -11,10 +11,10 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| Vector< [float](/docs/game-reflection/components/float) > | threshold_vec |
-| [Vector3](/docs/game-reflection/classes/vector3) | prev_pos |
-| [float](/docs/game-reflection/components/float) | avg_speed |
-| [uint](/docs/game-reflection/components/uint) | tier |
-| [bool](/docs/game-reflection/components/bool) | idle_audible |
+|:----------|:--------------|
+| Vector< [float](/riftbreaker-wiki/docs/game-reflection/components/float/) > | threshold_vec |
+| [Vector3](/riftbreaker-wiki/docs/game-reflection/classes/vector3/) | prev_pos |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | avg_speed |
+| [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | tier |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | idle_audible |
 

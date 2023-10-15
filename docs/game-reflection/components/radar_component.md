@@ -11,8 +11,8 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [float](/docs/game-reflection/components/float) | radius |
-| Vector< [Entity](/docs/game-reflection/classes/entity) > | marked_cells |
-| [Vector3](/docs/game-reflection/classes/vector3) | marked_position |
+|:----------|:--------------|
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | radius |
+| Vector< [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) > | marked_cells |
+| [Vector3](/riftbreaker-wiki/docs/game-reflection/classes/vector3/) | marked_position |
 

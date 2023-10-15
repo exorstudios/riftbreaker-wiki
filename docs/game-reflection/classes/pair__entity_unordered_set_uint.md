@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| Vector< [uint](/docs/game-reflection/components/uint) > | second |
-| [Entity](/docs/game-reflection/classes/entity) | first |
+|:----------|:--------------|
+| Vector< [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) > | second |
+| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | first |
 

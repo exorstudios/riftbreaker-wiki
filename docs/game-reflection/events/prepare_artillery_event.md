@@ -5,15 +5,15 @@ has_children: false
 parent: Event
 grand_parent: Game Reflection
 ---
-# PrepareArtilleryEvent( [ EntityEventBase ](/docs/game-reflection/events/entity_event_base) )
+# PrepareArtilleryEvent( [ EntityEventBase ](/riftbreaker-wiki/docs/game-reflection/events/entity_event_base/) )
 Description 
 
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [String](/docs/game-reflection/components/string) | PrepareBlueprint |
-| [float](/docs/game-reflection/components/float) | GrowSpeed |
-| [Entity](/docs/game-reflection/classes/entity) | Entity |
-| [String](/docs/game-reflection/components/string) | ShootBlueprint |
+|:----------|:--------------|
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | PrepareBlueprint |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | GrowSpeed |
+| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | ShootBlueprint |
 

@@ -5,13 +5,13 @@ has_children: false
 parent: Class
 grand_parent: Game Reflection
 ---
-# ConditionalParamDecl( [ ParamDecl ](/docs/game-reflection/classes/param_decl) )
+# ConditionalParamDecl( [ ParamDecl ](/riftbreaker-wiki/docs/game-reflection/classes/param_decl/) )
 Description 
 
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [AnimationTransitionCondition4](/docs/game-reflection/components/animation_transition_condition4) | condition |
-| [bool](/docs/game-reflection/components/bool) | default |
+|:----------|:--------------|
+| [AnimationTransitionCondition4](/riftbreaker-wiki/docs/game-reflection/components/animation_transition_condition4/) | condition |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | default |
 

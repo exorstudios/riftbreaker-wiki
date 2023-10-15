@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [TeamId](/docs/game-reflection/classes/team_id) | value |
-| [StringHash](/docs/game-reflection/classes/string_hash) | key |
+|:----------|:--------------|
+| [TeamId](/riftbreaker-wiki/docs/game-reflection/classes/team_id/) | value |
+| [StringHash](/riftbreaker-wiki/docs/game-reflection/classes/string_hash/) | key |
 

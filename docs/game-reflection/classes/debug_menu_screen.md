@@ -11,10 +11,10 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [bool](/docs/game-reflection/components/bool) | has_actions_queued |
-| Vector< [DebugSpawnUnit](/docs/game-reflection/classes/debug_spawn_unit) > | units |
-| [bool](/docs/game-reflection/components/bool) | has_units_queued |
-| Vector< [DebugAction](/docs/game-reflection/classes/debug_action) > | queued_actions |
-| Vector< [DebugSpawnEvent](/docs/game-reflection/classes/debug_spawn_event) > | events |
+|:----------|:--------------|
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | has_actions_queued |
+| Vector< [DebugSpawnUnit](/riftbreaker-wiki/docs/game-reflection/classes/debug_spawn_unit/) > | units |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | has_units_queued |
+| Vector< [DebugAction](/riftbreaker-wiki/docs/game-reflection/classes/debug_action/) > | queued_actions |
+| Vector< [DebugSpawnEvent](/riftbreaker-wiki/docs/game-reflection/classes/debug_spawn_event/) > | events |
 

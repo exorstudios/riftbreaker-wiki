@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [PTree](/docs/game-reflection/classes/p_tree) | second |
-| [String](/docs/game-reflection/components/string) | first |
+|:----------|:--------------|
+| [PTree](/riftbreaker-wiki/docs/game-reflection/classes/p_tree/) | second |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | first |
 

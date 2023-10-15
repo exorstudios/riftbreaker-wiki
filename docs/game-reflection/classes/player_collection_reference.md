@@ -11,6 +11,6 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [PlayerCollection1](/docs/game-reflection/components/player_collection1) | player_collection |
+|:----------|:--------------|
+| [PlayerCollection1](/riftbreaker-wiki/docs/game-reflection/components/player_collection1/) | player_collection |
 

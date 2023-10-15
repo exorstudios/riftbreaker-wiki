@@ -5,16 +5,16 @@ has_children: false
 parent: Class
 grand_parent: Game Reflection
 ---
-# LightFadeInOutAffector( [ AffectorLambda ](/docs/game-reflection/classes/affector_lambda) )
+# LightFadeInOutAffector( [ AffectorLambda ](/riftbreaker-wiki/docs/game-reflection/classes/affector_lambda/) )
 Description 
 
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [float](/docs/game-reflection/components/float) | fade_in_start |
-| [float](/docs/game-reflection/components/float) | fade_out_end |
-| [float](/docs/game-reflection/components/float) | fade_out_start |
-| [float](/docs/game-reflection/components/float) | timer |
-| [float](/docs/game-reflection/components/float) | fade_in_end |
+|:----------|:--------------|
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | fade_in_start |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | fade_out_end |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | fade_out_start |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | timer |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | fade_in_end |
 

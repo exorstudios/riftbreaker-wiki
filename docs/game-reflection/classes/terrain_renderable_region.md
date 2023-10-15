@@ -11,9 +11,9 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [IdString](/docs/game-reflection/components/id_string) | material |
-| [bool](/docs/game-reflection/components/bool) | cullable |
-| Vector< [TerrainVertexData](/docs/game-reflection/classes/terrain_vertex_data) > | vertices |
-| Vector< [ushort](/docs/game-reflection/enums/ushort) > | indices |
+|:----------|:--------------|
+| [IdString](/riftbreaker-wiki/docs/game-reflection/components/id_string/) | material |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | cullable |
+| Vector< [TerrainVertexData](/riftbreaker-wiki/docs/game-reflection/classes/terrain_vertex_data/) > | vertices |
+| Vector< [ushort](/riftbreaker-wiki/docs/game-reflection/enums/ushort/) > | indices |
 

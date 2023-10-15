@@ -11,6 +11,6 @@ Description
 ## Enum values
 
 | Name | Value |
-|:-------------|:--------------|
+|:----------|:--------------|
 | EMPTY_TEAM | 0 |
 

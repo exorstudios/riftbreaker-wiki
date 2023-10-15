@@ -11,6 +11,6 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [Database](/docs/game-reflection/components/database) | database |
+|:----------|:--------------|
+| [Database](/riftbreaker-wiki/docs/game-reflection/components/database/) | database |
 

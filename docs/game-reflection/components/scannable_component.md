@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [float](/docs/game-reflection/components/float) | scanning_progress |
-| [bool](/docs/game-reflection/components/bool) | is_scan_in_progress |
+|:----------|:--------------|
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | scanning_progress |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | is_scan_in_progress |
 

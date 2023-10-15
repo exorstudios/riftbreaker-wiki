@@ -11,8 +11,8 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [uint](/docs/game-reflection/components/uint) | mode |
-| [Vector3](/docs/game-reflection/classes/vector3) | pos |
-| [uint](/docs/game-reflection/components/uint) | radar_mode |
+|:----------|:--------------|
+| [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | mode |
+| [Vector3](/riftbreaker-wiki/docs/game-reflection/classes/vector3/) | pos |
+| [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | radar_mode |
 

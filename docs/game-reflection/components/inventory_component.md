@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [Inventory4](/docs/game-reflection/components/inventory4) | inventory |
-| [Entity](/docs/game-reflection/classes/entity) | reference_entity |
+|:----------|:--------------|
+| [Inventory4](/riftbreaker-wiki/docs/game-reflection/components/inventory4/) | inventory |
+| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | reference_entity |
 

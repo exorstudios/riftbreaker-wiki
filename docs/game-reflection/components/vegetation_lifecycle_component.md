@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [int](/docs/game-reflection/enums/int) | chain_update_treshold |
-| [bool](/docs/game-reflection/components/bool) | destroy_on_update |
+|:----------|:--------------|
+| [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | chain_update_treshold |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | destroy_on_update |
 

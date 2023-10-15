@@ -11,21 +11,21 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [uint64](/docs/game-reflection/components/uint64) | gate_id |
-| [uchar](/docs/game-reflection/enums/uchar) | direction |
-| [bool](/docs/game-reflection/components/bool) | recheck |
-| Vector< [uint](/docs/game-reflection/components/uint) > | idx |
-| [bool](/docs/game-reflection/components/bool) | clear |
-| [GameplayResourceDefHolder](/docs/game-reflection/components/gameplay_resource_def_holder) | resource |
-| [bool](/docs/game-reflection/components/bool) | mark_to_remove |
-| [bool](/docs/game-reflection/components/bool) | optional |
-| Vector< [Entity](/docs/game-reflection/classes/entity) > | idx_ents |
-| [bool](/docs/game-reflection/components/bool) | empty |
-| Vector< [Entity](/docs/game-reflection/classes/entity) > | traverse_clear |
-| [bool](/docs/game-reflection/components/bool) | enabled |
-| [Entity](/docs/game-reflection/classes/entity) | owner |
-| Vector< [Entity](/docs/game-reflection/classes/entity) > | traverse |
-| [uint64](/docs/game-reflection/components/uint64) | connection_id |
-| [ResourceAccount](/docs/game-reflection/classes/resource_account) | account |
+|:----------|:--------------|
+| [uint64](/riftbreaker-wiki/docs/game-reflection/components/uint64/) | gate_id |
+| [uchar](/riftbreaker-wiki/docs/game-reflection/enums/uchar/) | direction |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | recheck |
+| Vector< [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) > | idx |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | clear |
+| [GameplayResourceDefHolder](/riftbreaker-wiki/docs/game-reflection/components/gameplay_resource_def_holder/) | resource |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | mark_to_remove |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | optional |
+| Vector< [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) > | idx_ents |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | empty |
+| Vector< [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) > | traverse_clear |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | enabled |
+| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | owner |
+| Vector< [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) > | traverse |
+| [uint64](/riftbreaker-wiki/docs/game-reflection/components/uint64/) | connection_id |
+| [ResourceAccount](/riftbreaker-wiki/docs/game-reflection/classes/resource_account/) | account |
 

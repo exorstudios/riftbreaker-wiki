@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [InfluenceOwnerInfo](/docs/game-reflection/classes/influence_owner_info) | value |
-| [Entity](/docs/game-reflection/classes/entity) | key |
+|:----------|:--------------|
+| [InfluenceOwnerInfo](/riftbreaker-wiki/docs/game-reflection/classes/influence_owner_info/) | value |
+| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | key |
 

@@ -11,8 +11,8 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [int](/docs/game-reflection/enums/int) | type |
-| [Timer](/docs/game-reflection/classes/timer) | time |
-| [float](/docs/game-reflection/components/float) | dissolveTime |
+|:----------|:--------------|
+| [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | type |
+| [Timer](/riftbreaker-wiki/docs/game-reflection/classes/timer/) | time |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | dissolveTime |
 

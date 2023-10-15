@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| Vector< [String](/docs/game-reflection/components/string) > | saves |
-| [CampaignId](/docs/game-reflection/classes/campaign_id) | campaign_id |
+|:----------|:--------------|
+| Vector< [String](/riftbreaker-wiki/docs/game-reflection/components/string/) > | saves |
+| [CampaignId](/riftbreaker-wiki/docs/game-reflection/classes/campaign_id/) | campaign_id |
 

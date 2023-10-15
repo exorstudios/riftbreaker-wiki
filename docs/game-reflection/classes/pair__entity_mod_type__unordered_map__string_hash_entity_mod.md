@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| Vector< [Pair_StringHash_EntityMod](/docs/game-reflection/classes/pair__string_hash__entity_mod) > | value |
-| [int](/docs/game-reflection/enums/int) | key |
+|:----------|:--------------|
+| Vector< [Pair_StringHash_EntityMod](/riftbreaker-wiki/docs/game-reflection/classes/pair__string_hash__entity_mod/) > | value |
+| [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | key |
 

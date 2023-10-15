@@ -11,6 +11,6 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [SimpleMovement4](/docs/game-reflection/components/simple_movement4) | movement |
+|:----------|:--------------|
+| [SimpleMovement4](/riftbreaker-wiki/docs/game-reflection/components/simple_movement4/) | movement |
 

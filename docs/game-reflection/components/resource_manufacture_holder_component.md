@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [GameplayResourceDefHolder](/docs/game-reflection/components/gameplay_resource_def_holder) | resource |
-| [bool](/docs/game-reflection/components/bool) | checked |
+|:----------|:--------------|
+| [GameplayResourceDefHolder](/riftbreaker-wiki/docs/game-reflection/components/gameplay_resource_def_holder/) | resource |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | checked |
 

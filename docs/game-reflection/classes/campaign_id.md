@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [String](/docs/game-reflection/components/string) | campaign_name |
-| [uint](/docs/game-reflection/components/uint) | timestamp |
+|:----------|:--------------|
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | campaign_name |
+| [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | timestamp |
 

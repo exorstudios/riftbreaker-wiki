@@ -5,12 +5,12 @@ has_children: false
 parent: Class
 grand_parent: Game Reflection
 ---
-# AnimationConstFloatNode( [ AnimationEvalNode ](/docs/game-reflection/classes/animation_eval_node) )
+# AnimationConstFloatNode( [ AnimationEvalNode ](/riftbreaker-wiki/docs/game-reflection/classes/animation_eval_node/) )
 Description 
 
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [float](/docs/game-reflection/components/float) | const_value |
+|:----------|:--------------|
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | const_value |
 

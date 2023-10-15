@@ -11,13 +11,13 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [Vector4](/docs/game-reflection/classes/vector4) | color |
-| [float](/docs/game-reflection/components/float) | rotation |
-| [uint](/docs/game-reflection/components/uint) | texture_number |
-| [int](/docs/game-reflection/enums/int) | loop |
-| [Vector2](/docs/game-reflection/classes/vector2) | scale |
-| [ushort](/docs/game-reflection/enums/ushort) | mask |
-| [uint](/docs/game-reflection/components/uint) | frame_number |
-| [Vector2](/docs/game-reflection/classes/vector2) | offset |
+|:----------|:--------------|
+| [Vector4](/riftbreaker-wiki/docs/game-reflection/classes/vector4/) | color |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | rotation |
+| [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | texture_number |
+| [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | loop |
+| [Vector2](/riftbreaker-wiki/docs/game-reflection/classes/vector2/) | scale |
+| [ushort](/riftbreaker-wiki/docs/game-reflection/enums/ushort/) | mask |
+| [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | frame_number |
+| [Vector2](/riftbreaker-wiki/docs/game-reflection/classes/vector2/) | offset |
 

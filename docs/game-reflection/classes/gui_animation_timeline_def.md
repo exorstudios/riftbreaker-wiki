@@ -11,6 +11,6 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| Vector< [GuiAnimationDef](/docs/game-reflection/classes/gui_animation_def) > | items |
+|:----------|:--------------|
+| Vector< [GuiAnimationDef](/riftbreaker-wiki/docs/game-reflection/classes/gui_animation_def/) > | items |
 

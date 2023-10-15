@@ -11,9 +11,9 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [int](/docs/game-reflection/enums/int) | direction |
-| [float](/docs/game-reflection/components/float) | inital_timer |
-| [float](/docs/game-reflection/components/float) | value |
-| [LogicTimer](/docs/game-reflection/classes/logic_timer) | timer |
+|:----------|:--------------|
+| [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | direction |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | inital_timer |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | value |
+| [LogicTimer](/riftbreaker-wiki/docs/game-reflection/classes/logic_timer/) | timer |
 

@@ -11,8 +11,8 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [float](/docs/game-reflection/components/float) | Time |
-| [String](/docs/game-reflection/components/string) | GuiDef |
-| [String](/docs/game-reflection/components/string) | Id |
+|:----------|:--------------|
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | Time |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | GuiDef |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | Id |
 

@@ -11,8 +11,8 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [Database](/docs/game-reflection/components/database) | db |
-| [int](/docs/game-reflection/enums/int) | type |
-| [int64](/docs/game-reflection/components/int64) | time_stamp |
+|:----------|:--------------|
+| [Database](/riftbreaker-wiki/docs/game-reflection/components/database/) | db |
+| [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | type |
+| [int64](/riftbreaker-wiki/docs/game-reflection/components/int64/) | time_stamp |
 

@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [float](/docs/game-reflection/components/float) | Duration |
-| [Color](/docs/game-reflection/classes/color) | Color |
+|:----------|:--------------|
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | Duration |
+| [Color](/riftbreaker-wiki/docs/game-reflection/classes/color/) | Color |
 

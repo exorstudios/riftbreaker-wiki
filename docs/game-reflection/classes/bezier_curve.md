@@ -11,9 +11,9 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [Vector3](/docs/game-reflection/classes/vector3) | start_handle |
-| [Vector3](/docs/game-reflection/classes/vector3) | start_point |
-| [Vector3](/docs/game-reflection/classes/vector3) | end_handle |
-| [Vector3](/docs/game-reflection/classes/vector3) | end_point |
+|:----------|:--------------|
+| [Vector3](/riftbreaker-wiki/docs/game-reflection/classes/vector3/) | start_handle |
+| [Vector3](/riftbreaker-wiki/docs/game-reflection/classes/vector3/) | start_point |
+| [Vector3](/riftbreaker-wiki/docs/game-reflection/classes/vector3/) | end_handle |
+| [Vector3](/riftbreaker-wiki/docs/game-reflection/classes/vector3/) | end_point |
 

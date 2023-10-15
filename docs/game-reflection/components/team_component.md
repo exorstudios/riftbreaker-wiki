@@ -11,6 +11,6 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [TeamId](/docs/game-reflection/classes/team_id) | team |
+|:----------|:--------------|
+| [TeamId](/riftbreaker-wiki/docs/game-reflection/classes/team_id/) | team |
 

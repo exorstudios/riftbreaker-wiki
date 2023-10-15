@@ -11,7 +11,7 @@ Description
 ## Enum values
 
 | Name | Value |
-|:-------------|:--------------|
+|:----------|:--------------|
 | PF_UNKNOWN | 0 |
 | PF_L8 | 1 |
 | PF_L16 | 2 |

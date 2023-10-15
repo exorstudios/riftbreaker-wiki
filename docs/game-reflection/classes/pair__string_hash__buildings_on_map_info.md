@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [BuildingsOnMapInfo](/docs/game-reflection/classes/buildings_on_map_info) | value |
-| [StringHash](/docs/game-reflection/classes/string_hash) | key |
+|:----------|:--------------|
+| [BuildingsOnMapInfo](/riftbreaker-wiki/docs/game-reflection/classes/buildings_on_map_info/) | value |
+| [StringHash](/riftbreaker-wiki/docs/game-reflection/classes/string_hash/) | key |
 

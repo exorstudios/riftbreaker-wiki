@@ -11,6 +11,6 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [SpatialNode1](/docs/game-reflection/components/spatial_node1) | node |
+|:----------|:--------------|
+| [SpatialNode1](/riftbreaker-wiki/docs/game-reflection/components/spatial_node1/) | node |
 

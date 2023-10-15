@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [bool](/docs/game-reflection/components/bool) | initialized |
-| Vector< [FlameBox](/docs/game-reflection/classes/flame_box) > | flame_boxes |
+|:----------|:--------------|
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | initialized |
+| Vector< [FlameBox](/riftbreaker-wiki/docs/game-reflection/classes/flame_box/) > | flame_boxes |
 

@@ -5,15 +5,15 @@ has_children: false
 parent: Event
 grand_parent: Game Reflection
 ---
-# PlayerChatEvent( [ EntityEventBase ](/docs/game-reflection/events/entity_event_base) )
+# PlayerChatEvent( [ EntityEventBase ](/riftbreaker-wiki/docs/game-reflection/events/entity_event_base/) )
 Description 
 
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [String](/docs/game-reflection/components/string) | Message |
-| [uint64](/docs/game-reflection/components/uint64) | Timestamp |
-| [String](/docs/game-reflection/components/string) | Player |
-| [Entity](/docs/game-reflection/classes/entity) | Entity |
+|:----------|:--------------|
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | Message |
+| [uint64](/riftbreaker-wiki/docs/game-reflection/components/uint64/) | Timestamp |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | Player |
+| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
 

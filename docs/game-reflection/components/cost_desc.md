@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [bool](/docs/game-reflection/components/bool) | is_unique |
-| Vector< [ResearchCost](/docs/game-reflection/classes/research_cost) > | account |
+|:----------|:--------------|
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | is_unique |
+| Vector< [ResearchCost](/riftbreaker-wiki/docs/game-reflection/classes/research_cost/) > | account |
 

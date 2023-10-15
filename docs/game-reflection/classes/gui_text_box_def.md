@@ -5,12 +5,12 @@ has_children: false
 parent: Class
 grand_parent: Game Reflection
 ---
-# GuiTextBoxDef( [ GuiTextLineDef ](/docs/game-reflection/classes/gui_text_line_def) )
+# GuiTextBoxDef( [ GuiTextLineDef ](/riftbreaker-wiki/docs/game-reflection/classes/gui_text_line_def/) )
 Description 
 
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [Vector2](/docs/game-reflection/classes/vector2) | max_size |
+|:----------|:--------------|
+| [Vector2](/riftbreaker-wiki/docs/game-reflection/classes/vector2/) | max_size |
 

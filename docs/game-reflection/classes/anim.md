@@ -11,9 +11,9 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [float](/docs/game-reflection/components/float) | animFactor |
-| [bool](/docs/game-reflection/components/bool) | animLoop |
-| [float](/docs/game-reflection/components/float) | animTime |
-| [String](/docs/game-reflection/components/string) | animName |
+|:----------|:--------------|
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | animFactor |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | animLoop |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | animTime |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | animName |
 

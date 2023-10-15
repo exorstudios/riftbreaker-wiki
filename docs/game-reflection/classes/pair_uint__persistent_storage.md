@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [PersistentStorage](/docs/game-reflection/classes/persistent_storage) | value |
-| [uint](/docs/game-reflection/components/uint) | key |
+|:----------|:--------------|
+| [PersistentStorage](/riftbreaker-wiki/docs/game-reflection/classes/persistent_storage/) | value |
+| [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | key |
 

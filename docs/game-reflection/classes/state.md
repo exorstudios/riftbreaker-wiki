@@ -11,8 +11,8 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [String](/docs/game-reflection/components/string) | name |
-| [uint](/docs/game-reflection/components/uint) | id |
-| [int](/docs/game-reflection/enums/int) | status |
+|:----------|:--------------|
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | name |
+| [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | id |
+| [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | status |
 

@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [String](/docs/game-reflection/components/string) | label |
-| [String](/docs/game-reflection/components/string) | timer_string |
+|:----------|:--------------|
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | label |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | timer_string |
 

@@ -11,9 +11,9 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [ResourceAccount](/docs/game-reflection/classes/resource_account) | connection_account |
-| Vector< [uint](/docs/game-reflection/components/uint) > | indexes |
-| Vector< [uint64](/docs/game-reflection/components/uint64) > | inputs |
-| Vector< [uint64](/docs/game-reflection/components/uint64) > | outputs |
+|:----------|:--------------|
+| [ResourceAccount](/riftbreaker-wiki/docs/game-reflection/classes/resource_account/) | connection_account |
+| Vector< [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) > | indexes |
+| Vector< [uint64](/riftbreaker-wiki/docs/game-reflection/components/uint64/) > | inputs |
+| Vector< [uint64](/riftbreaker-wiki/docs/game-reflection/components/uint64/) > | outputs |
 

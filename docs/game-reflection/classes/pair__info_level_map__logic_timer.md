@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [LogicTimer](/docs/game-reflection/classes/logic_timer) | value |
-| [InfoLevelMap](/docs/game-reflection/classes/info_level_map) | key |
+|:----------|:--------------|
+| [LogicTimer](/riftbreaker-wiki/docs/game-reflection/classes/logic_timer/) | value |
+| [InfoLevelMap](/riftbreaker-wiki/docs/game-reflection/classes/info_level_map/) | key |
 

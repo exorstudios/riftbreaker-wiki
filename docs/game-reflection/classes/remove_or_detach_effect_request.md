@@ -11,9 +11,9 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [Entity](/docs/game-reflection/classes/entity) | parent |
-| [IdString](/docs/game-reflection/components/id_string) | blueprint |
-| [int](/docs/game-reflection/enums/int) | type |
-| [StringHash](/docs/game-reflection/classes/string_hash) | attachment |
+|:----------|:--------------|
+| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | parent |
+| [IdString](/riftbreaker-wiki/docs/game-reflection/components/id_string/) | blueprint |
+| [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | type |
+| [StringHash](/riftbreaker-wiki/docs/game-reflection/classes/string_hash/) | attachment |
 

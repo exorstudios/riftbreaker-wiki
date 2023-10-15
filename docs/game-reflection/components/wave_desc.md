@@ -11,11 +11,11 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [int](/docs/game-reflection/enums/int) | percentage_units_to_end_wave |
-| [String](/docs/game-reflection/components/string) | spawn_point |
-| [String](/docs/game-reflection/components/string) | spawn_group |
-| [String](/docs/game-reflection/components/string) | group_name |
-| Vector< [Enemy](/docs/game-reflection/classes/enemy) > | Enemies |
-| [float](/docs/game-reflection/components/float) | delay |
+|:----------|:--------------|
+| [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | percentage_units_to_end_wave |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | spawn_point |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | spawn_group |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | group_name |
+| Vector< [Enemy](/riftbreaker-wiki/docs/game-reflection/classes/enemy/) > | Enemies |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | delay |
 

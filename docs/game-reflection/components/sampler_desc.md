@@ -11,12 +11,12 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [UVWAddressingMode](/docs/game-reflection/classes/u_v_w_addressing_mode) | AddressUVW |
-| [int](/docs/game-reflection/enums/int) | Comparison |
-| [int](/docs/game-reflection/enums/int) | FilterMag |
-| [uint](/docs/game-reflection/components/uint) | MaxAnisotropy |
-| [int](/docs/game-reflection/enums/int) | FilterMin |
-| [ColourValue](/docs/game-reflection/classes/colour_value) | BorderColor |
-| [int](/docs/game-reflection/enums/int) | FilterMip |
+|:----------|:--------------|
+| [UVWAddressingMode](/riftbreaker-wiki/docs/game-reflection/classes/u_v_w_addressing_mode/) | AddressUVW |
+| [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | Comparison |
+| [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | FilterMag |
+| [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | MaxAnisotropy |
+| [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | FilterMin |
+| [ColourValue](/riftbreaker-wiki/docs/game-reflection/classes/colour_value/) | BorderColor |
+| [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | FilterMip |
 

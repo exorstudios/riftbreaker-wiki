@@ -11,6 +11,6 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| Vector< [PhysicsObjectDesc](/docs/game-reflection/components/physics_object_desc) > | objects |
+|:----------|:--------------|
+| Vector< [PhysicsObjectDesc](/riftbreaker-wiki/docs/game-reflection/components/physics_object_desc/) > | objects |
 

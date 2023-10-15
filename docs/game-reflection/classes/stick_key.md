@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [int](/docs/game-reflection/enums/int) | axis |
-| [int](/docs/game-reflection/enums/int) | stick_no |
+|:----------|:--------------|
+| [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | axis |
+| [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | stick_no |
 

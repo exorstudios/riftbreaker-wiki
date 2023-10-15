@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [bool](/docs/game-reflection/components/bool) | IsHidden |
-| Vector< [String](/docs/game-reflection/components/string) > | Awards |
+|:----------|:--------------|
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | IsHidden |
+| Vector< [String](/riftbreaker-wiki/docs/game-reflection/components/string/) > | Awards |
 

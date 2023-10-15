@@ -11,13 +11,13 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| Vector< [Entity](/docs/game-reflection/classes/entity) > | ents |
-| [int](/docs/game-reflection/enums/int) | type |
-| Vector< [TriggerFilter](/docs/game-reflection/components/trigger_filter) > | Filters |
-| [bool](/docs/game-reflection/components/bool) | enabled |
-| [int](/docs/game-reflection/enums/int) | owner |
-| [IdString](/docs/game-reflection/components/id_string) | tag |
-| [uint](/docs/game-reflection/components/uint) | collision |
-| Vector< [PhysicsShape](/docs/game-reflection/classes/physics_shape) > | Shapes |
+|:----------|:--------------|
+| Vector< [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) > | ents |
+| [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | type |
+| Vector< [TriggerFilter](/riftbreaker-wiki/docs/game-reflection/components/trigger_filter/) > | Filters |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | enabled |
+| [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | owner |
+| [IdString](/riftbreaker-wiki/docs/game-reflection/components/id_string/) | tag |
+| [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | collision |
+| Vector< [PhysicsShape](/riftbreaker-wiki/docs/game-reflection/classes/physics_shape/) > | Shapes |
 

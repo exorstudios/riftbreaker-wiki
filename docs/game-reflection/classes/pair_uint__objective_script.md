@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [ObjectiveScript](/docs/game-reflection/classes/objective_script) | value |
-| [uint](/docs/game-reflection/components/uint) | key |
+|:----------|:--------------|
+| [ObjectiveScript](/riftbreaker-wiki/docs/game-reflection/classes/objective_script/) | value |
+| [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | key |
 

@@ -11,9 +11,9 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [bool](/docs/game-reflection/components/bool) | FromPlanetScanner |
-| [bool](/docs/game-reflection/components/bool) | Outpost |
-| [String](/docs/game-reflection/components/string) | MissionId |
-| [int](/docs/game-reflection/enums/int) | Status |
+|:----------|:--------------|
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | FromPlanetScanner |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | Outpost |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | MissionId |
+| [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | Status |
 

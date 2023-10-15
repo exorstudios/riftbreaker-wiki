@@ -11,8 +11,8 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [Transform](/docs/game-reflection/classes/transform) | transform |
-| [float](/docs/game-reflection/components/float) | delay |
-| [uint](/docs/game-reflection/components/uint) | charge_idx |
+|:----------|:--------------|
+| [Transform](/riftbreaker-wiki/docs/game-reflection/classes/transform/) | transform |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | delay |
+| [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | charge_idx |
 

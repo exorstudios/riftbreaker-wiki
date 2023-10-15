@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [String](/docs/game-reflection/components/string) | BuildingName |
-| [bool](/docs/game-reflection/components/bool) | Enabled |
+|:----------|:--------------|
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | BuildingName |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | Enabled |
 

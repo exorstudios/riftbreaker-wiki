@@ -11,12 +11,12 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [IdString](/docs/game-reflection/components/id_string) | blueprint |
-| [Timer](/docs/game-reflection/classes/timer) | delay_timer |
-| [Timer](/docs/game-reflection/classes/timer) | delay_group_timer |
-| [float](/docs/game-reflection/components/float) | delay |
-| [float](/docs/game-reflection/components/float) | delay_group |
-| [int](/docs/game-reflection/enums/int) | count |
-| [uint64](/docs/game-reflection/components/uint64) | units_in_one_spawn |
+|:----------|:--------------|
+| [IdString](/riftbreaker-wiki/docs/game-reflection/components/id_string/) | blueprint |
+| [Timer](/riftbreaker-wiki/docs/game-reflection/classes/timer/) | delay_timer |
+| [Timer](/riftbreaker-wiki/docs/game-reflection/classes/timer/) | delay_group_timer |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | delay |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | delay_group |
+| [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | count |
+| [uint64](/riftbreaker-wiki/docs/game-reflection/components/uint64/) | units_in_one_spawn |
 

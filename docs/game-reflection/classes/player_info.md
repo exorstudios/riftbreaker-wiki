@@ -11,8 +11,8 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [String](/docs/game-reflection/components/string) | user_name |
-| [String](/docs/game-reflection/components/string) | id |
-| [String](/docs/game-reflection/components/string) | remote_identity |
+|:----------|:--------------|
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | user_name |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | id |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | remote_identity |
 

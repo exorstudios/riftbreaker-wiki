@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [IdString](/docs/game-reflection/components/id_string) | blueprint |
-| [Entity](/docs/game-reflection/classes/entity) | owner |
+|:----------|:--------------|
+| [IdString](/riftbreaker-wiki/docs/game-reflection/components/id_string/) | blueprint |
+| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | owner |
 

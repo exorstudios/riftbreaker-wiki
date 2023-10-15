@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [short](/docs/game-reflection/components/short) | type |
-| Vector< [Vector2](/docs/game-reflection/classes/vector2) > | points |
+|:----------|:--------------|
+| [short](/riftbreaker-wiki/docs/game-reflection/components/short/) | type |
+| Vector< [Vector2](/riftbreaker-wiki/docs/game-reflection/classes/vector2/) > | points |
 

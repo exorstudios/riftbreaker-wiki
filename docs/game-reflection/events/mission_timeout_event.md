@@ -5,13 +5,13 @@ has_children: false
 parent: Event
 grand_parent: Game Reflection
 ---
-# MissionTimeoutEvent( [ EntityEventBase ](/docs/game-reflection/events/entity_event_base) )
+# MissionTimeoutEvent( [ EntityEventBase ](/riftbreaker-wiki/docs/game-reflection/events/entity_event_base/) )
 Description 
 
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [String](/docs/game-reflection/components/string) | MissionName |
-| [Entity](/docs/game-reflection/classes/entity) | Entity |
+|:----------|:--------------|
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | MissionName |
+| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
 

@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [ModifiableValue](/docs/game-reflection/classes/modifiable_value) | value |
-| [int](/docs/game-reflection/enums/int) | key |
+|:----------|:--------------|
+| [ModifiableValue](/riftbreaker-wiki/docs/game-reflection/classes/modifiable_value/) | value |
+| [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | key |
 

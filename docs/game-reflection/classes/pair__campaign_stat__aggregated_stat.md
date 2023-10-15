@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [AggregatedStat](/docs/game-reflection/classes/aggregated_stat) | value |
-| [int](/docs/game-reflection/enums/int) | key |
+|:----------|:--------------|
+| [AggregatedStat](/riftbreaker-wiki/docs/game-reflection/classes/aggregated_stat/) | value |
+| [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | key |
 

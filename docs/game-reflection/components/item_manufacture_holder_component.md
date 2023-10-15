@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [bool](/docs/game-reflection/components/bool) | blocked |
-| [String](/docs/game-reflection/components/string) | item |
+|:----------|:--------------|
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | blocked |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | item |
 

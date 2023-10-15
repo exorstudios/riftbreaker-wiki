@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| Vector< [Pair_float_CameraShakeState](/docs/game-reflection/classes/pair_float__camera_shake_state) > | value |
-| [StringHash](/docs/game-reflection/classes/string_hash) | key |
+|:----------|:--------------|
+| Vector< [Pair_float_CameraShakeState](/riftbreaker-wiki/docs/game-reflection/classes/pair_float__camera_shake_state/) > | value |
+| [StringHash](/riftbreaker-wiki/docs/game-reflection/classes/string_hash/) | key |
 

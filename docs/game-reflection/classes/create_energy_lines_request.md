@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [bool](/docs/game-reflection/components/bool) | CheckEmpty |
-| [Entity](/docs/game-reflection/classes/entity) | Building |
+|:----------|:--------------|
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | CheckEmpty |
+| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Building |
 

@@ -5,16 +5,16 @@ has_children: false
 parent: Event
 grand_parent: Game Reflection
 ---
-# UnitPlayerDamageEvent( [ EntityEventBase ](/docs/game-reflection/events/entity_event_base) )
+# UnitPlayerDamageEvent( [ EntityEventBase ](/riftbreaker-wiki/docs/game-reflection/events/entity_event_base/) )
 Description 
 
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [String](/docs/game-reflection/components/string) | CreatorBlueprint |
-| [String](/docs/game-reflection/components/string) | EntityBlueprint |
-| [float](/docs/game-reflection/components/float) | DamageValue |
-| [String](/docs/game-reflection/components/string) | DamageType |
-| [Entity](/docs/game-reflection/classes/entity) | Entity |
+|:----------|:--------------|
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | CreatorBlueprint |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | EntityBlueprint |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | DamageValue |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | DamageType |
+| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
 

@@ -11,11 +11,11 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [bool](/docs/game-reflection/components/bool) | skip_spawn_portal_sequence |
-| Vector< [Pair_uint_Entity](/docs/game-reflection/classes/pair_uint__entity) > | player_spawn_point |
-| [bool](/docs/game-reflection/components/bool) | block_respawn |
-| [Entity](/docs/game-reflection/classes/entity) | selected_spawn_point |
-| [bool](/docs/game-reflection/components/bool) | respawn_player |
-| Vector< [Pair_uint_String](/docs/game-reflection/classes/pair_uint__string) > | player_blueprint_override |
+|:----------|:--------------|
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | skip_spawn_portal_sequence |
+| Vector< [Pair_uint_Entity](/riftbreaker-wiki/docs/game-reflection/classes/pair_uint__entity/) > | player_spawn_point |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | block_respawn |
+| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | selected_spawn_point |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | respawn_player |
+| Vector< [Pair_uint_String](/riftbreaker-wiki/docs/game-reflection/classes/pair_uint__string/) > | player_blueprint_override |
 

@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [bool](/docs/game-reflection/components/bool) | restart_required |
-| [ExternalContentQueue](/docs/game-reflection/classes/external_content_queue) | action_queue |
+|:----------|:--------------|
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | restart_required |
+| [ExternalContentQueue](/riftbreaker-wiki/docs/game-reflection/classes/external_content_queue/) | action_queue |
 

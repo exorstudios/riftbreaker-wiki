@@ -11,6 +11,6 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| Vector< [AnimationState](/docs/game-reflection/classes/animation_state) > | active_animations |
+|:----------|:--------------|
+| Vector< [AnimationState](/riftbreaker-wiki/docs/game-reflection/classes/animation_state/) > | active_animations |
 

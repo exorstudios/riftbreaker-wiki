@@ -11,6 +11,6 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [ResourceHandle_EntityBlueprint](/docs/game-reflection/components/resource_handle__entity_blueprint) | blueprint |
+|:----------|:--------------|
+| [ResourceHandle_EntityBlueprint](/riftbreaker-wiki/docs/game-reflection/components/resource_handle__entity_blueprint/) | blueprint |
 

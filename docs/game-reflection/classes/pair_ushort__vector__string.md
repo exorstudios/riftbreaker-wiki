@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| Vector< [String](/docs/game-reflection/components/string) > | value |
-| [ushort](/docs/game-reflection/enums/ushort) | key |
+|:----------|:--------------|
+| Vector< [String](/riftbreaker-wiki/docs/game-reflection/components/string/) > | value |
+| [ushort](/riftbreaker-wiki/docs/game-reflection/enums/ushort/) | key |
 

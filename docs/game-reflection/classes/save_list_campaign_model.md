@@ -11,10 +11,10 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [bool](/docs/game-reflection/components/bool) | autosave |
-| [String](/docs/game-reflection/components/string) | name |
-| [uint64](/docs/game-reflection/components/uint64) | convertible |
-| [bool](/docs/game-reflection/components/bool) | warning |
-| [bool](/docs/game-reflection/components/bool) | empty |
+|:----------|:--------------|
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | autosave |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | name |
+| [uint64](/riftbreaker-wiki/docs/game-reflection/components/uint64/) | convertible |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | warning |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | empty |
 

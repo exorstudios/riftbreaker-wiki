@@ -11,11 +11,11 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [Vector3](/docs/game-reflection/classes/vector3) | world_position |
-| [Vector3](/docs/game-reflection/classes/vector3) | world_scale |
-| [Quaternion](/docs/game-reflection/classes/quaternion) | world_orientation |
-| [Quaternion](/docs/game-reflection/classes/quaternion) | orientation |
-| [Vector3](/docs/game-reflection/classes/vector3) | scale |
-| [Vector3](/docs/game-reflection/classes/vector3) | position |
+|:----------|:--------------|
+| [Vector3](/riftbreaker-wiki/docs/game-reflection/classes/vector3/) | world_position |
+| [Vector3](/riftbreaker-wiki/docs/game-reflection/classes/vector3/) | world_scale |
+| [Quaternion](/riftbreaker-wiki/docs/game-reflection/classes/quaternion/) | world_orientation |
+| [Quaternion](/riftbreaker-wiki/docs/game-reflection/classes/quaternion/) | orientation |
+| [Vector3](/riftbreaker-wiki/docs/game-reflection/classes/vector3/) | scale |
+| [Vector3](/riftbreaker-wiki/docs/game-reflection/classes/vector3/) | position |
 

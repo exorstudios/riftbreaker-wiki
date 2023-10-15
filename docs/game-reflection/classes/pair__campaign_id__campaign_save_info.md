@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [CampaignSaveInfo](/docs/game-reflection/classes/campaign_save_info) | value |
-| [CampaignId](/docs/game-reflection/classes/campaign_id) | key |
+|:----------|:--------------|
+| [CampaignSaveInfo](/riftbreaker-wiki/docs/game-reflection/classes/campaign_save_info/) | value |
+| [CampaignId](/riftbreaker-wiki/docs/game-reflection/classes/campaign_id/) | key |
 

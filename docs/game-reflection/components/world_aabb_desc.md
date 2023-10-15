@@ -11,6 +11,6 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [Aabb](/docs/game-reflection/components/aabb) | world_aabb |
+|:----------|:--------------|
+| [Aabb](/riftbreaker-wiki/docs/game-reflection/components/aabb/) | world_aabb |
 

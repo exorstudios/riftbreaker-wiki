@@ -11,8 +11,8 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [StringHash](/docs/game-reflection/classes/string_hash) | chain_destination |
-| [StringHash](/docs/game-reflection/classes/string_hash) | chain_data |
-| [StringHash](/docs/game-reflection/classes/string_hash) | chain_handle |
+|:----------|:--------------|
+| [StringHash](/riftbreaker-wiki/docs/game-reflection/classes/string_hash/) | chain_destination |
+| [StringHash](/riftbreaker-wiki/docs/game-reflection/classes/string_hash/) | chain_data |
+| [StringHash](/riftbreaker-wiki/docs/game-reflection/classes/string_hash/) | chain_handle |
 

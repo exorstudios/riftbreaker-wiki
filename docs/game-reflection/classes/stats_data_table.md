@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [String](/docs/game-reflection/components/string) | header |
-| Vector< [StatRow](/docs/game-reflection/classes/stat_row) > | data |
+|:----------|:--------------|
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | header |
+| Vector< [StatRow](/riftbreaker-wiki/docs/game-reflection/classes/stat_row/) > | data |
 

@@ -11,6 +11,6 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| Vector< [TerrainTypeHolder](/docs/game-reflection/components/terrain_type_holder) > | terrain_overrides |
+|:----------|:--------------|
+| Vector< [TerrainTypeHolder](/riftbreaker-wiki/docs/game-reflection/components/terrain_type_holder/) > | terrain_overrides |
 

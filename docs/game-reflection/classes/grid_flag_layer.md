@@ -5,12 +5,12 @@ has_children: false
 parent: Class
 grand_parent: Game Reflection
 ---
-# GridFlagLayer( [ CellLayer ](/docs/game-reflection/classes/cell_layer) )
+# GridFlagLayer( [ CellLayer ](/riftbreaker-wiki/docs/game-reflection/classes/cell_layer/) )
 Description 
 
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [int](/docs/game-reflection/enums/int) | mask |
+|:----------|:--------------|
+| [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | mask |
 

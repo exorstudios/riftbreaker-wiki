@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [bool](/docs/game-reflection/components/bool) | download_cancel_allowed |
-| [float](/docs/game-reflection/components/float) | download_progress |
+|:----------|:--------------|
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | download_cancel_allowed |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | download_progress |
 

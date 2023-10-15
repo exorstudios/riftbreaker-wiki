@@ -11,6 +11,6 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| Vector< [SeasonalEvent](/docs/game-reflection/classes/seasonal_event) > | season |
+|:----------|:--------------|
+| Vector< [SeasonalEvent](/riftbreaker-wiki/docs/game-reflection/classes/seasonal_event/) > | season |
 

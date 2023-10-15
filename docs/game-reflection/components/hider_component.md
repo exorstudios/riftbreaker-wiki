@@ -11,6 +11,6 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [EntityTemplate](/docs/game-reflection/classes/entity_template) | component_storage |
+|:----------|:--------------|
+| [EntityTemplate](/riftbreaker-wiki/docs/game-reflection/classes/entity_template/) | component_storage |
 

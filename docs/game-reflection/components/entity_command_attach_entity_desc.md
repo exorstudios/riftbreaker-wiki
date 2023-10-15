@@ -11,8 +11,8 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [Entity](/docs/game-reflection/classes/entity) | parent |
-| [Entity](/docs/game-reflection/classes/entity) | entity |
-| [StringHash](/docs/game-reflection/classes/string_hash) | attachment |
+|:----------|:--------------|
+| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | parent |
+| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | entity |
+| [StringHash](/riftbreaker-wiki/docs/game-reflection/classes/string_hash/) | attachment |
 

@@ -11,6 +11,6 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [GridSpatialCoords](/docs/game-reflection/classes/grid_spatial_coords) | coords |
+|:----------|:--------------|
+| [GridSpatialCoords](/riftbreaker-wiki/docs/game-reflection/classes/grid_spatial_coords/) | coords |
 

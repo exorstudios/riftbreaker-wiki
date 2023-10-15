@@ -11,6 +11,6 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [LinearEcs](/docs/game-reflection/components/linear_ecs) | components |
+|:----------|:--------------|
+| [LinearEcs](/riftbreaker-wiki/docs/game-reflection/components/linear_ecs/) | components |
 

@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [uchar](/docs/game-reflection/enums/uchar) | position |
-| [uchar](/docs/game-reflection/enums/uchar) | strength |
+|:----------|:--------------|
+| [uchar](/riftbreaker-wiki/docs/game-reflection/enums/uchar/) | position |
+| [uchar](/riftbreaker-wiki/docs/game-reflection/enums/uchar/) | strength |
 

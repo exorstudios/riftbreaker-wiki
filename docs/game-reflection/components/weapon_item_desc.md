@@ -11,9 +11,9 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [uchar](/docs/game-reflection/enums/uchar) | rarity |
-| [IdString](/docs/game-reflection/components/id_string) | damage_type |
-| Vector< [WeaponStatDef](/docs/game-reflection/classes/weapon_stat_def) > | stat_def_vec |
-| [IdString](/docs/game-reflection/components/id_string) | ammo_storage |
+|:----------|:--------------|
+| [uchar](/riftbreaker-wiki/docs/game-reflection/enums/uchar/) | rarity |
+| [IdString](/riftbreaker-wiki/docs/game-reflection/components/id_string/) | damage_type |
+| Vector< [WeaponStatDef](/riftbreaker-wiki/docs/game-reflection/classes/weapon_stat_def/) > | stat_def_vec |
+| [IdString](/riftbreaker-wiki/docs/game-reflection/components/id_string/) | ammo_storage |
 

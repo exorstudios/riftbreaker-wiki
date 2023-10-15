@@ -11,6 +11,6 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| Vector< [Anim](/docs/game-reflection/classes/anim) > | animations |
+|:----------|:--------------|
+| Vector< [Anim](/riftbreaker-wiki/docs/game-reflection/classes/anim/) > | animations |
 

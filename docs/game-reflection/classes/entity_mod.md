@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [float](/docs/game-reflection/components/float) | mod_value |
-| [int](/docs/game-reflection/enums/int) | mod_func |
+|:----------|:--------------|
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | mod_value |
+| [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | mod_func |
 

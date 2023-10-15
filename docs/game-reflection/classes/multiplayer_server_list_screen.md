@@ -11,10 +11,10 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [int](/docs/game-reflection/enums/int) | items_status |
-| [bool](/docs/game-reflection/components/bool) | connect_allowed |
-| Vector< [RiftbreakerGameServer](/docs/game-reflection/classes/riftbreaker_game_server) > | servers |
-| [bool](/docs/game-reflection/components/bool) | refresh_allowed |
-| [RiftbreakerGameServer2](/docs/game-reflection/components/riftbreaker_game_server2) | selected_server |
+|:----------|:--------------|
+| [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | items_status |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | connect_allowed |
+| Vector< [RiftbreakerGameServer](/riftbreaker-wiki/docs/game-reflection/classes/riftbreaker_game_server/) > | servers |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | refresh_allowed |
+| [RiftbreakerGameServer2](/riftbreaker-wiki/docs/game-reflection/components/riftbreaker_game_server2/) | selected_server |
 

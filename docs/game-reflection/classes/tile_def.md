@@ -11,8 +11,8 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [bool](/docs/game-reflection/components/bool) | is_hidden |
-| Vector< [int](/docs/game-reflection/enums/int) > | fixed_rotation |
-| Vector< [TileRegion](/docs/game-reflection/classes/tile_region) > | tile_regions |
+|:----------|:--------------|
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | is_hidden |
+| Vector< [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) > | fixed_rotation |
+| Vector< [TileRegion](/riftbreaker-wiki/docs/game-reflection/classes/tile_region/) > | tile_regions |
 

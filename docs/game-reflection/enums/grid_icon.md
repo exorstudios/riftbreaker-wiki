@@ -11,7 +11,7 @@ Description
 ## Enum values
 
 | Name | Value |
-|:-------------|:--------------|
+|:----------|:--------------|
 |  | 0 |
 | energy | 1 |
 | quicksand | 2 |

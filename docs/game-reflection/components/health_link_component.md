@@ -11,8 +11,8 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| Vector< [Pair_intEntity](/docs/game-reflection/classes/pair_int_entity) > | links |
-| Vector< [Pair_intEntity](/docs/game-reflection/classes/pair_int_entity) > | to_add |
-| Vector< [Entity](/docs/game-reflection/classes/entity) > | to_remove |
+|:----------|:--------------|
+| Vector< [Pair_intEntity](/riftbreaker-wiki/docs/game-reflection/classes/pair_int_entity/) > | links |
+| Vector< [Pair_intEntity](/riftbreaker-wiki/docs/game-reflection/classes/pair_int_entity/) > | to_add |
+| Vector< [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) > | to_remove |
 

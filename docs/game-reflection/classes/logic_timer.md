@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [int64](/docs/game-reflection/components/int64) | start |
-| [int64](/docs/game-reflection/components/int64) | limit |
+|:----------|:--------------|
+| [int64](/riftbreaker-wiki/docs/game-reflection/components/int64/) | start |
+| [int64](/riftbreaker-wiki/docs/game-reflection/components/int64/) | limit |
 

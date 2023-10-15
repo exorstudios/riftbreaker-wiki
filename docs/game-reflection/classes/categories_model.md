@@ -11,6 +11,6 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| Vector< [CategoryModel](/docs/game-reflection/classes/category_model) > | categories |
+|:----------|:--------------|
+| Vector< [CategoryModel](/riftbreaker-wiki/docs/game-reflection/classes/category_model/) > | categories |
 

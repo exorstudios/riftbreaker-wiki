@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [short](/docs/game-reflection/components/short) | x |
-| [short](/docs/game-reflection/components/short) | y |
+|:----------|:--------------|
+| [short](/riftbreaker-wiki/docs/game-reflection/components/short/) | x |
+| [short](/riftbreaker-wiki/docs/game-reflection/components/short/) | y |
 

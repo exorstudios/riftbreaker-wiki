@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [Aabb](/docs/game-reflection/components/aabb) | second |
-| [Aabb](/docs/game-reflection/components/aabb) | first |
+|:----------|:--------------|
+| [Aabb](/riftbreaker-wiki/docs/game-reflection/components/aabb/) | second |
+| [Aabb](/riftbreaker-wiki/docs/game-reflection/components/aabb/) | first |
 

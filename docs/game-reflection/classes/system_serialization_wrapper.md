@@ -11,6 +11,6 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [System1](/docs/game-reflection/components/system1) | system |
+|:----------|:--------------|
+| [System1](/riftbreaker-wiki/docs/game-reflection/components/system1/) | system |
 

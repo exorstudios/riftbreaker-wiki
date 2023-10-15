@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [uint](/docs/game-reflection/components/uint) | quest_id |
-| [int](/docs/game-reflection/enums/int) | type |
+|:----------|:--------------|
+| [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | quest_id |
+| [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | type |
 

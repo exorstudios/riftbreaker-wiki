@@ -11,10 +11,10 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [String](/docs/game-reflection/components/string) | name |
-| Vector< [String](/docs/game-reflection/components/string) > | values |
-| [String](/docs/game-reflection/components/string) | value |
-| [String](/docs/game-reflection/components/string) | localization |
-| [String](/docs/game-reflection/components/string) | type |
+|:----------|:--------------|
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | name |
+| Vector< [String](/riftbreaker-wiki/docs/game-reflection/components/string/) > | values |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | value |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | localization |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | type |
 

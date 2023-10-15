@@ -11,9 +11,9 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [float](/docs/game-reflection/components/float) | emissive_time |
-| [float](/docs/game-reflection/components/float) | emissive_factor |
-| [float](/docs/game-reflection/components/float) | emissive_base_factor |
-| [uint](/docs/game-reflection/components/uint) | submesh_idx |
+|:----------|:--------------|
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | emissive_time |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | emissive_factor |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | emissive_base_factor |
+| [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | submesh_idx |
 

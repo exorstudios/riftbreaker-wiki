@@ -11,10 +11,10 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [int](/docs/game-reflection/enums/int) | mode |
-| [float](/docs/game-reflection/components/float) | end |
-| [float](/docs/game-reflection/components/float) | start |
-| [float](/docs/game-reflection/components/float) | current |
-| [Timer](/docs/game-reflection/classes/timer) | timer |
+|:----------|:--------------|
+| [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | mode |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | end |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | start |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | current |
+| [Timer](/riftbreaker-wiki/docs/game-reflection/classes/timer/) | timer |
 

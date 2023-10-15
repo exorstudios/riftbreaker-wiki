@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [String](/docs/game-reflection/components/string) | script_name |
-| [Database](/docs/game-reflection/components/database) | script_database |
+|:----------|:--------------|
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | script_name |
+| [Database](/riftbreaker-wiki/docs/game-reflection/components/database/) | script_database |
 

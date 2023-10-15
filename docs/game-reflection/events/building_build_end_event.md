@@ -5,15 +5,15 @@ has_children: false
 parent: Event
 grand_parent: Game Reflection
 ---
-# BuildingBuildEndEvent( [ EntityEventBase ](/docs/game-reflection/events/entity_event_base) )
+# BuildingBuildEndEvent( [ EntityEventBase ](/riftbreaker-wiki/docs/game-reflection/events/entity_event_base/) )
 Description 
 
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [String](/docs/game-reflection/components/string) | BuildingName |
-| [String](/docs/game-reflection/components/string) | BuildingType |
-| [bool](/docs/game-reflection/components/bool) | Upgraded |
-| [Entity](/docs/game-reflection/classes/entity) | Entity |
+|:----------|:--------------|
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | BuildingName |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | BuildingType |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | Upgraded |
+| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
 

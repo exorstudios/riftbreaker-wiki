@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [String](/docs/game-reflection/components/string) | header |
-| [String](/docs/game-reflection/components/string) | header_value |
+|:----------|:--------------|
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | header |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | header_value |
 

@@ -11,11 +11,11 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [ResourceAccount](/docs/game-reflection/classes/resource_account) | manufacture_cost |
-| [bool](/docs/game-reflection/components/bool) | creating |
-| Vector< [ResearchCost](/docs/game-reflection/classes/research_cost) > | item_cost |
-| [ResourceAccount](/docs/game-reflection/classes/resource_account) | account |
-| [ResourceBasket](/docs/game-reflection/classes/resource_basket) | production |
-| [int](/docs/game-reflection/enums/int) | max_production |
+|:----------|:--------------|
+| [ResourceAccount](/riftbreaker-wiki/docs/game-reflection/classes/resource_account/) | manufacture_cost |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | creating |
+| Vector< [ResearchCost](/riftbreaker-wiki/docs/game-reflection/classes/research_cost/) > | item_cost |
+| [ResourceAccount](/riftbreaker-wiki/docs/game-reflection/classes/resource_account/) | account |
+| [ResourceBasket](/riftbreaker-wiki/docs/game-reflection/classes/resource_basket/) | production |
+| [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | max_production |
 

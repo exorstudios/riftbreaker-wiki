@@ -11,6 +11,6 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| Vector< [ResourceGraphGate](/docs/game-reflection/classes/resource_graph_gate) > | gates |
+|:----------|:--------------|
+| Vector< [ResourceGraphGate](/riftbreaker-wiki/docs/game-reflection/classes/resource_graph_gate/) > | gates |
 

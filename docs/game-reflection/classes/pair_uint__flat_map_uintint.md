@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| Vector< [Pair_uint_int](/docs/game-reflection/classes/pair_uint_int) > | value |
-| [uint](/docs/game-reflection/components/uint) | key |
+|:----------|:--------------|
+| Vector< [Pair_uint_int](/riftbreaker-wiki/docs/game-reflection/classes/pair_uint_int/) > | value |
+| [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | key |
 

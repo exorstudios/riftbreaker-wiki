@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [Transform](/docs/game-reflection/classes/transform) | transform |
-| [float](/docs/game-reflection/components/float) | delay |
+|:----------|:--------------|
+| [Transform](/riftbreaker-wiki/docs/game-reflection/classes/transform/) | transform |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | delay |
 

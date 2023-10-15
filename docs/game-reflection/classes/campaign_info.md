@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [String](/docs/game-reflection/components/string) | preview_material |
-| [String](/docs/game-reflection/components/string) | mission_name |
+|:----------|:--------------|
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | preview_material |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | mission_name |
 

@@ -11,9 +11,9 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [Entity](/docs/game-reflection/classes/entity) | entity |
-| [bool](/docs/game-reflection/components/bool) | unpack_children |
-| [String](/docs/game-reflection/components/string) | blueprint_name |
-| Vector< [String](/docs/game-reflection/components/string) > | components_to_unpack |
+|:----------|:--------------|
+| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | entity |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | unpack_children |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | blueprint_name |
+| Vector< [String](/riftbreaker-wiki/docs/game-reflection/components/string/) > | components_to_unpack |
 

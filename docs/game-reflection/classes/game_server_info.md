@@ -11,8 +11,8 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [String](/docs/game-reflection/components/string) | biome_name |
-| [String](/docs/game-reflection/components/string) | mission_name |
-| [bool](/docs/game-reflection/components/bool) | has_headquarters |
+|:----------|:--------------|
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | biome_name |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | mission_name |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | has_headquarters |
 

@@ -5,14 +5,14 @@ has_children: false
 parent: Event
 grand_parent: Game Reflection
 ---
-# GuiPopupResultEvent( [ EntityEventBase ](/docs/game-reflection/events/entity_event_base) )
+# GuiPopupResultEvent( [ EntityEventBase ](/riftbreaker-wiki/docs/game-reflection/events/entity_event_base/) )
 Description 
 
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [String](/docs/game-reflection/components/string) | LocalizationId |
-| [String](/docs/game-reflection/components/string) | Result |
-| [Entity](/docs/game-reflection/classes/entity) | Entity |
+|:----------|:--------------|
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | LocalizationId |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | Result |
+| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
 

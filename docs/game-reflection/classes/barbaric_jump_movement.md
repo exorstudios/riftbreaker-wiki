@@ -5,16 +5,16 @@ has_children: false
 parent: Class
 grand_parent: Game Reflection
 ---
-# BarbaricJumpMovement( [ SimpleMovement ](/docs/game-reflection/classes/simple_movement) )
+# BarbaricJumpMovement( [ SimpleMovement ](/riftbreaker-wiki/docs/game-reflection/classes/simple_movement/) )
 Description 
 
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [float](/docs/game-reflection/components/float) | peak_start |
-| [BezierPath](/docs/game-reflection/classes/bezier_path) | target |
-| [Timer](/docs/game-reflection/classes/timer) | time |
-| [float](/docs/game-reflection/components/float) | slowdown_factor |
-| [float](/docs/game-reflection/components/float) | peak_end |
+|:----------|:--------------|
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | peak_start |
+| [BezierPath](/riftbreaker-wiki/docs/game-reflection/classes/bezier_path/) | target |
+| [Timer](/riftbreaker-wiki/docs/game-reflection/classes/timer/) | time |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | slowdown_factor |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | peak_end |
 

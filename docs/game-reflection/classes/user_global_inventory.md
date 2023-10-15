@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| Vector< [String](/docs/game-reflection/components/string) > | unlocked_items |
-| Vector< [String](/docs/game-reflection/components/string) > | unlocked_buildings |
+|:----------|:--------------|
+| Vector< [String](/riftbreaker-wiki/docs/game-reflection/components/string/) > | unlocked_items |
+| Vector< [String](/riftbreaker-wiki/docs/game-reflection/components/string/) > | unlocked_buildings |
 

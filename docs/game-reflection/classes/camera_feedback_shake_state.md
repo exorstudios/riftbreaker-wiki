@@ -11,9 +11,9 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [Vector3](/docs/game-reflection/classes/vector3) | dir |
-| [float](/docs/game-reflection/components/float) | progress |
-| [float](/docs/game-reflection/components/float) | duration |
-| [float](/docs/game-reflection/components/float) | power |
+|:----------|:--------------|
+| [Vector3](/riftbreaker-wiki/docs/game-reflection/classes/vector3/) | dir |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | progress |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | duration |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | power |
 

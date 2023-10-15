@@ -11,8 +11,8 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [String](/docs/game-reflection/components/string) | Content |
-| [String](/docs/game-reflection/components/string) | Id |
-| [Vector2](/docs/game-reflection/classes/vector2) | OffsetNormalized |
+|:----------|:--------------|
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | Content |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | Id |
+| [Vector2](/riftbreaker-wiki/docs/game-reflection/classes/vector2/) | OffsetNormalized |
 

@@ -11,6 +11,6 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| Vector< [TargetData](/docs/game-reflection/classes/target_data) > | target_data_vec |
+|:----------|:--------------|
+| Vector< [TargetData](/riftbreaker-wiki/docs/game-reflection/classes/target_data/) > | target_data_vec |
 

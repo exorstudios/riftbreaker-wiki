@@ -11,8 +11,8 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [String](/docs/game-reflection/components/string) | category |
-| Vector< [ResearchNode](/docs/game-reflection/classes/research_node) > | nodes |
-| [String](/docs/game-reflection/components/string) | research_tree |
+|:----------|:--------------|
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | category |
+| Vector< [ResearchNode](/riftbreaker-wiki/docs/game-reflection/classes/research_node/) > | nodes |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | research_tree |
 

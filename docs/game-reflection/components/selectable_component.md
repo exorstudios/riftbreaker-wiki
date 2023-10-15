@@ -11,11 +11,11 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [String](/docs/game-reflection/components/string) | description |
-| [bool](/docs/game-reflection/components/bool) | can_activate |
-| [String](/docs/game-reflection/components/string) | content |
-| [String](/docs/game-reflection/components/string) | large_icon_material |
-| [Entity](/docs/game-reflection/classes/entity) | info_entity |
-| [String](/docs/game-reflection/components/string) | icon_material |
+|:----------|:--------------|
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | description |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | can_activate |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | content |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | large_icon_material |
+| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | info_entity |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | icon_material |
 

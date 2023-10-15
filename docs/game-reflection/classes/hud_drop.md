@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [String](/docs/game-reflection/components/string) | weapon_list |
-| [bool](/docs/game-reflection/components/bool) | positive |
+|:----------|:--------------|
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | weapon_list |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | positive |
 

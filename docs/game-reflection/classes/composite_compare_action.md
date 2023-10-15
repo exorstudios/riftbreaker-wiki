@@ -5,13 +5,13 @@ has_children: false
 parent: Class
 grand_parent: Game Reflection
 ---
-# CompositeCompareAction( [ CompositeAction ](/docs/game-reflection/classes/composite_action) )
+# CompositeCompareAction( [ CompositeAction ](/riftbreaker-wiki/docs/game-reflection/classes/composite_action/) )
 Description 
 
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [float](/docs/game-reflection/components/float) | treshold |
-| [String](/docs/game-reflection/components/string) | action |
+|:----------|:--------------|
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | treshold |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | action |
 

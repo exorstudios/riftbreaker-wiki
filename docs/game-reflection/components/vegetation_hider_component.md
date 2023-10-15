@@ -5,12 +5,12 @@ has_children: false
 parent: Component
 grand_parent: Game Reflection
 ---
-# VegetationHiderComponent( [ HiderComponent ](/docs/game-reflection/components/hider_component) )
+# VegetationHiderComponent( [ HiderComponent ](/riftbreaker-wiki/docs/game-reflection/components/hider_component/) )
 Description 
 
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [int](/docs/game-reflection/enums/int) | counter |
+|:----------|:--------------|
+| [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | counter |
 

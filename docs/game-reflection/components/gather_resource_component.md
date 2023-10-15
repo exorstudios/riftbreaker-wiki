@@ -11,6 +11,6 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [ResourceBasket](/docs/game-reflection/classes/resource_basket) | resources |
+|:----------|:--------------|
+| [ResourceBasket](/riftbreaker-wiki/docs/game-reflection/classes/resource_basket/) | resources |
 

@@ -11,13 +11,13 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [float](/docs/game-reflection/components/float) | physics_gravity_factor |
-| [bool](/docs/game-reflection/components/bool) | initialized |
-| [int](/docs/game-reflection/enums/int) | time_of_day |
-| [TimeOfDayEnvState](/docs/game-reflection/classes/time_of_day_env_state) | time_of_day_env_state |
-| [Entity](/docs/game-reflection/classes/entity) | sun_entity |
-| [int64](/docs/game-reflection/components/int64) | time |
-| Vector< [TimeOfDay](/docs/game-reflection/enums/time_of_day) > | timeofday_override |
-| [Vector3](/docs/game-reflection/classes/vector3) | sun_dir |
+|:----------|:--------------|
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | physics_gravity_factor |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | initialized |
+| [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | time_of_day |
+| [TimeOfDayEnvState](/riftbreaker-wiki/docs/game-reflection/classes/time_of_day_env_state/) | time_of_day_env_state |
+| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | sun_entity |
+| [int64](/riftbreaker-wiki/docs/game-reflection/components/int64/) | time |
+| Vector< [TimeOfDay](/riftbreaker-wiki/docs/game-reflection/enums/time_of_day/) > | timeofday_override |
+| [Vector3](/riftbreaker-wiki/docs/game-reflection/classes/vector3/) | sun_dir |
 

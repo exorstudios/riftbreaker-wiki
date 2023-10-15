@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| Vector< [MissionObjectSpawn](/docs/game-reflection/classes/mission_object_spawn) > | value |
-| [String](/docs/game-reflection/components/string) | key |
+|:----------|:--------------|
+| Vector< [MissionObjectSpawn](/riftbreaker-wiki/docs/game-reflection/classes/mission_object_spawn/) > | value |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | key |
 

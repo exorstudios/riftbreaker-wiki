@@ -11,6 +11,6 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [Timer](/docs/game-reflection/classes/timer) | recovery_delay |
+|:----------|:--------------|
+| [Timer](/riftbreaker-wiki/docs/game-reflection/classes/timer/) | recovery_delay |
 

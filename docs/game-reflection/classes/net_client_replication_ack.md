@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| Vector< [TypeAny](/docs/game-reflection/components/type_any) > | replication_events |
-| [uint](/docs/game-reflection/components/uint) | revision |
+|:----------|:--------------|
+| Vector< [TypeAny](/riftbreaker-wiki/docs/game-reflection/components/type_any/) > | replication_events |
+| [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | revision |
 

@@ -11,9 +11,9 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [uint64](/docs/game-reflection/components/uint64) | amount |
-| [IdString](/docs/game-reflection/components/id_string) | blueprint |
-| [float](/docs/game-reflection/components/float) | aggressive_distance |
-| [float](/docs/game-reflection/components/float) | not_aggressive_distance |
+|:----------|:--------------|
+| [uint64](/riftbreaker-wiki/docs/game-reflection/components/uint64/) | amount |
+| [IdString](/riftbreaker-wiki/docs/game-reflection/components/id_string/) | blueprint |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | aggressive_distance |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | not_aggressive_distance |
 

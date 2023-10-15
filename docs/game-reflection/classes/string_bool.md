@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [String](/docs/game-reflection/components/string) | value |
-| [bool](/docs/game-reflection/components/bool) | enabled |
+|:----------|:--------------|
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | value |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | enabled |
 

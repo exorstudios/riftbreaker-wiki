@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [StateMachineComponent](/docs/game-reflection/components/state_machine_component) | second |
-| [Entity](/docs/game-reflection/classes/entity) | first |
+|:----------|:--------------|
+| [StateMachineComponent](/riftbreaker-wiki/docs/game-reflection/components/state_machine_component/) | second |
+| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | first |
 

@@ -5,13 +5,13 @@ has_children: false
 parent: Event
 grand_parent: Game Reflection
 ---
-# EnableCameraCulling( [ EntityEventBase ](/docs/game-reflection/events/entity_event_base) )
+# EnableCameraCulling( [ EntityEventBase ](/riftbreaker-wiki/docs/game-reflection/events/entity_event_base/) )
 Description 
 
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [Entity](/docs/game-reflection/classes/entity) | Culler |
-| [Entity](/docs/game-reflection/classes/entity) | Entity |
+|:----------|:--------------|
+| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Culler |
+| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
 

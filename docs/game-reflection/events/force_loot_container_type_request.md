@@ -5,13 +5,13 @@ has_children: false
 parent: Event
 grand_parent: Game Reflection
 ---
-# ForceLootContainerTypeRequest( [ EntityEventBase ](/docs/game-reflection/events/entity_event_base) )
+# ForceLootContainerTypeRequest( [ EntityEventBase ](/riftbreaker-wiki/docs/game-reflection/events/entity_event_base/) )
 Description 
 
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [String](/docs/game-reflection/components/string) | ContainerType |
-| [Entity](/docs/game-reflection/classes/entity) | Entity |
+|:----------|:--------------|
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | ContainerType |
+| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
 

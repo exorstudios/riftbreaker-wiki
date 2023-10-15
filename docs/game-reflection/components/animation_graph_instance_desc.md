@@ -11,6 +11,6 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| Vector< [AnimationGraphLayerInstanceDesc](/docs/game-reflection/components/animation_graph_layer_instance_desc) > | layer_desc_vec |
+|:----------|:--------------|
+| Vector< [AnimationGraphLayerInstanceDesc](/riftbreaker-wiki/docs/game-reflection/components/animation_graph_layer_instance_desc/) > | layer_desc_vec |
 

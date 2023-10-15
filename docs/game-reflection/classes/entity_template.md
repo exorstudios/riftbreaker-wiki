@@ -11,9 +11,9 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [CompContainer](/docs/game-reflection/components/comp_container) | components |
-| Vector< [EntityBlueprint](/docs/game-reflection/components/entity_blueprint) > | base_blueprints |
-| Vector< [TypeHash](/docs/game-reflection/enums/type_hash) > | removed_components |
-| Vector< [EntityTemplate](/docs/game-reflection/classes/entity_template) > | children |
+|:----------|:--------------|
+| [CompContainer](/riftbreaker-wiki/docs/game-reflection/components/comp_container/) | components |
+| Vector< [EntityBlueprint](/riftbreaker-wiki/docs/game-reflection/components/entity_blueprint/) > | base_blueprints |
+| Vector< [TypeHash](/riftbreaker-wiki/docs/game-reflection/enums/type_hash/) > | removed_components |
+| Vector< [EntityTemplate](/riftbreaker-wiki/docs/game-reflection/classes/entity_template/) > | children |
 

@@ -11,8 +11,8 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [float](/docs/game-reflection/components/float) | near |
-| [float](/docs/game-reflection/components/float) | intensity |
-| [float](/docs/game-reflection/components/float) | penumbra |
+|:----------|:--------------|
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | near |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | intensity |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | penumbra |
 

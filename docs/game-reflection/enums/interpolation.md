@@ -11,7 +11,7 @@ Description
 ## Enum values
 
 | Name | Value |
-|:-------------|:--------------|
+|:----------|:--------------|
 | Linear | 0 |
 | EaseInSine | 1 |
 | EaseOutSine | 2 |

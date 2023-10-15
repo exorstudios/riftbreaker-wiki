@@ -11,8 +11,8 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [String](/docs/game-reflection/components/string) | gui_id |
-| [float](/docs/game-reflection/components/float) | extended_duration |
-| [String](/docs/game-reflection/components/string) | sound_name |
+|:----------|:--------------|
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | gui_id |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | extended_duration |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | sound_name |
 

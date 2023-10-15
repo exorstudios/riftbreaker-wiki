@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| Vector< [String](/docs/game-reflection/components/string) > | components_to_remove |
-| [Entity](/docs/game-reflection/classes/entity) | entity |
+|:----------|:--------------|
+| Vector< [String](/riftbreaker-wiki/docs/game-reflection/components/string/) > | components_to_remove |
+| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | entity |
 

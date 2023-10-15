@@ -11,11 +11,11 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [bool](/docs/game-reflection/components/bool) | hidden |
-| [bool](/docs/game-reflection/components/bool) | empty_queue |
-| [bool](/docs/game-reflection/components/bool) | have_research |
-| [String](/docs/game-reflection/components/string) | build_or_upgrade |
-| [String](/docs/game-reflection/components/string) | current_node |
-| [String](/docs/game-reflection/components/string) | current_category |
+|:----------|:--------------|
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | hidden |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | empty_queue |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | have_research |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | build_or_upgrade |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | current_node |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | current_category |
 

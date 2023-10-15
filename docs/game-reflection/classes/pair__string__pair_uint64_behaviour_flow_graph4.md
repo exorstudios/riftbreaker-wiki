@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [Pair_uint64BehaviourFlowGraph4](/docs/game-reflection/classes/pair_uint64_behaviour_flow_graph4) | value |
-| [String](/docs/game-reflection/components/string) | key |
+|:----------|:--------------|
+| [Pair_uint64BehaviourFlowGraph4](/riftbreaker-wiki/docs/game-reflection/classes/pair_uint64_behaviour_flow_graph4/) | value |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | key |
 

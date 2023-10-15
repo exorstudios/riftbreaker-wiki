@@ -11,8 +11,8 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [float](/docs/game-reflection/components/float) | alpha |
-| [float](/docs/game-reflection/components/float) | distance |
-| [Vector3](/docs/game-reflection/classes/vector3) | point |
+|:----------|:--------------|
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | alpha |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | distance |
+| [Vector3](/riftbreaker-wiki/docs/game-reflection/classes/vector3/) | point |
 

@@ -5,14 +5,14 @@ has_children: false
 parent: Event
 grand_parent: Game Reflection
 ---
-# SetDatabaseFloatEntryRequest( [ EntityEventBase ](/docs/game-reflection/events/entity_event_base) )
+# SetDatabaseFloatEntryRequest( [ EntityEventBase ](/riftbreaker-wiki/docs/game-reflection/events/entity_event_base/) )
 Description 
 
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [String](/docs/game-reflection/components/string) | Key |
-| [float](/docs/game-reflection/components/float) | Value |
-| [Entity](/docs/game-reflection/classes/entity) | Entity |
+|:----------|:--------------|
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | Key |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | Value |
+| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
 

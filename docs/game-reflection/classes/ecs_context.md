@@ -11,6 +11,6 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| Vector< [TypeAny](/docs/game-reflection/components/type_any) > | variable_set |
+|:----------|:--------------|
+| Vector< [TypeAny](/riftbreaker-wiki/docs/game-reflection/components/type_any/) > | variable_set |
 

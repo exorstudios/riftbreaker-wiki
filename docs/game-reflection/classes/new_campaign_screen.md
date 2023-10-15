@@ -11,8 +11,8 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [bool](/docs/game-reflection/components/bool) | streaming |
-| [String](/docs/game-reflection/components/string) | platform |
-| [String](/docs/game-reflection/components/string) | campaign_name |
+|:----------|:--------------|
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | streaming |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | platform |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | campaign_name |
 

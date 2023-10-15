@@ -5,13 +5,13 @@ has_children: false
 parent: Class
 grand_parent: Game Reflection
 ---
-# AnimationMoveToNode( [ AnimationEvalNode ](/docs/game-reflection/classes/animation_eval_node) )
+# AnimationMoveToNode( [ AnimationEvalNode ](/riftbreaker-wiki/docs/game-reflection/classes/animation_eval_node/) )
 Description 
 
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [String](/docs/game-reflection/components/string) | end_bone |
-| [String](/docs/game-reflection/components/string) | ik_bone |
+|:----------|:--------------|
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | end_bone |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | ik_bone |
 

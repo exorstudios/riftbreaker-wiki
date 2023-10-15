@@ -11,9 +11,9 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [int](/docs/game-reflection/enums/int) | current_destruction_level_idx |
-| [int](/docs/game-reflection/enums/int) | previous_destruction_level_idx |
-| [Timer](/docs/game-reflection/classes/timer) | effect_timer |
-| [uchar](/docs/game-reflection/enums/uchar) | flags |
+|:----------|:--------------|
+| [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | current_destruction_level_idx |
+| [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | previous_destruction_level_idx |
+| [Timer](/riftbreaker-wiki/docs/game-reflection/classes/timer/) | effect_timer |
+| [uchar](/riftbreaker-wiki/docs/game-reflection/enums/uchar/) | flags |
 

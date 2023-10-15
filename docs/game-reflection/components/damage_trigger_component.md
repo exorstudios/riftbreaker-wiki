@@ -11,13 +11,13 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [IdString](/docs/game-reflection/components/id_string) | name |
-| [bool](/docs/game-reflection/components/bool) | always_kill |
-| [IdString](/docs/game-reflection/components/id_string) | group |
-| [float](/docs/game-reflection/components/float) | damage_amount |
-| [uint64](/docs/game-reflection/components/uint64) | type |
-| [uint](/docs/game-reflection/components/uint) | team |
-| [uint](/docs/game-reflection/components/uint) | collision |
-| Vector< [PhysicsShape](/docs/game-reflection/classes/physics_shape) > | Shapes |
+|:----------|:--------------|
+| [IdString](/riftbreaker-wiki/docs/game-reflection/components/id_string/) | name |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | always_kill |
+| [IdString](/riftbreaker-wiki/docs/game-reflection/components/id_string/) | group |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | damage_amount |
+| [uint64](/riftbreaker-wiki/docs/game-reflection/components/uint64/) | type |
+| [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | team |
+| [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | collision |
+| Vector< [PhysicsShape](/riftbreaker-wiki/docs/game-reflection/classes/physics_shape/) > | Shapes |
 

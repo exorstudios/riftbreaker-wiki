@@ -5,15 +5,15 @@ has_children: false
 parent: Class
 grand_parent: Game Reflection
 ---
-# EmissiveBlinkAffector( [ AffectorLambda ](/docs/game-reflection/classes/affector_lambda) )
+# EmissiveBlinkAffector( [ AffectorLambda ](/riftbreaker-wiki/docs/game-reflection/classes/affector_lambda/) )
 Description 
 
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [float](/docs/game-reflection/components/float) | timer |
-| [ushort](/docs/game-reflection/enums/ushort) | quantity |
-| [float](/docs/game-reflection/components/float) | time |
-| [float](/docs/game-reflection/components/float) | power |
+|:----------|:--------------|
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | timer |
+| [ushort](/riftbreaker-wiki/docs/game-reflection/enums/ushort/) | quantity |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | time |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | power |
 

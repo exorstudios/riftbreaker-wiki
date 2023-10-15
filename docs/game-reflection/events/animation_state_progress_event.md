@@ -5,15 +5,15 @@ has_children: false
 parent: Event
 grand_parent: Game Reflection
 ---
-# AnimationStateProgressEvent( [ EntityEventBase ](/docs/game-reflection/events/entity_event_base) )
+# AnimationStateProgressEvent( [ EntityEventBase ](/riftbreaker-wiki/docs/game-reflection/events/entity_event_base/) )
 Description 
 
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [String](/docs/game-reflection/components/string) | LayerName |
-| [String](/docs/game-reflection/components/string) | StateName |
-| [float](/docs/game-reflection/components/float) | Progress |
-| [Entity](/docs/game-reflection/classes/entity) | Entity |
+|:----------|:--------------|
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | LayerName |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | StateName |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | Progress |
+| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
 

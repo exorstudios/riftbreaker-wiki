@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| Vector< [TableKVP](/docs/game-reflection/classes/table_k_v_p) > | value |
-| [int](/docs/game-reflection/enums/int) | key |
+|:----------|:--------------|
+| Vector< [TableKVP](/riftbreaker-wiki/docs/game-reflection/classes/table_k_v_p/) > | value |
+| [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | key |
 

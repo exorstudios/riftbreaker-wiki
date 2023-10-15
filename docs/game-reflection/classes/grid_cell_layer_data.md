@@ -11,6 +11,6 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| Vector< [CellLayerInfo](/docs/game-reflection/classes/cell_layer_info) > | layers |
+|:----------|:--------------|
+| Vector< [CellLayerInfo](/riftbreaker-wiki/docs/game-reflection/classes/cell_layer_info/) > | layers |
 

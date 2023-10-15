@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [Vector3](/docs/game-reflection/classes/vector3) | second |
-| [Entity](/docs/game-reflection/classes/entity) | first |
+|:----------|:--------------|
+| [Vector3](/riftbreaker-wiki/docs/game-reflection/classes/vector3/) | second |
+| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | first |
 

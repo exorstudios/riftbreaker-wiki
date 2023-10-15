@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [uint](/docs/game-reflection/components/uint) | index |
-| [Entity](/docs/game-reflection/classes/entity) | user_data |
+|:----------|:--------------|
+| [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | index |
+| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | user_data |
 

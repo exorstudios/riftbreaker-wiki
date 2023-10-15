@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [CompoundStat](/docs/game-reflection/classes/compound_stat) | value |
-| [int](/docs/game-reflection/enums/int) | key |
+|:----------|:--------------|
+| [CompoundStat](/riftbreaker-wiki/docs/game-reflection/classes/compound_stat/) | value |
+| [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | key |
 

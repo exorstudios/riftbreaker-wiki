@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| Vector< [EnergyGraphEdge](/docs/game-reflection/classes/energy_graph_edge) > | value |
-| [Entity](/docs/game-reflection/classes/entity) | key |
+|:----------|:--------------|
+| Vector< [EnergyGraphEdge](/riftbreaker-wiki/docs/game-reflection/classes/energy_graph_edge/) > | value |
+| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | key |
 

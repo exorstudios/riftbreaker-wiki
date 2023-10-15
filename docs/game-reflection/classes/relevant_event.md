@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [TypeAny](/docs/game-reflection/components/type_any) | event |
-| [uint](/docs/game-reflection/components/uint) | revision |
+|:----------|:--------------|
+| [TypeAny](/riftbreaker-wiki/docs/game-reflection/components/type_any/) | event |
+| [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | revision |
 

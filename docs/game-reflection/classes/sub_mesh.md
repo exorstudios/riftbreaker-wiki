@@ -11,9 +11,9 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [IdString](/docs/game-reflection/components/id_string) | material |
-| [uchar](/docs/game-reflection/enums/uchar) | render_group |
-| Vector< [Pair_StringHash_IdString](/docs/game-reflection/classes/pair__string_hash__id_string) > | slot_material_map |
-| [uint64](/docs/game-reflection/components/uint64) | id |
+|:----------|:--------------|
+| [IdString](/riftbreaker-wiki/docs/game-reflection/components/id_string/) | material |
+| [uchar](/riftbreaker-wiki/docs/game-reflection/enums/uchar/) | render_group |
+| Vector< [Pair_StringHash_IdString](/riftbreaker-wiki/docs/game-reflection/classes/pair__string_hash__id_string/) > | slot_material_map |
+| [uint64](/riftbreaker-wiki/docs/game-reflection/components/uint64/) | id |
 

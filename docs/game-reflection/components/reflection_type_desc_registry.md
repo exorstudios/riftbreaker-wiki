@@ -11,6 +11,6 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| Vector< [ReflectionTypeDesc](/docs/game-reflection/components/reflection_type_desc) > | types |
+|:----------|:--------------|
+| Vector< [ReflectionTypeDesc](/riftbreaker-wiki/docs/game-reflection/components/reflection_type_desc/) > | types |
 

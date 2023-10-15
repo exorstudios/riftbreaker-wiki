@@ -11,6 +11,6 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [ResourceAccount](/docs/game-reflection/classes/resource_account) | account |
+|:----------|:--------------|
+| [ResourceAccount](/riftbreaker-wiki/docs/game-reflection/classes/resource_account/) | account |
 

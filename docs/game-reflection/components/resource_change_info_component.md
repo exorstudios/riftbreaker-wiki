@@ -11,6 +11,6 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| Vector< [Pair_Pair_StringHashuint_HudResourceChangeStruct](/docs/game-reflection/classes/pair__pair__string_hashuint__hud_resource_change_struct) > | change_info |
+|:----------|:--------------|
+| Vector< [Pair_Pair_StringHashuint_HudResourceChangeStruct](/riftbreaker-wiki/docs/game-reflection/classes/pair__pair__string_hashuint__hud_resource_change_struct/) > | change_info |
 

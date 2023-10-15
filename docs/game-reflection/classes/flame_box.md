@@ -11,10 +11,10 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [Entity](/docs/game-reflection/classes/entity) | entity |
-| [Quaternion](/docs/game-reflection/classes/quaternion) | orient |
-| [Vector3](/docs/game-reflection/classes/vector3) | position |
-| [float](/docs/game-reflection/components/float) | range |
-| [Vector3](/docs/game-reflection/classes/vector3) | extent |
+|:----------|:--------------|
+| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | entity |
+| [Quaternion](/riftbreaker-wiki/docs/game-reflection/classes/quaternion/) | orient |
+| [Vector3](/riftbreaker-wiki/docs/game-reflection/classes/vector3/) | position |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | range |
+| [Vector3](/riftbreaker-wiki/docs/game-reflection/classes/vector3/) | extent |
 

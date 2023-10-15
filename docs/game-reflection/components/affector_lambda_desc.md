@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [bool](/docs/game-reflection/components/bool) | remove_on_completition |
-| [AffectorLambda4](/docs/game-reflection/components/affector_lambda4) | affector_lambda |
+|:----------|:--------------|
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | remove_on_completition |
+| [AffectorLambda4](/riftbreaker-wiki/docs/game-reflection/components/affector_lambda4/) | affector_lambda |
 

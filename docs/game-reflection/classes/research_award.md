@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [String](/docs/game-reflection/components/string) | blueprint |
-| [bool](/docs/game-reflection/components/bool) | is_visible |
+|:----------|:--------------|
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | blueprint |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | is_visible |
 

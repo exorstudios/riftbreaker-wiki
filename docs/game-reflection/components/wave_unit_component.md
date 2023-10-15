@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [Entity](/docs/game-reflection/classes/entity) | wave_entity |
-| [int](/docs/game-reflection/enums/int) | state |
+|:----------|:--------------|
+| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | wave_entity |
+| [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | state |
 

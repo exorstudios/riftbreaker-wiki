@@ -11,7 +11,7 @@ Description
 ## Enum values
 
 | Name | Value |
-|:-------------|:--------------|
+|:----------|:--------------|
 | TagBool | 0 |
 | TagChar | 1 |
 | TagUChar | 2 |

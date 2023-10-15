@@ -11,6 +11,6 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| Vector< [JournalEntry](/docs/game-reflection/classes/journal_entry) > | data |
+|:----------|:--------------|
+| Vector< [JournalEntry](/riftbreaker-wiki/docs/game-reflection/classes/journal_entry/) > | data |
 

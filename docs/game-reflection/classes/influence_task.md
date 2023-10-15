@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [Entity](/docs/game-reflection/classes/entity) | owner |
-| [float](/docs/game-reflection/components/float) | delay |
+|:----------|:--------------|
+| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | owner |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | delay |
 

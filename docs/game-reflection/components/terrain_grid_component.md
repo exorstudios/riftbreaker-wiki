@@ -11,6 +11,6 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [TerrainGrid](/docs/game-reflection/classes/terrain_grid) | grid |
+|:----------|:--------------|
+| [TerrainGrid](/riftbreaker-wiki/docs/game-reflection/classes/terrain_grid/) | grid |
 

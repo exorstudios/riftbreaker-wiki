@@ -11,6 +11,6 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| Vector< [EffectInstance](/docs/game-reflection/classes/effect_instance) > | effects |
+|:----------|:--------------|
+| Vector< [EffectInstance](/riftbreaker-wiki/docs/game-reflection/classes/effect_instance/) > | effects |
 

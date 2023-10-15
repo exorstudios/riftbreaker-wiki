@@ -11,6 +11,6 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [BuildInfo](/docs/game-reflection/classes/build_info) | build_info |
+|:----------|:--------------|
+| [BuildInfo](/riftbreaker-wiki/docs/game-reflection/classes/build_info/) | build_info |
 

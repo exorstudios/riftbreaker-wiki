@@ -11,8 +11,8 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [float](/docs/game-reflection/components/float) | fvalue |
-| [IdString](/docs/game-reflection/components/id_string) | param |
-| [IdString](/docs/game-reflection/components/id_string) | sound |
+|:----------|:--------------|
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | fvalue |
+| [IdString](/riftbreaker-wiki/docs/game-reflection/components/id_string/) | param |
+| [IdString](/riftbreaker-wiki/docs/game-reflection/components/id_string/) | sound |
 

@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [String](/docs/game-reflection/components/string) | target_blueprint |
-| [String](/docs/game-reflection/components/string) | creator_blueprint |
+|:----------|:--------------|
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | target_blueprint |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | creator_blueprint |
 

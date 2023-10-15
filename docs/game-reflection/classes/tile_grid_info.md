@@ -11,8 +11,8 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [int](/docs/game-reflection/enums/int) | permutation |
-| [int](/docs/game-reflection/enums/int) | unique_id |
-| [bool](/docs/game-reflection/components/bool) | is_root_region |
+|:----------|:--------------|
+| [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | permutation |
+| [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | unique_id |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | is_root_region |
 

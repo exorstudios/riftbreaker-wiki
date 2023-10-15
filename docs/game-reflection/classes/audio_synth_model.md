@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [bool](/docs/game-reflection/components/bool) | dirty |
-| Vector< [Pair_String_float](/docs/game-reflection/classes/pair__string_float) > | db |
+|:----------|:--------------|
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | dirty |
+| Vector< [Pair_String_float](/riftbreaker-wiki/docs/game-reflection/classes/pair__string_float/) > | db |
 

@@ -11,8 +11,8 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [IdString](/docs/game-reflection/components/id_string) | material_id |
-| [IdString](/docs/game-reflection/components/id_string) | mesh_id |
-| [StringHash](/docs/game-reflection/classes/string_hash) | attachment |
+|:----------|:--------------|
+| [IdString](/riftbreaker-wiki/docs/game-reflection/components/id_string/) | material_id |
+| [IdString](/riftbreaker-wiki/docs/game-reflection/components/id_string/) | mesh_id |
+| [StringHash](/riftbreaker-wiki/docs/game-reflection/classes/string_hash/) | attachment |
 

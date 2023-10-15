@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [int](/docs/game-reflection/enums/int) | cost_value |
-| [uint](/docs/game-reflection/components/uint) | cost_type |
+|:----------|:--------------|
+| [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | cost_value |
+| [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | cost_type |
 

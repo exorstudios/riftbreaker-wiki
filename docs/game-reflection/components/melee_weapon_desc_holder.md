@@ -11,6 +11,6 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [EntityBlueprintHolder](/docs/game-reflection/components/entity_blueprint_holder) | blueprint_holder |
+|:----------|:--------------|
+| [EntityBlueprintHolder](/riftbreaker-wiki/docs/game-reflection/components/entity_blueprint_holder/) | blueprint_holder |
 

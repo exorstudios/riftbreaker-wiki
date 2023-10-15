@@ -5,14 +5,14 @@ has_children: false
 parent: Class
 grand_parent: Game Reflection
 ---
-# AnimationLookAtNode( [ AnimationEvalNode ](/docs/game-reflection/classes/animation_eval_node) )
+# AnimationLookAtNode( [ AnimationEvalNode ](/riftbreaker-wiki/docs/game-reflection/classes/animation_eval_node/) )
 Description 
 
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [int](/docs/game-reflection/enums/int) | goal_type |
-| [String](/docs/game-reflection/components/string) | end_bone |
-| [String](/docs/game-reflection/components/string) | ik_bone |
+|:----------|:--------------|
+| [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | goal_type |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | end_bone |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | ik_bone |
 

@@ -11,7 +11,7 @@ Description
 ## Enum values
 
 | Name | Value |
-|:-------------|:--------------|
+|:----------|:--------------|
 | NONE | 0 |
 | COMMON | 1 |
 | RARE | 2 |

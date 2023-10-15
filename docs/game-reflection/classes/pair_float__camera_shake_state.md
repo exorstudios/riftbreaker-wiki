@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [CameraShakeState](/docs/game-reflection/classes/camera_shake_state) | value |
-| [float](/docs/game-reflection/components/float) | key |
+|:----------|:--------------|
+| [CameraShakeState](/riftbreaker-wiki/docs/game-reflection/classes/camera_shake_state/) | value |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | key |
 

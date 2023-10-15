@@ -11,8 +11,8 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| Vector< [CampaignCustomOption](/docs/game-reflection/classes/campaign_custom_option) > | options |
-| [CampaignDef2](/docs/game-reflection/components/campaign_def2) | campaign |
-| Vector< [MultiplayerMission](/docs/game-reflection/classes/multiplayer_mission) > | missions |
+|:----------|:--------------|
+| Vector< [CampaignCustomOption](/riftbreaker-wiki/docs/game-reflection/classes/campaign_custom_option/) > | options |
+| [CampaignDef2](/riftbreaker-wiki/docs/game-reflection/components/campaign_def2/) | campaign |
+| Vector< [MultiplayerMission](/riftbreaker-wiki/docs/game-reflection/classes/multiplayer_mission/) > | missions |
 

@@ -11,10 +11,10 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [Random](/docs/game-reflection/components/random) | random |
-| [ModifiableValue](/docs/game-reflection/classes/modifiable_value) | loot_resources_modifier |
-| [ModifiableValue](/docs/game-reflection/classes/modifiable_value) | loot_mods_modifier |
-| [bool](/docs/game-reflection/components/bool) | is_initialized |
-| [bool](/docs/game-reflection/components/bool) | enable_conditions |
+|:----------|:--------------|
+| [Random](/riftbreaker-wiki/docs/game-reflection/components/random/) | random |
+| [ModifiableValue](/riftbreaker-wiki/docs/game-reflection/classes/modifiable_value/) | loot_resources_modifier |
+| [ModifiableValue](/riftbreaker-wiki/docs/game-reflection/classes/modifiable_value/) | loot_mods_modifier |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | is_initialized |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | enable_conditions |
 

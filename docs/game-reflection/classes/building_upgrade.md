@@ -11,14 +11,14 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [bool](/docs/game-reflection/components/bool) | is_new |
-| [String](/docs/game-reflection/components/string) | name |
-| [bool](/docs/game-reflection/components/bool) | can_not_afford |
-| [bool](/docs/game-reflection/components/bool) | extra_highlight |
-| [int](/docs/game-reflection/enums/int) | level |
-| [bool](/docs/game-reflection/components/bool) | is_enabled |
-| [bool](/docs/game-reflection/components/bool) | is_active |
-| [String](/docs/game-reflection/components/string) | disabled_icon_material |
-| [String](/docs/game-reflection/components/string) | icon_material |
+|:----------|:--------------|
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | is_new |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | name |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | can_not_afford |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | extra_highlight |
+| [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | level |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | is_enabled |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | is_active |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | disabled_icon_material |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | icon_material |
 

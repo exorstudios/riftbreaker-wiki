@@ -5,12 +5,12 @@ has_children: false
 parent: Class
 grand_parent: Game Reflection
 ---
-# GuiItemNoTexture( [ GuiItem ](/docs/game-reflection/classes/gui_item) )
+# GuiItemNoTexture( [ GuiItem ](/riftbreaker-wiki/docs/game-reflection/classes/gui_item/) )
 Description 
 
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [uchar](/docs/game-reflection/enums/uchar) | material_mode |
+|:----------|:--------------|
+| [uchar](/riftbreaker-wiki/docs/game-reflection/enums/uchar/) | material_mode |
 

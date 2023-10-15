@@ -11,8 +11,8 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [String](/docs/game-reflection/components/string) | family |
-| [String](/docs/game-reflection/components/string) | type |
-| [String](/docs/game-reflection/components/string) | subspecies |
+|:----------|:--------------|
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | family |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | type |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | subspecies |
 

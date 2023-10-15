@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [Pair_TimerVector_String](/docs/game-reflection/classes/pair__timer_vector__string) | value |
-| [Entity](/docs/game-reflection/classes/entity) | key |
+|:----------|:--------------|
+| [Pair_TimerVector_String](/riftbreaker-wiki/docs/game-reflection/classes/pair__timer_vector__string/) | value |
+| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | key |
 

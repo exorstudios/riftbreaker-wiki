@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| Vector< [String](/docs/game-reflection/components/string) > | items |
-| [String](/docs/game-reflection/components/string) | name |
+|:----------|:--------------|
+| Vector< [String](/riftbreaker-wiki/docs/game-reflection/components/string/) > | items |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | name |
 

@@ -11,6 +11,6 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [AnimationNodeMetaData4](/docs/game-reflection/components/animation_node_meta_data4) | metadata |
+|:----------|:--------------|
+| [AnimationNodeMetaData4](/riftbreaker-wiki/docs/game-reflection/components/animation_node_meta_data4/) | metadata |
 

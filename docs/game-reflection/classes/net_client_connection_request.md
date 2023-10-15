@@ -11,8 +11,8 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [TypeAny](/docs/game-reflection/components/type_any) | custom_data |
-| [String](/docs/game-reflection/components/string) | user_name |
-| [String](/docs/game-reflection/components/string) | user_id |
+|:----------|:--------------|
+| [TypeAny](/riftbreaker-wiki/docs/game-reflection/components/type_any/) | custom_data |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | user_name |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | user_id |
 

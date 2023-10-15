@@ -11,6 +11,6 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [ComponentRemoveObserver](/docs/game-reflection/components/component_remove_observer) | removed_observer |
+|:----------|:--------------|
+| [ComponentRemoveObserver](/riftbreaker-wiki/docs/game-reflection/components/component_remove_observer/) | removed_observer |
 

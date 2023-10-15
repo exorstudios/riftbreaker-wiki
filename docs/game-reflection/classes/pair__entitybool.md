@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [bool](/docs/game-reflection/components/bool) | second |
-| [Entity](/docs/game-reflection/classes/entity) | first |
+|:----------|:--------------|
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | second |
+| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | first |
 

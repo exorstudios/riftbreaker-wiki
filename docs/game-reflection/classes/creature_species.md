@@ -11,10 +11,10 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [float](/docs/game-reflection/components/float) | volume_aggressive_distance |
-| [float](/docs/game-reflection/components/float) | volume_respawn_time |
-| [float](/docs/game-reflection/components/float) | volume_non_aggressive_distance |
-| [String](/docs/game-reflection/components/string) | species_name |
-| Vector< [Creature](/docs/game-reflection/classes/creature) > | creatures |
+|:----------|:--------------|
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | volume_aggressive_distance |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | volume_respawn_time |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | volume_non_aggressive_distance |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | species_name |
+| Vector< [Creature](/riftbreaker-wiki/docs/game-reflection/classes/creature/) > | creatures |
 

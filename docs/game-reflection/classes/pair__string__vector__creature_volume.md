@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| Vector< [CreatureVolume](/docs/game-reflection/classes/creature_volume) > | value |
-| [String](/docs/game-reflection/components/string) | key |
+|:----------|:--------------|
+| Vector< [CreatureVolume](/riftbreaker-wiki/docs/game-reflection/classes/creature_volume/) > | value |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | key |
 

@@ -11,6 +11,6 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| Vector< [TimerData](/docs/game-reflection/classes/timer_data) > | timer_vec |
+|:----------|:--------------|
+| Vector< [TimerData](/riftbreaker-wiki/docs/game-reflection/classes/timer_data/) > | timer_vec |
 

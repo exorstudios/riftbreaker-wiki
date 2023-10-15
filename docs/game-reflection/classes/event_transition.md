@@ -11,8 +11,8 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| Vector< [IdString](/docs/game-reflection/components/id_string) > | state |
-| Vector< [ParamWithValue](/docs/game-reflection/classes/param_with_value) > | param_vec |
-| [IdString](/docs/game-reflection/components/id_string) | event_name |
+|:----------|:--------------|
+| Vector< [IdString](/riftbreaker-wiki/docs/game-reflection/components/id_string/) > | state |
+| Vector< [ParamWithValue](/riftbreaker-wiki/docs/game-reflection/classes/param_with_value/) > | param_vec |
+| [IdString](/riftbreaker-wiki/docs/game-reflection/components/id_string/) | event_name |
 

@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| Vector< [Pair_uint_PersistentStorage](/docs/game-reflection/classes/pair_uint__persistent_storage) > | value |
-| [StringHash](/docs/game-reflection/classes/string_hash) | key |
+|:----------|:--------------|
+| Vector< [Pair_uint_PersistentStorage](/riftbreaker-wiki/docs/game-reflection/classes/pair_uint__persistent_storage/) > | value |
+| [StringHash](/riftbreaker-wiki/docs/game-reflection/classes/string_hash/) | key |
 

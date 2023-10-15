@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| Vector< [String](/docs/game-reflection/components/string) > | unlocked |
-| Vector< [Entity](/docs/game-reflection/classes/entity) > | to_remove |
+|:----------|:--------------|
+| Vector< [String](/riftbreaker-wiki/docs/game-reflection/components/string/) > | unlocked |
+| Vector< [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) > | to_remove |
 

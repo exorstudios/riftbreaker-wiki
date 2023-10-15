@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [uint](/docs/game-reflection/components/uint) | player_id |
-| [PlayerReferenceType](/docs/game-reflection/classes/player_reference_type) | reference_type |
+|:----------|:--------------|
+| [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | player_id |
+| [PlayerReferenceType](/riftbreaker-wiki/docs/game-reflection/classes/player_reference_type/) | reference_type |
 

@@ -11,6 +11,6 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| Vector< [Pair_uint_float](/docs/game-reflection/classes/pair_uint_float) > | global_quest_display |
+|:----------|:--------------|
+| Vector< [Pair_uint_float](/riftbreaker-wiki/docs/game-reflection/classes/pair_uint_float/) > | global_quest_display |
 

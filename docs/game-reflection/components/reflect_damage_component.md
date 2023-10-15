@@ -11,9 +11,9 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [bool](/docs/game-reflection/components/bool) | melee_only |
-| [int](/docs/game-reflection/enums/int) | reflect_type |
-| [float](/docs/game-reflection/components/float) | damage_value |
-| [IdString](/docs/game-reflection/components/id_string) | damage_type |
+|:----------|:--------------|
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | melee_only |
+| [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | reflect_type |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | damage_value |
+| [IdString](/riftbreaker-wiki/docs/game-reflection/components/id_string/) | damage_type |
 

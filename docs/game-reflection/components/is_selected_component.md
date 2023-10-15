@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [bool](/docs/game-reflection/components/bool) | selected |
-| [bool](/docs/game-reflection/components/bool) | activated |
+|:----------|:--------------|
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | selected |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | activated |
 

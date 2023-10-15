@@ -11,10 +11,10 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [uchar](/docs/game-reflection/enums/uchar) | mode |
-| Vector< [Entity](/docs/game-reflection/classes/entity) > | owners |
-| [String](/docs/game-reflection/components/string) | highlight_material |
-| [uchar](/docs/game-reflection/enums/uchar) | priority |
-| [uchar](/docs/game-reflection/enums/uchar) | owner |
+|:----------|:--------------|
+| [uchar](/riftbreaker-wiki/docs/game-reflection/enums/uchar/) | mode |
+| Vector< [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) > | owners |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | highlight_material |
+| [uchar](/riftbreaker-wiki/docs/game-reflection/enums/uchar/) | priority |
+| [uchar](/riftbreaker-wiki/docs/game-reflection/enums/uchar/) | owner |
 

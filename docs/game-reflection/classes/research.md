@@ -11,10 +11,10 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [String](/docs/game-reflection/components/string) | base_research |
-| Vector< [ResearchTree](/docs/game-reflection/classes/research_tree) > | categories |
-| [String](/docs/game-reflection/components/string) | type |
-| [String](/docs/game-reflection/components/string) | editor |
-| [uint64](/docs/game-reflection/components/uint64) | version |
+|:----------|:--------------|
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | base_research |
+| Vector< [ResearchTree](/riftbreaker-wiki/docs/game-reflection/classes/research_tree/) > | categories |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | type |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | editor |
+| [uint64](/riftbreaker-wiki/docs/game-reflection/components/uint64/) | version |
 

@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [InfluenceInstance](/docs/game-reflection/classes/influence_instance) | value |
-| [uint](/docs/game-reflection/components/uint) | key |
+|:----------|:--------------|
+| [InfluenceInstance](/riftbreaker-wiki/docs/game-reflection/classes/influence_instance/) | value |
+| [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | key |
 

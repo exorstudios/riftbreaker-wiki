@@ -11,8 +11,8 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [bool](/docs/game-reflection/components/bool) | blocking |
-| [float](/docs/game-reflection/components/float) | distance |
-| [IdString](/docs/game-reflection/components/id_string) | effect |
+|:----------|:--------------|
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | blocking |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | distance |
+| [IdString](/riftbreaker-wiki/docs/game-reflection/components/id_string/) | effect |
 

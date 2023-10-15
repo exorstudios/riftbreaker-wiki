@@ -11,8 +11,8 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [ResourceValue](/docs/game-reflection/classes/resource_value) | add |
-| [ResourceValue](/docs/game-reflection/classes/resource_value) | amount |
-| [ResourceValue](/docs/game-reflection/classes/resource_value) | min |
+|:----------|:--------------|
+| [ResourceValue](/riftbreaker-wiki/docs/game-reflection/classes/resource_value/) | add |
+| [ResourceValue](/riftbreaker-wiki/docs/game-reflection/classes/resource_value/) | amount |
+| [ResourceValue](/riftbreaker-wiki/docs/game-reflection/classes/resource_value/) | min |
 

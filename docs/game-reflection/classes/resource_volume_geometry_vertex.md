@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [float](/docs/game-reflection/components/float) | alpha |
-| [Vector3](/docs/game-reflection/classes/vector3) | position |
+|:----------|:--------------|
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | alpha |
+| [Vector3](/riftbreaker-wiki/docs/game-reflection/classes/vector3/) | position |
 

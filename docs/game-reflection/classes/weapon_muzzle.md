@@ -11,9 +11,9 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [float](/docs/game-reflection/components/float) | recoil_offset |
-| [float](/docs/game-reflection/components/float) | recoil_time |
-| [IdString](/docs/game-reflection/components/id_string) | recoil_bone |
-| [IdString](/docs/game-reflection/components/id_string) | attachment |
+|:----------|:--------------|
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | recoil_offset |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | recoil_time |
+| [IdString](/riftbreaker-wiki/docs/game-reflection/components/id_string/) | recoil_bone |
+| [IdString](/riftbreaker-wiki/docs/game-reflection/components/id_string/) | attachment |
 

@@ -11,8 +11,8 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [String](/docs/game-reflection/components/string) | coords |
-| [bool](/docs/game-reflection/components/bool) | blocked |
-| [String](/docs/game-reflection/components/string) | portal_blocked |
+|:----------|:--------------|
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | coords |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | blocked |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | portal_blocked |
 

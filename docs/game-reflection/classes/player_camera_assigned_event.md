@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [uint](/docs/game-reflection/components/uint) | PlayerId |
-| [Entity](/docs/game-reflection/classes/entity) | Camera |
+|:----------|:--------------|
+| [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | PlayerId |
+| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Camera |
 

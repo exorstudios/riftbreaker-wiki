@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [DataHolder](/docs/game-reflection/classes/data_holder) | value |
-| [BlendTreeDataKey](/docs/game-reflection/classes/blend_tree_data_key) | key |
+|:----------|:--------------|
+| [DataHolder](/riftbreaker-wiki/docs/game-reflection/classes/data_holder/) | value |
+| [BlendTreeDataKey](/riftbreaker-wiki/docs/game-reflection/classes/blend_tree_data_key/) | key |
 

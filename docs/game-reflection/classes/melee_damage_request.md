@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [IdString](/docs/game-reflection/components/id_string) | damage_name |
-| [Entity](/docs/game-reflection/classes/entity) | melee_entity |
+|:----------|:--------------|
+| [IdString](/riftbreaker-wiki/docs/game-reflection/components/id_string/) | damage_name |
+| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | melee_entity |
 

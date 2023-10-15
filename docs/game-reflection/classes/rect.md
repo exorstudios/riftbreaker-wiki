@@ -11,9 +11,9 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [float](/docs/game-reflection/components/float) | height |
-| [float](/docs/game-reflection/components/float) | x |
-| [float](/docs/game-reflection/components/float) | y |
-| [float](/docs/game-reflection/components/float) | width |
+|:----------|:--------------|
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | height |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | x |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | y |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | width |
 

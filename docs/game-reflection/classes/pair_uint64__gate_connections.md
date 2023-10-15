@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [GateConnections](/docs/game-reflection/classes/gate_connections) | value |
-| [uint64](/docs/game-reflection/components/uint64) | key |
+|:----------|:--------------|
+| [GateConnections](/riftbreaker-wiki/docs/game-reflection/classes/gate_connections/) | value |
+| [uint64](/riftbreaker-wiki/docs/game-reflection/components/uint64/) | key |
 

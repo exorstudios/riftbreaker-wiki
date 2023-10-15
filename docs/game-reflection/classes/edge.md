@@ -11,9 +11,9 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [uint64](/docs/game-reflection/components/uint64) | end |
-| [uint64](/docs/game-reflection/components/uint64) | start |
-| [int](/docs/game-reflection/enums/int) | status |
-| [bool](/docs/game-reflection/components/bool) | visit_once |
+|:----------|:--------------|
+| [uint64](/riftbreaker-wiki/docs/game-reflection/components/uint64/) | end |
+| [uint64](/riftbreaker-wiki/docs/game-reflection/components/uint64/) | start |
+| [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | status |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | visit_once |
 

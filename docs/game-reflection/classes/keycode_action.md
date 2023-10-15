@@ -11,8 +11,8 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [int](/docs/game-reflection/enums/int) | key_code |
-| [float](/docs/game-reflection/components/float) | value |
-| [String](/docs/game-reflection/components/string) | action |
+|:----------|:--------------|
+| [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | key_code |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | value |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | action |
 

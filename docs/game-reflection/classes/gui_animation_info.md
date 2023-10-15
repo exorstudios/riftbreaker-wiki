@@ -11,10 +11,10 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [float](/docs/game-reflection/components/float) | multiplier |
-| [bool](/docs/game-reflection/components/bool) | reverse |
-| [bool](/docs/game-reflection/components/bool) | stay_at_end |
-| [int](/docs/game-reflection/enums/int) | loop |
-| [bool](/docs/game-reflection/components/bool) | random_start |
+|:----------|:--------------|
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | multiplier |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | reverse |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | stay_at_end |
+| [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | loop |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | random_start |
 

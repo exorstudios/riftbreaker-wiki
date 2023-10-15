@@ -11,10 +11,10 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [String](/docs/game-reflection/components/string) | localization_id |
-| [String](/docs/game-reflection/components/string) | gui_id |
-| [bool](/docs/game-reflection/components/bool) | slowdown |
-| [String](/docs/game-reflection/components/string) | sound_name |
-| [float](/docs/game-reflection/components/float) | duration |
+|:----------|:--------------|
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | localization_id |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | gui_id |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | slowdown |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | sound_name |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | duration |
 

@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| Vector< [InfluenceTask](/docs/game-reflection/classes/influence_task) > | queue |
-| [int](/docs/game-reflection/enums/int) | current_task |
+|:----------|:--------------|
+| Vector< [InfluenceTask](/riftbreaker-wiki/docs/game-reflection/classes/influence_task/) > | queue |
+| [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | current_task |
 

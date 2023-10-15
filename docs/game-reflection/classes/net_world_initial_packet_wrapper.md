@@ -11,6 +11,6 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [NetWorldInitialPacket4](/docs/game-reflection/components/net_world_initial_packet4) | initial_packet |
+|:----------|:--------------|
+| [NetWorldInitialPacket4](/riftbreaker-wiki/docs/game-reflection/components/net_world_initial_packet4/) | initial_packet |
 

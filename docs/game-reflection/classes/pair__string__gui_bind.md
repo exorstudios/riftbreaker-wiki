@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [GuiBind](/docs/game-reflection/classes/gui_bind) | value |
-| [String](/docs/game-reflection/components/string) | key |
+|:----------|:--------------|
+| [GuiBind](/riftbreaker-wiki/docs/game-reflection/classes/gui_bind/) | value |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | key |
 

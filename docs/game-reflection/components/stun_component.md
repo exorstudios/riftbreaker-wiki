@@ -11,8 +11,8 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [int](/docs/game-reflection/enums/int) | last_stun_type |
-| [bool](/docs/game-reflection/components/bool) | reset_stun |
-| [float](/docs/game-reflection/components/float) | last_stun_factor |
+|:----------|:--------------|
+| [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | last_stun_type |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | reset_stun |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | last_stun_factor |
 

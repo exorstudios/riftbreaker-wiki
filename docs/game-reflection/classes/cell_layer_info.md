@@ -11,7 +11,7 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [CellLayer4](/docs/game-reflection/components/cell_layer4) | layer |
-| [uint64](/docs/game-reflection/components/uint64) | id |
+|:----------|:--------------|
+| [CellLayer4](/riftbreaker-wiki/docs/game-reflection/components/cell_layer4/) | layer |
+| [uint64](/riftbreaker-wiki/docs/game-reflection/components/uint64/) | id |
 

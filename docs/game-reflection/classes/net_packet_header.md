@@ -11,8 +11,8 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [uint](/docs/game-reflection/components/uint) | message_id |
-| [uint](/docs/game-reflection/components/uint) | fragment_count |
-| [ushort](/docs/game-reflection/enums/ushort) | pckId |
+|:----------|:--------------|
+| [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | message_id |
+| [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | fragment_count |
+| [ushort](/riftbreaker-wiki/docs/game-reflection/enums/ushort/) | pckId |
 

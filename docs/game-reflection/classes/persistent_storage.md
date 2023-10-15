@@ -11,8 +11,8 @@ Description
 ## Fields
 
 | Type | Name |
-|:-------------|:--------------|
-| [ResourceBasket](/docs/game-reflection/classes/resource_basket) | outcome |
-| [ResourceBasket](/docs/game-reflection/classes/resource_basket) | income |
-| [ResourceAccount](/docs/game-reflection/classes/resource_account) | storage |
+|:----------|:--------------|
+| [ResourceBasket](/riftbreaker-wiki/docs/game-reflection/classes/resource_basket/) | outcome |
+| [ResourceBasket](/riftbreaker-wiki/docs/game-reflection/classes/resource_basket/) | income |
+| [ResourceAccount](/riftbreaker-wiki/docs/game-reflection/classes/resource_account/) | storage |
 
