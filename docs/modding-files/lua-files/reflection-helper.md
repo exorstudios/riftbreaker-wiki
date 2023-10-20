@@ -10,6 +10,23 @@ grand_parent: Modding files
 
 The reflection helper is a powerful part of Lua coding, it helps to access values for GetField, GetValue, IsContainer and ToContainer. 
 
+# Component vs SingletonComponent
+## Component
+
+Is a storage per local entity, each entity can have their own instance of some component.  
+Lua:
+```lua
+EntityService:GetComponent(ENTITY, "COMPONENT")
+```
+
+## SingletonComponent
+
+Is for global storage and is not tied to any entity, no matter in which place you call it you will get the same instance of the data.  
+Lua:
+```lua
+EntityService:GetSingletonComponent("COMPONENT")
+```
+
 # Using the reflection helper
 
 At the beginning of your lua file should be the require for the reflection element:
