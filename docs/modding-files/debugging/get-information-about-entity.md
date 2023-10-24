@@ -10,12 +10,12 @@ grand_parent: Modding files
 Sometimes it's necessary to do some live debugging in game and find some information about an entity. 
 
 # Debugging
-Open the console and type `debug_enitity_signature_picker`  
-This will start the signature picker and you can move your mouse around the screen to find information about the entity you are hovering above.  
+Open the console and type `debug_enitity_picker 1`  
+This will start the entity picker:  
+![](../../../../assets/images/debugging_entity_picker_new.png)  
   
-
-To filter the entities, you can use the components like `debug_enitity_signature_picker MeshComponent`  
-So it only allows to pick entities with a mesh.    
-
-As a result, you get a nice entity overview ingame: 
-![](../../../../assets/images/debugging_entity_picker.png)  
+Now you can move your mouse and click on any kind of entity (f.e. a tower):  
+![](../../../../assets/images/debugging_entity_picker_new_2.png)  
+  
+As a result, the entity picker will list all available components and their information:  
+![](../../../../assets/images/debugging_entity_picker_new_3.png)  
