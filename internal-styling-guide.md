@@ -35,4 +35,4 @@ nav_exclude: true
 ## Linking pictures ##
 ![](/assets/images/gui_styling_header_35.png)  
 ## Limiting picture size ##
-![](/assets/images/gui_styling_header_35.png){: width="600px"}  
+![](/assets/images/gui_styling_header_35.png){: width="150px"}  
