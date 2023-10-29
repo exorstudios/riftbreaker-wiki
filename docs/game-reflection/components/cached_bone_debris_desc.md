@@ -12,7 +12,7 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [IdString](/riftbreaker-wiki/docs/game-reflection/components/id_string/) | material_id |
-| [IdString](/riftbreaker-wiki/docs/game-reflection/components/id_string/) | mesh_id |
 | [StringHash](/riftbreaker-wiki/docs/game-reflection/classes/string_hash/) | attachment |
+| [IdString](/riftbreaker-wiki/docs/game-reflection/components/id_string/) | mesh_id |
+| [IdString](/riftbreaker-wiki/docs/game-reflection/components/id_string/) | material_id |
 

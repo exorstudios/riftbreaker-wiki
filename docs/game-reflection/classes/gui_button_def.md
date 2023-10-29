@@ -12,6 +12,6 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | popup_confirmation_node |
 | [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | popup_gui_id |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | popup_confirmation_node |
 

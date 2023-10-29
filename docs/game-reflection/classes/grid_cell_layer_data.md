@@ -12,5 +12,5 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| Vector< [CellLayerInfo](/riftbreaker-wiki/docs/game-reflection/classes/cell_layer_info/) > | layers |
+| Container< [CellLayerInfo](/riftbreaker-wiki/docs/game-reflection/classes/cell_layer_info/) > | layers |
 

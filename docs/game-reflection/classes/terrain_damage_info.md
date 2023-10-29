@@ -12,8 +12,8 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | stun_value |
 | [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | interval |
 | [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | value |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | stun_value |
 | [IdString](/riftbreaker-wiki/docs/game-reflection/components/id_string/) | type |
 

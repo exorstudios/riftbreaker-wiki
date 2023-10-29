@@ -12,7 +12,7 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
+| [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | power |
 | [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | radius |
 | [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | speed |
-| [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | power |
 

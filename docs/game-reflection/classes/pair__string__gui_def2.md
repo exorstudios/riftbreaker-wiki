@@ -12,6 +12,6 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [GuiDef2](/riftbreaker-wiki/docs/game-reflection/components/gui_def2/) | value |
 | [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | key |
+| [GuiDef2](/riftbreaker-wiki/docs/game-reflection/components/gui_def2/) | value |
 

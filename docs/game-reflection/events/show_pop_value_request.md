@@ -12,9 +12,9 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | Value |
-| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | Size |
-| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | Icon |
-| [Color](/riftbreaker-wiki/docs/game-reflection/classes/color/) | Color |
 | [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | Value |
+| [Color](/riftbreaker-wiki/docs/game-reflection/classes/color/) | Color |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | Icon |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | Size |
 

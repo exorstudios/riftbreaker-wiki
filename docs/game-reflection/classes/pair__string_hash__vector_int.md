@@ -12,6 +12,6 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| Vector< [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) > | value |
 | [StringHash](/riftbreaker-wiki/docs/game-reflection/classes/string_hash/) | key |
+| Container< [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) > | value |
 

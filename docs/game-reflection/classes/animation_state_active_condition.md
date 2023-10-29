@@ -13,6 +13,6 @@ Description
 | Type | Name |
 |:----------|:--------------|
 | [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | layer_name |
-| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | active |
 | [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | state_name |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | active |
 

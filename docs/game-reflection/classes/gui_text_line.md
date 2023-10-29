@@ -14,7 +14,7 @@ Description
 |:----------|:--------------|
 | [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | content |
 | [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | translate |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | capitals |
 | [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | style_name |
 | [Vector2](/riftbreaker-wiki/docs/game-reflection/classes/vector2/) | proper_text_size |
-| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | capitals |
 

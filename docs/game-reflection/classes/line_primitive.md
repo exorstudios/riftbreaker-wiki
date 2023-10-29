@@ -13,6 +13,6 @@ Description
 | Type | Name |
 |:----------|:--------------|
 | [Vector4](/riftbreaker-wiki/docs/game-reflection/classes/vector4/) | lineColor |
-| [Vector3](/riftbreaker-wiki/docs/game-reflection/classes/vector3/) | p2 |
 | [Vector3](/riftbreaker-wiki/docs/game-reflection/classes/vector3/) | p1 |
+| [Vector3](/riftbreaker-wiki/docs/game-reflection/classes/vector3/) | p2 |
 

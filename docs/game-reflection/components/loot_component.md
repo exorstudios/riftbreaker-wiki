@@ -12,10 +12,10 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | explosion_min_power |
-| [Vector3](/riftbreaker-wiki/docs/game-reflection/classes/vector3/) | spawn_offset |
-| [uchar](/riftbreaker-wiki/docs/game-reflection/enums/uchar/) | loot_container_override |
 | [IdString](/riftbreaker-wiki/docs/game-reflection/components/id_string/) | bp |
-| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | explosion_max_power |
+| [uchar](/riftbreaker-wiki/docs/game-reflection/enums/uchar/) | loot_container_override |
 | [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | is_gatherable |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | explosion_min_power |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | explosion_max_power |
+| [Vector3](/riftbreaker-wiki/docs/game-reflection/classes/vector3/) | spawn_offset |
 

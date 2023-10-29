@@ -12,7 +12,7 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | Visible |
-| Vector< [String](/riftbreaker-wiki/docs/game-reflection/components/string/) > | Huds |
 | [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
+| Container< [String](/riftbreaker-wiki/docs/game-reflection/components/string/) > | Huds |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | Visible |
 

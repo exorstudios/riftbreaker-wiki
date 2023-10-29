@@ -12,7 +12,7 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [Vector3](/riftbreaker-wiki/docs/game-reflection/classes/vector3/) | origin |
 | [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | graph_cost |
 | [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | type |
+| [Vector3](/riftbreaker-wiki/docs/game-reflection/classes/vector3/) | origin |
 

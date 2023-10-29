@@ -12,7 +12,7 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [StringHash](/riftbreaker-wiki/docs/game-reflection/classes/string_hash/) | Attachment |
-| [IdString](/riftbreaker-wiki/docs/game-reflection/components/id_string/) | Blueprint |
 | [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
+| [IdString](/riftbreaker-wiki/docs/game-reflection/components/id_string/) | Blueprint |
+| [StringHash](/riftbreaker-wiki/docs/game-reflection/classes/string_hash/) | Attachment |
 

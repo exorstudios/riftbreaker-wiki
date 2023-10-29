@@ -12,7 +12,7 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [Vector4](/riftbreaker-wiki/docs/game-reflection/classes/vector4/) | if_true |
 | [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | check |
+| [Vector4](/riftbreaker-wiki/docs/game-reflection/classes/vector4/) | if_true |
 | [Vector4](/riftbreaker-wiki/docs/game-reflection/classes/vector4/) | if_false |
 

@@ -12,7 +12,7 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | LocalizationId |
-| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | Result |
 | [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | Result |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | LocalizationId |
 

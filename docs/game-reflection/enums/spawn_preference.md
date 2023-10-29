@@ -13,6 +13,6 @@ Description
 | Name | Value |
 |:----------|:--------------|
 |  | 0 |
-| undiscovered | 1 |
 | random | 0 |
+| undiscovered | 1 |
 

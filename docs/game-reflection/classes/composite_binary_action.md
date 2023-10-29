@@ -12,6 +12,6 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | threshold |
 | [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | action |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | threshold |
 

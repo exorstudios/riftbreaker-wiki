@@ -12,6 +12,6 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [GameServerInfo](/riftbreaker-wiki/docs/game-reflection/classes/game_server_info/) | GameServerInfo |
 | [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
+| [GameServerInfo](/riftbreaker-wiki/docs/game-reflection/classes/game_server_info/) | GameServerInfo |
 

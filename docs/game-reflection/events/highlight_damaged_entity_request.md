@@ -12,10 +12,10 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
+| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
 | [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Owner |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | Damage |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | Factor |
 | [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | Overtime |
 | [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | Damaged |
-| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | Factor |
-| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
-| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | Damage |
 

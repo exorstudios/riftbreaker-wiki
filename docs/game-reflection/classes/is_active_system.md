@@ -12,5 +12,5 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| Vector< [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) > | active_entities |
+| Container< [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) > | active_entities |
 

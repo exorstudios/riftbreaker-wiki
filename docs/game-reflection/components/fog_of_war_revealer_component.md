@@ -14,6 +14,6 @@ Description
 |:----------|:--------------|
 | [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | radius |
 | [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | persistent |
-| Vector< [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) > | marked_cells |
 | [Vector3](/riftbreaker-wiki/docs/game-reflection/classes/vector3/) | marked_position |
+| Container< [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) > | marked_cells |
 

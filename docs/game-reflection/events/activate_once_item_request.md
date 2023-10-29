@@ -12,6 +12,6 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | Continous |
 | [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | Continous |
 

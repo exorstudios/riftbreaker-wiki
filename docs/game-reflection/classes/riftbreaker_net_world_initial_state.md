@@ -12,7 +12,7 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [Pair_EntityLogicTimeDelta](/riftbreaker-wiki/docs/game-reflection/classes/pair__entity_logic_time_delta/) | initial_logic_time |
 | [EcsContext](/riftbreaker-wiki/docs/game-reflection/classes/ecs_context/) | context |
+| [Pair_EntityLogicTimeDelta](/riftbreaker-wiki/docs/game-reflection/classes/pair__entity_logic_time_delta/) | initial_logic_time |
 | [PlayerInfo](/riftbreaker-wiki/docs/game-reflection/classes/player_info/) | player_info |
 

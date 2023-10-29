@@ -13,6 +13,6 @@ Description
 | Type | Name |
 |:----------|:--------------|
 | [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | last_value |
-| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | max |
 | [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | min |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | max |
 

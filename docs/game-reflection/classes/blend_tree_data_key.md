@@ -12,6 +12,6 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [ushort](/riftbreaker-wiki/docs/game-reflection/enums/ushort/) | id |
 | [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | type_hash |
+| [ushort](/riftbreaker-wiki/docs/game-reflection/enums/ushort/) | id |
 

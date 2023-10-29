@@ -12,6 +12,6 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [State4](/riftbreaker-wiki/docs/game-reflection/components/state4/) | value |
 | [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | key |
+| [State4](/riftbreaker-wiki/docs/game-reflection/components/state4/) | value |
 

@@ -12,8 +12,8 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | right_motor |
-| Vector< [PlayerPadHapticFeedback](/riftbreaker-wiki/docs/game-reflection/classes/player_pad_haptic_feedback/) > | haptic_feedback |
-| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | enabled |
 | [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | left_motor |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | right_motor |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | enabled |
+| Container< [PlayerPadHapticFeedback](/riftbreaker-wiki/docs/game-reflection/classes/player_pad_haptic_feedback/) > | haptic_feedback |
 

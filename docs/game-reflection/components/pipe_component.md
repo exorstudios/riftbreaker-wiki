@@ -12,11 +12,11 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| Vector< [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) > | cell_idx |
-| [uint64](/riftbreaker-wiki/docs/game-reflection/components/uint64/) | counter |
-| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | last_resource_name |
-| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | resource_name |
-| Vector< [String](/riftbreaker-wiki/docs/game-reflection/components/string/) > | attachment |
 | [uint64](/riftbreaker-wiki/docs/game-reflection/components/uint64/) | connection_id |
-| Vector< [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) > | cell_idx_ent |
+| [uint64](/riftbreaker-wiki/docs/game-reflection/components/uint64/) | counter |
+| Container< [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) > | cell_idx_ent |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | resource_name |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | last_resource_name |
+| Container< [String](/riftbreaker-wiki/docs/game-reflection/components/string/) > | attachment |
+| Container< [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) > | cell_idx |
 

@@ -12,6 +12,6 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | chance |
 | [ushort](/riftbreaker-wiki/docs/game-reflection/enums/ushort/) | spawn_ratio |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | chance |
 

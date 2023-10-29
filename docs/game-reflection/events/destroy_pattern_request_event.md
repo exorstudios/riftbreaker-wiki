@@ -12,8 +12,8 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | RemoveEntity |
-| [IdString](/riftbreaker-wiki/docs/game-reflection/components/id_string/) | DestroyPattern |
-| [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | Flags |
 | [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
+| [IdString](/riftbreaker-wiki/docs/game-reflection/components/id_string/) | DestroyPattern |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | RemoveEntity |
+| [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | Flags |
 

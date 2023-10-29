@@ -12,7 +12,7 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| Vector< [float](/riftbreaker-wiki/docs/game-reflection/components/float/) > | threshold_vec |
+| Container< [float](/riftbreaker-wiki/docs/game-reflection/components/float/) > | threshold_vec |
 | [Vector3](/riftbreaker-wiki/docs/game-reflection/classes/vector3/) | prev_pos |
 | [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | avg_speed |
 | [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | tier |

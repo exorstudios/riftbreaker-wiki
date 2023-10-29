@@ -12,7 +12,7 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [IdString](/riftbreaker-wiki/docs/game-reflection/components/id_string/) | animation_graph_name |
 | [AnimationGraphInstanceDesc](/riftbreaker-wiki/docs/game-reflection/components/animation_graph_instance_desc/) | instance_desc |
+| [IdString](/riftbreaker-wiki/docs/game-reflection/components/id_string/) | animation_graph_name |
 | [IdString](/riftbreaker-wiki/docs/game-reflection/components/id_string/) | group_name |
 

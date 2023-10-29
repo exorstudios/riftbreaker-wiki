@@ -12,6 +12,6 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| Vector< [ParamDecl](/riftbreaker-wiki/docs/game-reflection/classes/param_decl/) > | param_decl |
-| Vector< [AnimationGraphLayer](/riftbreaker-wiki/docs/game-reflection/classes/animation_graph_layer/) > | layer_vec |
+| Container< [ParamDecl](/riftbreaker-wiki/docs/game-reflection/classes/param_decl/) > | param_decl |
+| Container< [AnimationGraphLayer](/riftbreaker-wiki/docs/game-reflection/classes/animation_graph_layer/) > | layer_vec |
 

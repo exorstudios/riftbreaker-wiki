@@ -12,8 +12,8 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
+| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | SrcTag |
 | [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | DstTag |
 | [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | Offset |
-| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | SrcTag |
-| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
 

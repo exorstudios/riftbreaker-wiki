@@ -12,6 +12,6 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | max |
 | [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | min |
+| [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | max |
 

@@ -12,7 +12,7 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [Vector3](/riftbreaker-wiki/docs/game-reflection/classes/vector3/) | Origin |
-| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | Tag |
 | [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | Tag |
+| [Vector3](/riftbreaker-wiki/docs/game-reflection/classes/vector3/) | Origin |
 

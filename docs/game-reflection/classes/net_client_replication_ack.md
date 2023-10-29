@@ -12,6 +12,6 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| Vector< [TypeAny](/riftbreaker-wiki/docs/game-reflection/components/type_any/) > | replication_events |
 | [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | revision |
+| Container< [TypeAny](/riftbreaker-wiki/docs/game-reflection/components/type_any/) > | replication_events |
 

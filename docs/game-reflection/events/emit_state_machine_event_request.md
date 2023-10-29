@@ -12,6 +12,6 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [IdString](/riftbreaker-wiki/docs/game-reflection/components/id_string/) | EmitEventName |
 | [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
+| [IdString](/riftbreaker-wiki/docs/game-reflection/components/id_string/) | EmitEventName |
 

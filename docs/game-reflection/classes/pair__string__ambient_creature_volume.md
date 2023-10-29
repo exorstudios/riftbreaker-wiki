@@ -12,6 +12,6 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [AmbientCreatureVolume](/riftbreaker-wiki/docs/game-reflection/classes/ambient_creature_volume/) | value |
 | [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | key |
+| [AmbientCreatureVolume](/riftbreaker-wiki/docs/game-reflection/classes/ambient_creature_volume/) | value |
 

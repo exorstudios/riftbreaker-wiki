@@ -13,7 +13,7 @@ Description
 | Type | Name |
 |:----------|:--------------|
 | [uchar](/riftbreaker-wiki/docs/game-reflection/enums/uchar/) | relation_type |
-| Vector< [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) > | entities |
 | [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | component_type_hash |
 | [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | target |
+| Container< [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) > | entities |
 

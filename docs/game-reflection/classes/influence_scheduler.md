@@ -12,6 +12,6 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| Vector< [InfluenceTask](/riftbreaker-wiki/docs/game-reflection/classes/influence_task/) > | queue |
+| Container< [InfluenceTask](/riftbreaker-wiki/docs/game-reflection/classes/influence_task/) > | queue |
 | [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | current_task |
 

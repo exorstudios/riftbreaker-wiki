@@ -12,6 +12,6 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
+| Container< [String](/riftbreaker-wiki/docs/game-reflection/components/string/) > | actions |
 | [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | active_action |
-| Vector< [String](/riftbreaker-wiki/docs/game-reflection/components/string/) > | actions |
 

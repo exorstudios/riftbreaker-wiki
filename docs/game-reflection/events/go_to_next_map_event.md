@@ -12,7 +12,7 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
+| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
 | [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | SrcMap |
 | [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | DstMap |
-| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
 

@@ -12,5 +12,5 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| Vector< [TargetData](/riftbreaker-wiki/docs/game-reflection/classes/target_data/) > | target_data_vec |
+| Container< [TargetData](/riftbreaker-wiki/docs/game-reflection/classes/target_data/) > | target_data_vec |
 

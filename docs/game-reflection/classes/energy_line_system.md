@@ -12,5 +12,5 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| Vector< [Pair_Entitybool](/riftbreaker-wiki/docs/game-reflection/classes/pair__entitybool/) > | recreate_energy_lines |
+| Container< [Pair_Entitybool](/riftbreaker-wiki/docs/game-reflection/classes/pair__entitybool/) > | recreate_energy_lines |
 

@@ -12,6 +12,6 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [GuiReferenceDef](/riftbreaker-wiki/docs/game-reflection/classes/gui_reference_def/) | template_reference |
 | [uchar](/riftbreaker-wiki/docs/game-reflection/enums/uchar/) | stack_type |
+| [GuiReferenceDef](/riftbreaker-wiki/docs/game-reflection/classes/gui_reference_def/) | template_reference |
 

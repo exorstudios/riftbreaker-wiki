@@ -12,51 +12,51 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | season_only |
-| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | instant_build |
-| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | rotate_info |
-| [ResourceBasket](/riftbreaker-wiki/docs/game-reflection/classes/resource_basket/) | build_cost |
-| [uchar](/riftbreaker-wiki/docs/game-reflection/enums/uchar/) | mission_mode |
-| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | build_on_water |
+| Container< [BuildingCostInfo](/riftbreaker-wiki/docs/game-reflection/classes/building_cost_info/) > | costs |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | name |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | bp |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | ghost_bp |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | menu_icon |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | localization_id |
 | [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | description |
 | [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | upgrade |
-| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | localization_id |
-| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | buildable |
-| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | block_rotation |
-| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | building_mode |
-| [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | condition |
-| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | name |
-| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | menu_icon |
-| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | require |
-| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | is_global |
-| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | pipe_mode |
-| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | order |
-| Vector< [Pair_ushort_Vector_String](/riftbreaker-wiki/docs/game-reflection/classes/pair_ushort__vector__string/) > | connect |
-| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | ghost_bp |
-| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | difficulty_cost_apply |
-| [uchar](/riftbreaker-wiki/docs/game-reflection/enums/uchar/) | level |
-| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | radius_name |
-| Vector< [String](/riftbreaker-wiki/docs/game-reflection/components/string/) > | resource_requirement |
-| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | bp |
-| [IdString](/riftbreaker-wiki/docs/game-reflection/components/id_string/) | category |
-| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | menu_action |
-| Vector< [StringHash](/riftbreaker-wiki/docs/game-reflection/classes/string_hash/) > | exclude_terrain_types |
-| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | condition_value |
-| [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | map_limit |
-| [IdString](/riftbreaker-wiki/docs/game-reflection/components/id_string/) | type |
-| [uchar](/riftbreaker-wiki/docs/game-reflection/enums/uchar/) | going_green_state |
-| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | check_connect |
-| Vector< [BuildingCostInfo](/riftbreaker-wiki/docs/game-reflection/classes/building_cost_info/) > | costs |
-| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | limit_name |
-| Vector< [StringHash](/riftbreaker-wiki/docs/game-reflection/classes/string_hash/) > | overrides |
-| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | min_radius_effect |
-| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | min_radius |
-| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | line_connector |
 | [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | building_group |
+| Container< [String](/riftbreaker-wiki/docs/game-reflection/components/string/) > | resource_requirement |
 | [ResourceBasket](/riftbreaker-wiki/docs/game-reflection/classes/resource_basket/) | cost |
+| [ResourceBasket](/riftbreaker-wiki/docs/game-reflection/classes/resource_basket/) | build_cost |
+| Container< [Pair_ushort_Vector_String](/riftbreaker-wiki/docs/game-reflection/classes/pair_ushort__vector__string/) > | connect |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | limit_name |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | require |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | min_radius_effect |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | menu_action |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | season_only |
+| Container< [StringHash](/riftbreaker-wiki/docs/game-reflection/classes/string_hash/) > | exclude_terrain_types |
+| Container< [StringHash](/riftbreaker-wiki/docs/game-reflection/classes/string_hash/) > | overrides |
+| Container< [StringHash](/riftbreaker-wiki/docs/game-reflection/classes/string_hash/) > | erase_type |
+| [IdString](/riftbreaker-wiki/docs/game-reflection/components/id_string/) | category |
+| [IdString](/riftbreaker-wiki/docs/game-reflection/components/id_string/) | type |
 | [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | limit |
-| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | is_shortcut_bindable |
+| [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | map_limit |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | order |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | min_radius |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | radius_name |
+| [uchar](/riftbreaker-wiki/docs/game-reflection/enums/uchar/) | mission_mode |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | building_mode |
+| [uchar](/riftbreaker-wiki/docs/game-reflection/enums/uchar/) | level |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | line_connector |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | buildable |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | pipe_mode |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | build_on_water |
 | [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | sellable |
-| Vector< [StringHash](/riftbreaker-wiki/docs/game-reflection/classes/string_hash/) > | erase_type |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | instant_build |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | rotate_info |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | block_rotation |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | difficulty_cost_apply |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | check_connect |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | is_global |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | is_shortcut_bindable |
 | [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | disableable |
+| [uchar](/riftbreaker-wiki/docs/game-reflection/enums/uchar/) | going_green_state |
+| [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | condition |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | condition_value |
 

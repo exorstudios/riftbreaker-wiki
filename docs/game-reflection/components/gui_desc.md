@@ -12,16 +12,16 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
+| [GuiDef2](/riftbreaker-wiki/docs/game-reflection/components/gui_def2/) | gui_item |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | def_name |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | camera_group |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | type |
 | [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | material |
 | [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | mode |
-| [GuiDef2](/riftbreaker-wiki/docs/game-reflection/components/gui_def2/) | gui_item |
-| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | camera_group |
+| [Vector2](/riftbreaker-wiki/docs/game-reflection/classes/vector2/) | scale |
 | [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | order |
 | [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | clamp_in_frustum |
-| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | def_name |
-| [Vector2](/riftbreaker-wiki/docs/game-reflection/classes/vector2/) | scale |
-| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | type |
-| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | use_database_component |
 | [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | visible |
 | [uchar](/riftbreaker-wiki/docs/game-reflection/enums/uchar/) | alignment |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | use_database_component |
 

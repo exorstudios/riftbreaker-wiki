@@ -12,6 +12,6 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [int64](/riftbreaker-wiki/docs/game-reflection/components/int64/) | logic_time |
 | [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | logic_dt |
+| [int64](/riftbreaker-wiki/docs/game-reflection/components/int64/) | logic_time |
 

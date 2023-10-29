@@ -12,8 +12,8 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [Transform](/riftbreaker-wiki/docs/game-reflection/classes/transform/) | Transform |
-| [StringHash](/riftbreaker-wiki/docs/game-reflection/classes/string_hash/) | Group |
-| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | Relative |
 | [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
+| [StringHash](/riftbreaker-wiki/docs/game-reflection/classes/string_hash/) | Group |
+| [Transform](/riftbreaker-wiki/docs/game-reflection/classes/transform/) | Transform |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | Relative |
 

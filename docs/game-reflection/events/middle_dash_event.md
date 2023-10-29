@@ -12,7 +12,7 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Target |
 | [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
+| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Target |
 | [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | Damage |
 

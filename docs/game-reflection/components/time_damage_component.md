@@ -12,6 +12,6 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
+| Container< [TimeDamageData](/riftbreaker-wiki/docs/game-reflection/classes/time_damage_data/) > | time_damage_vec |
 | [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | is_burning |
-| Vector< [TimeDamageData](/riftbreaker-wiki/docs/game-reflection/classes/time_damage_data/) > | time_damage_vec |
 

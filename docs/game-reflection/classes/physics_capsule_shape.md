@@ -12,6 +12,6 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | half_height |
 | [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | r |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | half_height |
 

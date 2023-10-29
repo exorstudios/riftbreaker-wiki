@@ -12,6 +12,6 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | value |
 | [StringHash](/riftbreaker-wiki/docs/game-reflection/classes/string_hash/) | key |
+| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | value |
 

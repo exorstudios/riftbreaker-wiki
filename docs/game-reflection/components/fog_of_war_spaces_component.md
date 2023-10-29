@@ -12,8 +12,8 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [Vector3](/riftbreaker-wiki/docs/game-reflection/classes/vector3/) | origin |
-| Vector< [FogOfWarSpace](/riftbreaker-wiki/docs/game-reflection/classes/fog_of_war_space/) > | spaces |
 | [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | is_initialized |
+| [Vector3](/riftbreaker-wiki/docs/game-reflection/classes/vector3/) | origin |
 | [Vector2](/riftbreaker-wiki/docs/game-reflection/classes/vector2/) | size |
+| Container< [FogOfWarSpace](/riftbreaker-wiki/docs/game-reflection/classes/fog_of_war_space/) > | spaces |
 

@@ -12,6 +12,6 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | path |
 | [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | visible |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | path |
 

@@ -14,6 +14,6 @@ Description
 |:----------|:--------------|
 | [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | name |
 | [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | group |
-| [StringHash](/riftbreaker-wiki/docs/game-reflection/classes/string_hash/) | group_hash |
 | [StringHash](/riftbreaker-wiki/docs/game-reflection/classes/string_hash/) | name_hash |
+| [StringHash](/riftbreaker-wiki/docs/game-reflection/classes/string_hash/) | group_hash |
 

@@ -12,7 +12,7 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [ModifiableValue](/riftbreaker-wiki/docs/game-reflection/classes/modifiable_value/) | deacceleration |
-| [ModifiableValue](/riftbreaker-wiki/docs/game-reflection/classes/modifiable_value/) | acceleration |
 | [ModifiableValue](/riftbreaker-wiki/docs/game-reflection/classes/modifiable_value/) | max_speed |
+| [ModifiableValue](/riftbreaker-wiki/docs/game-reflection/classes/modifiable_value/) | acceleration |
+| [ModifiableValue](/riftbreaker-wiki/docs/game-reflection/classes/modifiable_value/) | deacceleration |
 

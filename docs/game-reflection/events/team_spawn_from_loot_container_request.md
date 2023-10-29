@@ -12,7 +12,7 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [TeamId](/riftbreaker-wiki/docs/game-reflection/classes/team_id/) | TeamId |
-| [uchar](/riftbreaker-wiki/docs/game-reflection/enums/uchar/) | Rarity |
 | [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
+| [uchar](/riftbreaker-wiki/docs/game-reflection/enums/uchar/) | Rarity |
+| [TeamId](/riftbreaker-wiki/docs/game-reflection/classes/team_id/) | TeamId |
 

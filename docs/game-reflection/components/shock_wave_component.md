@@ -12,8 +12,8 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | unlimited |
-| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | radius |
-| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | speed |
 | [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | power |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | speed |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | radius |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | unlimited |
 

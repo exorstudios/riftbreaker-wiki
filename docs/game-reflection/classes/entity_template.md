@@ -13,7 +13,7 @@ Description
 | Type | Name |
 |:----------|:--------------|
 | [CompContainer](/riftbreaker-wiki/docs/game-reflection/components/comp_container/) | components |
-| Vector< [EntityBlueprint](/riftbreaker-wiki/docs/game-reflection/components/entity_blueprint/) > | base_blueprints |
-| Vector< [TypeHash](/riftbreaker-wiki/docs/game-reflection/enums/type_hash/) > | removed_components |
-| Vector< [EntityTemplate](/riftbreaker-wiki/docs/game-reflection/classes/entity_template/) > | children |
+| Container< [EntityTemplate](/riftbreaker-wiki/docs/game-reflection/classes/entity_template/) > | children |
+| Container< [EntityBlueprint](/riftbreaker-wiki/docs/game-reflection/components/entity_blueprint/) > | base_blueprints |
+| Container< [TypeHash](/riftbreaker-wiki/docs/game-reflection/enums/type_hash/) > | removed_components |
 

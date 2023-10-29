@@ -12,5 +12,5 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| Vector< [StatsDataTable](/riftbreaker-wiki/docs/game-reflection/classes/stats_data_table/) > | statistics |
+| Container< [StatsDataTable](/riftbreaker-wiki/docs/game-reflection/classes/stats_data_table/) > | statistics |
 

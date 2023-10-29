@@ -12,7 +12,7 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | parent |
 | [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | entity |
+| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | parent |
 | [StringHash](/riftbreaker-wiki/docs/game-reflection/classes/string_hash/) | attachment |
 

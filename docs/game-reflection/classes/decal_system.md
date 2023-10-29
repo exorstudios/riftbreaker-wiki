@@ -12,9 +12,9 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| Vector< [Pair_EntityDecalTimer](/riftbreaker-wiki/docs/game-reflection/classes/pair__entity_decal_timer/) > | decals_to_remove |
-| Vector< [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) > | decals_list |
-| Vector< [DecalStruct](/riftbreaker-wiki/docs/game-reflection/classes/decal_struct/) > | decals_to_create |
-| Vector< [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) > | last_ents |
-| Vector< [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) > | decals_to_clear |
+| Container< [DecalStruct](/riftbreaker-wiki/docs/game-reflection/classes/decal_struct/) > | decals_to_create |
+| Container< [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) > | last_ents |
+| Container< [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) > | decals_list |
+| Container< [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) > | decals_to_clear |
+| Container< [Pair_EntityDecalTimer](/riftbreaker-wiki/docs/game-reflection/classes/pair__entity_decal_timer/) > | decals_to_remove |
 

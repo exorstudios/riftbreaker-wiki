@@ -12,7 +12,7 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| Vector< [BuildingData](/riftbreaker-wiki/docs/game-reflection/classes/building_data/) > | buildings |
-| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | buildings_visible |
+| Container< [BuildingData](/riftbreaker-wiki/docs/game-reflection/classes/building_data/) > | buildings |
 | [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | last_building_base_name |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | buildings_visible |
 

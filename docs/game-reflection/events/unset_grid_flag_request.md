@@ -12,7 +12,7 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| Vector< [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) > | Indexes |
-| [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | Flag |
 | [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
+| Container< [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) > | Indexes |
+| [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | Flag |
 

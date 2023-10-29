@@ -12,6 +12,6 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | value |
 | [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | key |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | value |
 

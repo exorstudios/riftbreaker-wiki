@@ -14,6 +14,6 @@ Description
 |:----------|:--------------|
 | [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | error_code |
 | [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | is_email_required |
-| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | no_request_pending |
 | [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | request_state |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | no_request_pending |
 

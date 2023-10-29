@@ -12,10 +12,10 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| Vector< [LightningInstance](/riftbreaker-wiki/docs/game-reflection/classes/lightning_instance/) > | lightning_vec |
-| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | tesselation_step |
+| Container< [LightningInstance](/riftbreaker-wiki/docs/game-reflection/classes/lightning_instance/) > | lightning_vec |
 | [IdString](/riftbreaker-wiki/docs/game-reflection/components/id_string/) | material_id |
-| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | beam_min_width |
 | [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | beam_max_width |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | beam_min_width |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | tesselation_step |
 | [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | beam_count |
 

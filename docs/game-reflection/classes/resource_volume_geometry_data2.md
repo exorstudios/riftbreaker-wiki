@@ -12,6 +12,6 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| Vector< [ResourceVolumeMaterialPass](/riftbreaker-wiki/docs/game-reflection/classes/resource_volume_material_pass/) > | overflow_pass |
 | [ResourceVolumeMaterialPass](/riftbreaker-wiki/docs/game-reflection/classes/resource_volume_material_pass/) | resources_pass |
+| Container< [ResourceVolumeMaterialPass](/riftbreaker-wiki/docs/game-reflection/classes/resource_volume_material_pass/) > | overflow_pass |
 

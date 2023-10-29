@@ -12,5 +12,5 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| Vector< [TypeAny](/riftbreaker-wiki/docs/game-reflection/components/type_any/) > | variable_set |
+| Container< [TypeAny](/riftbreaker-wiki/docs/game-reflection/components/type_any/) > | variable_set |
 

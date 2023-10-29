@@ -12,6 +12,6 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | max_time |
 | [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | condition |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | max_time |
 

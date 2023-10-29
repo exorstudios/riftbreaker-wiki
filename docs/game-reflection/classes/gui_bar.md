@@ -12,9 +12,9 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [uchar](/riftbreaker-wiki/docs/game-reflection/enums/uchar/) | direction |
-| Vector< [float](/riftbreaker-wiki/docs/game-reflection/components/float/) > | data |
-| [uchar](/riftbreaker-wiki/docs/game-reflection/enums/uchar/) | behavior |
+| Container< [float](/riftbreaker-wiki/docs/game-reflection/components/float/) > | data |
 | [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | data_sum |
+| [uchar](/riftbreaker-wiki/docs/game-reflection/enums/uchar/) | direction |
 | [uchar](/riftbreaker-wiki/docs/game-reflection/enums/uchar/) | material_type |
+| [uchar](/riftbreaker-wiki/docs/game-reflection/enums/uchar/) | behavior |
 

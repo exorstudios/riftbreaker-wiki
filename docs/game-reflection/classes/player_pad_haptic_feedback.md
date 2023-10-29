@@ -12,7 +12,7 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | is_looped |
 | [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | sample_name |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | is_looped |
 | [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | priority |
 

@@ -12,9 +12,9 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
+| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
 | [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | Content |
 | [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | Icon |
-| [Database](/riftbreaker-wiki/docs/game-reflection/components/database/) | Database |
 | [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | style |
-| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
+| [Database](/riftbreaker-wiki/docs/game-reflection/components/database/) | Database |
 

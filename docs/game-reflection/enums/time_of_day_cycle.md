@@ -13,6 +13,6 @@ Description
 | Name | Value |
 |:----------|:--------------|
 | full | 0 |
-| night | 2 |
 | day | 1 |
+| night | 2 |
 

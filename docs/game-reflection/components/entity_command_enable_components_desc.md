@@ -13,5 +13,5 @@ Description
 | Type | Name |
 |:----------|:--------------|
 | [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | entity |
-| Vector< [String](/riftbreaker-wiki/docs/game-reflection/components/string/) > | components_to_enable |
+| Container< [String](/riftbreaker-wiki/docs/game-reflection/components/string/) > | components_to_enable |
 

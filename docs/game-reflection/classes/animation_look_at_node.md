@@ -12,7 +12,7 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | goal_type |
-| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | end_bone |
 | [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | ik_bone |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | end_bone |
+| [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | goal_type |
 

@@ -12,9 +12,9 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | WaitTime |
-| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | DisappearTime |
-| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Target |
-| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | AppearTime |
 | [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
+| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Target |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | DisappearTime |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | WaitTime |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | AppearTime |
 

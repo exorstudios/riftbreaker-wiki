@@ -12,6 +12,6 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| Vector< [Pair_StateDefId_StateDef2](/riftbreaker-wiki/docs/game-reflection/classes/pair__state_def_id__state_def2/) > | state_map |
-| Vector< [StateDefId](/riftbreaker-wiki/docs/game-reflection/classes/state_def_id/) > | initial_state |
+| Container< [Pair_StateDefId_StateDef2](/riftbreaker-wiki/docs/game-reflection/classes/pair__state_def_id__state_def2/) > | state_map |
+| Container< [StateDefId](/riftbreaker-wiki/docs/game-reflection/classes/state_def_id/) > | initial_state |
 

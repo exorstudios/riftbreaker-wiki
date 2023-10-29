@@ -13,5 +13,5 @@ Description
 | Type | Name |
 |:----------|:--------------|
 | [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | search_radius |
-| Vector< [TypeId](/riftbreaker-wiki/docs/game-reflection/enums/type_id/) > | priority_target |
+| Container< [TypeId](/riftbreaker-wiki/docs/game-reflection/enums/type_id/) > | priority_target |
 

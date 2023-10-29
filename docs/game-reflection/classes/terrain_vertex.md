@@ -12,8 +12,8 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| Vector< [StringHash](/riftbreaker-wiki/docs/game-reflection/classes/string_hash/) > | volume |
-| [VertexBlend](/riftbreaker-wiki/docs/game-reflection/classes/vertex_blend/) | blend |
 | [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | height |
-| Vector< [StringHash](/riftbreaker-wiki/docs/game-reflection/classes/string_hash/) > | prefab |
+| Container< [StringHash](/riftbreaker-wiki/docs/game-reflection/classes/string_hash/) > | prefab |
+| Container< [StringHash](/riftbreaker-wiki/docs/game-reflection/classes/string_hash/) > | volume |
+| [VertexBlend](/riftbreaker-wiki/docs/game-reflection/classes/vertex_blend/) | blend |
 

@@ -12,7 +12,7 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | Slot |
-| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Item |
 | [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
+| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Item |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | Slot |
 

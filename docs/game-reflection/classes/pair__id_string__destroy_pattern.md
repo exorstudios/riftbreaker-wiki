@@ -12,6 +12,6 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [DestroyPattern](/riftbreaker-wiki/docs/game-reflection/classes/destroy_pattern/) | value |
 | [IdString](/riftbreaker-wiki/docs/game-reflection/components/id_string/) | key |
+| [DestroyPattern](/riftbreaker-wiki/docs/game-reflection/classes/destroy_pattern/) | value |
 

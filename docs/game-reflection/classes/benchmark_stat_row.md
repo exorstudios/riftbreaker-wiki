@@ -12,8 +12,8 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | avg |
 | [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | name |
-| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | max |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | avg |
 | [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | min |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | max |
 

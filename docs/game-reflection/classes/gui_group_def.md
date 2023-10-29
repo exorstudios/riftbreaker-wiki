@@ -12,7 +12,7 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [uchar](/riftbreaker-wiki/docs/game-reflection/enums/uchar/) | container_type |
+| Container< [Pair_String_GuiDef2](/riftbreaker-wiki/docs/game-reflection/classes/pair__string__gui_def2/) > | children |
 | [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | allow_overflow |
-| Vector< [Pair_String_GuiDef2](/riftbreaker-wiki/docs/game-reflection/classes/pair__string__gui_def2/) > | children |
+| [uchar](/riftbreaker-wiki/docs/game-reflection/enums/uchar/) | container_type |
 

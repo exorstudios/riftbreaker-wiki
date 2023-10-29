@@ -13,7 +13,7 @@ Description
 | Type | Name |
 |:----------|:--------------|
 | [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | group_counter |
-| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | pack_ver |
-| Vector< [Pair_String_AIUnitsGroup](/riftbreaker-wiki/docs/game-reflection/classes/pair__string__a_i_units_group/) > | units_groups |
+| Container< [Pair_String_AIUnitsGroup](/riftbreaker-wiki/docs/game-reflection/classes/pair__string__a_i_units_group/) > | units_groups |
 | [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | all_units_states_as_group |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | pack_ver |
 

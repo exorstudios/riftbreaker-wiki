@@ -12,5 +12,5 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| Vector< [TargetFinderRequest](/riftbreaker-wiki/docs/game-reflection/classes/target_finder_request/) > | target_finder_request_vec |
+| Container< [TargetFinderRequest](/riftbreaker-wiki/docs/game-reflection/classes/target_finder_request/) > | target_finder_request_vec |
 

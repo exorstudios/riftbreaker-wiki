@@ -12,5 +12,5 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| Vector< [RescurrectUnitData](/riftbreaker-wiki/docs/game-reflection/classes/rescurrect_unit_data/) > | resurrect_units_data |
+| Container< [RescurrectUnitData](/riftbreaker-wiki/docs/game-reflection/classes/rescurrect_unit_data/) > | resurrect_units_data |
 

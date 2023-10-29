@@ -12,9 +12,9 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | WreckMaterial |
+| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
 | [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | DamageType |
 | [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | DamagePercentage |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | WreckMaterial |
 | [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | MinWreckSpeed |
-| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
 

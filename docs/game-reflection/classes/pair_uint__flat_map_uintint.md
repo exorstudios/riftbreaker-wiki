@@ -12,6 +12,6 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| Vector< [Pair_uint_int](/riftbreaker-wiki/docs/game-reflection/classes/pair_uint_int/) > | value |
 | [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | key |
+| Container< [Pair_uint_int](/riftbreaker-wiki/docs/game-reflection/classes/pair_uint_int/) > | value |
 

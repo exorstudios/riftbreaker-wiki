@@ -12,9 +12,9 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | BuildingBlueprint |
-| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | CreateCubes |
-| [Transform](/riftbreaker-wiki/docs/game-reflection/classes/transform/) | Position |
-| [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | Player |
 | [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
+| [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | Player |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | BuildingBlueprint |
+| [Transform](/riftbreaker-wiki/docs/game-reflection/classes/transform/) | Position |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | CreateCubes |
 

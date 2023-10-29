@@ -12,6 +12,6 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| Vector< [String](/riftbreaker-wiki/docs/game-reflection/components/string/) > | items |
+| Container< [String](/riftbreaker-wiki/docs/game-reflection/components/string/) > | items |
 | [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | name |
 

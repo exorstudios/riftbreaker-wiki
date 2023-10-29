@@ -12,12 +12,12 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
+| Container< [LightningInstance](/riftbreaker-wiki/docs/game-reflection/classes/lightning_instance/) > | lighning_vec |
+| Container< [Lightning](/riftbreaker-wiki/docs/game-reflection/classes/lightning/) > | Lightnings |
 | [IdString](/riftbreaker-wiki/docs/game-reflection/components/id_string/) | material |
-| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | update_bounds |
-| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | tesselation_step |
-| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | beam_min_width |
-| Vector< [LightningInstance](/riftbreaker-wiki/docs/game-reflection/classes/lightning_instance/) > | lighning_vec |
-| Vector< [Lightning](/riftbreaker-wiki/docs/game-reflection/classes/lightning/) > | Lightnings |
 | [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | beam_max_width |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | beam_min_width |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | tesselation_step |
 | [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | beam_count |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | update_bounds |
 

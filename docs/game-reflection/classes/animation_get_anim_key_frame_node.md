@@ -12,6 +12,6 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | default_key_frame |
 | [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | anim_name |
+| [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | default_key_frame |
 

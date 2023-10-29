@@ -12,8 +12,8 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | animFactor |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | animName |
 | [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | animLoop |
 | [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | animTime |
-| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | animName |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | animFactor |
 

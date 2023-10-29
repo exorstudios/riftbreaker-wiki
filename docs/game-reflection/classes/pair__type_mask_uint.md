@@ -12,6 +12,6 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | value |
 | [uint64](/riftbreaker-wiki/docs/game-reflection/components/uint64/) | key |
+| [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | value |
 

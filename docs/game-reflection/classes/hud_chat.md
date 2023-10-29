@@ -12,5 +12,5 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| Vector< [HudChatMessage](/riftbreaker-wiki/docs/game-reflection/classes/hud_chat_message/) > | messages |
+| Container< [HudChatMessage](/riftbreaker-wiki/docs/game-reflection/classes/hud_chat_message/) > | messages |
 

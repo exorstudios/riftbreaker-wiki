@@ -13,6 +13,6 @@ Description
 | Type | Name |
 |:----------|:--------------|
 | [IdString](/riftbreaker-wiki/docs/game-reflection/components/id_string/) | material |
-| Vector< [TileRotation](/riftbreaker-wiki/docs/game-reflection/enums/tile_rotation/) > | rotation |
-| Vector< [ResourceVolumeGeometryVertex](/riftbreaker-wiki/docs/game-reflection/classes/resource_volume_geometry_vertex/) > | vertices |
+| Container< [ResourceVolumeGeometryVertex](/riftbreaker-wiki/docs/game-reflection/classes/resource_volume_geometry_vertex/) > | vertices |
+| Container< [TileRotation](/riftbreaker-wiki/docs/game-reflection/enums/tile_rotation/) > | rotation |
 

@@ -12,6 +12,6 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| Vector< [Pair_GameplayResourceDefHolder_Vector_String](/riftbreaker-wiki/docs/game-reflection/classes/pair__gameplay_resource_def_holder__vector__string/) > | AttachmentsMap |
 | [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
+| Container< [Pair_GameplayResourceDefHolder_Vector_String](/riftbreaker-wiki/docs/game-reflection/classes/pair__gameplay_resource_def_holder__vector__string/) > | AttachmentsMap |
 

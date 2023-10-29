@@ -12,5 +12,5 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| Vector< [SeasonalEvent](/riftbreaker-wiki/docs/game-reflection/classes/seasonal_event/) > | season |
+| Container< [SeasonalEvent](/riftbreaker-wiki/docs/game-reflection/classes/seasonal_event/) > | season |
 

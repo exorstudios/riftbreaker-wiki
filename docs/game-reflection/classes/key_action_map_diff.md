@@ -12,8 +12,8 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| Vector< [StickAction](/riftbreaker-wiki/docs/game-reflection/classes/stick_action/) > | added_stick_actions |
-| Vector< [KeycodeAction](/riftbreaker-wiki/docs/game-reflection/classes/keycode_action/) > | added |
-| Vector< [StickAction](/riftbreaker-wiki/docs/game-reflection/classes/stick_action/) > | removed_stick_actions |
-| Vector< [KeycodeAction](/riftbreaker-wiki/docs/game-reflection/classes/keycode_action/) > | removed |
+| Container< [KeycodeAction](/riftbreaker-wiki/docs/game-reflection/classes/keycode_action/) > | added |
+| Container< [KeycodeAction](/riftbreaker-wiki/docs/game-reflection/classes/keycode_action/) > | removed |
+| Container< [StickAction](/riftbreaker-wiki/docs/game-reflection/classes/stick_action/) > | added_stick_actions |
+| Container< [StickAction](/riftbreaker-wiki/docs/game-reflection/classes/stick_action/) > | removed_stick_actions |
 

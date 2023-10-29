@@ -12,5 +12,5 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| Vector< [AnimationStateNode](/riftbreaker-wiki/docs/game-reflection/classes/animation_state_node/) > | animation_node_vec |
+| Container< [AnimationStateNode](/riftbreaker-wiki/docs/game-reflection/classes/animation_state_node/) > | animation_node_vec |
 

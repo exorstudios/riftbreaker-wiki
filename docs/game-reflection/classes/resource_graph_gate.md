@@ -12,20 +12,20 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [uint64](/riftbreaker-wiki/docs/game-reflection/components/uint64/) | gate_id |
-| [uchar](/riftbreaker-wiki/docs/game-reflection/enums/uchar/) | direction |
-| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | recheck |
-| Vector< [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) > | idx |
-| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | clear |
-| [GameplayResourceDefHolder](/riftbreaker-wiki/docs/game-reflection/components/gameplay_resource_def_holder/) | resource |
-| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | mark_to_remove |
-| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | optional |
-| Vector< [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) > | idx_ents |
-| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | empty |
-| Vector< [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) > | traverse_clear |
-| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | enabled |
+| Container< [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) > | idx_ents |
 | [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | owner |
-| Vector< [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) > | traverse |
-| [uint64](/riftbreaker-wiki/docs/game-reflection/components/uint64/) | connection_id |
+| [GameplayResourceDefHolder](/riftbreaker-wiki/docs/game-reflection/components/gameplay_resource_def_holder/) | resource |
+| [uchar](/riftbreaker-wiki/docs/game-reflection/enums/uchar/) | direction |
 | [ResourceAccount](/riftbreaker-wiki/docs/game-reflection/classes/resource_account/) | account |
+| [uint64](/riftbreaker-wiki/docs/game-reflection/components/uint64/) | connection_id |
+| [uint64](/riftbreaker-wiki/docs/game-reflection/components/uint64/) | gate_id |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | recheck |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | clear |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | mark_to_remove |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | empty |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | enabled |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | optional |
+| Container< [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) > | traverse |
+| Container< [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) > | traverse_clear |
+| Container< [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) > | idx |
 

@@ -12,6 +12,6 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | end_bone |
 | [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | ik_bone |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | end_bone |
 

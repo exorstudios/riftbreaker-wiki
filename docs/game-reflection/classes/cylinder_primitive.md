@@ -12,6 +12,6 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [Vector4](/riftbreaker-wiki/docs/game-reflection/classes/vector4/) | lineColor |
 | [Vector4](/riftbreaker-wiki/docs/game-reflection/classes/vector4/) | solidColor |
+| [Vector4](/riftbreaker-wiki/docs/game-reflection/classes/vector4/) | lineColor |
 

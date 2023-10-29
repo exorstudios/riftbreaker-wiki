@@ -12,5 +12,5 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| Vector< [Pair_uint_float](/riftbreaker-wiki/docs/game-reflection/classes/pair_uint_float/) > | global_quest_display |
+| Container< [Pair_uint_float](/riftbreaker-wiki/docs/game-reflection/classes/pair_uint_float/) > | global_quest_display |
 

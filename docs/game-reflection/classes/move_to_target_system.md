@@ -12,6 +12,6 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| Vector< [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) > | removed_move_to_target |
-| Vector< [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) > | created_move_to_target |
+| Container< [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) > | removed_move_to_target |
+| Container< [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) > | created_move_to_target |
 

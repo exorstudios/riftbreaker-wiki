@@ -12,7 +12,7 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | timer |
-| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | time_limit |
 | [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | action |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | time_limit |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | timer |
 

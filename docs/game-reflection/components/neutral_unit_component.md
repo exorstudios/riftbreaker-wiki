@@ -12,6 +12,6 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | life_time_out_of_screen |
 | [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | current_life_time_out_of_screen |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | life_time_out_of_screen |
 

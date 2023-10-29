@@ -12,6 +12,6 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [TileSpawnRule](/riftbreaker-wiki/docs/game-reflection/classes/tile_spawn_rule/) | second |
 | [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | first |
+| [TileSpawnRule](/riftbreaker-wiki/docs/game-reflection/classes/tile_spawn_rule/) | second |
 

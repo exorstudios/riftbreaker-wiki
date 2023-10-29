@@ -12,6 +12,6 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
+| Container< [MinimapVertex](/riftbreaker-wiki/docs/game-reflection/components/minimap_vertex/) > | vertices |
 | [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | material |
-| Vector< [MinimapVertex](/riftbreaker-wiki/docs/game-reflection/components/minimap_vertex/) > | vertices |
 

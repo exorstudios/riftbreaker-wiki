@@ -12,6 +12,6 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| Vector< [NamedChild](/riftbreaker-wiki/docs/game-reflection/classes/named_child/) > | value |
 | [StateDefId](/riftbreaker-wiki/docs/game-reflection/classes/state_def_id/) | key |
+| Container< [NamedChild](/riftbreaker-wiki/docs/game-reflection/classes/named_child/) > | value |
 

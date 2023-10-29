@@ -12,12 +12,12 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Owner |
-| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Killer |
-| [uint64](/riftbreaker-wiki/docs/game-reflection/components/uint64/) | TypeMask |
+| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
 | [IdString](/riftbreaker-wiki/docs/game-reflection/components/id_string/) | Blueprint |
 | [IdString](/riftbreaker-wiki/docs/game-reflection/components/id_string/) | DamageType |
 | [TeamId](/riftbreaker-wiki/docs/game-reflection/classes/team_id/) | Team |
-| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
+| [uint64](/riftbreaker-wiki/docs/game-reflection/components/uint64/) | TypeMask |
+| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Owner |
+| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Killer |
 | [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | KillerPlayer |
 

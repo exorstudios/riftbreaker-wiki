@@ -12,8 +12,8 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
+| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | Upgraded |
 | [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | BuildingName |
 | [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | BuildingType |
-| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | Upgraded |
-| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
 

@@ -12,7 +12,7 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | z |
 | [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | x |
 | [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | y |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | z |
 

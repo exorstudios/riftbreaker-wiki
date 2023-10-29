@@ -12,6 +12,6 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
+| Container< [StatRow](/riftbreaker-wiki/docs/game-reflection/classes/stat_row/) > | data |
 | [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | header |
-| Vector< [StatRow](/riftbreaker-wiki/docs/game-reflection/classes/stat_row/) > | data |
 

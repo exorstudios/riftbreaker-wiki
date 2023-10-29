@@ -12,7 +12,7 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | is_finished |
 | [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | is_suspended |
 | [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | selected_node |
-| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | is_finished |
 

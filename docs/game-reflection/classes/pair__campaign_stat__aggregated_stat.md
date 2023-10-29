@@ -12,6 +12,6 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [AggregatedStat](/riftbreaker-wiki/docs/game-reflection/classes/aggregated_stat/) | value |
 | [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | key |
+| [AggregatedStat](/riftbreaker-wiki/docs/game-reflection/classes/aggregated_stat/) | value |
 

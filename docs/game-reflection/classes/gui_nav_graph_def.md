@@ -12,7 +12,7 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | default_node |
+| Container< [GuiNavNodeDef](/riftbreaker-wiki/docs/game-reflection/classes/gui_nav_node_def/) > | nodes |
 | [EdgeMap](/riftbreaker-wiki/docs/game-reflection/classes/edge_map/) | edges |
-| Vector< [GuiNavNodeDef](/riftbreaker-wiki/docs/game-reflection/classes/gui_nav_node_def/) > | nodes |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | default_node |
 

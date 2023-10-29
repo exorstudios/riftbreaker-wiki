@@ -12,6 +12,6 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| Vector< [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) > | destroyed_ents |
+| Container< [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) > | destroyed_ents |
 | [EventObserver_DestroyPatternRequestEventChangeToWreckRequestPhysicsSleepEvent](/riftbreaker-wiki/docs/game-reflection/classes/event_observer__destroy_pattern_request_event_change_to_wreck_request_physics_sleep_event/) | events |
 

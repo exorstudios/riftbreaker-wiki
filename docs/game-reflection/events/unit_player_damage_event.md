@@ -12,9 +12,9 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | CreatorBlueprint |
-| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | EntityBlueprint |
+| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
 | [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | DamageValue |
 | [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | DamageType |
-| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | EntityBlueprint |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | CreatorBlueprint |
 

@@ -12,7 +12,7 @@ Description
 
 | Name | Value |
 |:----------|:--------------|
-| Add | 1 |
 | Override | 0 |
+| Add | 1 |
 | HalfBlend | 2 |
 

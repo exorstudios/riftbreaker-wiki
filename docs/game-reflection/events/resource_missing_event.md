@@ -12,8 +12,8 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | Family |
-| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | Negative |
 | [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
 | [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | Resource |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | Negative |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | Family |
 

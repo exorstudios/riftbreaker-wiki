@@ -12,7 +12,7 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [ushort](/riftbreaker-wiki/docs/game-reflection/enums/ushort/) | z |
 | [ushort](/riftbreaker-wiki/docs/game-reflection/enums/ushort/) | x |
 | [ushort](/riftbreaker-wiki/docs/game-reflection/enums/ushort/) | y |
+| [ushort](/riftbreaker-wiki/docs/game-reflection/enums/ushort/) | z |
 

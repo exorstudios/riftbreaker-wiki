@@ -12,7 +12,7 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
+| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
 | [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | MaxSpeed |
 | [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | Acceleration |
-| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
 

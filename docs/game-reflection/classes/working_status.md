@@ -12,8 +12,8 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | working |
-| Vector< [String](/riftbreaker-wiki/docs/game-reflection/components/string/) > | missing_resources |
+| Container< [String](/riftbreaker-wiki/docs/game-reflection/components/string/) > | missing_resources_persistant |
+| Container< [String](/riftbreaker-wiki/docs/game-reflection/components/string/) > | missing_resources |
 | [uchar](/riftbreaker-wiki/docs/game-reflection/enums/uchar/) | status |
-| Vector< [String](/riftbreaker-wiki/docs/game-reflection/components/string/) > | missing_resources_persistant |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | working |
 

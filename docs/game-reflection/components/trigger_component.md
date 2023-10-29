@@ -12,12 +12,12 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| Vector< [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) > | ents |
-| [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | type |
-| Vector< [TriggerFilter](/riftbreaker-wiki/docs/game-reflection/components/trigger_filter/) > | Filters |
-| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | enabled |
-| [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | owner |
+| Container< [TriggerFilter](/riftbreaker-wiki/docs/game-reflection/components/trigger_filter/) > | Filters |
+| Container< [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) > | ents |
+| Container< [PhysicsShape](/riftbreaker-wiki/docs/game-reflection/classes/physics_shape/) > | Shapes |
 | [IdString](/riftbreaker-wiki/docs/game-reflection/components/id_string/) | tag |
 | [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | collision |
-| Vector< [PhysicsShape](/riftbreaker-wiki/docs/game-reflection/classes/physics_shape/) > | Shapes |
+| [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | owner |
+| [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | type |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | enabled |
 

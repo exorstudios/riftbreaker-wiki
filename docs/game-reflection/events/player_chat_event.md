@@ -12,8 +12,8 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | Message |
+| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
 | [uint64](/riftbreaker-wiki/docs/game-reflection/components/uint64/) | Timestamp |
 | [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | Player |
-| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | Message |
 

@@ -13,6 +13,6 @@ Description
 | Type | Name |
 |:----------|:--------------|
 | [WaveDesc](/riftbreaker-wiki/docs/game-reflection/components/wave_desc/) | wave_desc |
-| Vector< [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) > | wave_entities |
+| Container< [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) > | wave_entities |
 | [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | wave_entity |
 

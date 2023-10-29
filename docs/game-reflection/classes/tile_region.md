@@ -12,6 +12,6 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| Vector< [String](/riftbreaker-wiki/docs/game-reflection/components/string/) > | edges |
 | [Vector2](/riftbreaker-wiki/docs/game-reflection/classes/vector2/) | offset |
+| Container< [String](/riftbreaker-wiki/docs/game-reflection/components/string/) > | edges |
 

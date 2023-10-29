@@ -12,13 +12,13 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | is_new |
 | [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | name |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | icon_material |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | disabled_icon_material |
+| [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | level |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | is_active |
 | [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | can_not_afford |
 | [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | extra_highlight |
-| [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | level |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | is_new |
 | [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | is_enabled |
-| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | is_active |
-| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | disabled_icon_material |
-| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | icon_material |
 

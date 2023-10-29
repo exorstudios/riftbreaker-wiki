@@ -12,9 +12,9 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | target_att |
-| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | follow |
-| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | acceleration |
 | [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | target |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | follow |
 | [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | speed |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | acceleration |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | target_att |
 

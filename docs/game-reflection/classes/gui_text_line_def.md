@@ -12,10 +12,10 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | plain_text |
 | [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | content |
 | [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | translate |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | capitals |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | plain_text |
 | [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | style_name |
 | [GuiTextStyleDef2](/riftbreaker-wiki/docs/game-reflection/components/gui_text_style_def2/) | style |
-| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | capitals |
 

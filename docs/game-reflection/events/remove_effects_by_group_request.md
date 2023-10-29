@@ -12,7 +12,7 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | Delay |
-| [StringHash](/riftbreaker-wiki/docs/game-reflection/classes/string_hash/) | Group |
 | [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
+| [StringHash](/riftbreaker-wiki/docs/game-reflection/classes/string_hash/) | Group |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | Delay |
 

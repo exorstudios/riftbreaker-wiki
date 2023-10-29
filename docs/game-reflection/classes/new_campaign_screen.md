@@ -12,7 +12,7 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | streaming |
-| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | platform |
 | [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | campaign_name |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | platform |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | streaming |
 

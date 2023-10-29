@@ -13,8 +13,8 @@ Description
 | Type | Name |
 |:----------|:--------------|
 | [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | radius |
-| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | creation_time_step |
 | [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | energy_radius |
 | [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | emissive_radius |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | creation_time_step |
 | [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | remove_time_step |
 

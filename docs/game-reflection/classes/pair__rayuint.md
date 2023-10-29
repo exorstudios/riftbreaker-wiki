@@ -12,6 +12,6 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | second |
 | [Ray](/riftbreaker-wiki/docs/game-reflection/classes/ray/) | first |
+| [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | second |
 

@@ -12,6 +12,6 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [GuiSubTabDef](/riftbreaker-wiki/docs/game-reflection/classes/gui_sub_tab_def/) | value |
 | [IdString](/riftbreaker-wiki/docs/game-reflection/components/id_string/) | key |
+| [GuiSubTabDef](/riftbreaker-wiki/docs/game-reflection/classes/gui_sub_tab_def/) | value |
 

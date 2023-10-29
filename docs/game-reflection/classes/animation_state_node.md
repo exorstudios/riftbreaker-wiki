@@ -12,6 +12,6 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | emit_progress_event |
 | [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | evaluate_blend_threshold |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | emit_progress_event |
 

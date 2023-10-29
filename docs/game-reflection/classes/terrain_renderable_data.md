@@ -12,5 +12,5 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| Vector< [TerrainRenderableRegion](/riftbreaker-wiki/docs/game-reflection/classes/terrain_renderable_region/) > | regions |
+| Container< [TerrainRenderableRegion](/riftbreaker-wiki/docs/game-reflection/classes/terrain_renderable_region/) > | regions |
 

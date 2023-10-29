@@ -12,6 +12,6 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [ResourceValue](/riftbreaker-wiki/docs/game-reflection/classes/resource_value/) | value |
 | [StringHash](/riftbreaker-wiki/docs/game-reflection/classes/string_hash/) | key |
+| [ResourceValue](/riftbreaker-wiki/docs/game-reflection/classes/resource_value/) | value |
 

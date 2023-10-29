@@ -12,8 +12,8 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | camera_group |
 | [GuiDef2](/riftbreaker-wiki/docs/game-reflection/components/gui_def2/) | def |
-| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | use_database_component |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | camera_group |
 | [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | visible |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | use_database_component |
 

@@ -13,6 +13,6 @@ Description
 | Type | Name |
 |:----------|:--------------|
 | [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | frequency |
-| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | timer |
 | [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | delta_power |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | timer |
 

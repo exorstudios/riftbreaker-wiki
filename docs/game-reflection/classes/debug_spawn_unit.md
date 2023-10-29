@@ -12,9 +12,9 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | blueprint |
-| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | selected_spawn_type |
 | [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | localization |
-| Vector< [String](/riftbreaker-wiki/docs/game-reflection/components/string/) > | spawn_type |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | blueprint |
+| Container< [String](/riftbreaker-wiki/docs/game-reflection/components/string/) > | spawn_type |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | selected_spawn_type |
 | [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | spawn_radius |
 

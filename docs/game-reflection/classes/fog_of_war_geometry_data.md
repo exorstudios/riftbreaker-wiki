@@ -12,5 +12,5 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| Vector< [FogOfWarGrid](/riftbreaker-wiki/docs/game-reflection/classes/fog_of_war_grid/) > | grids |
+| Container< [FogOfWarGrid](/riftbreaker-wiki/docs/game-reflection/classes/fog_of_war_grid/) > | grids |
 

@@ -12,5 +12,5 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| Vector< [CategoryModel](/riftbreaker-wiki/docs/game-reflection/classes/category_model/) > | categories |
+| Container< [CategoryModel](/riftbreaker-wiki/docs/game-reflection/classes/category_model/) > | categories |
 

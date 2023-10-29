@@ -12,7 +12,7 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | Delay |
-| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | Duration |
 | [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | Duration |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | Delay |
 

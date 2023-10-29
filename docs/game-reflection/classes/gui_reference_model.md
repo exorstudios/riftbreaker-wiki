@@ -12,5 +12,5 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| Vector< [Pair_String_String](/riftbreaker-wiki/docs/game-reflection/classes/pair__string__string/) > | binding_proxy |
+| Container< [Pair_String_GuiBind](/riftbreaker-wiki/docs/game-reflection/classes/pair__string__gui_bind/) > | bindings_proxy |
 

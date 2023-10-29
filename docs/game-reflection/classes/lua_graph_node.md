@@ -12,6 +12,6 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | is_suspended |
 | [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | is_finished |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | is_suspended |
 

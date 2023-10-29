@@ -12,6 +12,6 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| Vector< [CharacteristicsStatRow](/riftbreaker-wiki/docs/game-reflection/classes/characteristics_stat_row/) > | submodel_left_vector |
-| Vector< [CharacteristicsStatRow](/riftbreaker-wiki/docs/game-reflection/classes/characteristics_stat_row/) > | submodel_right_vector |
+| Container< [CharacteristicsStatRow](/riftbreaker-wiki/docs/game-reflection/classes/characteristics_stat_row/) > | submodel_left_vector |
+| Container< [CharacteristicsStatRow](/riftbreaker-wiki/docs/game-reflection/classes/characteristics_stat_row/) > | submodel_right_vector |
 

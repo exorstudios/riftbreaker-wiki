@@ -13,7 +13,7 @@ Description
 | Type | Name |
 |:----------|:--------------|
 | [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | material |
-| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | healing |
-| Vector< [float](/riftbreaker-wiki/docs/game-reflection/components/float/) > | data |
 | [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | label |
+| Container< [float](/riftbreaker-wiki/docs/game-reflection/components/float/) > | data |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | healing |
 

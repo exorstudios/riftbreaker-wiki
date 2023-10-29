@@ -12,11 +12,11 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [Timer](/riftbreaker-wiki/docs/game-reflection/classes/timer/) | reset_timer |
-| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | resource_status_set |
-| [WorkingStatus](/riftbreaker-wiki/docs/game-reflection/classes/working_status/) | last_status |
-| Vector< [float](/riftbreaker-wiki/docs/game-reflection/components/float/) > | not_working_time |
-| [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | owner |
 | [WorkingStatus](/riftbreaker-wiki/docs/game-reflection/classes/working_status/) | status |
-| Vector< [float](/riftbreaker-wiki/docs/game-reflection/components/float/) > | working_time |
+| [WorkingStatus](/riftbreaker-wiki/docs/game-reflection/classes/working_status/) | last_status |
+| [Timer](/riftbreaker-wiki/docs/game-reflection/classes/timer/) | reset_timer |
+| Container< [float](/riftbreaker-wiki/docs/game-reflection/components/float/) > | working_time |
+| Container< [float](/riftbreaker-wiki/docs/game-reflection/components/float/) > | not_working_time |
+| [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | owner |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | resource_status_set |
 

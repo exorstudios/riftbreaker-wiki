@@ -12,6 +12,6 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [LootTypeInfo](/riftbreaker-wiki/docs/game-reflection/classes/loot_type_info/) | value |
 | [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | key |
+| [LootTypeInfo](/riftbreaker-wiki/docs/game-reflection/classes/loot_type_info/) | value |
 

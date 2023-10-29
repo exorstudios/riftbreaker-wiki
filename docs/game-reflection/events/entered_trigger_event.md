@@ -12,7 +12,7 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
+| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
 | [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | OtherEntity |
 | [IdString](/riftbreaker-wiki/docs/game-reflection/components/id_string/) | tag |
-| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
 

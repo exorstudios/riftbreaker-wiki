@@ -12,6 +12,6 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [TerrainInfo](/riftbreaker-wiki/docs/game-reflection/classes/terrain_info/) | value |
 | [StringHash](/riftbreaker-wiki/docs/game-reflection/classes/string_hash/) | key |
+| [TerrainInfo](/riftbreaker-wiki/docs/game-reflection/classes/terrain_info/) | value |
 

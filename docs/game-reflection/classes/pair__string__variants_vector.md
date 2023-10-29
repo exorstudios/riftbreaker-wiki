@@ -12,6 +12,6 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [VariantsVector](/riftbreaker-wiki/docs/game-reflection/classes/variants_vector/) | value |
 | [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | key |
+| [VariantsVector](/riftbreaker-wiki/docs/game-reflection/classes/variants_vector/) | value |
 

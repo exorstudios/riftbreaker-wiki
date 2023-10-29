@@ -13,6 +13,6 @@ Description
 | Type | Name |
 |:----------|:--------------|
 | [Transform](/riftbreaker-wiki/docs/game-reflection/classes/transform/) | transform |
-| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | delay |
 | [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | charge_idx |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | delay |
 

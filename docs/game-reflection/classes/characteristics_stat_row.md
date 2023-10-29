@@ -12,7 +12,7 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | stat_name |
 | [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | stat_icon |
 | [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | stat_value |
-| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | stat_name |
 

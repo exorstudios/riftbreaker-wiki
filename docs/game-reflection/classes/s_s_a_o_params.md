@@ -12,8 +12,8 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | intensity |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | angle_bias |
 | [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | sample_length |
 | [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | factor |
-| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | angle_bias |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | intensity |
 

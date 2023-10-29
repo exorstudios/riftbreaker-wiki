@@ -12,15 +12,15 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | timeout |
-| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | global |
-| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | current_time |
-| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | priority |
 | [Database](/riftbreaker-wiki/docs/game-reflection/components/database/) | db |
-| Vector< [DialogGroupInfo](/riftbreaker-wiki/docs/game-reflection/classes/dialog_group_info/) > | dialogs |
-| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | interrupt |
-| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | infinite_dialog_finished |
-| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | delay |
-| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | infinite |
+| Container< [DialogGroupInfo](/riftbreaker-wiki/docs/game-reflection/classes/dialog_group_info/) > | dialogs |
 | [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | group_id |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | priority |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | timeout |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | infinite |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | interrupt |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | global |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | delay |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | current_time |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | infinite_dialog_finished |
 

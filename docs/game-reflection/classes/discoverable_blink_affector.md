@@ -12,7 +12,7 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | initialized |
-| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | timer |
 | [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | time |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | timer |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | initialized |
 

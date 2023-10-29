@@ -12,8 +12,8 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [Vector3](/riftbreaker-wiki/docs/game-reflection/classes/vector3/) | start_handle |
 | [RibbonPoint](/riftbreaker-wiki/docs/game-reflection/classes/ribbon_point/) | start_point |
-| [Vector3](/riftbreaker-wiki/docs/game-reflection/classes/vector3/) | end_handle |
+| [Vector3](/riftbreaker-wiki/docs/game-reflection/classes/vector3/) | start_handle |
 | [RibbonPoint](/riftbreaker-wiki/docs/game-reflection/classes/ribbon_point/) | end_point |
+| [Vector3](/riftbreaker-wiki/docs/game-reflection/classes/vector3/) | end_handle |
 

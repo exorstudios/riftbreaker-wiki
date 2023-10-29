@@ -12,9 +12,9 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
+| [uint64](/riftbreaker-wiki/docs/game-reflection/components/uint64/) | offset |
+| [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | type |
 | [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | semantic |
 | [ushort](/riftbreaker-wiki/docs/game-reflection/enums/ushort/) | source |
-| [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | type |
 | [ushort](/riftbreaker-wiki/docs/game-reflection/enums/ushort/) | index |
-| [uint64](/riftbreaker-wiki/docs/game-reflection/components/uint64/) | offset |
 

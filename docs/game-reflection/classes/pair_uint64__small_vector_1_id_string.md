@@ -12,6 +12,6 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| Vector< [IdString](/riftbreaker-wiki/docs/game-reflection/components/id_string/) > | value |
 | [uint64](/riftbreaker-wiki/docs/game-reflection/components/uint64/) | key |
+| Container< [IdString](/riftbreaker-wiki/docs/game-reflection/components/id_string/) > | value |
 

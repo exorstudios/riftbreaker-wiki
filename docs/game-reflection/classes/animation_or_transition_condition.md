@@ -12,5 +12,5 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| Vector< [AnimationTransitionCondition](/riftbreaker-wiki/docs/game-reflection/components/animation_transition_condition/) > | conditions |
+| Container< [AnimationTransitionCondition](/riftbreaker-wiki/docs/game-reflection/components/animation_transition_condition/) > | conditions |
 

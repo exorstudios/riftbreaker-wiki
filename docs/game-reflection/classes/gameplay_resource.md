@@ -12,13 +12,13 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | radius |
-| [uchar](/riftbreaker-wiki/docs/game-reflection/enums/uchar/) | group |
-| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | missing_modifier |
 | [GameplayResourceDefHolder](/riftbreaker-wiki/docs/game-reflection/components/gameplay_resource_def_holder/) | resource |
-| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | family |
-| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | optional |
-| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | value |
+| [uchar](/riftbreaker-wiki/docs/game-reflection/enums/uchar/) | group |
+| Container< [String](/riftbreaker-wiki/docs/game-reflection/components/string/) > | attachment |
 | [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | specific_group |
-| Vector< [String](/riftbreaker-wiki/docs/game-reflection/components/string/) > | attachment |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | family |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | value |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | radius |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | missing_modifier |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | optional |
 

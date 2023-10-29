@@ -12,7 +12,7 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
+| [IdString](/riftbreaker-wiki/docs/game-reflection/components/id_string/) | attachment |
 | [IdString](/riftbreaker-wiki/docs/game-reflection/components/id_string/) | parent_attachment |
 | [Vector3](/riftbreaker-wiki/docs/game-reflection/classes/vector3/) | offset |
-| [IdString](/riftbreaker-wiki/docs/game-reflection/components/id_string/) | attachment |
 

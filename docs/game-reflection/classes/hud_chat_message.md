@@ -12,7 +12,7 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | message |
 | [uint64](/riftbreaker-wiki/docs/game-reflection/components/uint64/) | timestamp |
 | [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | sender |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | message |
 

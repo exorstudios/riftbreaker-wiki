@@ -12,5 +12,5 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| Vector< [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) > | owners |
+| Container< [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) > | owners |
 

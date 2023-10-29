@@ -12,9 +12,9 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
+| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
+| [IdString](/riftbreaker-wiki/docs/game-reflection/components/id_string/) | Blueprint |
+| [StringHash](/riftbreaker-wiki/docs/game-reflection/classes/string_hash/) | Attachment |
 | [Transform](/riftbreaker-wiki/docs/game-reflection/classes/transform/) | Transform |
 | [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | Delay |
-| [StringHash](/riftbreaker-wiki/docs/game-reflection/classes/string_hash/) | Attachment |
-| [IdString](/riftbreaker-wiki/docs/game-reflection/components/id_string/) | Blueprint |
-| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
 

@@ -12,10 +12,10 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | type_name |
 | [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | name |
-| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | has_custom_serializer |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | type_name |
+| [uchar](/riftbreaker-wiki/docs/game-reflection/enums/uchar/) | ptr_type |
 | [uint64](/riftbreaker-wiki/docs/game-reflection/components/uint64/) | offset |
 | [uchar](/riftbreaker-wiki/docs/game-reflection/enums/uchar/) | flags |
-| [uchar](/riftbreaker-wiki/docs/game-reflection/enums/uchar/) | ptr_type |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | has_custom_serializer |
 

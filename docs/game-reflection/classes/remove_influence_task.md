@@ -13,6 +13,6 @@ Description
 | Type | Name |
 |:----------|:--------------|
 | [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | is_initialized |
-| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | timer |
 | [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | is_remover |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | timer |
 

@@ -12,7 +12,7 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [TypeAny](/riftbreaker-wiki/docs/game-reflection/components/type_any/) | event |
 | [ushort](/riftbreaker-wiki/docs/game-reflection/enums/ushort/) | event_version |
 | [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | event_name |
+| [TypeAny](/riftbreaker-wiki/docs/game-reflection/components/type_any/) | event |
 

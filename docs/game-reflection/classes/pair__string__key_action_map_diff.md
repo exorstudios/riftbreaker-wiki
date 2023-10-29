@@ -12,6 +12,6 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [KeyActionMapDiff](/riftbreaker-wiki/docs/game-reflection/classes/key_action_map_diff/) | value |
 | [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | key |
+| [KeyActionMapDiff](/riftbreaker-wiki/docs/game-reflection/classes/key_action_map_diff/) | value |
 

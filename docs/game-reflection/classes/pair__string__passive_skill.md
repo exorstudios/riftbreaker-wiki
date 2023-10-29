@@ -12,6 +12,6 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [PassiveSkill](/riftbreaker-wiki/docs/game-reflection/classes/passive_skill/) | value |
 | [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | key |
+| [PassiveSkill](/riftbreaker-wiki/docs/game-reflection/classes/passive_skill/) | value |
 

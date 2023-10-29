@@ -12,11 +12,11 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [Vector3](/riftbreaker-wiki/docs/game-reflection/classes/vector3/) | Point |
+| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
 | [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | OtherEntity |
 | [uchar](/riftbreaker-wiki/docs/game-reflection/enums/uchar/) | GroupId |
 | [uchar](/riftbreaker-wiki/docs/game-reflection/enums/uchar/) | OtherGroupId |
+| [Vector3](/riftbreaker-wiki/docs/game-reflection/classes/vector3/) | Point |
 | [Vector3](/riftbreaker-wiki/docs/game-reflection/classes/vector3/) | Normal |
 | [Vector3](/riftbreaker-wiki/docs/game-reflection/classes/vector3/) | Impulse |
-| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
 

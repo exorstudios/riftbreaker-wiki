@@ -12,6 +12,6 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [BehaviourFlowGraph4](/riftbreaker-wiki/docs/game-reflection/components/behaviour_flow_graph4/) | value |
 | [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | key |
+| [BehaviourFlowGraph4](/riftbreaker-wiki/docs/game-reflection/components/behaviour_flow_graph4/) | value |
 

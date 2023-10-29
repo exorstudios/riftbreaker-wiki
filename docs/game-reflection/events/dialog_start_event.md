@@ -12,9 +12,9 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | GroupId |
-| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | DialogId |
-| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | SoundId |
-| [Vector2](/riftbreaker-wiki/docs/game-reflection/classes/vector2/) | DialogSize |
 | [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | DialogId |
+| [Vector2](/riftbreaker-wiki/docs/game-reflection/classes/vector2/) | DialogSize |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | GroupId |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | SoundId |
 

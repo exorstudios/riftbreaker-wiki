@@ -12,7 +12,7 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | Direction |
-| Vector< [Enemy](/riftbreaker-wiki/docs/game-reflection/classes/enemy/) > | Enemies |
 | [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
+| Container< [Enemy](/riftbreaker-wiki/docs/game-reflection/classes/enemy/) > | Enemies |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | Direction |
 

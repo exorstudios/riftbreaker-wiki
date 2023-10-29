@@ -12,9 +12,9 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | WasProduced |
-| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | Add |
+| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
 | [ResourceBasket](/riftbreaker-wiki/docs/game-reflection/classes/resource_basket/) | Basket |
 | [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | GraphId |
-| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | Add |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | WasProduced |
 

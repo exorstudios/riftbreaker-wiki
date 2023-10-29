@@ -12,8 +12,8 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | MissionName |
-| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | MissionDef |
-| [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | Status |
 | [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | MissionName |
+| [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | Status |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | MissionDef |
 

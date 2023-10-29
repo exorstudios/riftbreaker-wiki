@@ -13,5 +13,5 @@ Description
 | Type | Name |
 |:----------|:--------------|
 | [GuiNavGraphDef](/riftbreaker-wiki/docs/game-reflection/classes/gui_nav_graph_def/) | navigation |
-| Vector< [Pair_IdString_GuiSubTabDef](/riftbreaker-wiki/docs/game-reflection/classes/pair__id_string__gui_sub_tab_def/) > | subtabs |
+| Container< [Pair_IdString_GuiSubTabDef](/riftbreaker-wiki/docs/game-reflection/classes/pair__id_string__gui_sub_tab_def/) > | subtabs |
 

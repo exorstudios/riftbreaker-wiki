@@ -12,8 +12,8 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
+| [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | type |
 | [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | parent |
 | [IdString](/riftbreaker-wiki/docs/game-reflection/components/id_string/) | blueprint |
-| [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | type |
 | [StringHash](/riftbreaker-wiki/docs/game-reflection/classes/string_hash/) | attachment |
 

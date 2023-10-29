@@ -12,6 +12,6 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [Timer](/riftbreaker-wiki/docs/game-reflection/classes/timer/) | decay_timer |
 | [Vector3](/riftbreaker-wiki/docs/game-reflection/classes/vector3/) | bending_force |
+| [Timer](/riftbreaker-wiki/docs/game-reflection/classes/timer/) | decay_timer |
 

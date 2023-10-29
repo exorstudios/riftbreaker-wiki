@@ -12,8 +12,8 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | is_mod |
-| [IdString](/riftbreaker-wiki/docs/game-reflection/components/id_string/) | damage_type |
 | [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | value |
+| [IdString](/riftbreaker-wiki/docs/game-reflection/components/id_string/) | damage_type |
 | [uchar](/riftbreaker-wiki/docs/game-reflection/enums/uchar/) | type |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | is_mod |
 

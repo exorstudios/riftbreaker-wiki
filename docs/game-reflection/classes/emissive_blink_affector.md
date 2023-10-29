@@ -12,8 +12,8 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | timer |
-| [ushort](/riftbreaker-wiki/docs/game-reflection/enums/ushort/) | quantity |
 | [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | time |
 | [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | power |
+| [ushort](/riftbreaker-wiki/docs/game-reflection/enums/ushort/) | quantity |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | timer |
 

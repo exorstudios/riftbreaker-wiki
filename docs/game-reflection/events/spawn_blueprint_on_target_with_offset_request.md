@@ -12,10 +12,10 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [Vector3](/riftbreaker-wiki/docs/game-reflection/classes/vector3/) | Axis |
-| [Vector3](/riftbreaker-wiki/docs/game-reflection/classes/vector3/) | Offset |
-| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | Blueprint |
-| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | Angle |
-| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | Tag |
 | [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | Tag |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | Blueprint |
+| [Vector3](/riftbreaker-wiki/docs/game-reflection/classes/vector3/) | Offset |
+| [Vector3](/riftbreaker-wiki/docs/game-reflection/classes/vector3/) | Axis |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | Angle |
 

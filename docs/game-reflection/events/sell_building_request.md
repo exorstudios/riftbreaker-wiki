@@ -12,7 +12,7 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | IsUpgraded |
-| [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | Player |
 | [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
+| [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | Player |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | IsUpgraded |
 

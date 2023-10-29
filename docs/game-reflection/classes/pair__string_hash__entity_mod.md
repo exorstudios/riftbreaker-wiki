@@ -12,6 +12,6 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [EntityMod](/riftbreaker-wiki/docs/game-reflection/classes/entity_mod/) | value |
 | [StringHash](/riftbreaker-wiki/docs/game-reflection/classes/string_hash/) | key |
+| [EntityMod](/riftbreaker-wiki/docs/game-reflection/classes/entity_mod/) | value |
 

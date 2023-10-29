@@ -12,9 +12,9 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | border_width |
 | [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | corner_radius |
-| [uchar](/riftbreaker-wiki/docs/game-reflection/enums/uchar/) | corner_cut |
 | [Vector3](/riftbreaker-wiki/docs/game-reflection/classes/vector3/) | border_color |
 | [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | border_alpha |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | border_width |
+| [uchar](/riftbreaker-wiki/docs/game-reflection/enums/uchar/) | corner_cut |
 

@@ -12,8 +12,8 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | Tag |
-| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | Distance |
-| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | FromTag |
 | [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | Tag |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | FromTag |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | Distance |
 

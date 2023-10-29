@@ -12,6 +12,6 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | value |
 | [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | key |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | value |
 

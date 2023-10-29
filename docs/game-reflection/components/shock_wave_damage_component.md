@@ -12,11 +12,11 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | owner_ent |
-| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | damage_factor |
-| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | head |
-| Vector< [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) > | visited_ents |
-| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | tail |
 | [DamagePattern](/riftbreaker-wiki/docs/game-reflection/classes/damage_pattern/) | DamagePattern |
+| Container< [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) > | visited_ents |
+| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | owner_ent |
 | [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | creator_ent |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | damage_factor |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | tail |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | head |
 

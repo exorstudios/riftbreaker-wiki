@@ -12,7 +12,7 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | localization |
 | [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | logic_file |
 | [Database](/riftbreaker-wiki/docs/game-reflection/components/database/) | database |
-| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | localization |
 

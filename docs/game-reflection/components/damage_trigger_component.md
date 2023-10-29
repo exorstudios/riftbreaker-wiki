@@ -12,12 +12,12 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [IdString](/riftbreaker-wiki/docs/game-reflection/components/id_string/) | name |
-| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | always_kill |
-| [IdString](/riftbreaker-wiki/docs/game-reflection/components/id_string/) | group |
-| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | damage_amount |
+| Container< [PhysicsShape](/riftbreaker-wiki/docs/game-reflection/classes/physics_shape/) > | Shapes |
 | [uint64](/riftbreaker-wiki/docs/game-reflection/components/uint64/) | type |
+| [IdString](/riftbreaker-wiki/docs/game-reflection/components/id_string/) | name |
+| [IdString](/riftbreaker-wiki/docs/game-reflection/components/id_string/) | group |
 | [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | team |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | damage_amount |
 | [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | collision |
-| Vector< [PhysicsShape](/riftbreaker-wiki/docs/game-reflection/classes/physics_shape/) > | Shapes |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | always_kill |
 

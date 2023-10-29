@@ -12,5 +12,5 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| Vector< [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) > | childreen |
+| Container< [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) > | childreen |
 

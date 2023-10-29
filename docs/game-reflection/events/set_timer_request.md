@@ -12,7 +12,7 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | Timer |
-| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | Name |
 | [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | Name |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | Timer |
 

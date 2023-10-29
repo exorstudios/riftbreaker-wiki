@@ -12,6 +12,6 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| Vector< [Pair_uint_PersistentStorage](/riftbreaker-wiki/docs/game-reflection/classes/pair_uint__persistent_storage/) > | value |
 | [StringHash](/riftbreaker-wiki/docs/game-reflection/classes/string_hash/) | key |
+| Container< [Pair_uint_PersistentStorage](/riftbreaker-wiki/docs/game-reflection/classes/pair_uint__persistent_storage/) > | value |
 

@@ -12,7 +12,7 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
+| Container< [ResearchNode](/riftbreaker-wiki/docs/game-reflection/classes/research_node/) > | nodes |
 | [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | category |
-| Vector< [ResearchNode](/riftbreaker-wiki/docs/game-reflection/classes/research_node/) > | nodes |
 | [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | research_tree |
 

@@ -12,7 +12,7 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
+| Container< [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) > | graphs |
 | [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | energy_graph |
 | [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | lines_created |
-| Vector< [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) > | graphs |
 

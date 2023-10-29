@@ -12,5 +12,5 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| Vector< [Pair_String_float](/riftbreaker-wiki/docs/game-reflection/classes/pair__string_float/) > | research_times |
+| Container< [Pair_String_float](/riftbreaker-wiki/docs/game-reflection/classes/pair__string_float/) > | research_times |
 

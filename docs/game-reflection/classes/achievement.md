@@ -12,7 +12,7 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [uint64](/riftbreaker-wiki/docs/game-reflection/components/uint64/) | max_progress |
 | [uint64](/riftbreaker-wiki/docs/game-reflection/components/uint64/) | progress |
+| [uint64](/riftbreaker-wiki/docs/game-reflection/components/uint64/) | max_progress |
 | [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | status |
 

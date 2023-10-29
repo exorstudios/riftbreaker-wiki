@@ -12,9 +12,9 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | is_paused |
-| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | anim_speed |
 | [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | name |
-| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | is_looped |
 | [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | elapsed_time |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | anim_speed |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | is_looped |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | is_paused |
 

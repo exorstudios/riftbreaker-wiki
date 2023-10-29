@@ -12,6 +12,6 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| Vector< [KeyActionInfo](/riftbreaker-wiki/docs/game-reflection/classes/key_action_info/) > | value |
 | [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | key |
+| Container< [KeyActionInfo](/riftbreaker-wiki/docs/game-reflection/classes/key_action_info/) > | value |
 

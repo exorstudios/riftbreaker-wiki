@@ -12,7 +12,7 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
+| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
 | [Database1](/riftbreaker-wiki/docs/game-reflection/components/database1/) | Database |
 | [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | VotingType |
-| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
 

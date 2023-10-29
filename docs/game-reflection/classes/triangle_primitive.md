@@ -13,8 +13,8 @@ Description
 | Type | Name |
 |:----------|:--------------|
 | [Vector4](/riftbreaker-wiki/docs/game-reflection/classes/vector4/) | lineColor |
+| [Vector4](/riftbreaker-wiki/docs/game-reflection/classes/vector4/) | solidColor |
+| [Vector3](/riftbreaker-wiki/docs/game-reflection/classes/vector3/) | p1 |
 | [Vector3](/riftbreaker-wiki/docs/game-reflection/classes/vector3/) | p2 |
 | [Vector3](/riftbreaker-wiki/docs/game-reflection/classes/vector3/) | p3 |
-| [Vector3](/riftbreaker-wiki/docs/game-reflection/classes/vector3/) | p1 |
-| [Vector4](/riftbreaker-wiki/docs/game-reflection/classes/vector4/) | solidColor |
 

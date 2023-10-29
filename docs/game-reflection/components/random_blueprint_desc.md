@@ -12,5 +12,5 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| Vector< [Blueprint](/riftbreaker-wiki/docs/game-reflection/classes/blueprint/) > | Blueprints |
+| Container< [Blueprint](/riftbreaker-wiki/docs/game-reflection/classes/blueprint/) > | Blueprints |
 

@@ -12,7 +12,7 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [BehaviourFlowGraphCustomizer](/riftbreaker-wiki/docs/game-reflection/classes/behaviour_flow_graph_customizer/) | behaviour_customizer |
-| [Database](/riftbreaker-wiki/docs/game-reflection/components/database/) | database |
 | [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | unique_prefix |
+| [Database](/riftbreaker-wiki/docs/game-reflection/components/database/) | database |
+| [BehaviourFlowGraphCustomizer](/riftbreaker-wiki/docs/game-reflection/classes/behaviour_flow_graph_customizer/) | behaviour_customizer |
 

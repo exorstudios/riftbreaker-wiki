@@ -12,6 +12,6 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| Vector< [EvalNodeDependency](/riftbreaker-wiki/docs/game-reflection/classes/eval_node_dependency/) > | dependency_vec |
+| Container< [EvalNodeDependency](/riftbreaker-wiki/docs/game-reflection/classes/eval_node_dependency/) > | dependency_vec |
 | [ushort](/riftbreaker-wiki/docs/game-reflection/enums/ushort/) | id |
 

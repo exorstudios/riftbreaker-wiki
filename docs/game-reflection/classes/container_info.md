@@ -13,5 +13,5 @@ Description
 | Type | Name |
 |:----------|:--------------|
 | [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | types_to_select |
-| Vector< [ContainerLootType](/riftbreaker-wiki/docs/game-reflection/classes/container_loot_type/) > | container_loot_types |
+| Container< [ContainerLootType](/riftbreaker-wiki/docs/game-reflection/classes/container_loot_type/) > | container_loot_types |
 

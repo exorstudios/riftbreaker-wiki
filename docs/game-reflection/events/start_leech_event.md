@@ -12,7 +12,7 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | LeechDamage |
-| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | TargetTag |
 | [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | TargetTag |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | LeechDamage |
 

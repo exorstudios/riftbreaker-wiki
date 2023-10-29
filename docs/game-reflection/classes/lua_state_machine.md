@@ -12,7 +12,7 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [LuaObject](/riftbreaker-wiki/docs/game-reflection/classes/lua_object/) | context |
 | [StringHash](/riftbreaker-wiki/docs/game-reflection/classes/string_hash/) | hash |
+| [LuaObject](/riftbreaker-wiki/docs/game-reflection/classes/lua_object/) | context |
 | [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | mark_for_destroy |
 

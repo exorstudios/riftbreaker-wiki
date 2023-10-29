@@ -12,6 +12,6 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | gui_path |
 | [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | value |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | gui_path |
 

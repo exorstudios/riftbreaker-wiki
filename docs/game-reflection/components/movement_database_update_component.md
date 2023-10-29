@@ -12,6 +12,6 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [Quaternion](/riftbreaker-wiki/docs/game-reflection/classes/quaternion/) | prev_orientation |
 | [Vector3](/riftbreaker-wiki/docs/game-reflection/classes/vector3/) | prev_position |
+| [Quaternion](/riftbreaker-wiki/docs/game-reflection/classes/quaternion/) | prev_orientation |
 

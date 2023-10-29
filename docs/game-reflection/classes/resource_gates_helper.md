@@ -12,5 +12,5 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| Vector< [ResourceGraphGate](/riftbreaker-wiki/docs/game-reflection/classes/resource_graph_gate/) > | gates |
+| Container< [ResourceGraphGate](/riftbreaker-wiki/docs/game-reflection/classes/resource_graph_gate/) > | gates |
 

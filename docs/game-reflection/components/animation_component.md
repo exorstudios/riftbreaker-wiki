@@ -12,5 +12,5 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| Vector< [AnimationState](/riftbreaker-wiki/docs/game-reflection/classes/animation_state/) > | active_animations |
+| Container< [AnimationState](/riftbreaker-wiki/docs/game-reflection/classes/animation_state/) > | active_animations |
 

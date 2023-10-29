@@ -12,8 +12,8 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [StringHash](/riftbreaker-wiki/docs/game-reflection/classes/string_hash/) | bottom |
-| [StringHash](/riftbreaker-wiki/docs/game-reflection/classes/string_hash/) | right |
-| [StringHash](/riftbreaker-wiki/docs/game-reflection/classes/string_hash/) | top |
 | [StringHash](/riftbreaker-wiki/docs/game-reflection/classes/string_hash/) | left |
+| [StringHash](/riftbreaker-wiki/docs/game-reflection/classes/string_hash/) | top |
+| [StringHash](/riftbreaker-wiki/docs/game-reflection/classes/string_hash/) | right |
+| [StringHash](/riftbreaker-wiki/docs/game-reflection/classes/string_hash/) | bottom |
 

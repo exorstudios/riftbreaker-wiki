@@ -12,7 +12,7 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | NewStateName |
-| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | OldStateName |
 | [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | OldStateName |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | NewStateName |
 

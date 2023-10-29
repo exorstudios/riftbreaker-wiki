@@ -12,8 +12,8 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | PrepareBlueprint |
-| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | GrowSpeed |
 | [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | PrepareBlueprint |
 | [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | ShootBlueprint |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | GrowSpeed |
 

@@ -12,6 +12,6 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [ModifiableValue](/riftbreaker-wiki/docs/game-reflection/classes/modifiable_value/) | value |
 | [IdString](/riftbreaker-wiki/docs/game-reflection/components/id_string/) | key |
+| [ModifiableValue](/riftbreaker-wiki/docs/game-reflection/classes/modifiable_value/) | value |
 

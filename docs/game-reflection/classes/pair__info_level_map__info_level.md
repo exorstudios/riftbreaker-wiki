@@ -12,6 +12,6 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | value |
 | [InfoLevelMap](/riftbreaker-wiki/docs/game-reflection/classes/info_level_map/) | key |
+| [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | value |
 

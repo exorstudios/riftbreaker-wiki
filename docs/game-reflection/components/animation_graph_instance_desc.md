@@ -12,5 +12,5 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| Vector< [AnimationGraphLayerInstanceDesc](/riftbreaker-wiki/docs/game-reflection/components/animation_graph_layer_instance_desc/) > | layer_desc_vec |
+| Container< [AnimationGraphLayerInstanceDesc](/riftbreaker-wiki/docs/game-reflection/components/animation_graph_layer_instance_desc/) > | layer_desc_vec |
 

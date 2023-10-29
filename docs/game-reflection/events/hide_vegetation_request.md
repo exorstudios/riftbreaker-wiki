@@ -12,8 +12,8 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | WithLifetime |
+| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
 | [Aabb](/riftbreaker-wiki/docs/game-reflection/components/aabb/) | Bounds |
 | [uint64](/riftbreaker-wiki/docs/game-reflection/components/uint64/) | VegetationType |
-| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | WithLifetime |
 

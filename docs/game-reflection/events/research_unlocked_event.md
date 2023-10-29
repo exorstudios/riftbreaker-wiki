@@ -12,9 +12,9 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | Name |
-| [TeamId](/riftbreaker-wiki/docs/game-reflection/classes/team_id/) | TeamId |
-| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | EmptyCosts |
 | [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
-| Vector< [ResearchAward](/riftbreaker-wiki/docs/game-reflection/classes/research_award/) > | Awards |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | Name |
+| Container< [ResearchAward](/riftbreaker-wiki/docs/game-reflection/classes/research_award/) > | Awards |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | EmptyCosts |
+| [TeamId](/riftbreaker-wiki/docs/game-reflection/classes/team_id/) | TeamId |
 

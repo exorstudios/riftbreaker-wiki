@@ -12,6 +12,6 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [Pair_AabbAabb](/riftbreaker-wiki/docs/game-reflection/classes/pair__aabb_aabb/) | value |
 | [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | key |
+| [Pair_AabbAabb](/riftbreaker-wiki/docs/game-reflection/classes/pair__aabb_aabb/) | value |
 

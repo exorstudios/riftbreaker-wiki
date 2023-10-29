@@ -12,8 +12,8 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | search_to_spawn_radius |
-| [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | spawn_rate |
-| Vector< [CreatureVolume](/riftbreaker-wiki/docs/game-reflection/classes/creature_volume/) > | species |
 | [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | max_count |
+| [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | spawn_rate |
+| [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | search_to_spawn_radius |
+| Container< [CreatureVolume](/riftbreaker-wiki/docs/game-reflection/classes/creature_volume/) > | species |
 

@@ -13,8 +13,8 @@ Description
 | Type | Name |
 |:----------|:--------------|
 | [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | entity |
-| [Quaternion](/riftbreaker-wiki/docs/game-reflection/classes/quaternion/) | orient |
 | [Vector3](/riftbreaker-wiki/docs/game-reflection/classes/vector3/) | position |
-| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | range |
+| [Quaternion](/riftbreaker-wiki/docs/game-reflection/classes/quaternion/) | orient |
 | [Vector3](/riftbreaker-wiki/docs/game-reflection/classes/vector3/) | extent |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | range |
 

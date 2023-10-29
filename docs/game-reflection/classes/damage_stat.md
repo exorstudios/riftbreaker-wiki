@@ -12,15 +12,15 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | damage_penetration |
-| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | damage_splash |
-| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | damage_critical_factor |
+| Container< [Damage](/riftbreaker-wiki/docs/game-reflection/classes/damage/) > | Damages |
+| Container< [TimeDamage](/riftbreaker-wiki/docs/game-reflection/classes/time_damage/) > | TimeDamages |
 | [IdString](/riftbreaker-wiki/docs/game-reflection/components/id_string/) | damage_additional_type |
-| Vector< [TimeDamage](/riftbreaker-wiki/docs/game-reflection/classes/time_damage/) > | TimeDamages |
-| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | damage_spread |
-| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | damage_stun_length |
-| Vector< [Damage](/riftbreaker-wiki/docs/game-reflection/classes/damage/) > | Damages |
-| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | damage_critical_chance |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | damage_splash |
 | [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | damage_stun |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | damage_stun_length |
 | [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | damage_lifesteal |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | damage_penetration |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | damage_spread |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | damage_critical_chance |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | damage_critical_factor |
 

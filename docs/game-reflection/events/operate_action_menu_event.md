@@ -12,7 +12,7 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
+| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
 | [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | Menu |
 | [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | Player |
-| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
 

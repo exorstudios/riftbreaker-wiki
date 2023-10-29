@@ -12,6 +12,6 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | value |
 | [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | action_name |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | value |
 

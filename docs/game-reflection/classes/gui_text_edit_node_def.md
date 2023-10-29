@@ -14,6 +14,6 @@ Description
 |:----------|:--------------|
 | [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | default_text |
 | [ushort](/riftbreaker-wiki/docs/game-reflection/enums/ushort/) | max_char_count |
-| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | filename_mode |
 | [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | pswrd_mode |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | filename_mode |
 

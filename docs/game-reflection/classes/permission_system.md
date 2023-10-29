@@ -12,8 +12,8 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| Vector< [String](/riftbreaker-wiki/docs/game-reflection/components/string/) > | hidden |
-| Vector< [String](/riftbreaker-wiki/docs/game-reflection/components/string/) > | blocked |
-| Vector< [StringHash](/riftbreaker-wiki/docs/game-reflection/classes/string_hash/) > | building_blocked |
-| Vector< [StringHash](/riftbreaker-wiki/docs/game-reflection/classes/string_hash/) > | highlighted_building_categories |
+| Container< [String](/riftbreaker-wiki/docs/game-reflection/components/string/) > | blocked |
+| Container< [String](/riftbreaker-wiki/docs/game-reflection/components/string/) > | hidden |
+| Container< [StringHash](/riftbreaker-wiki/docs/game-reflection/classes/string_hash/) > | building_blocked |
+| Container< [StringHash](/riftbreaker-wiki/docs/game-reflection/classes/string_hash/) > | highlighted_building_categories |
 

@@ -12,6 +12,6 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [Vector3](/riftbreaker-wiki/docs/game-reflection/classes/vector3/) | value |
 | [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | key |
+| [Vector3](/riftbreaker-wiki/docs/game-reflection/classes/vector3/) | value |
 

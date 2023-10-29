@@ -12,6 +12,6 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | research_name |
 | [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | research_category |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | research_name |
 

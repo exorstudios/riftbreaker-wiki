@@ -12,5 +12,5 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| Vector< [TransformBezierCurve](/riftbreaker-wiki/docs/game-reflection/classes/transform_bezier_curve/) > | curves |
+| Container< [TransformBezierCurve](/riftbreaker-wiki/docs/game-reflection/classes/transform_bezier_curve/) > | curves |
 

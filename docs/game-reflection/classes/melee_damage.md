@@ -14,10 +14,10 @@ Description
 |:----------|:--------------|
 | [IdString](/riftbreaker-wiki/docs/game-reflection/components/id_string/) | name |
 | [IdString](/riftbreaker-wiki/docs/game-reflection/components/id_string/) | attack_effect |
-| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | hit_on_end |
-| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | damage_factor |
-| [IdString](/riftbreaker-wiki/docs/game-reflection/components/id_string/) | anim_name |
 | [IdString](/riftbreaker-wiki/docs/game-reflection/components/id_string/) | damage_effect |
+| [IdString](/riftbreaker-wiki/docs/game-reflection/components/id_string/) | anim_name |
 | [IdString](/riftbreaker-wiki/docs/game-reflection/components/id_string/) | attachment |
 | [MeleeAmmoDef](/riftbreaker-wiki/docs/game-reflection/classes/melee_ammo_def/) | ammo_definition |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | damage_factor |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | hit_on_end |
 

@@ -12,8 +12,8 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [uchar](/riftbreaker-wiki/docs/game-reflection/enums/uchar/) | sync_type |
 | [CustomRenderableData4](/riftbreaker-wiki/docs/game-reflection/components/custom_renderable_data4/) | data |
-| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | is_dirty |
 | [CustomRenderableGenerator4](/riftbreaker-wiki/docs/game-reflection/components/custom_renderable_generator4/) | builder |
+| [uchar](/riftbreaker-wiki/docs/game-reflection/enums/uchar/) | sync_type |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | is_dirty |
 

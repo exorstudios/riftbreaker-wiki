@@ -12,8 +12,8 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | Mode |
+| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
 | [Vector3](/riftbreaker-wiki/docs/game-reflection/classes/vector3/) | Position |
 | [Vector3](/riftbreaker-wiki/docs/game-reflection/classes/vector3/) | Force |
-| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
+| [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | Mode |
 

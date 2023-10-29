@@ -12,7 +12,7 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | Reason |
-| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | Cooldown |
 | [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | Cooldown |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | Reason |
 

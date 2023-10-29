@@ -13,6 +13,6 @@ Description
 | Type | Name |
 |:----------|:--------------|
 | [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Owner |
-| [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | NewSubslot |
 | [IdString](/riftbreaker-wiki/docs/game-reflection/components/id_string/) | SlotId |
+| [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | NewSubslot |
 

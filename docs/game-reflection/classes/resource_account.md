@@ -12,7 +12,7 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | unlimited |
-| Vector< [Pair_StringHash_float](/riftbreaker-wiki/docs/game-reflection/classes/pair__string_hash_float/) > | limits |
 | [ResourceBasket](/riftbreaker-wiki/docs/game-reflection/classes/resource_basket/) | basket |
+| Container< [Pair_StringHash_float](/riftbreaker-wiki/docs/game-reflection/classes/pair__string_hash_float/) > | limits |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | unlimited |
 

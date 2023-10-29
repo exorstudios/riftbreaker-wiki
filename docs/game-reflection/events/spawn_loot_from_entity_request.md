@@ -12,10 +12,10 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | LifetTimeType |
-| Vector< [Database](/riftbreaker-wiki/docs/game-reflection/components/database/) > | AdditionalDatabase |
-| [uint64](/riftbreaker-wiki/docs/game-reflection/components/uint64/) | PackedSize |
-| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | Blueprint |
 | [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | Blueprint |
 | [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | Timeout |
+| [uint64](/riftbreaker-wiki/docs/game-reflection/components/uint64/) | PackedSize |
+| [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | LifetTimeType |
+| Container< [Database](/riftbreaker-wiki/docs/game-reflection/components/database/) > | AdditionalDatabase |
 

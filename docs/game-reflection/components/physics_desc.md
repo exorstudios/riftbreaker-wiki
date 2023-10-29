@@ -12,5 +12,5 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| Vector< [PhysicsObjectDesc](/riftbreaker-wiki/docs/game-reflection/components/physics_object_desc/) > | objects |
+| Container< [PhysicsObjectDesc](/riftbreaker-wiki/docs/game-reflection/components/physics_object_desc/) > | objects |
 

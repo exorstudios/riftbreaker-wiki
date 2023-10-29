@@ -12,5 +12,5 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| Vector< [Pair_CampaignId_CampaignSaveInfo](/riftbreaker-wiki/docs/game-reflection/classes/pair__campaign_id__campaign_save_info/) > | campaigns |
+| Container< [Pair_CampaignId_CampaignSaveInfo](/riftbreaker-wiki/docs/game-reflection/classes/pair__campaign_id__campaign_save_info/) > | campaigns |
 

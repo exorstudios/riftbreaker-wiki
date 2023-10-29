@@ -12,7 +12,7 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| Vector< [MainMenuButtonInfo](/riftbreaker-wiki/docs/game-reflection/classes/main_menu_button_info/) > | items |
-| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | title |
 | [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | name |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | title |
+| Container< [MainMenuButtonInfo](/riftbreaker-wiki/docs/game-reflection/classes/main_menu_button_info/) > | items |
 

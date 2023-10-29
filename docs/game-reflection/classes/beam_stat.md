@@ -12,6 +12,6 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | beam_width |
 | [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | beam_range |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | beam_width |
 

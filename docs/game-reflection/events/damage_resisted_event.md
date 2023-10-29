@@ -12,8 +12,8 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Creator |
-| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Owner |
-| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | DamageType |
 | [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
+| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Owner |
+| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Creator |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | DamageType |
 

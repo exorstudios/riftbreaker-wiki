@@ -12,6 +12,6 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| Vector< [MissionObjectSpawn](/riftbreaker-wiki/docs/game-reflection/classes/mission_object_spawn/) > | value |
 | [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | key |
+| Container< [MissionObjectSpawn](/riftbreaker-wiki/docs/game-reflection/classes/mission_object_spawn/) > | value |
 

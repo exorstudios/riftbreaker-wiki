@@ -12,6 +12,6 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| Vector< [Pair_String_double](/riftbreaker-wiki/docs/game-reflection/classes/pair__string_double/) > | values |
 | [double](/riftbreaker-wiki/docs/game-reflection/components/double/) | total |
+| Container< [Pair_String_double](/riftbreaker-wiki/docs/game-reflection/classes/pair__string_double/) > | values |
 

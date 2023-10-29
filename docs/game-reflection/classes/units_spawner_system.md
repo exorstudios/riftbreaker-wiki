@@ -12,5 +12,5 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| Vector< [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) > | entity_spawn_spots |
+| Container< [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) > | entity_spawn_spots |
 

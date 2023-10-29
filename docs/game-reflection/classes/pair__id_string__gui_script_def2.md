@@ -12,6 +12,6 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [GuiScriptDef2](/riftbreaker-wiki/docs/game-reflection/components/gui_script_def2/) | value |
 | [IdString](/riftbreaker-wiki/docs/game-reflection/components/id_string/) | key |
+| [GuiScriptDef2](/riftbreaker-wiki/docs/game-reflection/components/gui_script_def2/) | value |
 

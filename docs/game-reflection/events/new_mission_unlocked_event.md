@@ -12,7 +12,7 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | ResourcePath |
-| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | MissionName |
 | [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | MissionName |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | ResourcePath |
 

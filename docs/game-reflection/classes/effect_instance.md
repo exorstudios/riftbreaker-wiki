@@ -13,8 +13,8 @@ Description
 | Type | Name |
 |:----------|:--------------|
 | [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | entity |
-| [StringHash](/riftbreaker-wiki/docs/game-reflection/classes/string_hash/) | group |
 | [StringHash](/riftbreaker-wiki/docs/game-reflection/classes/string_hash/) | blueprint |
-| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | always_up |
 | [StringHash](/riftbreaker-wiki/docs/game-reflection/classes/string_hash/) | attachment |
+| [StringHash](/riftbreaker-wiki/docs/game-reflection/classes/string_hash/) | group |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | always_up |
 

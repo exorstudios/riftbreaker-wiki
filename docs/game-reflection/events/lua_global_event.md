@@ -12,7 +12,7 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [Database](/riftbreaker-wiki/docs/game-reflection/components/database/) | argName3 |
-| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | argName2 |
 | [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | argName1 |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | argName2 |
+| [Database](/riftbreaker-wiki/docs/game-reflection/components/database/) | argName3 |
 

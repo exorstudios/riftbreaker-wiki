@@ -12,7 +12,7 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | ResourceAmount |
-| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | ResourceName |
 | [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | ResourceName |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | ResourceAmount |
 

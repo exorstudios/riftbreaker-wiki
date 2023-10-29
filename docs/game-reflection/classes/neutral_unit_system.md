@@ -13,6 +13,6 @@ Description
 | Type | Name |
 |:----------|:--------------|
 | [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | enable_ground_spawn |
-| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | enable_global_spawn |
 | [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | enable_air_spawn |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | enable_global_spawn |
 

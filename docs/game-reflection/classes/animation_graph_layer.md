@@ -12,7 +12,7 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | bone_group |
 | [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | name |
 | [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | blend_type |
-| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | bone_group |
 

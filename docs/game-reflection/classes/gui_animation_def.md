@@ -12,6 +12,6 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
+| Container< [GuiAnimationFrame](/riftbreaker-wiki/docs/game-reflection/classes/gui_animation_frame/) > | frames |
 | [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | name |
-| Vector< [GuiAnimationFrame](/riftbreaker-wiki/docs/game-reflection/classes/gui_animation_frame/) > | frames |
 

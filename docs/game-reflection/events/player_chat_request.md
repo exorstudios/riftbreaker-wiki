@@ -12,7 +12,7 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | Message |
-| [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | Player |
 | [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
+| [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | Player |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | Message |
 

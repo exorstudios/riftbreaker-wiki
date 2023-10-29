@@ -12,7 +12,7 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | GroupId |
 | [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
-| Vector< [DialogGroupInfo](/riftbreaker-wiki/docs/game-reflection/classes/dialog_group_info/) > | Dialogs |
+| Container< [DialogGroupInfo](/riftbreaker-wiki/docs/game-reflection/classes/dialog_group_info/) > | Dialogs |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | GroupId |
 

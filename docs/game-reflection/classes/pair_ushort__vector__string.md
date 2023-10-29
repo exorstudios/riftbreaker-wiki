@@ -12,6 +12,6 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| Vector< [String](/riftbreaker-wiki/docs/game-reflection/components/string/) > | value |
 | [ushort](/riftbreaker-wiki/docs/game-reflection/enums/ushort/) | key |
+| Container< [String](/riftbreaker-wiki/docs/game-reflection/components/string/) > | value |
 

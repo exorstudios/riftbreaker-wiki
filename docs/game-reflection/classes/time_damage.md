@@ -12,7 +12,7 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | value |
 | [IdString](/riftbreaker-wiki/docs/game-reflection/components/id_string/) | type |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | value |
 | [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | duration |
 

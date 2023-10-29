@@ -12,6 +12,6 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [ResourceBasket](/riftbreaker-wiki/docs/game-reflection/classes/resource_basket/) | value |
 | [uchar](/riftbreaker-wiki/docs/game-reflection/enums/uchar/) | key |
+| [ResourceBasket](/riftbreaker-wiki/docs/game-reflection/classes/resource_basket/) | value |
 

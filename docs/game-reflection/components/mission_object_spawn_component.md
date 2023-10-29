@@ -12,6 +12,6 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| Vector< [String](/riftbreaker-wiki/docs/game-reflection/components/string/) > | pool_names |
 | [Aabb](/riftbreaker-wiki/docs/game-reflection/components/aabb/) | bounds |
+| Container< [String](/riftbreaker-wiki/docs/game-reflection/components/string/) > | pool_names |
 

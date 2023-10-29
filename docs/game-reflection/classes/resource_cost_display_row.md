@@ -12,12 +12,12 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | icon |
 | [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | name |
-| Vector< [float](/riftbreaker-wiki/docs/game-reflection/components/float/) > | data |
-| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | current |
 | [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | value |
 | [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | storage |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | current |
 | [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | new |
+| Container< [float](/riftbreaker-wiki/docs/game-reflection/components/float/) > | data |
 | [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | limit |
-| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | icon |
 

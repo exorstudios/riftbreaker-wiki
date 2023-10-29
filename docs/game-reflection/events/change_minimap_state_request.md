@@ -12,7 +12,7 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | PlayerId |
-| [uchar](/riftbreaker-wiki/docs/game-reflection/enums/uchar/) | State |
 | [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
+| [uchar](/riftbreaker-wiki/docs/game-reflection/enums/uchar/) | State |
+| [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | PlayerId |
 

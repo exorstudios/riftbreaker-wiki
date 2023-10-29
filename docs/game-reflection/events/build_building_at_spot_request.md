@@ -12,8 +12,8 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
+| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
+| [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | Player |
 | [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | BuildingBlueprint |
 | [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | CreateCubes |
-| [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | Player |
-| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
 

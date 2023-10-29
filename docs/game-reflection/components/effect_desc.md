@@ -12,5 +12,5 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| Vector< [EffectBase](/riftbreaker-wiki/docs/game-reflection/components/effect_base/) > | Effects |
+| Container< [EffectBase](/riftbreaker-wiki/docs/game-reflection/components/effect_base/) > | Effects |
 

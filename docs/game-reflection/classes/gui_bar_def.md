@@ -12,8 +12,8 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [uchar](/riftbreaker-wiki/docs/game-reflection/enums/uchar/) | direction |
-| [uchar](/riftbreaker-wiki/docs/game-reflection/enums/uchar/) | behavior |
 | [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | rawData |
+| [uchar](/riftbreaker-wiki/docs/game-reflection/enums/uchar/) | direction |
 | [uchar](/riftbreaker-wiki/docs/game-reflection/enums/uchar/) | material_type |
+| [uchar](/riftbreaker-wiki/docs/game-reflection/enums/uchar/) | behavior |
 

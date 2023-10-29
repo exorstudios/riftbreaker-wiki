@@ -12,5 +12,5 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| Vector< [StringHash](/riftbreaker-wiki/docs/game-reflection/classes/string_hash/) > | buildings |
+| Container< [StringHash](/riftbreaker-wiki/docs/game-reflection/classes/string_hash/) > | buildings |
 

@@ -12,5 +12,5 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| Vector< [EquipmentSlot](/riftbreaker-wiki/docs/game-reflection/classes/equipment_slot/) > | slots |
+| Container< [EquipmentSlot](/riftbreaker-wiki/docs/game-reflection/classes/equipment_slot/) > | slots |
 

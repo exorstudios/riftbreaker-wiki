@@ -12,6 +12,6 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [uint64](/riftbreaker-wiki/docs/game-reflection/components/uint64/) | ComponentId |
 | [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
+| [uint64](/riftbreaker-wiki/docs/game-reflection/components/uint64/) | ComponentId |
 

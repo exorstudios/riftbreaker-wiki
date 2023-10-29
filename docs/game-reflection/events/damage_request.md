@@ -12,9 +12,9 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [ushort](/riftbreaker-wiki/docs/game-reflection/enums/ushort/) | IgnoreEffect |
-| [ushort](/riftbreaker-wiki/docs/game-reflection/enums/ushort/) | Effect |
+| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
 | [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | DamageValue |
 | [IdString](/riftbreaker-wiki/docs/game-reflection/components/id_string/) | DamageType |
-| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
+| [ushort](/riftbreaker-wiki/docs/game-reflection/enums/ushort/) | Effect |
+| [ushort](/riftbreaker-wiki/docs/game-reflection/enums/ushort/) | IgnoreEffect |
 

@@ -12,6 +12,6 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | authoritativity |
 | [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | duration |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | authoritativity |
 

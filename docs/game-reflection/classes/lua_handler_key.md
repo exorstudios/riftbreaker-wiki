@@ -13,6 +13,6 @@ Description
 | Type | Name |
 |:----------|:--------------|
 | [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | event |
-| [StringHash](/riftbreaker-wiki/docs/game-reflection/classes/string_hash/) | callback |
 | [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | target |
+| [StringHash](/riftbreaker-wiki/docs/game-reflection/classes/string_hash/) | callback |
 

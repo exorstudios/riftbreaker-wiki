@@ -12,7 +12,7 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
+| Container< [Pair_String_String](/riftbreaker-wiki/docs/game-reflection/classes/pair__string__string/) > | value_map |
 | [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | observed_param_name |
-| Vector< [Pair_String_String](/riftbreaker-wiki/docs/game-reflection/classes/pair__string__string/) > | value_map |
 | [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | default |
 

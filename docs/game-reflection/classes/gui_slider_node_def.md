@@ -12,9 +12,9 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | horizontal |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | min |
 | [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | max |
 | [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | change |
-| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | min |
 | [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | default |
-| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | horizontal |
 

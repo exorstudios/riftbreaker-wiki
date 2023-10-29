@@ -12,7 +12,7 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | fvalue |
-| [IdString](/riftbreaker-wiki/docs/game-reflection/components/id_string/) | param |
 | [IdString](/riftbreaker-wiki/docs/game-reflection/components/id_string/) | sound |
+| [IdString](/riftbreaker-wiki/docs/game-reflection/components/id_string/) | param |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | fvalue |
 

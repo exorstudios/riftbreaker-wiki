@@ -12,6 +12,6 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| Vector< [TeamId](/riftbreaker-wiki/docs/game-reflection/classes/team_id/) > | value |
 | [TeamId](/riftbreaker-wiki/docs/game-reflection/classes/team_id/) | key |
+| Container< [TeamId](/riftbreaker-wiki/docs/game-reflection/classes/team_id/) > | value |
 

@@ -12,19 +12,19 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| Vector< [String](/riftbreaker-wiki/docs/game-reflection/components/string/) > | can_be_tested_for_researched |
-| Vector< [String](/riftbreaker-wiki/docs/game-reflection/components/string/) > | new_researches |
-| Vector< [String](/riftbreaker-wiki/docs/game-reflection/components/string/) > | researching |
-| Vector< [Pair_String_float](/riftbreaker-wiki/docs/game-reflection/classes/pair__string_float/) > | research_times |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | laboratory_build |
 | [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | communications_hub_build |
 | [TeamId](/riftbreaker-wiki/docs/game-reflection/classes/team_id/) | team_id |
-| Vector< [String](/riftbreaker-wiki/docs/game-reflection/components/string/) > | can_be_researched |
-| Vector< [String](/riftbreaker-wiki/docs/game-reflection/components/string/) > | hilight_research |
-| Vector< [String](/riftbreaker-wiki/docs/game-reflection/components/string/) > | researched |
-| Vector< [ResearchTree](/riftbreaker-wiki/docs/game-reflection/classes/research_tree/) > | research |
-| Vector< [ResearchInfo](/riftbreaker-wiki/docs/game-reflection/classes/research_info/) > | additional_trees |
+| Container< [ResearchTree](/riftbreaker-wiki/docs/game-reflection/classes/research_tree/) > | research |
 | [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | editor |
-| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | laboratory_build |
+| Container< [String](/riftbreaker-wiki/docs/game-reflection/components/string/) > | can_be_tested_for_researched |
 | [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | research_tree |
+| Container< [ResearchInfo](/riftbreaker-wiki/docs/game-reflection/classes/research_info/) > | additional_trees |
+| Container< [Pair_String_float](/riftbreaker-wiki/docs/game-reflection/classes/pair__string_float/) > | research_times |
 | [uint64](/riftbreaker-wiki/docs/game-reflection/components/uint64/) | version |
+| Container< [String](/riftbreaker-wiki/docs/game-reflection/components/string/) > | researched |
+| Container< [String](/riftbreaker-wiki/docs/game-reflection/components/string/) > | can_be_researched |
+| Container< [String](/riftbreaker-wiki/docs/game-reflection/components/string/) > | researching |
+| Container< [String](/riftbreaker-wiki/docs/game-reflection/components/string/) > | new_researches |
+| Container< [String](/riftbreaker-wiki/docs/game-reflection/components/string/) > | hilight_research |
 

@@ -13,7 +13,7 @@ Description
 | Type | Name |
 |:----------|:--------------|
 | [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | timer |
-| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | angle |
 | [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | max_timer |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | angle |
 | [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | timer_string |
 

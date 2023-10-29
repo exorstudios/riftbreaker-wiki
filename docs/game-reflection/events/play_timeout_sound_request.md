@@ -12,9 +12,9 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Owner |
-| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | Sound |
-| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | Positive |
 | [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
 | [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | Timeout |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | Sound |
+| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Owner |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | Positive |
 

@@ -12,6 +12,6 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| Vector< [Pair_String_String](/riftbreaker-wiki/docs/game-reflection/classes/pair__string__string/) > | map |
+| Container< [Pair_String_String](/riftbreaker-wiki/docs/game-reflection/classes/pair__string__string/) > | map |
 | [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | fallback_value |
 

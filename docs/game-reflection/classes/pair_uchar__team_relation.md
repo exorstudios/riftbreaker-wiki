@@ -12,6 +12,6 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [TeamRelation](/riftbreaker-wiki/docs/game-reflection/classes/team_relation/) | value |
 | [uchar](/riftbreaker-wiki/docs/game-reflection/enums/uchar/) | key |
+| [TeamRelation](/riftbreaker-wiki/docs/game-reflection/classes/team_relation/) | value |
 

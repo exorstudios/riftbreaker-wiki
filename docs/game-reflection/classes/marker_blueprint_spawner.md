@@ -13,6 +13,6 @@ Description
 | Type | Name |
 |:----------|:--------------|
 | [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | spawn_at_marker |
-| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | spawn_at_group |
 | [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | spawn_at_name |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | spawn_at_group |
 

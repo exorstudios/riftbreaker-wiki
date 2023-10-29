@@ -13,7 +13,7 @@ Description
 | Type | Name |
 |:----------|:--------------|
 | [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | min_exposure |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | max_exposure |
 | [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | scale |
 | [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | threshold |
-| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | max_exposure |
 

@@ -13,8 +13,8 @@ Description
 | Name | Value |
 |:----------|:--------------|
 |  | 0 |
+| always | 1 |
 | build_menu | 2 |
 | never | 3 |
-| always | 1 |
 | always_short | 4 |
 

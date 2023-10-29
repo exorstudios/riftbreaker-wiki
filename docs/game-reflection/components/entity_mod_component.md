@@ -13,5 +13,5 @@ Description
 | Type | Name |
 |:----------|:--------------|
 | [uchar](/riftbreaker-wiki/docs/game-reflection/enums/uchar/) | rarity |
-| Vector< [Pair_EntityModType_EntityMod](/riftbreaker-wiki/docs/game-reflection/classes/pair__entity_mod_type__entity_mod/) > | entity_mods |
+| Container< [Pair_EntityModType_EntityMod](/riftbreaker-wiki/docs/game-reflection/classes/pair__entity_mod_type__entity_mod/) > | entity_mods |
 

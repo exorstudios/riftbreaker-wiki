@@ -12,7 +12,7 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [ResourceValue](/riftbreaker-wiki/docs/game-reflection/classes/resource_value/) | add |
 | [ResourceValue](/riftbreaker-wiki/docs/game-reflection/classes/resource_value/) | amount |
+| [ResourceValue](/riftbreaker-wiki/docs/game-reflection/classes/resource_value/) | add |
 | [ResourceValue](/riftbreaker-wiki/docs/game-reflection/classes/resource_value/) | min |
 

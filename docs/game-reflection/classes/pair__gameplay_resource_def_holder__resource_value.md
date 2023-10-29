@@ -12,6 +12,6 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [ResourceValue](/riftbreaker-wiki/docs/game-reflection/classes/resource_value/) | value |
 | [GameplayResourceDefHolder](/riftbreaker-wiki/docs/game-reflection/components/gameplay_resource_def_holder/) | key |
+| [ResourceValue](/riftbreaker-wiki/docs/game-reflection/classes/resource_value/) | value |
 

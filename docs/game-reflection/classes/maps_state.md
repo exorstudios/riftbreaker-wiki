@@ -12,7 +12,7 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
+| Container< [MapUrl](/riftbreaker-wiki/docs/game-reflection/classes/map_url/) > | missions |
+| Container< [MapUrl](/riftbreaker-wiki/docs/game-reflection/classes/map_url/) > | removed_missions |
 | [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | current_mission |
-| Vector< [MapUrl](/riftbreaker-wiki/docs/game-reflection/classes/map_url/) > | missions |
-| Vector< [MapUrl](/riftbreaker-wiki/docs/game-reflection/classes/map_url/) > | removed_missions |
 

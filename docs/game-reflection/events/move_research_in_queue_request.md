@@ -12,8 +12,8 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
+| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | Research |
 | [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | MoveType |
 | [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | PlayerId |
-| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | Research |
-| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
 

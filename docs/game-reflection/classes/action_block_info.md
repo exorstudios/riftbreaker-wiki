@@ -13,6 +13,6 @@ Description
 | Type | Name |
 |:----------|:--------------|
 | [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | mapper |
-| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | status |
 | [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | action |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | status |
 

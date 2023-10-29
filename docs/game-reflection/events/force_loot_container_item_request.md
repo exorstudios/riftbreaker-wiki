@@ -12,7 +12,7 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | MustHaveRequirement |
-| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | AwardItem |
 | [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | AwardItem |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | MustHaveRequirement |
 

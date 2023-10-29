@@ -12,8 +12,8 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | max |
 | [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | min |
-| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | timer |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | max |
 | [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | speed |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | timer |
 

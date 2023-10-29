@@ -12,7 +12,7 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | GhostBlueprint |
-| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | Blueprint |
 | [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | Blueprint |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | GhostBlueprint |
 

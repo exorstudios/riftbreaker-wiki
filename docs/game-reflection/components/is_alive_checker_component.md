@@ -12,6 +12,6 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [LogicTimer](/riftbreaker-wiki/docs/game-reflection/classes/logic_timer/) | interval |
 | [IdString](/riftbreaker-wiki/docs/game-reflection/components/id_string/) | tag |
+| [LogicTimer](/riftbreaker-wiki/docs/game-reflection/classes/logic_timer/) | interval |
 

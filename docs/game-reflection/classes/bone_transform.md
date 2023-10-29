@@ -12,6 +12,6 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [Transform](/riftbreaker-wiki/docs/game-reflection/classes/transform/) | transform |
 | [short](/riftbreaker-wiki/docs/game-reflection/components/short/) | bone_handle |
+| [Transform](/riftbreaker-wiki/docs/game-reflection/classes/transform/) | transform |
 

@@ -12,7 +12,7 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [uchar](/riftbreaker-wiki/docs/game-reflection/enums/uchar/) | frequency |
-| [uchar](/riftbreaker-wiki/docs/game-reflection/enums/uchar/) | amplitude |
 | [uchar](/riftbreaker-wiki/docs/game-reflection/enums/uchar/) | position |
+| [uchar](/riftbreaker-wiki/docs/game-reflection/enums/uchar/) | amplitude |
+| [uchar](/riftbreaker-wiki/docs/game-reflection/enums/uchar/) | frequency |
 

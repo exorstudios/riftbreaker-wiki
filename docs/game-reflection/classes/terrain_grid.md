@@ -12,11 +12,11 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| Vector< [TerrainCell](/riftbreaker-wiki/docs/game-reflection/classes/terrain_cell/) > | cells |
-| Vector< [uint64](/riftbreaker-wiki/docs/game-reflection/components/uint64/) > | height |
+| Container< [TerrainCell](/riftbreaker-wiki/docs/game-reflection/classes/terrain_cell/) > | cells |
 | [Vector3](/riftbreaker-wiki/docs/game-reflection/classes/vector3/) | minimum |
-| [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | space_idx |
 | [Aabb](/riftbreaker-wiki/docs/game-reflection/components/aabb/) | size |
-| Vector< [uint64](/riftbreaker-wiki/docs/game-reflection/components/uint64/) > | width |
+| Container< [uint64](/riftbreaker-wiki/docs/game-reflection/components/uint64/) > | width |
+| Container< [uint64](/riftbreaker-wiki/docs/game-reflection/components/uint64/) > | height |
 | [uint64](/riftbreaker-wiki/docs/game-reflection/components/uint64/) | cell_size |
+| [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | space_idx |
 

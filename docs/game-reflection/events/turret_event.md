@@ -13,7 +13,7 @@ Description
 | Type | Name |
 |:----------|:--------------|
 | [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | TurretEntity |
-| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | TargetEntity |
 | [uchar](/riftbreaker-wiki/docs/game-reflection/enums/uchar/) | TurretStatus |
+| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | TargetEntity |
 | [IdString](/riftbreaker-wiki/docs/game-reflection/components/id_string/) | TurretName |
 

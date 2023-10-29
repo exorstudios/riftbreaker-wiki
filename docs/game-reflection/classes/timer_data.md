@@ -14,7 +14,7 @@ Description
 |:----------|:--------------|
 | [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | name |
 | [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | initial_time |
-| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | repeat |
-| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | elapsed |
 | [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | timer |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | elapsed |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | repeat |
 

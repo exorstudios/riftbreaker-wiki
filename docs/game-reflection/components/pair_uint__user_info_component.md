@@ -12,6 +12,6 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [UserInfoComponent](/riftbreaker-wiki/docs/game-reflection/components/user_info_component/) | value |
 | [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | key |
+| [UserInfoComponent](/riftbreaker-wiki/docs/game-reflection/components/user_info_component/) | value |
 

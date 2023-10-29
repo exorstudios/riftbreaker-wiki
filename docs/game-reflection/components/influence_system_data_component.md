@@ -12,6 +12,6 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| Vector< [Pair_Entity_InfluenceOwnerInfo](/riftbreaker-wiki/docs/game-reflection/classes/pair__entity__influence_owner_info/) > | influence_owner_info_map |
-| Vector< [Pair_uint_InfluenceInstance](/riftbreaker-wiki/docs/game-reflection/classes/pair_uint__influence_instance/) > | influance_info_map |
+| Container< [Pair_Entity_InfluenceOwnerInfo](/riftbreaker-wiki/docs/game-reflection/classes/pair__entity__influence_owner_info/) > | influence_owner_info_map |
+| Container< [Pair_uint_InfluenceInstance](/riftbreaker-wiki/docs/game-reflection/classes/pair_uint__influence_instance/) > | influance_info_map |
 

@@ -13,11 +13,11 @@ Description
 | Type | Name |
 |:----------|:--------------|
 | [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | name |
-| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | override_material |
-| [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | priority |
-| Vector< [Pair_StringHash_TerrainInfo](/riftbreaker-wiki/docs/game-reflection/classes/pair__string_hash__terrain_info/) > | type_overrides |
-| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | attached |
-| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | resources_allowed |
+| Container< [Pair_StringHash_TerrainInfo](/riftbreaker-wiki/docs/game-reflection/classes/pair__string_hash__terrain_info/) > | type_overrides |
 | [TerrainInfo](/riftbreaker-wiki/docs/game-reflection/classes/terrain_info/) | default |
+| [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | priority |
 | [ushort](/riftbreaker-wiki/docs/game-reflection/enums/ushort/) | icon |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | attached |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | override_material |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | resources_allowed |
 

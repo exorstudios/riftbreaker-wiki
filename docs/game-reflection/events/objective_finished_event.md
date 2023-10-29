@@ -12,7 +12,7 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
+| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
 | [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | ObjectiveId |
 | [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | Status |
-| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
 

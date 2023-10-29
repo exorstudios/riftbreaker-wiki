@@ -13,5 +13,5 @@ Description
 | Type | Name |
 |:----------|:--------------|
 | [IdString](/riftbreaker-wiki/docs/game-reflection/components/id_string/) | material |
-| Vector< [ResourceVolumeGeometryVertex](/riftbreaker-wiki/docs/game-reflection/classes/resource_volume_geometry_vertex/) > | vertices |
+| Container< [ResourceVolumeGeometryVertex](/riftbreaker-wiki/docs/game-reflection/classes/resource_volume_geometry_vertex/) > | vertices |
 

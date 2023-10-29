@@ -12,12 +12,12 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [StatsDataTable](/riftbreaker-wiki/docs/game-reflection/classes/stats_data_table/) | projectile_data |
-| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | ammo_material |
-| [StatsDataTable](/riftbreaker-wiki/docs/game-reflection/classes/stats_data_table/) | weapon_data |
-| [StatRow](/riftbreaker-wiki/docs/game-reflection/classes/stat_row/) | dps |
-| [StatsDataTable](/riftbreaker-wiki/docs/game-reflection/classes/stats_data_table/) | charge_data |
 | [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | visible |
 | [StatsDataTable](/riftbreaker-wiki/docs/game-reflection/classes/stats_data_table/) | damage_data |
+| [StatsDataTable](/riftbreaker-wiki/docs/game-reflection/classes/stats_data_table/) | projectile_data |
+| [StatsDataTable](/riftbreaker-wiki/docs/game-reflection/classes/stats_data_table/) | weapon_data |
 | [StatsDataTable](/riftbreaker-wiki/docs/game-reflection/classes/stats_data_table/) | slots_data |
+| [StatsDataTable](/riftbreaker-wiki/docs/game-reflection/classes/stats_data_table/) | charge_data |
+| [StatRow](/riftbreaker-wiki/docs/game-reflection/classes/stat_row/) | dps |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | ammo_material |
 

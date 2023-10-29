@@ -12,6 +12,6 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| Vector< [Pair_EntityVector3](/riftbreaker-wiki/docs/game-reflection/classes/pair__entity_vector3/) > | Neightbours |
 | [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
+| Container< [Pair_EntityVector3](/riftbreaker-wiki/docs/game-reflection/classes/pair__entity_vector3/) > | Neightbours |
 

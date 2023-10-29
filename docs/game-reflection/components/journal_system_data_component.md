@@ -12,5 +12,5 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| Vector< [JournalEntry](/riftbreaker-wiki/docs/game-reflection/classes/journal_entry/) > | data |
+| Container< [JournalEntry](/riftbreaker-wiki/docs/game-reflection/classes/journal_entry/) > | data |
 

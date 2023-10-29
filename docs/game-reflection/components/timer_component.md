@@ -12,5 +12,5 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| Vector< [TimerData](/riftbreaker-wiki/docs/game-reflection/classes/timer_data/) > | timer_vec |
+| Container< [TimerData](/riftbreaker-wiki/docs/game-reflection/classes/timer_data/) > | timer_vec |
 

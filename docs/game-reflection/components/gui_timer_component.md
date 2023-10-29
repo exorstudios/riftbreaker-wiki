@@ -12,9 +12,9 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | material |
-| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | manual |
-| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | remove_at_end |
-| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | paused |
 | [Timer](/riftbreaker-wiki/docs/game-reflection/classes/timer/) | timer |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | material |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | paused |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | remove_at_end |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | manual |
 

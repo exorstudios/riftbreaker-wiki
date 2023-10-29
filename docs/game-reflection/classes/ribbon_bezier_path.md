@@ -12,5 +12,5 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| Vector< [RibbonBezierCurve](/riftbreaker-wiki/docs/game-reflection/classes/ribbon_bezier_curve/) > | curves |
+| Container< [RibbonBezierCurve](/riftbreaker-wiki/docs/game-reflection/classes/ribbon_bezier_curve/) > | curves |
 

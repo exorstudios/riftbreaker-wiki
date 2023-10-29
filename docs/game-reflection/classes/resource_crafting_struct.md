@@ -13,10 +13,10 @@ Description
 | Type | Name |
 |:----------|:--------------|
 | [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | localization_id |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | icon |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | bigger_icon |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | resource_value |
+| Container< [float](/riftbreaker-wiki/docs/game-reflection/components/float/) > | resource_value_bar |
 | [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | can_afford |
 | [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | allow_overflow |
-| Vector< [float](/riftbreaker-wiki/docs/game-reflection/components/float/) > | resource_value_bar |
-| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | resource_value |
-| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | bigger_icon |
-| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | icon |
 

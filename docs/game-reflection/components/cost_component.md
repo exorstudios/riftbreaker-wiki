@@ -12,7 +12,7 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| Vector< [ResearchCost](/riftbreaker-wiki/docs/game-reflection/classes/research_cost/) > | item_costs |
-| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | is_unique |
 | [ResourceAccount](/riftbreaker-wiki/docs/game-reflection/classes/resource_account/) | account |
+| Container< [ResearchCost](/riftbreaker-wiki/docs/game-reflection/classes/research_cost/) > | item_costs |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | is_unique |
 

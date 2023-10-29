@@ -12,5 +12,5 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| Vector< [TerrainTypeHolder](/riftbreaker-wiki/docs/game-reflection/components/terrain_type_holder/) > | terrain_overrides |
+| Container< [TerrainTypeHolder](/riftbreaker-wiki/docs/game-reflection/components/terrain_type_holder/) > | terrain_overrides |
 

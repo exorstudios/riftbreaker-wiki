@@ -15,8 +15,8 @@ Description
 | [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | material |
 | [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | error_material |
 | [StringHash](/riftbreaker-wiki/docs/game-reflection/classes/string_hash/) | last_material_hash |
-| [uchar](/riftbreaker-wiki/docs/game-reflection/enums/uchar/) | image_view_mode_y |
-| [uchar](/riftbreaker-wiki/docs/game-reflection/enums/uchar/) | image_view_mode_x |
-| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | valid_material |
 | [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | enable_scale_uv |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | valid_material |
+| [uchar](/riftbreaker-wiki/docs/game-reflection/enums/uchar/) | image_view_mode_x |
+| [uchar](/riftbreaker-wiki/docs/game-reflection/enums/uchar/) | image_view_mode_y |
 

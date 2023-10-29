@@ -12,6 +12,6 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [ObjectiveData](/riftbreaker-wiki/docs/game-reflection/classes/objective_data/) | value |
 | [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | key |
+| [ObjectiveData](/riftbreaker-wiki/docs/game-reflection/classes/objective_data/) | value |
 

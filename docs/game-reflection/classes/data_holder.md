@@ -12,7 +12,7 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
+| [uint64](/riftbreaker-wiki/docs/game-reflection/components/uint64/) | data1 |
 | [uint64](/riftbreaker-wiki/docs/game-reflection/components/uint64/) | data2 |
 | [ushort](/riftbreaker-wiki/docs/game-reflection/enums/ushort/) | size |
-| [uint64](/riftbreaker-wiki/docs/game-reflection/components/uint64/) | data1 |
 

@@ -12,7 +12,7 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [Vector3](/riftbreaker-wiki/docs/game-reflection/classes/vector3/) | max |
 | [Vector3](/riftbreaker-wiki/docs/game-reflection/classes/vector3/) | min |
+| [Vector3](/riftbreaker-wiki/docs/game-reflection/classes/vector3/) | max |
 | [Vector3](/riftbreaker-wiki/docs/game-reflection/classes/vector3/) | default |
 

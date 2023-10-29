@@ -12,6 +12,6 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| Vector< [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) > | value |
 | [IdString](/riftbreaker-wiki/docs/game-reflection/components/id_string/) | key |
+| Container< [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) > | value |
 

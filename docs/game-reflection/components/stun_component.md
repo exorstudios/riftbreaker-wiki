@@ -12,7 +12,7 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | last_stun_factor |
 | [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | last_stun_type |
 | [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | reset_stun |
-| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | last_stun_factor |
 

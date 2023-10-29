@@ -12,6 +12,6 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | line_breaking |
 | [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | trimming_mode |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | line_breaking |
 

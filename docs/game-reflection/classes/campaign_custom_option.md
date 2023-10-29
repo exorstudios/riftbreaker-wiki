@@ -12,9 +12,9 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | name |
-| Vector< [String](/riftbreaker-wiki/docs/game-reflection/components/string/) > | values |
-| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | value |
-| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | localization |
 | [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | type |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | name |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | localization |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | value |
+| Container< [String](/riftbreaker-wiki/docs/game-reflection/components/string/) > | values |
 

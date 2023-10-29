@@ -12,5 +12,5 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| Vector< [GuiAnimationDef](/riftbreaker-wiki/docs/game-reflection/classes/gui_animation_def/) > | items |
+| Container< [GuiAnimationDef](/riftbreaker-wiki/docs/game-reflection/classes/gui_animation_def/) > | items |
 

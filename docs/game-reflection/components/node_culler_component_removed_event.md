@@ -12,8 +12,8 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
+| Container< [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) > | NodesIdx |
 | [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | EntityId |
+| Container< [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) > | AirNodesIdx |
 | [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | CostId |
-| Vector< [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) > | NodesIdx |
-| Vector< [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) > | AirNodesIdx |
 

@@ -13,8 +13,8 @@ Description
 | Type | Name |
 |:----------|:--------------|
 | [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | name |
-| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | objective_icon |
 | [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | blueprint |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | objective_icon |
 | [Vector4](/riftbreaker-wiki/docs/game-reflection/classes/vector4/) | color |
 | [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | minimap_icon |
 

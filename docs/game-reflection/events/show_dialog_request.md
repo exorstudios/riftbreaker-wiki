@@ -12,6 +12,6 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [QueueDialogRequest](/riftbreaker-wiki/docs/game-reflection/classes/queue_dialog_request/) | Dialog |
 | [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
+| [QueueDialogRequest](/riftbreaker-wiki/docs/game-reflection/classes/queue_dialog_request/) | Dialog |
 

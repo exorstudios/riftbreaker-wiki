@@ -13,8 +13,8 @@ Description
 | Type | Name |
 |:----------|:--------------|
 | [uchar](/riftbreaker-wiki/docs/game-reflection/enums/uchar/) | team_relation_id |
-| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | max_search_radius |
-| Vector< [TypeId](/riftbreaker-wiki/docs/game-reflection/enums/type_id/) > | priority_target |
-| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | priority_search_radius |
+| Container< [TypeId](/riftbreaker-wiki/docs/game-reflection/enums/type_id/) > | priority_target |
 | [uint64](/riftbreaker-wiki/docs/game-reflection/components/uint64/) | ignore_move_to_type |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | priority_search_radius |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | max_search_radius |
 

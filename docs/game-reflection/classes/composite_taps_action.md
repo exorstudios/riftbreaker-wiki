@@ -12,9 +12,9 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | required_tap_count |
-| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | timer |
-| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | time_limit |
-| [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | tap_count |
 | [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | action |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | time_limit |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | timer |
+| [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | required_tap_count |
+| [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | tap_count |
 

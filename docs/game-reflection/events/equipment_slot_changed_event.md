@@ -12,8 +12,8 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | NewSubSlot |
+| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
 | [IdString](/riftbreaker-wiki/docs/game-reflection/components/id_string/) | Slot |
 | [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | OldSubSlot |
-| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
+| [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | NewSubSlot |
 

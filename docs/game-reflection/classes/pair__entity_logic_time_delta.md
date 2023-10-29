@@ -12,6 +12,6 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [LogicTimeDelta](/riftbreaker-wiki/docs/game-reflection/classes/logic_time_delta/) | second |
 | [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | first |
+| [LogicTimeDelta](/riftbreaker-wiki/docs/game-reflection/classes/logic_time_delta/) | second |
 

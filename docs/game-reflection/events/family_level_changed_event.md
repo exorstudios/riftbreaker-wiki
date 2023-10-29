@@ -12,8 +12,8 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | Subspecies |
-| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | FamilyName |
-| [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | InfoLevel |
 | [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | FamilyName |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | Subspecies |
+| [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | InfoLevel |
 

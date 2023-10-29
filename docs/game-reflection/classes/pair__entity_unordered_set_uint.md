@@ -12,6 +12,6 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| Vector< [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) > | second |
 | [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | first |
+| Container< [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) > | second |
 

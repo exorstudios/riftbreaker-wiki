@@ -12,11 +12,11 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | timer |
 | [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | gravity |
-| [Vector3](/riftbreaker-wiki/docs/game-reflection/classes/vector3/) | velocity |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | current_speed |
+| [Radian](/riftbreaker-wiki/docs/game-reflection/classes/radian/) | angle_turn_rate |
 | [Vector3](/riftbreaker-wiki/docs/game-reflection/classes/vector3/) | target_position |
 | [Vector3](/riftbreaker-wiki/docs/game-reflection/classes/vector3/) | initial_position |
-| [Radian](/riftbreaker-wiki/docs/game-reflection/classes/radian/) | angle_turn_rate |
-| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | timer |
-| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | current_speed |
+| [Vector3](/riftbreaker-wiki/docs/game-reflection/classes/vector3/) | velocity |
 

@@ -12,7 +12,7 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| Vector< [Pair_intEntity](/riftbreaker-wiki/docs/game-reflection/classes/pair_int_entity/) > | links |
-| Vector< [Pair_intEntity](/riftbreaker-wiki/docs/game-reflection/classes/pair_int_entity/) > | to_add |
-| Vector< [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) > | to_remove |
+| Container< [Pair_intEntity](/riftbreaker-wiki/docs/game-reflection/classes/pair_int_entity/) > | to_add |
+| Container< [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) > | to_remove |
+| Container< [Pair_intEntity](/riftbreaker-wiki/docs/game-reflection/classes/pair_int_entity/) > | links |
 

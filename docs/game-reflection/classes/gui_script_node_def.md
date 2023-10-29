@@ -12,6 +12,6 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
+| Container< [GuiScriptNodeDef](/riftbreaker-wiki/docs/game-reflection/classes/gui_script_node_def/) > | children |
 | [GuiScriptCommandDef2](/riftbreaker-wiki/docs/game-reflection/components/gui_script_command_def2/) | cmd |
-| Vector< [GuiScriptNodeDef](/riftbreaker-wiki/docs/game-reflection/classes/gui_script_node_def/) > | children |
 

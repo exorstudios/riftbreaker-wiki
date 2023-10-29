@@ -12,8 +12,8 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
+| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
+| [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | Player |
 | [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | BuildingBlueprint |
 | [Transform](/riftbreaker-wiki/docs/game-reflection/classes/transform/) | Position |
-| [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | Player |
-| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
 

@@ -12,8 +12,8 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
+| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
 | [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | WasSold |
 | [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | BuildingName |
 | [Aabb](/riftbreaker-wiki/docs/game-reflection/components/aabb/) | Bounds |
-| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
 

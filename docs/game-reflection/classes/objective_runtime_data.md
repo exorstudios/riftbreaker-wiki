@@ -12,7 +12,7 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| Vector< [Pair_uint_ObjectiveScript](/riftbreaker-wiki/docs/game-reflection/classes/pair_uint__objective_script/) > | objective_scripts |
+| Container< [Pair_uint_ObjectiveScript](/riftbreaker-wiki/docs/game-reflection/classes/pair_uint__objective_script/) > | objective_scripts |
+| Container< [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) > | to_remove |
 | [World1](/riftbreaker-wiki/docs/game-reflection/components/world1/) | world |
-| Vector< [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) > | to_remove |
 

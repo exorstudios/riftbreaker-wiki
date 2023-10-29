@@ -12,8 +12,8 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | popup_gui_id |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | popup_dialog_msg |
 | [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | popup_confirmation_node |
 | [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | toggle |
-| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | popup_dialog_msg |
-| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | popup_gui_id |
 

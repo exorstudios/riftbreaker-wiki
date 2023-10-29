@@ -12,6 +12,6 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| Vector< [String](/riftbreaker-wiki/docs/game-reflection/components/string/) > | second |
 | [Timer](/riftbreaker-wiki/docs/game-reflection/classes/timer/) | first |
+| Container< [String](/riftbreaker-wiki/docs/game-reflection/components/string/) > | second |
 

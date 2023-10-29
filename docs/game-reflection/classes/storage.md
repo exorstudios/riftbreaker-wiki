@@ -12,11 +12,11 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | distribution_radius |
-| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | max |
-| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | long_range_connect |
-| [uchar](/riftbreaker-wiki/docs/game-reflection/enums/uchar/) | group |
 | [GameplayResourceDefHolder](/riftbreaker-wiki/docs/game-reflection/components/gameplay_resource_def_holder/) | resource |
+| [uchar](/riftbreaker-wiki/docs/game-reflection/enums/uchar/) | group |
 | [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | subgroup |
-| Vector< [String](/riftbreaker-wiki/docs/game-reflection/components/string/) > | attachment |
+| Container< [String](/riftbreaker-wiki/docs/game-reflection/components/string/) > | attachment |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | max |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | distribution_radius |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | long_range_connect |
 

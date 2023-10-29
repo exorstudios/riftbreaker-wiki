@@ -14,6 +14,6 @@ Description
 |:----------|:--------------|
 | [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | power_frequency |
 | [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | power_max |
-| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | radius |
 | [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | power_min |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | radius |
 

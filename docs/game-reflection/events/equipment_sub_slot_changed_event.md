@@ -12,8 +12,8 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | Slot |
-| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Item |
-| [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | SubSlot |
 | [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
+| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Item |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | Slot |
+| [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | SubSlot |
 

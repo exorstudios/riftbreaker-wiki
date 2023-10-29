@@ -12,8 +12,8 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
+| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
 | [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | Content |
 | [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | Icon |
 | [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | style |
-| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
 

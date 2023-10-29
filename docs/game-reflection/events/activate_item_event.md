@@ -12,8 +12,8 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | ItemType |
 | [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Owner |
-| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | ItemName |
 | [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Item |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | ItemName |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | ItemType |
 

@@ -12,6 +12,6 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | ref_value |
 | [uchar](/riftbreaker-wiki/docs/game-reflection/enums/uchar/) | compare_operator |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | ref_value |
 

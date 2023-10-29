@@ -12,6 +12,6 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | self_id |
 | [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | finished |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | self_id |
 

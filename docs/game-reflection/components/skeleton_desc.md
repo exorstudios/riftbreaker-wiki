@@ -12,6 +12,6 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
+| Container< [BoneTransform](/riftbreaker-wiki/docs/game-reflection/classes/bone_transform/) > | bone_transforms |
 | [IdString](/riftbreaker-wiki/docs/game-reflection/components/id_string/) | name |
-| Vector< [BoneTransform](/riftbreaker-wiki/docs/game-reflection/classes/bone_transform/) > | bone_transforms |
 

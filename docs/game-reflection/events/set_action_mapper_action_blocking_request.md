@@ -12,8 +12,8 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
+| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
 | [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | Action |
 | [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | Blocking |
 | [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | MapperName |
-| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
 

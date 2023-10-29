@@ -12,6 +12,6 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| Vector< [String](/riftbreaker-wiki/docs/game-reflection/components/string/) > | unlocked_items |
-| Vector< [String](/riftbreaker-wiki/docs/game-reflection/components/string/) > | unlocked_buildings |
+| Container< [String](/riftbreaker-wiki/docs/game-reflection/components/string/) > | unlocked_items |
+| Container< [String](/riftbreaker-wiki/docs/game-reflection/components/string/) > | unlocked_buildings |
 

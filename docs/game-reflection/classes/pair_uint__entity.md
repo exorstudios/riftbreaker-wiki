@@ -12,6 +12,6 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | value |
 | [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | key |
+| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | value |
 

@@ -12,7 +12,7 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| Vector< [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) > | player_respawn_queue |
-| Vector< [DestroyRequest](/riftbreaker-wiki/docs/game-reflection/events/destroy_request/) > | pawn_destroy_queue |
+| Container< [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) > | player_respawn_queue |
+| Container< [DestroyRequest](/riftbreaker-wiki/docs/game-reflection/events/destroy_request/) > | pawn_destroy_queue |
 | [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | scheduled_respawn |
 

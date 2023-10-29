@@ -12,7 +12,7 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
+| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
 | [Vector3](/riftbreaker-wiki/docs/game-reflection/classes/vector3/) | Direction |
 | [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | Impulse |
-| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
 

@@ -12,7 +12,7 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| Vector< [Pair_uint_UserInfoComponent](/riftbreaker-wiki/docs/game-reflection/components/pair_uint__user_info_component/) > | UserMap |
-| Vector< [Pair_uint_PlayerInfo](/riftbreaker-wiki/docs/game-reflection/classes/pair_uint__player_info/) > | PlayerMap |
 | [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
+| Container< [Pair_uint_PlayerInfo](/riftbreaker-wiki/docs/game-reflection/classes/pair_uint__player_info/) > | PlayerMap |
+| Container< [Pair_uint_UserInfoComponent](/riftbreaker-wiki/docs/game-reflection/components/pair_uint__user_info_component/) > | UserMap |
 

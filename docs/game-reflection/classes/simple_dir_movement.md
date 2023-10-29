@@ -12,9 +12,9 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [Vector3](/riftbreaker-wiki/docs/game-reflection/classes/vector3/) | velocity |
-| [Vector3](/riftbreaker-wiki/docs/game-reflection/classes/vector3/) | dir |
-| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | acceleration |
-| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | max_speed |
 | [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | current_speed |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | max_speed |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | acceleration |
+| [Vector3](/riftbreaker-wiki/docs/game-reflection/classes/vector3/) | dir |
+| [Vector3](/riftbreaker-wiki/docs/game-reflection/classes/vector3/) | velocity |
 

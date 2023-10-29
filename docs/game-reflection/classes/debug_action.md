@@ -13,6 +13,6 @@ Description
 | Type | Name |
 |:----------|:--------------|
 | [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | localization |
-| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | filter_match |
 | [uint64](/riftbreaker-wiki/docs/game-reflection/components/uint64/) | count |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | filter_match |
 

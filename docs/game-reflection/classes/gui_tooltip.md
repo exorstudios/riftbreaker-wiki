@@ -12,9 +12,9 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | attachment_path |
 | [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | gui_id |
-| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | fit_to_screen |
 | [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | template |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | attachment_path |
 | [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | placement_mode |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | fit_to_screen |
 

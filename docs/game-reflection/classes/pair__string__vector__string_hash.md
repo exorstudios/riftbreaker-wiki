@@ -12,6 +12,6 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| Vector< [StringHash](/riftbreaker-wiki/docs/game-reflection/classes/string_hash/) > | value |
 | [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | key |
+| Container< [StringHash](/riftbreaker-wiki/docs/game-reflection/classes/string_hash/) > | value |
 

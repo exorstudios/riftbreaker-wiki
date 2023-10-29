@@ -12,8 +12,8 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
+| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | Tag |
 | [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | Radius |
 | [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | CenterTag |
-| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | Tag |
-| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
 

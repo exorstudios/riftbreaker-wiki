@@ -12,7 +12,7 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | mirror |
 | [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | anim_name |
 | [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | time |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | mirror |
 

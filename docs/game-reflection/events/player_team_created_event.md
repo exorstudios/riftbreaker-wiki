@@ -12,6 +12,6 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [TeamId](/riftbreaker-wiki/docs/game-reflection/classes/team_id/) | TeamId |
 | [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
+| [TeamId](/riftbreaker-wiki/docs/game-reflection/classes/team_id/) | TeamId |
 

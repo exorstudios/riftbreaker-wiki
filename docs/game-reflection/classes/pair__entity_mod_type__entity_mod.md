@@ -12,6 +12,6 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [EntityMod](/riftbreaker-wiki/docs/game-reflection/classes/entity_mod/) | value |
 | [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | key |
+| [EntityMod](/riftbreaker-wiki/docs/game-reflection/classes/entity_mod/) | value |
 

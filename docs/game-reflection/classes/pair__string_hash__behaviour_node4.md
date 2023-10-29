@@ -12,6 +12,6 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [BehaviourNode4](/riftbreaker-wiki/docs/game-reflection/components/behaviour_node4/) | value |
 | [StringHash](/riftbreaker-wiki/docs/game-reflection/classes/string_hash/) | key |
+| [BehaviourNode4](/riftbreaker-wiki/docs/game-reflection/components/behaviour_node4/) | value |
 

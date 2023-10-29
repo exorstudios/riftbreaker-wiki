@@ -12,6 +12,6 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | texture_strech |
 | [GuiPolylineDefAbstract](/riftbreaker-wiki/docs/game-reflection/classes/gui_polyline_def_abstract/) | polyline |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | texture_strech |
 

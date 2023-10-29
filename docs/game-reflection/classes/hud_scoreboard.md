@@ -12,8 +12,8 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| Vector< [ScoreboardPlayerInfo](/riftbreaker-wiki/docs/game-reflection/classes/scoreboard_player_info/) > | players |
-| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | score_limit |
-| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | time_limit |
+| Container< [ScoreboardPlayerInfo](/riftbreaker-wiki/docs/game-reflection/classes/scoreboard_player_info/) > | players |
 | [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | limit |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | time_limit |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | score_limit |
 

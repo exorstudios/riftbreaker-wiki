@@ -12,6 +12,6 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | activated |
 | [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | activate_once |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | activated |
 

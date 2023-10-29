@@ -13,7 +13,7 @@ Description
 | Type | Name |
 |:----------|:--------------|
 | [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | entity |
-| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | unpack_children |
 | [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | blueprint_name |
-| Vector< [String](/riftbreaker-wiki/docs/game-reflection/components/string/) > | components_to_unpack |
+| Container< [String](/riftbreaker-wiki/docs/game-reflection/components/string/) > | components_to_unpack |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | unpack_children |
 

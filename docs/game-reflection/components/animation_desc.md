@@ -12,5 +12,5 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| Vector< [Anim](/riftbreaker-wiki/docs/game-reflection/classes/anim/) > | animations |
+| Container< [Anim](/riftbreaker-wiki/docs/game-reflection/classes/anim/) > | animations |
 

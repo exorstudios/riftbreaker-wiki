@@ -14,5 +14,5 @@ Description
 |:----------|:--------------|
 | [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | name |
 | [ChunkIndex](/riftbreaker-wiki/docs/game-reflection/classes/chunk_index/) | index |
-| Vector< [TerrainVertex](/riftbreaker-wiki/docs/game-reflection/classes/terrain_vertex/) > | vertices |
+| Container< [TerrainVertex](/riftbreaker-wiki/docs/game-reflection/classes/terrain_vertex/) > | vertices |
 

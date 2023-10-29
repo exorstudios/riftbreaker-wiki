@@ -12,5 +12,5 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| Vector< [Pair_IdString_float](/riftbreaker-wiki/docs/game-reflection/classes/pair__id_string_float/) > | materials |
+| Container< [Pair_IdString_float](/riftbreaker-wiki/docs/game-reflection/classes/pair__id_string_float/) > | materials |
 

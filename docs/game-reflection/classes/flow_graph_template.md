@@ -12,7 +12,7 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| Vector< [Pair_String_Vector_String](/riftbreaker-wiki/docs/game-reflection/classes/pair__string__vector__string/) > | GraphConnections |
-| Vector< [FlowGraphNode](/riftbreaker-wiki/docs/game-reflection/classes/flow_graph_node/) > | GraphNodes |
+| Container< [FlowGraphNode](/riftbreaker-wiki/docs/game-reflection/classes/flow_graph_node/) > | GraphNodes |
+| Container< [Pair_String_Vector_String](/riftbreaker-wiki/docs/game-reflection/classes/pair__string__vector__string/) > | GraphConnections |
 | [uint64](/riftbreaker-wiki/docs/game-reflection/components/uint64/) | version |
 

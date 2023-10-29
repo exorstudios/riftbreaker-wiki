@@ -12,8 +12,8 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
+| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | Name |
 | [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | Template |
 | [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | StartPoint |
-| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | Name |
-| [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
 

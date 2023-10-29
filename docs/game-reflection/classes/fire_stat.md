@@ -12,7 +12,7 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | fire_columns |
 | [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | fire_rate |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | fire_columns |
 | [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | fire_rows |
 

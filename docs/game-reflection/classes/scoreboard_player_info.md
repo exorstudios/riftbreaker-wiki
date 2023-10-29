@@ -12,10 +12,10 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | icon |
 | [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | name |
-| [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | rank |
+| [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | deaths |
 | [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | score |
 | [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | ping |
-| [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | deaths |
-| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | icon |
+| [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | rank |
 

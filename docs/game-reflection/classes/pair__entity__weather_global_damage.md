@@ -12,6 +12,6 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [WeatherGlobalDamage](/riftbreaker-wiki/docs/game-reflection/classes/weather_global_damage/) | value |
 | [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | key |
+| [WeatherGlobalDamage](/riftbreaker-wiki/docs/game-reflection/classes/weather_global_damage/) | value |
 

@@ -13,6 +13,6 @@ Description
 | Type | Name |
 |:----------|:--------------|
 | [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Owner |
-| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | Forced |
 | [IdString](/riftbreaker-wiki/docs/game-reflection/components/id_string/) | SlotId |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | Forced |
 

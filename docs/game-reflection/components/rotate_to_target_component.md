@@ -12,6 +12,6 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [uchar](/riftbreaker-wiki/docs/game-reflection/enums/uchar/) | projection_plane |
 | [Radian](/riftbreaker-wiki/docs/game-reflection/classes/radian/) | angular_speed |
+| [uchar](/riftbreaker-wiki/docs/game-reflection/enums/uchar/) | projection_plane |
 

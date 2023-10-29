@@ -12,9 +12,9 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | range_min |
 | [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | range_max |
 | [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | aiming_range |
-| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | angle_max |
-| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | range_min |
 | [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | angle_min |
+| [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | angle_max |
 

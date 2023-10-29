@@ -12,7 +12,7 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [ResourceBasket](/riftbreaker-wiki/docs/game-reflection/classes/resource_basket/) | outcome |
 | [ResourceBasket](/riftbreaker-wiki/docs/game-reflection/classes/resource_basket/) | income |
+| [ResourceBasket](/riftbreaker-wiki/docs/game-reflection/classes/resource_basket/) | outcome |
 | [ResourceAccount](/riftbreaker-wiki/docs/game-reflection/classes/resource_account/) | storage |
 

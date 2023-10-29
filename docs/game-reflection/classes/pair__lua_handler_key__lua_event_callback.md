@@ -12,6 +12,6 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [LuaEventCallback](/riftbreaker-wiki/docs/game-reflection/classes/lua_event_callback/) | value |
 | [LuaHandlerKey](/riftbreaker-wiki/docs/game-reflection/classes/lua_handler_key/) | key |
+| [LuaEventCallback](/riftbreaker-wiki/docs/game-reflection/classes/lua_event_callback/) | value |
 

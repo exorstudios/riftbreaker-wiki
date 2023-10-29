@@ -12,9 +12,9 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | ForceSpawn |
-| [PlayerInfo](/riftbreaker-wiki/docs/game-reflection/classes/player_info/) | PlayerInfo |
-| Vector< [TypeAny](/riftbreaker-wiki/docs/game-reflection/components/type_any/) > | CustomData |
-| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | IsNetworkClient |
 | [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
+| [PlayerInfo](/riftbreaker-wiki/docs/game-reflection/classes/player_info/) | PlayerInfo |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | ForceSpawn |
+| [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | IsNetworkClient |
+| Container< [TypeAny](/riftbreaker-wiki/docs/game-reflection/components/type_any/) > | CustomData |
 

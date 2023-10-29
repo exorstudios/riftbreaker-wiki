@@ -13,6 +13,6 @@ Description
 | Type | Name |
 |:----------|:--------------|
 | [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | radius |
-| Vector< [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) > | marked_cells |
 | [Vector3](/riftbreaker-wiki/docs/game-reflection/classes/vector3/) | marked_position |
+| Container< [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) > | marked_cells |
 

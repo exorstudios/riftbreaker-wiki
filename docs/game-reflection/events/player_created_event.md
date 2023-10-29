@@ -12,7 +12,7 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [PlayerInfo](/riftbreaker-wiki/docs/game-reflection/classes/player_info/) | PlayerInfo |
-| [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | PlayerId |
 | [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
+| [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | PlayerId |
+| [PlayerInfo](/riftbreaker-wiki/docs/game-reflection/classes/player_info/) | PlayerInfo |
 

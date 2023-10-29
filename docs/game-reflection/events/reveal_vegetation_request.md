@@ -12,6 +12,6 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [Aabb](/riftbreaker-wiki/docs/game-reflection/components/aabb/) | Bounds |
 | [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
+| [Aabb](/riftbreaker-wiki/docs/game-reflection/components/aabb/) | Bounds |
 

@@ -13,7 +13,7 @@ Description
 | Type | Name |
 |:----------|:--------------|
 | [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | parent |
-| Vector< [String](/riftbreaker-wiki/docs/game-reflection/components/string/) > | component_name_vec |
-| [Transform](/riftbreaker-wiki/docs/game-reflection/classes/transform/) | transform |
 | [StringHash](/riftbreaker-wiki/docs/game-reflection/classes/string_hash/) | attachment |
+| [Transform](/riftbreaker-wiki/docs/game-reflection/classes/transform/) | transform |
+| Container< [String](/riftbreaker-wiki/docs/game-reflection/components/string/) > | component_name_vec |
 

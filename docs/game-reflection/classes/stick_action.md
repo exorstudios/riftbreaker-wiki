@@ -12,7 +12,7 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | axis |
 | [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | stick_no |
+| [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | axis |
 | [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | action |
 

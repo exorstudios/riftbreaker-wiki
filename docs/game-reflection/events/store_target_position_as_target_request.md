@@ -12,7 +12,7 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | DstTag |
-| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | SrcTag |
 | [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | SrcTag |
+| [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | DstTag |
 

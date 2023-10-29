@@ -13,6 +13,6 @@ Description
 | Type | Name |
 |:----------|:--------------|
 | [StringHash](/riftbreaker-wiki/docs/game-reflection/classes/string_hash/) | chain_destination |
-| [StringHash](/riftbreaker-wiki/docs/game-reflection/classes/string_hash/) | chain_data |
 | [StringHash](/riftbreaker-wiki/docs/game-reflection/classes/string_hash/) | chain_handle |
+| [StringHash](/riftbreaker-wiki/docs/game-reflection/classes/string_hash/) | chain_data |
 

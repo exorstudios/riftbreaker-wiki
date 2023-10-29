@@ -12,8 +12,8 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | mapper_type_hash |
 | [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | name |
+| [uint](/riftbreaker-wiki/docs/game-reflection/components/uint/) | mapper_type_hash |
 | [int](/riftbreaker-wiki/docs/game-reflection/enums/int/) | priority |
 | [bool](/riftbreaker-wiki/docs/game-reflection/components/bool/) | enabled |
 

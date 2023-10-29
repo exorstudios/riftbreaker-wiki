@@ -12,7 +12,7 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| Vector< [Pair_String_float](/riftbreaker-wiki/docs/game-reflection/classes/pair__string_float/) > | building_cost |
 | [String](/riftbreaker-wiki/docs/game-reflection/components/string/) | name |
 | [float](/riftbreaker-wiki/docs/game-reflection/components/float/) | building_time |
+| Container< [Pair_String_float](/riftbreaker-wiki/docs/game-reflection/classes/pair__string_float/) > | building_cost |
 

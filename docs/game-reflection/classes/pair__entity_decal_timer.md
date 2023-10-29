@@ -12,6 +12,6 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [DecalTimer](/riftbreaker-wiki/docs/game-reflection/classes/decal_timer/) | second |
 | [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | first |
+| [DecalTimer](/riftbreaker-wiki/docs/game-reflection/classes/decal_timer/) | second |
 

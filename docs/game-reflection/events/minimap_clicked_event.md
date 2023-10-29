@@ -12,7 +12,7 @@ Description
 
 | Type | Name |
 |:----------|:--------------|
-| [uchar](/riftbreaker-wiki/docs/game-reflection/enums/uchar/) | MinimapType |
-| [Vector3](/riftbreaker-wiki/docs/game-reflection/classes/vector3/) | WorldPosition |
 | [Entity](/riftbreaker-wiki/docs/game-reflection/classes/entity/) | Entity |
+| [Vector3](/riftbreaker-wiki/docs/game-reflection/classes/vector3/) | WorldPosition |
+| [uchar](/riftbreaker-wiki/docs/game-reflection/enums/uchar/) | MinimapType |
 
