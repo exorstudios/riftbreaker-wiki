@@ -2,7 +2,7 @@
 layout: default
 title: Event class
 parent: Misc
-nav_order: 2
+nav_order: 3
 ---
 
 # Information
