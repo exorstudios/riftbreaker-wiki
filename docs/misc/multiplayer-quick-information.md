@@ -48,6 +48,9 @@ CampaignService:ChangeCurrentMission( newMissionName )
 To change the game mode name which appears at the top of the multiplayer settings page,  
 edit the file `\gui\00_multiplayer_dm_localizations.csv`
 
+{: .highlight }
+To remove the name box completely, have no localization in `\gui\00_multiplayer_dm_localizations.csv`
+
 ## Multiplayer change game mode picture
 To change the game mode picture which appears at the top of the multiplayer settings page,  
 edit the file `\campaigns\mp_deathmatch.campaign`  
@@ -63,7 +66,7 @@ material gui/menu/campaign_prev/gungame_prev : gui/default
 Place the new game mode picture in the folder `\materials\textures\gui\menu\biomes_prev`, use the same filename as in the material file.  
 
 {: .highlight }
-A picture dimension of 710x150 is recommended.
+A picture dimension of 710x150 is recommended
 
 
 ## Multiplayer slider settings
