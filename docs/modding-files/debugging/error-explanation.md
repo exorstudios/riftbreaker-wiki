@@ -26,4 +26,20 @@ Errors are found in the log files - you can find them in
         <th>Note </th>
         <td>Each texture (even gui) requires a material file</td>
     </tr>
+    <tr>
+        <th>--</th>
+        <td>--</td>
+    </tr>
+    <tr>
+        <th>Error</th>
+        <td>MeshComponent.cpp:308 - Error : Overriden Material is not exist!</td>
+    </tr>
+    <tr>
+        <th>Explanation</th>
+        <td>Missing material file or material file entry</td>
+    </tr>
+    <tr>
+        <th>Note </th>
+        <td>Check if a material file exists in `material > scripts` and if it contains the textures for this entity</td>
+    </tr>
 </table>
