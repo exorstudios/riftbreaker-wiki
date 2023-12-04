@@ -2,7 +2,7 @@
 layout: default
 title: Survival mode
 nav_order: 2
-parent: game-flow
+parent: Game flow
 grand_parent: Topics
 ---
 

@@ -9,5 +9,5 @@ parent: Topics
 # {{ page.title }}
 
 
-An overview of pages related to modding of {{ page.title }}
+An overview of pages related to the modding of {{ page.title }}
 {: .fs-6 .fw-300 }
