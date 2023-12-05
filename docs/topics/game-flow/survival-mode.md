@@ -71,5 +71,5 @@ The waves are **not** triggered by some supervising logic file.
 ## DOM start
 ![](../../../../assets/images/game-flow_survival.png)
 
-## DOM eND
+## DOM end
 ![](../../../../assets/images/game-flow_survival_end.png)
