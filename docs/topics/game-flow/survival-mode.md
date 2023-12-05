@@ -47,7 +47,7 @@ Now that the basic functionalities have been explained, we can list a flow of an
 3. That file can be found as `missions/survival/jungle.mission`
 4. In this file it points to the mission startup script:  
 `script          "lua/missions/survival/survival_jungle.lua"`
-5. Inside the `survival_jungle.lua` it activates the initial mission `.logic` file with
+5. Inside the `survival_jungle.lua` it activates the initial mission `.logic` file with:
 ```lua
 MissionService:ActivateMissionFlow("", "logic/missions/survival/default.logic", "default", database )
 ```
@@ -57,15 +57,19 @@ local rulesPath = GetRulesForDifficulty( "lua/missions/survival/v2/dom_survival_
 MissionService:AddGameRule( "lua/missions/v2/dom_manager.lua", rulesPath )
 ```
 7. The mission flow of `logic/missions/survival/default.logic` activates the  
-`logic/missions/survival/warmup.logic` file - it's just a bit of custom logic that didn't fit the DOM architecture
+`logic/missions/survival/warmup.logic` file - a bit of custom logic that didn't fit DOM architecture
 8. After the `warmup.logic` is complete, it activates the DOM which then handles the match waves
 9. DOM starts by looking at the default dom rules file - other difficulty specific files derive from it and simply overload the data from the default script:  
-\lua\missions\survival\v2\dom_survival_jungle_rules_default.lua`
+`\lua\missions\survival\v2\dom_survival_jungle_rules_default.lua`
 10. After the survival time is over, the DOM is deactivated again and a custom final wave logic is triggered, as found in the `logic/missions/survival/default.logic`  
   
-# default.logic
-## Start
+{: .highlight}
+It's important to understand that the DOM manages the attack waves by pre-defined logic files.  
+The waves are **not** triggered by some supervising logic file.
+
+# default.logic overview
+## DOM start
 ![](../../../../assets/images/game-flow_survival.png)
 
-## END
+## DOM eND
 ![](../../../../assets/images/game-flow_survival_end.png)
